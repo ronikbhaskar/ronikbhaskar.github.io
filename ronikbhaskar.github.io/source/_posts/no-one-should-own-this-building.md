@@ -6,7 +6,7 @@ tags:
 
 <img src="/images/cleaned_ai_generated_church.png" alt="AI rendering of a domed church.">
 
-*Disclaimer: while there are references to true events and people in this story, the majority of these events and characters are heavily fictionalized. Do not trust any of this as a factual source. The drawing above was generated with AI and is not intended to reflect any building, real or fictional.*
+*Disclaimer: while there are references to true events and people in this story, the majority of these events and characters are heavily fictionalized. Do not trust any of this as a factual source. The drawing above is AI-generated.*
 
 ## Chapter 1: Gus Antoniou
 
