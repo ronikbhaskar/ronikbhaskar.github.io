@@ -1,0 +1,85 @@
+
+# html lang
+language: en
+
+# header
+site_brand_name: Ronik Bhaskar
+
+logo_image:
+  enable: true
+  image_path: /base_logo_black.png # path to your logo image
+
+menu:
+  Home: /
+  Archives: /archives/
+  Projects: /projects/
+  About: /about/
+
+# stylesheets loaded in the <head>
+stylesheets:
+- /css/style.css
+
+# scripts loaded in the end of the body
+# scripts:
+# - /js/frame.js
+
+# favicon
+favicon: /base_logo_black_white_circle.ico
+
+date_format: MMMM Do, YYYY
+
+# profile
+profile:
+  title: Ronik Bhaskar 
+  body: A maker and student of life sharing his journey with the world.
+  image: /profile.gif
+
+  links:
+    Projects: /projects/
+    Archives: /archives/
+    GitHub: https://github.com/ronikbhaskar
+    What's that strange, sphere thing?: /projects/math-art
+
+# footer
+footer:
+  copyright_info:
+    enable: true
+    author: © Ronik Bhaskar, 2022
+
+  powered_by: # Powered by Hexo & Frame
+    enable: false
+
+  other_info:
+    enable: false
+    content: 
+
+# color mode: default / classic / dark
+color_mode: classic
+
+# mathjax setting
+# note: need to install the hexo plugin for math: https://github.com/hexojs/hexo-math
+mathjax_enable: true
+
+# comments: support disqus and valine
+valine: # valine setup guide: https://valine.js.org/quickstart.html
+  enable: false
+  appId: # Your valine app Id
+  appKey: # Your valine app Key
+  lang: 'en'
+  placeholder: 'Say something'
+  avatar: 'mp'
+  meta: ['nick', 'mail']
+
+disqus: # disqus setup guide: https://help.disqus.com/en/articles/1717056-publisher-quick-start-guide
+  enable: false
+  disqus_url: # your diqsuq url or shortname
+  language: 'en'
+
+# local search
+local_search:
+  enable: true
+  place_holder: Search Anything
+  trigger: auto # auto: trigger search whenever input changes
+  top_n_per_article: 1 # show top n results per article, show all results by setting to -1
+  unescape: false # unescape html strings to the readable one
+  preload: false # reload the search data when the page loads, this will accelerate the search process
