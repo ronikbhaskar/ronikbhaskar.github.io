@@ -62,11 +62,11 @@ A computer science YouTube channel by the name PwnFunction found a way to predic
 
 Countless engineers and mathematicians have devised ways for your computer to generate random numbers. Unfortunately, generating a random number means you have a formula, so it's not random anymore. Instead, these are called pseudorandom numbers. Using the current time and a formula, the computer generates a starting "seed." This seed is then used to generate the next seed without the use of the current time. This seed generates the next seed, and so on. Eventually, the cycle loops back all the way to the beginning:
 
-$$1 \rightarrow 2 \rightarrow 3 \rightarrow \cdots \righarrow 100 \rightarrow 1 $$
+$$1 \rightarrow 2 \rightarrow 3 \rightarrow \cdots \rightarrow 100 \rightarrow 1 $$
 
 In the example above, the seeds increase by one every time until they reach 100, and they begin again. Not very "random." Typically, the formula for generating the next seed isn't that straightforward. This leads you to sequences that look like
 
-$$ \rightarrow 2162 \righarrow 4843 \rightarrow 9140 \rightarrow 3577 \rightarrow 8951 \rightarrow $$
+$$ \rightarrow 2162 \rightarrow 4843 \rightarrow 9140 \rightarrow 3577 \rightarrow 8951 \rightarrow $$
 
 except instead of 4 digit numbers, they use 10 digit numbers. They look random, but they can be predicted if you know the previous random number and the formula. That's what makes them pseudorandom.
 
@@ -77,6 +77,8 @@ Left undefended, poorly designed "random" number generators make for fantastic a
 Throughout the rest of this series, I will explore ways to generate random numbers to figure out which one is right for you. From the epitome of elegance to bleeding-edge technology, these episodes will cover the human pursuit of true randomness.
 
 ---
+
+## References
 
 1. [Monaco used Francs in 1913](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000339269/)
 2. [Landing Heads 10 Times in a Row (Video of Dr. James Grime)](https://www.youtube.com/watch?v=rwvIGNXY21Y)
