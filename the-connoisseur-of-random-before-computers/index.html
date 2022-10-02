@@ -32,7 +32,7 @@
     </script>
     <script async src="https://api.countapi.xyz/hit/ronikbhaskar.github.io/visits?callback=cb"></script>
 
-<title>Ex Libris: Gadsby (not The Great Gatsby) | Ronik Bhaskar</title>
+<title>The Connoisseur of Random: Before Computers | Ronik Bhaskar</title>
 
 
 
@@ -153,12 +153,12 @@
         <div class="post-title">
             
             
-                Ex Libris: Gadsby (not The Great Gatsby)
+                The Connoisseur of Random: Before Computers
             
             
         </div>
         <span class="post-date">
-            September 24th, 2022
+            October 1st, 2022
         </span>
     </div>
     <div class="post-img">
@@ -168,14 +168,21 @@
     </div>
 </div>
     <div class="post-content">
-    <p>IMPORTANT: This is about the book <em>Gadsby</em> By Ernest Vincent Wright, not <em>The Great Gatsby</em> by F. Scott Fitzgerald. </p>
-<p>Legend says a man once ripped a piece of twine, tied down the E key on his typewriter, and proceeded to write a 50,000 word novel without the letter E. Original copies of his literary masterpiece now sell for thousands of dollars. He assured his own rise to fame, and everything went smoothly until someone opened his book.</p>
-<h2 id="Gimmicks-Can’t-Save-Bad-Writing"><a href="#Gimmicks-Can’t-Save-Bad-Writing" class="headerlink" title="Gimmicks Can’t Save Bad Writing"></a>Gimmicks Can’t Save Bad Writing</h2><p>Lipograms are a form of constrained writing where the author avoids using one or more particular letters in the piece. While the gimmick entertains audiences, the piece must still be worth reading. The author can get away with less meaningful work, since purpose is contained in the style, but no amount of dropping letters alone makes literature worth reading.</p>
-<p>Typically, a story resolves near the end. Instead, Wright wrote <em>Gadsby</em> like a drawn-out sitcom. After resolving the issue in roughly 10 chapters, he proceeds with 30 more chapters that all revolve around everyone being happy, with no major conflicts ever presented afterwards. Kids grow up and get married. A man that has never worked in politics becomes the mayor with little hassle. A zoo magically opens. Almost every chapter presents a neat and tidy event ending with celebrations from everyone, and Wright could easily end the story there, but he doesn’t, so the book drags on, and the only reason you’re still reading is because you want it to end.</p>
-<p>Applying any amount of critical theory, feminists will have an absolute field day exploring the infinite ways Wright seems to bring up gender norms. Every other chapter finds a way to assert the backwards notions of women necessarily being small and weak and good at cooking and taking care of children while the men are big and strong and good at building. Some may argue Wright’s use of gender roles is expected, since this book was written in the 1930s. With historical context and the advent of World War II, attributing women’s value to having small statures and delicate hands and homemaking was incredibly backwards, with countless women working industrial jobs during the period of wartime economy.</p>
-<p>As if that wasn’t enough, Wright’s inflated ego shows through in his writing. Naturally, Wright is the first-person narrator, depicted as a historian describing the town. Despite separating himself from the events of the story as this all-seeing onlooker, his frequent interjections make you wonder if he’s too convinced of his own story. For example, in chapter VII, he makes a disturbing quip about passing up kissing a snake to instead kiss Lucy, a fictitious child, while he is still the adult historian describing the story.</p>
-<h2 id="The-Failed-Lipogram"><a href="#The-Failed-Lipogram" class="headerlink" title="The Failed Lipogram"></a>The Failed Lipogram</h2><p>I pushed through the book, hoping to gain some linguistic insights. While I give Wright mild credit for calling flowers “blossoming plants” and turkey “Thanksgiving National Bird,” I cannot forgive his egregious errors. Despite Wright’s claims of not using the letter E, the original publication contains three instances of the word “the” and one instance of the word “officers,” totaling 4 E’s in the body of the text.</p>
-<p>Historical records describe Wright’s attempts at publishing all failing, and he had to turn to self-publishing through Wetzel Publishing Co. After reading this book, I finally understand why. Gimmicks won’t save your story, and twine won’t hold down your typewriter’s E key.</p>
+    <p>As we discussed last time, computers aren’t great at generating truly random numbers. Can you do any better? You have plenty of practice generating random numbers, I can promise you that, as long as you’ve played a few board games.</p>
+<p>Dice. Roll one to get a random number. Roll a few and add them together to get bigger numbers. So many board games rely on you generating random numbers to make the game enjoyable. Will you pass go or will you go bankrupt on Boardwalk? Will you climb a ladder or slide down a snake? It all depends on how the dice roll.</p>
+<p>In 1890 Francis Galton saw the power of using dice in statistics, creating a special set of dice for statistical experiments. He argued that shaking dice in a bag and taking them out with your eyes closed was sufficiently random for this random sampling technique.</p>
+<p>Dice are great, but no one has time to sit around, rolling dice hundreds of times to get random numbers. In the early-mid 1900s, scientists began developing better mechanical techniques, like using electronic “roulette wheels.” They generated some binary digits (0s and 1s) and converted the number to decimal. Using this technique, Project RAND turned into the RAND Corporation, selling books of one million random digits. The book still sells for roughly 70 USD. While their analyses of random digits looked usable for the most part, there were some issues with the odd-even distribution, and they made some strong assumptions about overcoming bias.</p>
+<p>While I respect the RAND corporation for pioneering modern techniques, on my quest to finding the best truly random numbers, their method doesn’t meet the mark. You all deserve better. To understand the nature of writing a book of random numbers, I borrowed techniques from Galton and RAND, and I wrote my own.</p>
+<p>Rather than creating custom dice, I used existing six-sided dice. After rolling over 1000 dice, I converted from base 6 to base 10, and recorded my results. After thinking for a moment, I realized that one of the few things we need high volumes of random numbers of is dice rolls, so I saved those separately. Random coin flips would be nice too, so I did a bit more math to convert the dice rolls into coin flips. While I was at it, I converted the rolls into hexadecimal digits for the programmers out there. As of writing this, I’m only at the first volume, but if this proves useful, I will gladly create more handcrafted random numbers just for you.</p>
+<p>Unfortunately, these random numbers aren’t truly random. Humans are notoriously bad at being random, and I am human, so I likely introduced a non-random bias into the system. I don’t know how to cheat with dice, nor did I try. While I made a good effort, it’s hard to call these artisan “random” numbers truly random.</p>
+<p>We’ll have to push further next time.</p>
+<hr>
+<h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ol>
+<li><a target="_blank" rel="noopener" href="https://doi.org/10.1038/042013a0">Dice for Statistical Experiments</a></li>
+<li><a target="_blank" rel="noopener" href="https://www.rand.org/content/dam/rand/pubs/papers/2008/P113.pdf">RAND Corporation’s History of Random Digits</a></li>
+<li><a target="_blank" rel="noopener" href="https://www.amazon.com/Million-Random-Digits-Normal-Deviates/dp/0833030477">Book of A Million Random Digits</a></li>
+<li><a target="_blank" rel="noopener" href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjwx8Pt08D6AhU2lIkEHf8jAqcQFnoECAgQAQ&url=https://www.mdpi.com/2079-9292/10/13/1517/pdf&usg=AOvVaw1PiU7pbgXdIviYWLFI4TgC">Random Number Circuit Using Frequencies</a></li>
+</ol>
 
 </div> 
 <link rel="icon" href="favicon.ico">
@@ -192,17 +199,12 @@
     <nav class="post-nav">
         <div class="prev-item">
            
-                <div class="icon arrow-left"></div>
-                <div class="post-link">
-                    <a href="/the-connoisseur-of-random-before-computers/">Prev</a>
-                </div>
-            
         </div>
         <div class="next-item">
             
                 <div class="icon arrow-right"></div>
                 <div class="post-link">
-                  <a href="/ex-libris-the-principles-of-librarianship/">Next</a>  
+                  <a href="/ex-libris-gadsby/">Next</a>  
                 </div>  
             
         </div>
