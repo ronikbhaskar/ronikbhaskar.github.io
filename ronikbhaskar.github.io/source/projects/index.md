@@ -69,6 +69,17 @@ title: Projects
 
 <details>
 <summary>
+<b>I Made My Own Programming Language</b>
+</summary>
+<ul>
+    <li><a href="/projects/PizzaLang.pdf">Full Paper (Unpublished)</a></li>
+    <li><a href="https://github.com/TheEasyLemon/PizzaLang">GitHub</a></li>
+</ul>
+</details>
+<br />
+
+<details>
+<summary>
 <b>Some Pretty GIFs Made With Differential Equations</b>
 </summary>
 <img src="math-art-gifs/static_aizawa.gif" class="display-image" alt="The Aizawa Attractor."> 
