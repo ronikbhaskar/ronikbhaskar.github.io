@@ -60,6 +60,43 @@
 ]]></content>
   </entry>
   <entry>
+    <title>The Connoisseur of Random: Before Computers</title>
+    <url>/the-connoisseur-of-random-before-computers/</url>
+    <content><![CDATA[<p>As we discussed last time, computers aren’t great at generating truly random numbers. Can you do any better? You have plenty of practice generating random numbers, I can promise you that, as long as you’ve played a few board games.</p>
+<p>Dice. Roll one to get a random number. Roll a few and add them together to get bigger numbers. So many board games rely on you generating random numbers to make the game enjoyable. Will you pass Go or will you go bankrupt on Boardwalk? Will you climb a ladder or slide down a snake? It all depends on how the dice roll.</p>
+<p>In 1890 Francis Galton saw the power of using dice in statistics, creating a special set of dice for statistical experiments. He argued that shaking dice in a bag and taking them out with your eyes closed was sufficiently random for this random sampling technique.</p>
+<p>Dice are great, but no one has time to sit around, rolling dice hundreds of times to get random numbers. In the early-mid 1900s, scientists began developing better mechanical techniques, like using electronic “roulette wheels.” They generated some binary digits (0s and 1s) and converted the number to decimal. Using this technique, Project RAND turned into the RAND Corporation, selling books of one million random digits. The book still sells for roughly 70 USD. While their analyses of random digits looked usable for the most part, there were some issues with the odd-even distribution, and they made some strong assumptions about overcoming bias.</p>
+<p>While I respect the RAND corporation for pioneering modern techniques, on my quest to finding the best truly random numbers, their method doesn’t meet the mark. You all deserve better. To understand the nature of writing a book of random numbers, I borrowed techniques from Galton and RAND, and <a href="https://github.com/ronikbhaskar/book-of-random-numbers/blob/main/volumes/Volume%20I.md">I wrote my own</a>.</p>
+<p>Rather than creating custom dice, I used existing six-sided dice. After rolling over 1000 dice, I converted from base 6 to base 10, and recorded my results. After thinking for a moment, I realized that one of the few things we need high volumes of random numbers of is dice rolls, so I saved those separately. Random coin flips would be nice too, so I did a bit more math to convert the dice rolls into coin flips. While I was at it, I converted the rolls into hexadecimal digits for the programmers out there. As of writing this, I’m only at the first volume, but if this proves useful, I will gladly create more handcrafted random numbers just for you.</p>
+<p>Unfortunately, these random numbers aren’t truly random. Humans are notoriously bad at being random, and I am human, so I likely introduced a non-random bias into the system. I don’t know how to cheat with dice, nor did I try. While I made a good effort, it’s hard to call these artisan “random” numbers truly random.</p>
+<p>We’ll have to push further next time.</p>
+<hr>
+<h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ol>
+<li><a href="https://doi.org/10.1038/042013a0">Dice for Statistical Experiments</a></li>
+<li><a href="https://www.rand.org/content/dam/rand/pubs/papers/2008/P113.pdf">RAND Corporation’s History of Random Digits</a></li>
+<li><a href="https://www.amazon.com/Million-Random-Digits-Normal-Deviates/dp/0833030477">Book of A Million Random Digits</a></li>
+<li><a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjwx8Pt08D6AhU2lIkEHf8jAqcQFnoECAgQAQ&url=https://www.mdpi.com/2079-9292/10/13/1517/pdf&usg=AOvVaw1PiU7pbgXdIviYWLFI4TgC">Random Number Circuit Using Frequencies</a></li>
+</ol>
+]]></content>
+  </entry>
+  <entry>
+    <title>The Connoisseur of Random: Lava Lamps are Protecting your Data</title>
+    <url>/the-connoisseur-of-random-lava-lamps-are-protecting-your-data/</url>
+    <content><![CDATA[<p>Have you ever used the Canva website? How about Etsy, Walmart, or even Best Buy? If so, congrats! Your data is being protected by lava lamps.</p>
+<p>Cloudflare is one of the largest global networks, securely providing you access to many of your favorite websites. In an attempt to generate more secure encryption keys, they turned to lava lamps. While lava lamps are deterministic—they follow an exact set of rules in a particular order—they are mathematically chaotic, meaning that approximate initial conditions won’t tell you the final outcome. If you are even slightly off when trying to simulate a lava lamp, your results will be almost entirely inaccurate.</p>
+<p>Additionally, Cloudflare uses a double pendulum and uranium decay to generate chaos, but that’s beyond the scope of this archive.</p>
+<p>Using lava lamps to generate random numbers isn’t a new idea. Back in 1996, Lavarand began using lava lamps to generate random numbers. They took the data from images of lava lamp arrays, and used them as seeds for pseudorandom number generators. Naturally, the use of a pseudorandom number generator makes the process a bit less safe, but it’s nice to see they were taking precautions.</p>
+<p>Pseudorandom number generation is too well understood to be used in cryptography, so Cloudflare imposes two additional rules on their random number generation to keep your data secure. First, their numbers should pass statistical tests that prove unpredictability. If you can find patterns in your data, it’s hard to call it random (I have another archive on the way about this topic). Second, if someone knows how part—not all—of the program works, they still shouldn’t be able to predict the random numbers. </p>
+<p>So, the next time you’re shopping on Etsy or Walmart.com, remember that you’re safe. You have lava lamps protecting you. </p>
+<p><em>Disclaimer: I am not affiliated with Cloudflare in any way, and these statements are entirely my own.</em></p>
+<hr>
+<h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ol>
+<li><a href="https://www.cloudflare.com/learning/ssl/lava-lamp-encryption/">Cloudflare Uses Lava Lamps</a></li>
+<li><a href="https://web.archive.org/web/19971210213248/http://lavarand.sgi.com/">Lavarand Web Archive</a></li>
+</ol>
+]]></content>
+  </entry>
+  <entry>
     <title>Ex Libris: Cat&#39;s Cradle</title>
     <url>/ex-libris-cats-cradle/</url>
     <content><![CDATA[<p>On Christmas this year, I read one of the most famous Christmas novels of all time: <em>Cat’s Cradle</em>, by Kurt Vonnegut. This book is so powerful, it constituted a master’s thesis in anthropology in the eyes of the University of Chicago. Countless experts have analyzed this book throughout the past 59 years. Following behind 59 years of thorough analysis, I do not believe I can meaningfully contribute to the discussion of this novel’s themes.</p>
@@ -86,98 +123,6 @@
 <li><a href="https://en.wikipedia.org/wiki/Dingbat">Dingbat</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Therefore_sign">Therefore Symbol</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Logic">The Wiki Page for Logic Includes ∴ in the Image on the Right</a></li>
-</ol>
-]]></content>
-  </entry>
-  <entry>
-    <title>The Connoisseur of Random: Lava Lamps are Protecting your Data</title>
-    <url>/the-connoisseur-of-random-lava-lamps-are-protecting-your-data/</url>
-    <content><![CDATA[<p>Have you ever used the Canva website? How about Etsy, Walmart, or even Best Buy? If so, congrats! Your data is being protected by lava lamps.</p>
-<p>Cloudflare is one of the largest global networks, securely providing you access to many of your favorite websites. In an attempt to generate more secure encryption keys, they turned to lava lamps. While lava lamps are deterministic—they follow an exact set of rules in a particular order—they are mathematically chaotic, meaning that approximate initial conditions won’t tell you the final outcome. If you are even slightly off when trying to simulate a lava lamp, your results will be almost entirely inaccurate.</p>
-<p>Additionally, Cloudflare uses a double pendulum and uranium decay to generate chaos, but that’s beyond the scope of this archive.</p>
-<p>Using lava lamps to generate random numbers isn’t a new idea. Back in 1996, Lavarand began using lava lamps to generate random numbers. They took the data from images of lava lamp arrays, and used them as seeds for pseudorandom number generators. Naturally, the use of a pseudorandom number generator makes the process a bit less safe, but it’s nice to see they were taking precautions.</p>
-<p>Pseudorandom number generation is too well understood to be used in cryptography, so Cloudflare imposes two additional rules on their random number generation to keep your data secure. First, their numbers should pass statistical tests that prove unpredictability. If you can find patterns in your data, it’s hard to call it random (I have another archive on the way about this topic). Second, if someone knows how part—not all—of the program works, they still shouldn’t be able to predict the random numbers. </p>
-<p>So, the next time you’re shopping on Etsy or Walmart.com, remember that you’re safe. You have lava lamps protecting you. </p>
-<p><em>Disclaimer: I am not affiliated with Cloudflare in any way, and these statements are entirely my own.</em></p>
-<hr>
-<h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ol>
-<li><a href="https://www.cloudflare.com/learning/ssl/lava-lamp-encryption/">Cloudflare Uses Lava Lamps</a></li>
-<li><a href="https://web.archive.org/web/19971210213248/http://lavarand.sgi.com/">Lavarand Web Archive</a></li>
-</ol>
-]]></content>
-  </entry>
-  <entry>
-    <title>The Connoisseur of Random: Before Computers</title>
-    <url>/the-connoisseur-of-random-before-computers/</url>
-    <content><![CDATA[<p>As we discussed last time, computers aren’t great at generating truly random numbers. Can you do any better? You have plenty of practice generating random numbers, I can promise you that, as long as you’ve played a few board games.</p>
-<p>Dice. Roll one to get a random number. Roll a few and add them together to get bigger numbers. So many board games rely on you generating random numbers to make the game enjoyable. Will you pass Go or will you go bankrupt on Boardwalk? Will you climb a ladder or slide down a snake? It all depends on how the dice roll.</p>
-<p>In 1890 Francis Galton saw the power of using dice in statistics, creating a special set of dice for statistical experiments. He argued that shaking dice in a bag and taking them out with your eyes closed was sufficiently random for this random sampling technique.</p>
-<p>Dice are great, but no one has time to sit around, rolling dice hundreds of times to get random numbers. In the early-mid 1900s, scientists began developing better mechanical techniques, like using electronic “roulette wheels.” They generated some binary digits (0s and 1s) and converted the number to decimal. Using this technique, Project RAND turned into the RAND Corporation, selling books of one million random digits. The book still sells for roughly 70 USD. While their analyses of random digits looked usable for the most part, there were some issues with the odd-even distribution, and they made some strong assumptions about overcoming bias.</p>
-<p>While I respect the RAND corporation for pioneering modern techniques, on my quest to finding the best truly random numbers, their method doesn’t meet the mark. You all deserve better. To understand the nature of writing a book of random numbers, I borrowed techniques from Galton and RAND, and <a href="https://github.com/ronikbhaskar/book-of-random-numbers/blob/main/volumes/Volume%20I.md">I wrote my own</a>.</p>
-<p>Rather than creating custom dice, I used existing six-sided dice. After rolling over 1000 dice, I converted from base 6 to base 10, and recorded my results. After thinking for a moment, I realized that one of the few things we need high volumes of random numbers of is dice rolls, so I saved those separately. Random coin flips would be nice too, so I did a bit more math to convert the dice rolls into coin flips. While I was at it, I converted the rolls into hexadecimal digits for the programmers out there. As of writing this, I’m only at the first volume, but if this proves useful, I will gladly create more handcrafted random numbers just for you.</p>
-<p>Unfortunately, these random numbers aren’t truly random. Humans are notoriously bad at being random, and I am human, so I likely introduced a non-random bias into the system. I don’t know how to cheat with dice, nor did I try. While I made a good effort, it’s hard to call these artisan “random” numbers truly random.</p>
-<p>We’ll have to push further next time.</p>
-<hr>
-<h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ol>
-<li><a href="https://doi.org/10.1038/042013a0">Dice for Statistical Experiments</a></li>
-<li><a href="https://www.rand.org/content/dam/rand/pubs/papers/2008/P113.pdf">RAND Corporation’s History of Random Digits</a></li>
-<li><a href="https://www.amazon.com/Million-Random-Digits-Normal-Deviates/dp/0833030477">Book of A Million Random Digits</a></li>
-<li><a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjwx8Pt08D6AhU2lIkEHf8jAqcQFnoECAgQAQ&url=https://www.mdpi.com/2079-9292/10/13/1517/pdf&usg=AOvVaw1PiU7pbgXdIviYWLFI4TgC">Random Number Circuit Using Frequencies</a></li>
-</ol>
-]]></content>
-  </entry>
-  <entry>
-    <title>The Connoisseur of Random: Predicting the Future</title>
-    <url>/the-connoisseur-of-random-predicting-the-future/</url>
-    <content><![CDATA[<h2 id="The-Gambler’s-Fallacy"><a href="#The-Gambler’s-Fallacy" class="headerlink" title="The Gambler’s Fallacy"></a>The Gambler’s Fallacy</h2><p>Predicting the future is necessary for survival. I don’t mean predicting the end of the world, just simple things like whether the sun will rise tomorrow or how late your friend will be to coffee. These predictions use prior knowledge to figure out what to do next. Pretty nifty. On the other hand, there are some events that aren’t meant to be predicted—unknown futures that are best left in the hands of the universe.</p>
-<p>For some reason, you try to predict them anyway.</p>
-<p>You’re in grade school. You sit down for a history test. The teacher hands you the multiple choice questions. “Begin.”</p>
-<ol>
-<li><p>B</p>
-</li>
-<li><p>C</p>
-</li>
-<li><p>D</p>
-</li>
-<li><p>A</p>
-</li>
-<li><p>A</p>
-</li>
-<li><p>A</p>
-</li>
-<li><p>A</p>
-</li>
-</ol>
-<p>Wait, why are there four As in a row? That can’t be right. Surely, the next one won’t be an A. It certainly looks like it should be A. A seems like the right answer. But it can’t be. C looks pretty good, and it’s not A. You choose C.</p>
-<p>One week later, you get your test back. You scan down to question 8. Beside your poorly-erased A and second guess C sits the letter A, written in red pen. It may sting a little, but it’s nothing compared to the millions of francs lost at the Monte Carlo Casino in 1913.</p>
-<p>One humid night in August, gamblers crowded the roulette table. Eight black in a row. Nine black in a row. Everyone was sure this streak had to end, and bet everything on red. Ten. Eleven. Surely, the end was near. Twelve. Thirteen. Emptied wallets and ripped up check books surrounded the table on the 27th spin, when the ball finally landed on red.</p>
-<p>Like these unwitting patrons, you fell victim to the Gambler’s Fallacy. You tried predicting the future without the universe’s permission. We use a special name for these kinds of events, the ones only the universe knows the answer to. We call them random.</p>
-<h2 id="Random"><a href="#Random" class="headerlink" title="Random"></a>Random</h2><p>Most dictionary definitions of “random” describe it as occuring without a logical or regular pattern. Intuitively, this makes sense. We use the word “random” in our everyday lives to refer to unexpected events or those that stray from a known pattern. </p>
-<p>Unfortunately, this colloquial idea of “random” makes understanding true randomness incredibly different for people. If we see a temporary pattern, like a repeated answer in a multiple choice exam, our brain believes the pattern must break because the events should be “random.” An exam with B as the correct answer for every question doesn’t feel random. A coin that never lands on tails no matter how many times you flip it doesn’t feel random. </p>
-<p>Surprisingly, that test is random, and so is that coin. Remember, that teacher has written hundreds of exams with thousands of multiple choice answers. If you look at all those answers put together, a short string of 20 Bs in a row doesn’t seem too out of the ordinary. Likewise, you’ll only be able to flip that coin a finite number of times, and if in that finite number of times you only land heads, that is entirely possible. In fact, all heads is just as likely as alternating heads&#x2F;tails starting with tails. </p>
-<p>So, how should we conceptualize randomness? Assuming you’re not a statistician by trade, these two principles will cover most everyday cases:</p>
-<ol>
-<li>The coin has no memory.</li>
-<li>You cannot read the coin’s mind.</li>
-</ol>
-<p>For the first principle, no matter how many times you flip a coin, every new flip is a 50&#x2F;50 chance of heads or tails. The coin does not remember landing on heads 10 times in a row. It only knows this next flip, which brings us to the second principle. Only the coin knows the next flip. You cannot read the coin’s mind to see what it has chosen. You will not know whether the coin has chosen heads or tails until the flip is already complete.</p>
-<p>Disclaimer: Remember that wherever humans are directly involved, what seems random likely isn’t. Teachers tend to avoid more than 5 of the same answer in a row on tests, even though it is entirely likely, so multiple choice isn’t completely random. Also, people have learned how to bias coin flips based on how they flip the coin. </p>
-<h2 id="Blasphemy"><a href="#Blasphemy" class="headerlink" title="Blasphemy"></a>Blasphemy</h2><p>Randomness is beautiful. It’s the universe’s way of keeping secrets and sharing them at just the right time. Nothing can truly defeat the purity of random numbers.</p>
-<p>Except this one YouTuber apparently.</p>
-<p>A computer science YouTube channel by the name PwnFunction found a way to predict the random numbers generated by the Chrome v8 engine, which runs your browser. After testing it myself, I can’t argue with the results. Does this mean we should ignore everything I just said about unpredictability? Not quite.</p>
-<p>Countless engineers and mathematicians have devised ways for your computer to generate random numbers. Unfortunately, generating a random number means you have a formula, so it’s not random anymore. Instead, these are called pseudorandom numbers. Using the current time and a formula, the computer generates a starting “seed.” This seed is then used to generate the next seed without the use of the current time. This seed generates the next seed, and so on. Eventually, the cycle loops back all the way to the beginning:</p>
-<p>$$1 \rightarrow 2 \rightarrow 3 \rightarrow \cdots \rightarrow 100 \rightarrow 1 $$</p>
-<p>In the example above, the seeds increase by one every time until they reach 100, and they begin again. Not very “random.” Typically, the formula for generating the next seed isn’t that straightforward. This leads you to sequences that look like</p>
-<p>$$ \rightarrow 2162 \rightarrow 4843 \rightarrow 9140 \rightarrow 3577 \rightarrow 8951 \rightarrow $$</p>
-<p>except instead of 4 digit numbers, they use 10 digit numbers. They look random, but they can be predicted if you know the previous random number and the formula. That’s what makes them pseudorandom.</p>
-<p>Left undefended, poorly designed “random” number generators make for fantastic attack targets. Since encryption and security rely on random numbers, your secrets are left in the hands of programmers playing god.</p>
-<h2 id="The-Beginning"><a href="#The-Beginning" class="headerlink" title="The Beginning"></a>The Beginning</h2><p>Throughout the rest of this series, I will explore ways to generate random numbers to figure out which one is right for you. From the epitome of elegance to bleeding-edge technology, these episodes will cover the human pursuit of true randomness.</p>
-<hr>
-<h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ol>
-<li><a href="https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000339269/">Monaco used Francs in 1913</a></li>
-<li><a href="https://www.youtube.com/watch?v=rwvIGNXY21Y">Landing Heads 10 Times in a Row (Video of Dr. James Grime)</a></li>
-<li><a href="https://www.youtube.com/watch?v=-h_rj2-HP2E">Predicting Random Numbers</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Random_number_generator_attack">Attacking Random Number Generators</a></li>
 </ol>
 ]]></content>
   </entry>
@@ -284,6 +229,61 @@
 ]]></content>
   </entry>
   <entry>
+    <title>The Connoisseur of Random: Predicting the Future</title>
+    <url>/the-connoisseur-of-random-predicting-the-future/</url>
+    <content><![CDATA[<h2 id="The-Gambler’s-Fallacy"><a href="#The-Gambler’s-Fallacy" class="headerlink" title="The Gambler’s Fallacy"></a>The Gambler’s Fallacy</h2><p>Predicting the future is necessary for survival. I don’t mean predicting the end of the world, just simple things like whether the sun will rise tomorrow or how late your friend will be to coffee. These predictions use prior knowledge to figure out what to do next. Pretty nifty. On the other hand, there are some events that aren’t meant to be predicted—unknown futures that are best left in the hands of the universe.</p>
+<p>For some reason, you try to predict them anyway.</p>
+<p>You’re in grade school. You sit down for a history test. The teacher hands you the multiple choice questions. “Begin.”</p>
+<ol>
+<li><p>B</p>
+</li>
+<li><p>C</p>
+</li>
+<li><p>D</p>
+</li>
+<li><p>A</p>
+</li>
+<li><p>A</p>
+</li>
+<li><p>A</p>
+</li>
+<li><p>A</p>
+</li>
+</ol>
+<p>Wait, why are there four As in a row? That can’t be right. Surely, the next one won’t be an A. It certainly looks like it should be A. A seems like the right answer. But it can’t be. C looks pretty good, and it’s not A. You choose C.</p>
+<p>One week later, you get your test back. You scan down to question 8. Beside your poorly-erased A and second guess C sits the letter A, written in red pen. It may sting a little, but it’s nothing compared to the millions of francs lost at the Monte Carlo Casino in 1913.</p>
+<p>One humid night in August, gamblers crowded the roulette table. Eight black in a row. Nine black in a row. Everyone was sure this streak had to end, and bet everything on red. Ten. Eleven. Surely, the end was near. Twelve. Thirteen. Emptied wallets and ripped up check books surrounded the table on the 27th spin, when the ball finally landed on red.</p>
+<p>Like these unwitting patrons, you fell victim to the Gambler’s Fallacy. You tried predicting the future without the universe’s permission. We use a special name for these kinds of events, the ones only the universe knows the answer to. We call them random.</p>
+<h2 id="Random"><a href="#Random" class="headerlink" title="Random"></a>Random</h2><p>Most dictionary definitions of “random” describe it as occuring without a logical or regular pattern. Intuitively, this makes sense. We use the word “random” in our everyday lives to refer to unexpected events or those that stray from a known pattern. </p>
+<p>Unfortunately, this colloquial idea of “random” makes understanding true randomness incredibly different for people. If we see a temporary pattern, like a repeated answer in a multiple choice exam, our brain believes the pattern must break because the events should be “random.” An exam with B as the correct answer for every question doesn’t feel random. A coin that never lands on tails no matter how many times you flip it doesn’t feel random. </p>
+<p>Surprisingly, that test is random, and so is that coin. Remember, that teacher has written hundreds of exams with thousands of multiple choice answers. If you look at all those answers put together, a short string of 20 Bs in a row doesn’t seem too out of the ordinary. Likewise, you’ll only be able to flip that coin a finite number of times, and if in that finite number of times you only land heads, that is entirely possible. In fact, all heads is just as likely as alternating heads&#x2F;tails starting with tails. </p>
+<p>So, how should we conceptualize randomness? Assuming you’re not a statistician by trade, these two principles will cover most everyday cases:</p>
+<ol>
+<li>The coin has no memory.</li>
+<li>You cannot read the coin’s mind.</li>
+</ol>
+<p>For the first principle, no matter how many times you flip a coin, every new flip is a 50&#x2F;50 chance of heads or tails. The coin does not remember landing on heads 10 times in a row. It only knows this next flip, which brings us to the second principle. Only the coin knows the next flip. You cannot read the coin’s mind to see what it has chosen. You will not know whether the coin has chosen heads or tails until the flip is already complete.</p>
+<p>Disclaimer: Remember that wherever humans are directly involved, what seems random likely isn’t. Teachers tend to avoid more than 5 of the same answer in a row on tests, even though it is entirely likely, so multiple choice isn’t completely random. Also, people have learned how to bias coin flips based on how they flip the coin. </p>
+<h2 id="Blasphemy"><a href="#Blasphemy" class="headerlink" title="Blasphemy"></a>Blasphemy</h2><p>Randomness is beautiful. It’s the universe’s way of keeping secrets and sharing them at just the right time. Nothing can truly defeat the purity of random numbers.</p>
+<p>Except this one YouTuber apparently.</p>
+<p>A computer science YouTube channel by the name PwnFunction found a way to predict the random numbers generated by the Chrome v8 engine, which runs your browser. After testing it myself, I can’t argue with the results. Does this mean we should ignore everything I just said about unpredictability? Not quite.</p>
+<p>Countless engineers and mathematicians have devised ways for your computer to generate random numbers. Unfortunately, generating a random number means you have a formula, so it’s not random anymore. Instead, these are called pseudorandom numbers. Using the current time and a formula, the computer generates a starting “seed.” This seed is then used to generate the next seed without the use of the current time. This seed generates the next seed, and so on. Eventually, the cycle loops back all the way to the beginning:</p>
+<p>$$1 \rightarrow 2 \rightarrow 3 \rightarrow \cdots \rightarrow 100 \rightarrow 1 $$</p>
+<p>In the example above, the seeds increase by one every time until they reach 100, and they begin again. Not very “random.” Typically, the formula for generating the next seed isn’t that straightforward. This leads you to sequences that look like</p>
+<p>$$ \rightarrow 2162 \rightarrow 4843 \rightarrow 9140 \rightarrow 3577 \rightarrow 8951 \rightarrow $$</p>
+<p>except instead of 4 digit numbers, they use 10 digit numbers. They look random, but they can be predicted if you know the previous random number and the formula. That’s what makes them pseudorandom.</p>
+<p>Left undefended, poorly designed “random” number generators make for fantastic attack targets. Since encryption and security rely on random numbers, your secrets are left in the hands of programmers playing god.</p>
+<h2 id="The-Beginning"><a href="#The-Beginning" class="headerlink" title="The Beginning"></a>The Beginning</h2><p>Throughout the rest of this series, I will explore ways to generate random numbers to figure out which one is right for you. From the epitome of elegance to bleeding-edge technology, these episodes will cover the human pursuit of true randomness.</p>
+<hr>
+<h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ol>
+<li><a href="https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000339269/">Monaco used Francs in 1913</a></li>
+<li><a href="https://www.youtube.com/watch?v=rwvIGNXY21Y">Landing Heads 10 Times in a Row (Video of Dr. James Grime)</a></li>
+<li><a href="https://www.youtube.com/watch?v=-h_rj2-HP2E">Predicting Random Numbers</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Random_number_generator_attack">Attacking Random Number Generators</a></li>
+</ol>
+]]></content>
+  </entry>
+  <entry>
     <title>About Me</title>
     <url>/about/index.html</url>
     <content><![CDATA[<style>
@@ -324,16 +324,6 @@
 <p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
   </entry>
   <entry>
-    <title>Discord Scraper</title>
-    <url>/projects/discord_scraper.html</url>
-    <content><![CDATA[<p>Access the source files <a href="https://github.com/ronikbhaskar/discord_scraper">here</a>. </p>
-<h2 id="Disclaimer"><a href="#Disclaimer" class="headerlink" title="Disclaimer"></a>Disclaimer</h2><p>Botting your Discord account violates their Terms of Service. I do not use this scraper, nor will I, and I recommend you never use it either. This is solely for educational purposes.</p>
-<h2 id="Theoretical-Use-Cases"><a href="#Theoretical-Use-Cases" class="headerlink" title="Theoretical Use Cases"></a>Theoretical Use Cases</h2><p>Hypothetically speaking, wouldn’t it be cool to go through your server’s chat history, run the text through a Markov Chain generator, and spit out some nonsense for you all to laugh at? Just a thought. It would be tedious, copying every message by hand, but it’s definitely doable, so that’s how you should do it. By hand.</p>
-<h2 id="Getting-your-Access-Token"><a href="#Getting-your-Access-Token" class="headerlink" title="Getting your Access Token"></a>Getting your Access Token</h2><p>Now, having access to the Discord API requires an Access Token, and no one would know how to get their access token. I mean, who is going to open Discord in Chrome, open the inspector, switch to mobile&#x2F;tablet display, go to the Application tab, find the sidebar section labeled Storage, select <a href="https://discord.com/">https://discord.com</a> from the Local Storage dropdown, search token, and copy the value from the Key-Value pair? That’s a ridiculous number of hoops to jump through, and I can’t imagine anyone figuring that out on their own. </p>
-<hr>
-<p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
-  </entry>
-  <entry>
     <title>Discord Bot</title>
     <url>/projects/discord_bot.html</url>
     <content><![CDATA[<p>Access the source files <a href="https://github.com/ronikbhaskar/discord_bot">here</a>. </p>
@@ -360,6 +350,16 @@
 <ul>
 <li>just @ mention Igor in your message and maybe you’ll get a response</li>
 </ul>
+<hr>
+<p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>Discord Scraper</title>
+    <url>/projects/discord_scraper.html</url>
+    <content><![CDATA[<p>Access the source files <a href="https://github.com/ronikbhaskar/discord_scraper">here</a>. </p>
+<h2 id="Disclaimer"><a href="#Disclaimer" class="headerlink" title="Disclaimer"></a>Disclaimer</h2><p>Botting your Discord account violates their Terms of Service. I do not use this scraper, nor will I, and I recommend you never use it either. This is solely for educational purposes.</p>
+<h2 id="Theoretical-Use-Cases"><a href="#Theoretical-Use-Cases" class="headerlink" title="Theoretical Use Cases"></a>Theoretical Use Cases</h2><p>Hypothetically speaking, wouldn’t it be cool to go through your server’s chat history, run the text through a Markov Chain generator, and spit out some nonsense for you all to laugh at? Just a thought. It would be tedious, copying every message by hand, but it’s definitely doable, so that’s how you should do it. By hand.</p>
+<h2 id="Getting-your-Access-Token"><a href="#Getting-your-Access-Token" class="headerlink" title="Getting your Access Token"></a>Getting your Access Token</h2><p>Now, having access to the Discord API requires an Access Token, and no one would know how to get their access token. I mean, who is going to open Discord in Chrome, open the inspector, switch to mobile&#x2F;tablet display, go to the Application tab, find the sidebar section labeled Storage, select <a href="https://discord.com/">https://discord.com</a> from the Local Storage dropdown, search token, and copy the value from the Key-Value pair? That’s a ridiculous number of hoops to jump through, and I can’t imagine anyone figuring that out on their own. </p>
 <hr>
 <p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
   </entry>
@@ -508,21 +508,6 @@
 <br />]]></content>
   </entry>
   <entry>
-    <title>Linear Transformation Visualizer</title>
-    <url>/projects/linear_transformation_visualizer.html</url>
-    <content><![CDATA[<p>Learn a thing or two about linear algebra <a href="https://ronikbhaskar.github.io/linear_transformation_visualizer">here</a> (or just play with numbers).</p>
-<h2 id="Purpose"><a href="#Purpose" class="headerlink" title="Purpose"></a>Purpose</h2><p>For part of my abstract linear algebra class, we were allowed to build a piece of software related to the course material. We spent so much time looking at grids of numbers and analyzing proofs, but I wanted to <em>see</em> how it all worked. So, I took it upon myself to learn vanilla JavaScript and write a web app capable of letting me see what was happening to the space as I transformed it.</p>
-<p>Shoutout to Prof. Lanier.</p>
-<h2 id="Engineering-the-App"><a href="#Engineering-the-App" class="headerlink" title="Engineering the App"></a>Engineering the App</h2><p>I followed one tutorial on html and css and just stuck with the color scheme in the tutorial, which is why the screen is a mess of orange and blue.</p>
-<p><strong>For the frontend, I used math.js and Plotly.</strong> I wanted to make the project source lightweight, so I looked for libraries with CDNs. Plotly, while used for statistical visualizations, had a 3D mode, and vectors can be plotted as points, so translating the vectors to points &#x2F; segments to plot was not difficult. Math.js gave me access to matrix multiplication and mathematical expression interpretation, which solved the majority of my logic problems immediately.</p>
-<p><strong>The linear algebra was simple. The UI wasn’t.</strong> Coming up with pseudo-random methods of generating random matrices with certain constraints was not difficult. The matrix multiplication was already given to me by math.js. Even in my aspirations to embody one tenth of the Desmos’ quality-of-life features, the variable with the slider took little time to get working. </p>
-<p>The big issue was responsiveness. The user shouldn’t have to hit “Run” every time they make a change, because you shouldn’t be slowed down by the speed of this tool. As a result, each text area and button and checkbox has a listener to make sure that the visualizer always keeps up with what you wrote. </p>
-<p>And if you wrote an invalid state, like a matrix with empty fields, the whole visual shouldn’t shut down or change from what you had originally. Maybe you’re just making a quick edit, and that change would distract you. For this reason, if you go from a valid to invalid input state, the visualizer stays at the previous valid state. Intuitively, it makes the most sense, and keeps everything looking clean.</p>
-<p>The code is a mess, but it’s there if you want to see it: <a href="https://github.com/ronikbhaskar/linear_transformation_visualizer">https://github.com/ronikbhaskar/linear_transformation_visualizer</a></p>
-<hr>
-<p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
-  </entry>
-  <entry>
     <title>Math Art</title>
     <url>/projects/math-art.html</url>
     <content><![CDATA[<p>I discuss this project in my <a href="/about">about page</a>. The source code, along with an explanation of the project, can be found <a href="https://github.com/ronikbhaskar/math-art">here</a>.</p>
@@ -557,6 +542,21 @@
 <p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
   </entry>
   <entry>
+    <title>Linear Transformation Visualizer</title>
+    <url>/projects/linear_transformation_visualizer.html</url>
+    <content><![CDATA[<p>Learn a thing or two about linear algebra <a href="https://ronikbhaskar.github.io/linear_transformation_visualizer">here</a> (or just play with numbers).</p>
+<h2 id="Purpose"><a href="#Purpose" class="headerlink" title="Purpose"></a>Purpose</h2><p>For part of my abstract linear algebra class, we were allowed to build a piece of software related to the course material. We spent so much time looking at grids of numbers and analyzing proofs, but I wanted to <em>see</em> how it all worked. So, I took it upon myself to learn vanilla JavaScript and write a web app capable of letting me see what was happening to the space as I transformed it.</p>
+<p>Shoutout to Prof. Lanier.</p>
+<h2 id="Engineering-the-App"><a href="#Engineering-the-App" class="headerlink" title="Engineering the App"></a>Engineering the App</h2><p>I followed one tutorial on html and css and just stuck with the color scheme in the tutorial, which is why the screen is a mess of orange and blue.</p>
+<p><strong>For the frontend, I used math.js and Plotly.</strong> I wanted to make the project source lightweight, so I looked for libraries with CDNs. Plotly, while used for statistical visualizations, had a 3D mode, and vectors can be plotted as points, so translating the vectors to points &#x2F; segments to plot was not difficult. Math.js gave me access to matrix multiplication and mathematical expression interpretation, which solved the majority of my logic problems immediately.</p>
+<p><strong>The linear algebra was simple. The UI wasn’t.</strong> Coming up with pseudo-random methods of generating random matrices with certain constraints was not difficult. The matrix multiplication was already given to me by math.js. Even in my aspirations to embody one tenth of the Desmos’ quality-of-life features, the variable with the slider took little time to get working. </p>
+<p>The big issue was responsiveness. The user shouldn’t have to hit “Run” every time they make a change, because you shouldn’t be slowed down by the speed of this tool. As a result, each text area and button and checkbox has a listener to make sure that the visualizer always keeps up with what you wrote. </p>
+<p>And if you wrote an invalid state, like a matrix with empty fields, the whole visual shouldn’t shut down or change from what you had originally. Maybe you’re just making a quick edit, and that change would distract you. For this reason, if you go from a valid to invalid input state, the visualizer stays at the previous valid state. Intuitively, it makes the most sense, and keeps everything looking clean.</p>
+<p>The code is a mess, but it’s there if you want to see it: <a href="https://github.com/ronikbhaskar/linear_transformation_visualizer">https://github.com/ronikbhaskar/linear_transformation_visualizer</a></p>
+<hr>
+<p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
+  </entry>
+  <entry>
     <title>Steganography</title>
     <url>/projects/steganography.html</url>
     <content><![CDATA[<h2 id="Find-the-difference-between-these-two-images"><a href="#Find-the-difference-between-these-two-images" class="headerlink" title="Find the difference between these two images"></a>Find the difference between these two images</h2><style>
@@ -587,20 +587,6 @@ table, th {
 
 <p>For this code, you will have to redirect the output to a file using the <code>&gt;</code> operator.</p>
 <p>Happy sleuthing!</p>
-<hr>
-<p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>Text Generator</title>
-    <url>/projects/text_generator.html</url>
-    <content><![CDATA[<p>Try generating some text <a href="https://ronikbhaskar.github.io/text_generator">here</a>. While I can’t guarantee it’ll be meaningful, it is a lot of fun.</p>
-<p>This is a combined summary of the original project in Python, and the subsequent translation to JS.</p>
-<h2 id="Background"><a href="#Background" class="headerlink" title="Background"></a>Background</h2><p>Language is weird. We keep making rules and breaking them, one phrase can mean 15 different things, and despite having tens of thousands of words at our disposal, we can’t always convey exactly what we want to.</p>
-<p>Language is weird, and I love it. Let’s say you start with the word “once.” Whenever you see “once,” you can usually follow it with “upon.” If you see “upon,” you can probably follow it with “a.” Why not generate sentences and paragraphs with probabilities?</p>
-<h2 id="Logic"><a href="#Logic" class="headerlink" title="Logic"></a>Logic</h2><p>Markov chains sound scary, but they’re not. Remember the game Snakes and Ladders? When you’re playing, you’re always on a square on the board. When you roll the dice, you have certain probabilities of moving to different squares. Some have a really high probability, like going from 1 to 6, and others are impossible, like going from 1 to 100. That’s exactly what a Markov chain is. From any given state (square), you have a given probability (dice) of moving to another state.</p>
-<p>That’s great and all, but where does language fit into this? Take that Snakes and Ladders game. Assign each square a word. Every time you land on a new word, you write it down. After playing a full game, you will have a long string of words. Some sections might sound meaningful, others might not. This project takes long pieces of text, pretends like they’re recorded games of Snakes and Ladders, and tries to rebuild the board. On that new board, you can play as many games as you’d like, and most of the time, your string of words will be different.</p>
-<h2 id="Code"><a href="#Code" class="headerlink" title="Code"></a>Code</h2><p>The web project, with the original instructions for collaborators, can be found <a href="https://github.com/ronikbhaskar/text_generator">here</a>.</p>
-<p>The original Python code can be found <a href="https://github.com/ronikbhaskar/markov_text_generation">here</a>. The README has a sample generated from Sun Tzu’s <em>The Art of War</em>.</p>
 <hr>
 <p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
   </entry>
@@ -669,6 +655,20 @@ table, th {
 <li>Three local boards in a row, and you win the game.</li>
 <li>If the game finishes without anyone getting 3 local boards in a row, it’s a draw.</li>
 </ul>
+<hr>
+<p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>Text Generator</title>
+    <url>/projects/text_generator.html</url>
+    <content><![CDATA[<p>Try generating some text <a href="https://ronikbhaskar.github.io/text_generator">here</a>. While I can’t guarantee it’ll be meaningful, it is a lot of fun.</p>
+<p>This is a combined summary of the original project in Python, and the subsequent translation to JS.</p>
+<h2 id="Background"><a href="#Background" class="headerlink" title="Background"></a>Background</h2><p>Language is weird. We keep making rules and breaking them, one phrase can mean 15 different things, and despite having tens of thousands of words at our disposal, we can’t always convey exactly what we want to.</p>
+<p>Language is weird, and I love it. Let’s say you start with the word “once.” Whenever you see “once,” you can usually follow it with “upon.” If you see “upon,” you can probably follow it with “a.” Why not generate sentences and paragraphs with probabilities?</p>
+<h2 id="Logic"><a href="#Logic" class="headerlink" title="Logic"></a>Logic</h2><p>Markov chains sound scary, but they’re not. Remember the game Snakes and Ladders? When you’re playing, you’re always on a square on the board. When you roll the dice, you have certain probabilities of moving to different squares. Some have a really high probability, like going from 1 to 6, and others are impossible, like going from 1 to 100. That’s exactly what a Markov chain is. From any given state (square), you have a given probability (dice) of moving to another state.</p>
+<p>That’s great and all, but where does language fit into this? Take that Snakes and Ladders game. Assign each square a word. Every time you land on a new word, you write it down. After playing a full game, you will have a long string of words. Some sections might sound meaningful, others might not. This project takes long pieces of text, pretends like they’re recorded games of Snakes and Ladders, and tries to rebuild the board. On that new board, you can play as many games as you’d like, and most of the time, your string of words will be different.</p>
+<h2 id="Code"><a href="#Code" class="headerlink" title="Code"></a>Code</h2><p>The web project, with the original instructions for collaborators, can be found <a href="https://github.com/ronikbhaskar/text_generator">here</a>.</p>
+<p>The original Python code can be found <a href="https://github.com/ronikbhaskar/markov_text_generation">here</a>. The README has a sample generated from Sun Tzu’s <em>The Art of War</em>.</p>
 <hr>
 <p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
   </entry>
