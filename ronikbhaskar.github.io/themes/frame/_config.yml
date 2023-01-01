@@ -44,7 +44,7 @@ profile:
 footer:
   copyright_info:
     enable: true
-    author: © Ronik Bhaskar, 2022
+    author: © Ronik Bhaskar, 2022 - 2023
 
   powered_by: # Powered by Hexo & Frame
     enable: false
