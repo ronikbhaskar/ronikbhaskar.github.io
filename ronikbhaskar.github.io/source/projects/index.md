@@ -65,6 +65,18 @@ title: Projects
 </details>
 <br />
 
+<details>
+<summary>
+<b>Text-Based Game to Teach Oracles (CW: violence, kidnapping, murder)</b>
+</summary>
+<ul>
+    <li><a href="https://ronikbhaskar.github.io/oracle_society/">Website</a> (NOT Mobile Compatible)</li>
+    <li><a href="/projects/oracle_society">Summary</a></li>
+    <li><a href="https://github.com/ronikbhaskar/oracle_society">GitHub</a></li>
+</ul>
+</details>
+<br />
+
 ## Projects Without Websites
 
 <details>
