@@ -7,7 +7,7 @@ tags:
 
 What does AM stand for? Maybe Ante Meridiem, before noon. Or maybe the element Americium (Am). Maybe it's Artium Magister, a Master of Arts degree. Whatever the case, if you compound masters of the arts over time, you get Arctic Monkeys. 
 
-In 2013, Arctic Monkeys released their fifth studio album, AM. While the title references the band's name, the cover art says otherwise. Taking inspiration from Velvet Underground, AM's cover art is a wave with changing heights—amplitude modulation. 
+In 2013, Arctic Monkeys released their fifth studio album, AM. While the title references the band's name, the cover art says otherwise. Taking inspiration from Velvet Underground's cover art of volume units (VU), AM's cover art is a wave with changing heights—amplitude modulation (AM). 
 
 As a recreational mathematician, I looked around the internet, trying to find a decent recreation of the AM cover as a graph, but none of them were good enough. Most stopped at just modulating a sine wave with a broader sine wave, but this method misses one crucial detail: the AM in the middle. Job Bouwman inserts the AM in the middle, but the heights and widths of the letters don't quite match the cover.
 
