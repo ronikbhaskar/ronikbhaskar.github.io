@@ -31,6 +31,91 @@
 ]]></content>
   </entry>
   <entry>
+    <title>AM</title>
+    <url>/am/</url>
+    <content><![CDATA[<p>What does AM stand for? Maybe Ante Meridiem, before noon. Or maybe the element Americium (Am). Maybe it’s Artium Magister, a Master of Arts degree. Whatever the case, if you compound masters of the arts over time, you get Arctic Monkeys. </p>
+<p>In 2013, Arctic Monkeys released their fifth studio album, AM. While the title references the band’s name, the cover art says otherwise. Taking inspiration from Velvet Underground, AM’s cover art is a wave with changing heights—amplitude modulation. </p>
+<p>As a recreational mathematician, I looked around the internet, trying to find a decent recreation of the AM cover as a graph, but none of them were good enough. Most stopped at just modulating a sine wave with a broader sine wave, but this method misses one crucial detail: the AM in the middle. Job Bouwman inserts the AM in the middle, but the heights and widths of the letters don’t quite match the cover.</p>
+<p>The Arctic Monkeys weren’t just monkeying around with amplitude modulation. They figured out a clever way to seamlessly insert their initials into the graph. Mark my words, I will do the same. I will recreate the AM cover.</p>
+<p>Rather than spending lots of time setting up a Jupyter Notebook and writing lots of Python code to establish a working development environment, I’m using Desmos. I believe the initial concept art began with a standard modulation of a sine wave inside a sine wave, so I am starting the same way.</p>
+<p><img src="/images/initial_am.png"></p>
+<p>Aha! See? In the center? There is a segment of the graph that can be used for the AM. I’ll mark it in green. This will require removing that purple part, which I see as a bonus. The A and M in the cover have longer wavelengths than the rest of the graph, so stretching the green segment should recreate this well.</p>
+<p><img src="/images/am_annotated.png"></p>
+<p>After stretching the green segment of the graph, the height of each portion will need to be adjusted. Maybe I’m just throwing a hammer at a screw, but a sigmoid function looks like it will do the trick. A few adjustments later, and we have this:</p>
+<p><img src="/images/am_final.png"></p>
+<p>A few minutes ago, I was perfectly happy with this result, but that is no longer the case. Yes, I completed what I set out to do, but the closer I get, the farther I feel. The M needs to be more rectangular. My approximation isn’t actually a continuous function, much less a differentiable one. Looking at the two side-by-side, I can no longer see their similarities, only their differences. Recreating this cover art was supposed to be about a quick recreational math project, but now I feel obliged to honor this album. If imitation is the sincerest form of flattery, are better imitations more flattering?</p>
+<p>After this project, I suppose not. By acknowledging the distance between my imitation and the original, I can do justice to the beauty it holds. I may have not recreated the cover perfectly, but I can certainly appreciate it much more now than I could when I first saw it. This is no Absent Minded Advanced Math. This is AM. </p>
+<hr>
+<ol>
+<li><p><a href="https://www.nme.com/news/music/arctic-monkeys-178-1266582">Influence of VU on AM</a></p>
+</li>
+<li><p><a href="https://www.quora.com/What-function-is-Arctic-Monkeys-album-cover">Job Bouwman’s approximation</a></p>
+</li>
+<li><p><a href="https://www.desmos.com/calculator/v37m6icmwg">My recreation</a></p>
+</li>
+</ol>
+]]></content>
+  </entry>
+  <entry>
+    <title>Ex Libris: Gadsby (not The Great Gatsby)</title>
+    <url>/ex-libris-gadsby/</url>
+    <content><![CDATA[<p>IMPORTANT: This is about the book <em>Gadsby</em> By Ernest Vincent Wright, not <em>The Great Gatsby</em> by F. Scott Fitzgerald. </p>
+<p>Legend says a man once ripped a piece of twine, tied down the E key on his typewriter, and proceeded to write a 50,000 word novel without the letter E. Original copies of his literary masterpiece now sell for thousands of dollars. He assured his own rise to fame, and everything went smoothly until someone opened his book.</p>
+<h2 id="Gimmicks-Can’t-Save-Bad-Writing"><a href="#Gimmicks-Can’t-Save-Bad-Writing" class="headerlink" title="Gimmicks Can’t Save Bad Writing"></a>Gimmicks Can’t Save Bad Writing</h2><p>Lipograms are a form of constrained writing where the author avoids using one or more particular letters in the piece. While the gimmick entertains audiences, the piece must still be worth reading. The author can get away with less meaningful work, since purpose is contained in the style, but no amount of dropping letters alone makes literature worth reading.</p>
+<p>Typically, a story resolves near the end. Instead, Wright wrote <em>Gadsby</em> like a drawn-out sitcom. After resolving the issue in roughly 10 chapters, he proceeds with 30 more chapters that all revolve around everyone being happy, with no major conflicts ever presented afterwards. Kids grow up and get married. A man that has never worked in politics becomes the mayor with little hassle. A zoo magically opens. Almost every chapter presents a neat and tidy event ending with celebrations from everyone, and Wright could easily end the story there, but he doesn’t, so the book drags on, and the only reason you’re still reading is because you want it to end.</p>
+<p>Applying any amount of critical theory, feminists will have an absolute field day exploring the infinite ways Wright seems to bring up gender norms. Every other chapter finds a way to assert the backwards notions of women necessarily being small and weak and good at cooking and taking care of children while the men are big and strong and good at building. Some may argue Wright’s use of gender roles is expected, since this book was written in the 1930s. With historical context and the advent of World War II, attributing women’s value to having small statures and delicate hands and homemaking was incredibly backwards, with countless women working industrial jobs during the period of wartime economy.</p>
+<p>As if that wasn’t enough, Wright’s inflated ego shows through in his writing. Naturally, Wright is the first-person narrator, depicted as a historian describing the town. Despite separating himself from the events of the story as this all-seeing onlooker, his frequent interjections make you wonder if he’s too convinced of his own story. For example, in chapter VII, he makes a disturbing quip about passing up kissing a snake to instead kiss Lucy, a fictitious child, while he is still the adult historian describing the story.</p>
+<h2 id="The-Failed-Lipogram"><a href="#The-Failed-Lipogram" class="headerlink" title="The Failed Lipogram"></a>The Failed Lipogram</h2><p>I pushed through the book, hoping to gain some linguistic insights. While I give Wright mild credit for calling flowers “blossoming plants” and turkey “Thanksgiving National Bird,” I cannot forgive his egregious errors. Despite Wright’s claims of not using the letter E, the original publication contains three instances of the word “the” and one instance of the word “officers,” totaling 4 E’s in the body of the text.</p>
+<p>Historical records describe Wright’s attempts at publishing all failing, and he had to turn to self-publishing through Wetzel Publishing Co. After reading this book, I finally understand why. Gimmicks won’t save your story, and twine won’t hold down your typewriter’s E key.</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>Ex Libris: The Principles of Librarianship</title>
+    <url>/ex-libris-the-principles-of-librarianship/</url>
+    <content><![CDATA[<p>If you ever need a list of incredibly British-sounding city names, simply refer to the sentence, “To obtain a more precise location, a study of the postal services suggested that it shoule be located in Lancashire, the West Riding of Yorkshire, Cheshire, Nottinghamshire, Leicestershire, Derbyshire or Cumberland” (p. 36).</p>
+<hr>
+<p>In the depths of the library basement, among the dusty, hand-crank bookcases, I finally found the section on Library and Information Science. Skimming the shelves, <em>The Principles of Librarianship</em> by Donald Urquhart seemed short and digestible. While I hoped the book would explain how literature was organized, I was excited at how wrong I was.</p>
+<p>In the elementary school library, massive posters signified different parts of the Dewey Decimal System. After years of seeing these posters, organizing books stuck with me as the library’s purpose, and I forgot about the librarian that helped me find origami books for the first time. </p>
+<p>In middle school and high school, my English classes only ever visited the library when we were doing research projects. Sitting in rooms full of students searching online databases, I brushed off the librarian asking students about their projects as a teacher doing their job. </p>
+<p>One afternoon, a librarian asked me about Bertrand Russell. It became painfully obvious I knew nothing about him or his work, so I grabbed one of his books, checked it out, and took a few notes. His comments on historical set theory stuck with me as I began studying mathematics at university. </p>
+<p>My perception of libraries, librarians, and their purpose was skewed, but my memories of them were always positive. While I enjoyed working in the library, I never truly appreciated why they functioned they way they did, and I wish I had.</p>
+<p><em>To my younger self,</em></p>
+<p><em>Libraries are not just rooms full of books. They are the place of practice for librarians.</em> </p>
+<p><em>Librarians study the needs of their users and adjust their libraries accordingly.</em> </p>
+<p><em>Librarians familiarize themselves with countless fields of study to better guide scholars.</em></p>
+<p><em>Librarians recommend materials they think would benefit you, not necessarily ones they enjoy.</em></p>
+<p><em>Librarians connect with others in their field to leverage resources from countless libraries, all to get you access to the information you need.</em></p>
+<p><em>Librarians optimize their services to help the most people as efficiently and effectively as possible.</em> </p>
+<p><em>Librarians convince funding organizations that the service they provide is worth funding, even though you can’t put a price on information.</em></p>
+<p><em>Every conversation you have with a librarian will be fruitful. They will have insights in whatever work you’re doing, and you’ll almost always walk away with a new direction you want to explore. If you get a book or article or author recommendation, even better. Talk to as many librarians as you can, even if you’re not stuck in your research.</em></p>
+<p><em>Seriously, go talk to some librarians,</em> </p>
+<p><em>Ronik</em></p>
+<p>Recently, I visited my high school library, and I caught up with the librarian that showed me Russell so many years ago. I brought up my current research, and without skipping a beat, he mentioned an author I should look into. The name had been on my list for a while, but I didn’t feel compelled to read any of their works. Given the success of the Russell recommendation, I think I know what I’ll be reading next.</p>
+<hr>
+<p>In case you were wondering, here are the 18 principles of librarianship.</p>
+<ol>
+<li>Libraries are for users.</li>
+<li>The failures of an information supply system to satisfy its users are, as a rule, not obvious.</li>
+<li>Supply creates demand.</li>
+<li>Users must be provided with guides so that they can select the records which may interest them.</li>
+<li>Libraries must be able to provide adequate access to the records users may wish to consult.</li>
+<li>Libraries have to be paid for.</li>
+<li>Libraries, both individually and collectively, must have regard to cost-effectiveness.</li>
+<li>Information cannot be valued as a rule in monetary terms.</li>
+<li>Libraries must have regard to the law of diminishing returns.</li>
+<li>The best is the enemy of the good.</li>
+<li>Unit costs for a particular activity should decrease as the magnitude of the activity increases.</li>
+<li>No library is an island.</li>
+<li>Objective data about users’ requirements should be used in planning developments of libraries.</li>
+<li>In considering the use of new techniques and systems, it is necessary to look at the future, not the past.</li>
+<li>The staff of a library should work as a team.</li>
+<li>A librarian’s post is not a sinecure for a scholar — a librarian’s task is often to facilitate the work of many scholars.</li>
+<li>Libraries can be valuable to society.</li>
+<li>Librarianship is an experimental science.</li>
+</ol>
+]]></content>
+  </entry>
+  <entry>
     <title>No One Should Own This Building</title>
     <url>/no-one-should-own-this-building/</url>
     <content><![CDATA[<img src="/images/cleaned_ai_generated_church.png" alt="AI rendering of a domed church.">
@@ -133,65 +218,6 @@
 ]]></content>
   </entry>
   <entry>
-    <title>Ex Libris: Gadsby (not The Great Gatsby)</title>
-    <url>/ex-libris-gadsby/</url>
-    <content><![CDATA[<p>IMPORTANT: This is about the book <em>Gadsby</em> By Ernest Vincent Wright, not <em>The Great Gatsby</em> by F. Scott Fitzgerald. </p>
-<p>Legend says a man once ripped a piece of twine, tied down the E key on his typewriter, and proceeded to write a 50,000 word novel without the letter E. Original copies of his literary masterpiece now sell for thousands of dollars. He assured his own rise to fame, and everything went smoothly until someone opened his book.</p>
-<h2 id="Gimmicks-Can’t-Save-Bad-Writing"><a href="#Gimmicks-Can’t-Save-Bad-Writing" class="headerlink" title="Gimmicks Can’t Save Bad Writing"></a>Gimmicks Can’t Save Bad Writing</h2><p>Lipograms are a form of constrained writing where the author avoids using one or more particular letters in the piece. While the gimmick entertains audiences, the piece must still be worth reading. The author can get away with less meaningful work, since purpose is contained in the style, but no amount of dropping letters alone makes literature worth reading.</p>
-<p>Typically, a story resolves near the end. Instead, Wright wrote <em>Gadsby</em> like a drawn-out sitcom. After resolving the issue in roughly 10 chapters, he proceeds with 30 more chapters that all revolve around everyone being happy, with no major conflicts ever presented afterwards. Kids grow up and get married. A man that has never worked in politics becomes the mayor with little hassle. A zoo magically opens. Almost every chapter presents a neat and tidy event ending with celebrations from everyone, and Wright could easily end the story there, but he doesn’t, so the book drags on, and the only reason you’re still reading is because you want it to end.</p>
-<p>Applying any amount of critical theory, feminists will have an absolute field day exploring the infinite ways Wright seems to bring up gender norms. Every other chapter finds a way to assert the backwards notions of women necessarily being small and weak and good at cooking and taking care of children while the men are big and strong and good at building. Some may argue Wright’s use of gender roles is expected, since this book was written in the 1930s. With historical context and the advent of World War II, attributing women’s value to having small statures and delicate hands and homemaking was incredibly backwards, with countless women working industrial jobs during the period of wartime economy.</p>
-<p>As if that wasn’t enough, Wright’s inflated ego shows through in his writing. Naturally, Wright is the first-person narrator, depicted as a historian describing the town. Despite separating himself from the events of the story as this all-seeing onlooker, his frequent interjections make you wonder if he’s too convinced of his own story. For example, in chapter VII, he makes a disturbing quip about passing up kissing a snake to instead kiss Lucy, a fictitious child, while he is still the adult historian describing the story.</p>
-<h2 id="The-Failed-Lipogram"><a href="#The-Failed-Lipogram" class="headerlink" title="The Failed Lipogram"></a>The Failed Lipogram</h2><p>I pushed through the book, hoping to gain some linguistic insights. While I give Wright mild credit for calling flowers “blossoming plants” and turkey “Thanksgiving National Bird,” I cannot forgive his egregious errors. Despite Wright’s claims of not using the letter E, the original publication contains three instances of the word “the” and one instance of the word “officers,” totaling 4 E’s in the body of the text.</p>
-<p>Historical records describe Wright’s attempts at publishing all failing, and he had to turn to self-publishing through Wetzel Publishing Co. After reading this book, I finally understand why. Gimmicks won’t save your story, and twine won’t hold down your typewriter’s E key.</p>
-]]></content>
-  </entry>
-  <entry>
-    <title>Ex Libris: The Principles of Librarianship</title>
-    <url>/ex-libris-the-principles-of-librarianship/</url>
-    <content><![CDATA[<p>If you ever need a list of incredibly British-sounding city names, simply refer to the sentence, “To obtain a more precise location, a study of the postal services suggested that it shoule be located in Lancashire, the West Riding of Yorkshire, Cheshire, Nottinghamshire, Leicestershire, Derbyshire or Cumberland” (p. 36).</p>
-<hr>
-<p>In the depths of the library basement, among the dusty, hand-crank bookcases, I finally found the section on Library and Information Science. Skimming the shelves, <em>The Principles of Librarianship</em> by Donald Urquhart seemed short and digestible. While I hoped the book would explain how literature was organized, I was excited at how wrong I was.</p>
-<p>In the elementary school library, massive posters signified different parts of the Dewey Decimal System. After years of seeing these posters, organizing books stuck with me as the library’s purpose, and I forgot about the librarian that helped me find origami books for the first time. </p>
-<p>In middle school and high school, my English classes only ever visited the library when we were doing research projects. Sitting in rooms full of students searching online databases, I brushed off the librarian asking students about their projects as a teacher doing their job. </p>
-<p>One afternoon, a librarian asked me about Bertrand Russell. It became painfully obvious I knew nothing about him or his work, so I grabbed one of his books, checked it out, and took a few notes. His comments on historical set theory stuck with me as I began studying mathematics at university. </p>
-<p>My perception of libraries, librarians, and their purpose was skewed, but my memories of them were always positive. While I enjoyed working in the library, I never truly appreciated why they functioned they way they did, and I wish I had.</p>
-<p><em>To my younger self,</em></p>
-<p><em>Libraries are not just rooms full of books. They are the place of practice for librarians.</em> </p>
-<p><em>Librarians study the needs of their users and adjust their libraries accordingly.</em> </p>
-<p><em>Librarians familiarize themselves with countless fields of study to better guide scholars.</em></p>
-<p><em>Librarians recommend materials they think would benefit you, not necessarily ones they enjoy.</em></p>
-<p><em>Librarians connect with others in their field to leverage resources from countless libraries, all to get you access to the information you need.</em></p>
-<p><em>Librarians optimize their services to help the most people as efficiently and effectively as possible.</em> </p>
-<p><em>Librarians convince funding organizations that the service they provide is worth funding, even though you can’t put a price on information.</em></p>
-<p><em>Every conversation you have with a librarian will be fruitful. They will have insights in whatever work you’re doing, and you’ll almost always walk away with a new direction you want to explore. If you get a book or article or author recommendation, even better. Talk to as many librarians as you can, even if you’re not stuck in your research.</em></p>
-<p><em>Seriously, go talk to some librarians,</em> </p>
-<p><em>Ronik</em></p>
-<p>Recently, I visited my high school library, and I caught up with the librarian that showed me Russell so many years ago. I brought up my current research, and without skipping a beat, he mentioned an author I should look into. The name had been on my list for a while, but I didn’t feel compelled to read any of their works. Given the success of the Russell recommendation, I think I know what I’ll be reading next.</p>
-<hr>
-<p>In case you were wondering, here are the 18 principles of librarianship.</p>
-<ol>
-<li>Libraries are for users.</li>
-<li>The failures of an information supply system to satisfy its users are, as a rule, not obvious.</li>
-<li>Supply creates demand.</li>
-<li>Users must be provided with guides so that they can select the records which may interest them.</li>
-<li>Libraries must be able to provide adequate access to the records users may wish to consult.</li>
-<li>Libraries have to be paid for.</li>
-<li>Libraries, both individually and collectively, must have regard to cost-effectiveness.</li>
-<li>Information cannot be valued as a rule in monetary terms.</li>
-<li>Libraries must have regard to the law of diminishing returns.</li>
-<li>The best is the enemy of the good.</li>
-<li>Unit costs for a particular activity should decrease as the magnitude of the activity increases.</li>
-<li>No library is an island.</li>
-<li>Objective data about users’ requirements should be used in planning developments of libraries.</li>
-<li>In considering the use of new techniques and systems, it is necessary to look at the future, not the past.</li>
-<li>The staff of a library should work as a team.</li>
-<li>A librarian’s post is not a sinecure for a scholar — a librarian’s task is often to facilitate the work of many scholars.</li>
-<li>Libraries can be valuable to society.</li>
-<li>Librarianship is an experimental science.</li>
-</ol>
-]]></content>
-  </entry>
-  <entry>
     <title>Square One</title>
     <url>/square-one/</url>
     <content><![CDATA[<p>After another set of fruitless experiments and abandoned ideas, my mentor told me we were back to square one.</p>
@@ -206,49 +232,6 @@
 <h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ol>
 <li><a href="https://en.wikipedia.org/wiki/Square-1_(puzzle)">Square-1 Puzzle</a></li>
 <li>The discourse surrounding the etymology of “square one” lacks enough rigor to warrant any particular links. Instead, a Google search for “origin of square one” will provide plenty of questionable sources offering one of the three explanations listed above.</li>
-</ol>
-]]></content>
-  </entry>
-  <entry>
-    <title>AM</title>
-    <url>/am/</url>
-    <content><![CDATA[<p>What does AM stand for? Maybe Ante Meridiem, before noon. Or maybe the element Americium (Am). Maybe it’s Artium Magister, a Master of Arts degree. Whatever the case, if you compound masters of the arts over time, you get Arctic Monkeys. </p>
-<p>In 2013, Arctic Monkeys released their fifth studio album, AM. While the title references the band’s name, the cover art says otherwise. Taking inspiration from Velvet Underground, AM’s cover art is a wave with changing heights—amplitude modulation. </p>
-<p>As a recreational mathematician, I looked around the internet, trying to find a decent recreation of the AM cover as a graph, but none of them were good enough. Most stopped at just modulating a sine wave with a broader sine wave, but this method misses one crucial detail: the AM in the middle. Job Bouwman inserts the AM in the middle, but the heights and widths of the letters don’t quite match the cover.</p>
-<p>The Arctic Monkeys weren’t just monkeying around with amplitude modulation. They figured out a clever way to seamlessly insert their initials into the graph. Mark my words, I will do the same. I will recreate the AM cover.</p>
-<p>Rather than spending lots of time setting up a Jupyter Notebook and writing lots of Python code to establish a working development environment, I’m using Desmos. I believe the initial concept art began with a standard modulation of a sine wave inside a sine wave, so I am starting the same way.</p>
-<p><img src="/images/initial_am.png"></p>
-<p>Aha! See? In the center? There is a segment of the graph that can be used for the AM. I’ll mark it in green. This will require removing that purple part, which I see as a bonus. The A and M in the cover have longer wavelengths than the rest of the graph, so stretching the green segment should recreate this well.</p>
-<p><img src="/images/am_annotated.png"></p>
-<p>After stretching the green segment of the graph, the height of each portion will need to be adjusted. Maybe I’m just throwing a hammer at a screw, but a sigmoid function looks like it will do the trick. A few adjustments later, and we have this:</p>
-<p><img src="/images/am_final.png"></p>
-<p>A few minutes ago, I was perfectly happy with this result, but that is no longer the case. Yes, I completed what I set out to do, but the closer I get, the farther I feel. The M needs to be more rectangular. My approximation isn’t actually a continuous function, much less a differentiable one. Looking at the two side-by-side, I can no longer see their similarities, only their differences. Recreating this cover art was supposed to be about a quick recreational math project, but now I feel obliged to honor this album. If imitation is the sincerest form of flattery, are better imitations more flattering?</p>
-<p>After this project, I suppose not. By acknowledging the distance between my imitation and the original, I can do justice to the beauty it holds. I may have not recreated the cover perfectly, but I can certainly appreciate it much more now than I could when I first saw it. This is no Absent Minded Advanced Math. This is AM. </p>
-<hr>
-<ol>
-<li><p><a href="https://www.nme.com/news/music/arctic-monkeys-178-1266582">Influence of VU on AM</a></p>
-</li>
-<li><p><a href="https://www.quora.com/What-function-is-Arctic-Monkeys-album-cover">Job Bouwman’s approximation</a></p>
-</li>
-<li><p><a href="https://www.desmos.com/calculator/v37m6icmwg">My recreation</a></p>
-</li>
-</ol>
-]]></content>
-  </entry>
-  <entry>
-    <title>The Connoisseur of Random: Lava Lamps are Protecting your Data</title>
-    <url>/the-connoisseur-of-random-lava-lamps-are-protecting-your-data/</url>
-    <content><![CDATA[<p>Have you ever used the Canva website? How about Etsy, Walmart, or even Best Buy? If so, congrats! Your data is being protected by lava lamps.</p>
-<p>Cloudflare is one of the largest global networks, securely providing you access to many of your favorite websites. In an attempt to generate more secure encryption keys, they turned to lava lamps. While lava lamps are deterministic—they follow an exact set of rules in a particular order—they are mathematically chaotic, meaning that approximate initial conditions won’t tell you the final outcome. If you are even slightly off when trying to simulate a lava lamp, your results will be almost entirely inaccurate.</p>
-<p>Additionally, Cloudflare uses a double pendulum and uranium decay to generate chaos, but that’s beyond the scope of this archive.</p>
-<p>Using lava lamps to generate random numbers isn’t a new idea. Back in 1996, Lavarand began using lava lamps to generate random numbers. They took the data from images of lava lamp arrays, and used them as seeds for pseudorandom number generators. Naturally, the use of a pseudorandom number generator makes the process a bit less safe, but it’s nice to see they were taking precautions.</p>
-<p>Pseudorandom number generation is too well understood to be used in cryptography, so Cloudflare imposes two additional rules on their random number generation to keep your data secure. First, their numbers should pass statistical tests that prove unpredictability. If you can find patterns in your data, it’s hard to call it random (I have another archive on the way about this topic). Second, if someone knows how part—not all—of the program works, they still shouldn’t be able to predict the random numbers. </p>
-<p>So, the next time you’re shopping on Etsy or Walmart.com, remember that you’re safe. You have lava lamps protecting you. </p>
-<p><em>Disclaimer: I am not affiliated with Cloudflare in any way, and these statements are entirely my own.</em></p>
-<hr>
-<h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ol>
-<li><a href="https://www.cloudflare.com/learning/ssl/lava-lamp-encryption/">Cloudflare Uses Lava Lamps</a></li>
-<li><a href="https://web.archive.org/web/19971210213248/http://lavarand.sgi.com/">Lavarand Web Archive</a></li>
 </ol>
 ]]></content>
   </entry>
@@ -269,6 +252,47 @@
 <li><a href="https://www.rand.org/content/dam/rand/pubs/papers/2008/P113.pdf">RAND Corporation’s History of Random Digits</a></li>
 <li><a href="https://www.amazon.com/Million-Random-Digits-Normal-Deviates/dp/0833030477">Book of A Million Random Digits</a></li>
 <li><a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjwx8Pt08D6AhU2lIkEHf8jAqcQFnoECAgQAQ&url=https://www.mdpi.com/2079-9292/10/13/1517/pdf&usg=AOvVaw1PiU7pbgXdIviYWLFI4TgC">Random Number Circuit Using Frequencies</a></li>
+</ol>
+]]></content>
+  </entry>
+  <entry>
+    <title>The Beginning of Tau</title>
+    <url>/the-beginning-of-tau/</url>
+    <content><![CDATA[<p>Happy Tau Day, the day when you’re supposed to eat two pies. As an avid Pi Day enthusiast, June 28th provides the perfect opportunity to celebrate twice! All the major festivities you see on Pi Day, from memorizing digits to making music to baking fruit manifolds with crust boundaries, it’s all there on Tau Day. Ultimate Tau Day (6&#x2F;28&#x2F;31) is only eight years away, so start preparing before it’s too late.</p>
+<p>Part of the beauty of Tau (τ) is that it has a life outside of being the ratio of a circle’s circumference to its radius. π has been featured in too many blockbuster equations and gets recognized everywhere. While τ is a lesser known celebrity, it can explore other fields, like particle physics and neuroscience and programming languages.</p>
+<p>Pi and Tau day are wonderful, but they’re not alone. Mathematically wonderful dates are everywhere. Other than just being Tau Day, the numbers in today’s date (6&#x2F;28&#x2F;23) provide a beautiful equation—</p>
+<p>$$\Gamma(6) &#x3D; (28 - 23)!$$</p>
+<p>—with ! denoting factorial, but also excitement because this is exciting. Tomorrow gives us an even simpler equation:</p>
+<p>$$6 &#x3D; 29 - 23$$</p>
+<p>And yesterday worked out quite nicely as well:</p>
+<p>$$6 &#x3D; \Gamma(27 - 23)$$</p>
+<p>For years, I’ve played this little game with the date, trying to insert non-digit symbols around and between the numbers, creating a valid equation while preserving their order from left to right. I recommend you try it too, it’s a nice way to spend a few minutes. Today, I built a toy programming language (thanks τ) whose programs are valid date equations. Then I wrote a script that searched through a finite space of potential programs to find valid ones for the given date. It generated the solutions for the dates I just listed.</p>
+<p>After playing this game for years, I’ve realized that finding an equation for the date is always possible. In fact, there are universal solutions, though they’re not always very exciting. For example, by taking advantage of properties of the sine function:</p>
+<p>$$ \forall m, d, y \in \mathbb{N}, \sin((m + d)\tau) &#x3D; \sin(y\tau) $$</p>
+<p>Strangely, celebrating τ allows us to celebrate other days of the year rather mathematically. Yes, τ is a superstar, but it allows us to celebrate others through its mere presence. </p>
+<p>The Tau Manifesto was written in 2010, spreading the voices of those who carried τ on their backs for years in relative silence. While the Tau Day community has certainly come a far way since then, τ is far from the spotlight it deserves. Until that moment, celebrate each day mathematically. This is just the beginning.</p>
+<hr>
+<h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ol>
+<li><a href="https://tauday.com/">The Official Tau Day Website</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Tau_(particle)">The Tau Particle</a></li>
+<li><a href="https://www.alz.org/media/Documents/alzheimers-dementia-tau-ts.pdf">Tau in Alzheimer’s Research</a></li>
+</ol>
+]]></content>
+  </entry>
+  <entry>
+    <title>The Connoisseur of Random: Lava Lamps are Protecting your Data</title>
+    <url>/the-connoisseur-of-random-lava-lamps-are-protecting-your-data/</url>
+    <content><![CDATA[<p>Have you ever used the Canva website? How about Etsy, Walmart, or even Best Buy? If so, congrats! Your data is being protected by lava lamps.</p>
+<p>Cloudflare is one of the largest global networks, securely providing you access to many of your favorite websites. In an attempt to generate more secure encryption keys, they turned to lava lamps. While lava lamps are deterministic—they follow an exact set of rules in a particular order—they are mathematically chaotic, meaning that approximate initial conditions won’t tell you the final outcome. If you are even slightly off when trying to simulate a lava lamp, your results will be almost entirely inaccurate.</p>
+<p>Additionally, Cloudflare uses a double pendulum and uranium decay to generate chaos, but that’s beyond the scope of this archive.</p>
+<p>Using lava lamps to generate random numbers isn’t a new idea. Back in 1996, Lavarand began using lava lamps to generate random numbers. They took the data from images of lava lamp arrays, and used them as seeds for pseudorandom number generators. Naturally, the use of a pseudorandom number generator makes the process a bit less safe, but it’s nice to see they were taking precautions.</p>
+<p>Pseudorandom number generation is too well understood to be used in cryptography, so Cloudflare imposes two additional rules on their random number generation to keep your data secure. First, their numbers should pass statistical tests that prove unpredictability. If you can find patterns in your data, it’s hard to call it random (I have another archive on the way about this topic). Second, if someone knows how part—not all—of the program works, they still shouldn’t be able to predict the random numbers. </p>
+<p>So, the next time you’re shopping on Etsy or Walmart.com, remember that you’re safe. You have lava lamps protecting you. </p>
+<p><em>Disclaimer: I am not affiliated with Cloudflare in any way, and these statements are entirely my own.</em></p>
+<hr>
+<h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ol>
+<li><a href="https://www.cloudflare.com/learning/ssl/lava-lamp-encryption/">Cloudflare Uses Lava Lamps</a></li>
+<li><a href="https://web.archive.org/web/19971210213248/http://lavarand.sgi.com/">Lavarand Web Archive</a></li>
 </ol>
 ]]></content>
   </entry>
@@ -345,30 +369,6 @@
 ]]></content>
   </entry>
   <entry>
-    <title>The Beginning of Tau</title>
-    <url>/the-beginning-of-tau/</url>
-    <content><![CDATA[<p>Happy Tau Day, the day when you’re supposed to eat two pies. As an avid Pi Day enthusiast, June 28th provides the perfect opportunity to celebrate twice! All the major festivities you see on Pi Day, from memorizing digits to making music to baking fruit manifolds with crust boundaries, it’s all there on Tau Day. Ultimate Tau Day (6&#x2F;28&#x2F;31) is only eight years away, so start preparing before it’s too late.</p>
-<p>Part of the beauty of Tau (τ) is that it has a life outside of being the ratio of a circle’s circumference to its radius. π has been featured in too many blockbuster equations and gets recognized everywhere. While τ is a lesser known celebrity, it can explore other fields, like particle physics and neuroscience and programming languages.</p>
-<p>Pi and Tau day are wonderful, but they’re not alone. Mathematically wonderful dates are everywhere. Other than just being Tau Day, the numbers in today’s date (6&#x2F;28&#x2F;23) provide a beautiful equation—</p>
-<p>$$\Gamma(6) &#x3D; (28 - 23)!$$</p>
-<p>—with ! denoting factorial, but also excitement because this is exciting. Tomorrow gives us an even simpler equation:</p>
-<p>$$6 &#x3D; 29 - 23$$</p>
-<p>And yesterday worked out quite nicely as well:</p>
-<p>$$6 &#x3D; \Gamma(27 - 23)$$</p>
-<p>For years, I’ve played this little game with the date, trying to insert non-digit symbols around and between the numbers, creating a valid equation while preserving their order from left to right. I recommend you try it too, it’s a nice way to spend a few minutes. Today, I built a toy programming language (thanks τ) whose programs are valid date equations. Then I wrote a script that searched through a finite space of potential programs to find valid ones for the given date. It generated the solutions for the dates I just listed.</p>
-<p>After playing this game for years, I’ve realized that finding an equation for the date is always possible. In fact, there are universal solutions, though they’re not always very exciting. For example, by taking advantage of properties of the sine function:</p>
-<p>$$ \forall m, d, y \in \mathbb{N}, \sin((m + d)\tau) &#x3D; \sin(y\tau) $$</p>
-<p>Strangely, celebrating τ allows us to celebrate other days of the year rather mathematically. Yes, τ is a superstar, but it allows us to celebrate others through its mere presence. </p>
-<p>The Tau Manifesto was written in 2010, spreading the voices of those who carried τ on their backs for years in relative silence. While the Tau Day community has certainly come a far way since then, τ is far from the spotlight it deserves. Until that moment, celebrate each day mathematically. This is just the beginning.</p>
-<hr>
-<h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ol>
-<li><a href="https://tauday.com/">The Official Tau Day Website</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Tau_(particle)">The Tau Particle</a></li>
-<li><a href="https://www.alz.org/media/Documents/alzheimers-dementia-tau-ts.pdf">Tau in Alzheimer’s Research</a></li>
-</ol>
-]]></content>
-  </entry>
-  <entry>
     <title>About Me</title>
     <url>/about/index.html</url>
     <content><![CDATA[<style>
@@ -416,6 +416,16 @@
 <p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
   </entry>
   <entry>
+    <title>Discord Scraper</title>
+    <url>/projects/discord_scraper.html</url>
+    <content><![CDATA[<p>Access the source files <a href="https://github.com/ronikbhaskar/discord_scraper">here</a>. </p>
+<h2 id="Disclaimer"><a href="#Disclaimer" class="headerlink" title="Disclaimer"></a>Disclaimer</h2><p>Botting your Discord account violates their Terms of Service. I do not use this scraper, nor will I, and I recommend you never use it either. This is solely for educational purposes.</p>
+<h2 id="Theoretical-Use-Cases"><a href="#Theoretical-Use-Cases" class="headerlink" title="Theoretical Use Cases"></a>Theoretical Use Cases</h2><p>Hypothetically speaking, wouldn’t it be cool to go through your server’s chat history, run the text through a Markov Chain generator, and spit out some nonsense for you all to laugh at? Just a thought. It would be tedious, copying every message by hand, but it’s definitely doable, so that’s how you should do it. By hand.</p>
+<h2 id="Getting-your-Access-Token"><a href="#Getting-your-Access-Token" class="headerlink" title="Getting your Access Token"></a>Getting your Access Token</h2><p>Now, having access to the Discord API requires an Access Token, and no one would know how to get their access token. I mean, who is going to open Discord in Chrome, open the inspector, switch to mobile&#x2F;tablet display, go to the Application tab, find the sidebar section labeled Storage, select <a href="https://discord.com/">https://discord.com</a> from the Local Storage dropdown, search token, and copy the value from the Key-Value pair? That’s a ridiculous number of hoops to jump through, and I can’t imagine anyone figuring that out on their own. </p>
+<hr>
+<p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
+  </entry>
+  <entry>
     <title>Discord Bot</title>
     <url>/projects/discord_bot.html</url>
     <content><![CDATA[<p>Access the source files <a href="https://github.com/ronikbhaskar/discord_bot">here</a>. </p>
@@ -442,16 +452,6 @@
 <ul>
 <li>just @ mention Igor in your message and maybe you’ll get a response</li>
 </ul>
-<hr>
-<p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>Discord Scraper</title>
-    <url>/projects/discord_scraper.html</url>
-    <content><![CDATA[<p>Access the source files <a href="https://github.com/ronikbhaskar/discord_scraper">here</a>. </p>
-<h2 id="Disclaimer"><a href="#Disclaimer" class="headerlink" title="Disclaimer"></a>Disclaimer</h2><p>Botting your Discord account violates their Terms of Service. I do not use this scraper, nor will I, and I recommend you never use it either. This is solely for educational purposes.</p>
-<h2 id="Theoretical-Use-Cases"><a href="#Theoretical-Use-Cases" class="headerlink" title="Theoretical Use Cases"></a>Theoretical Use Cases</h2><p>Hypothetically speaking, wouldn’t it be cool to go through your server’s chat history, run the text through a Markov Chain generator, and spit out some nonsense for you all to laugh at? Just a thought. It would be tedious, copying every message by hand, but it’s definitely doable, so that’s how you should do it. By hand.</p>
-<h2 id="Getting-your-Access-Token"><a href="#Getting-your-Access-Token" class="headerlink" title="Getting your Access Token"></a>Getting your Access Token</h2><p>Now, having access to the Discord API requires an Access Token, and no one would know how to get their access token. I mean, who is going to open Discord in Chrome, open the inspector, switch to mobile&#x2F;tablet display, go to the Application tab, find the sidebar section labeled Storage, select <a href="https://discord.com/">https://discord.com</a> from the Local Storage dropdown, search token, and copy the value from the Key-Value pair? That’s a ridiculous number of hoops to jump through, and I can’t imagine anyone figuring that out on their own. </p>
 <hr>
 <p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
   </entry>
@@ -646,22 +646,6 @@
 <p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
   </entry>
   <entry>
-    <title>Turning Obsidian into a Markdown Editor</title>
-    <url>/projects/obsidian-editor.html</url>
-    <content><![CDATA[<p>This file was created using <code>obsidian.py</code>. The source code is available <a href="https://github.com/ronikbhaskar/obsidian-editor">here</a>.</p>
-<h2 id="Background"><a href="#Background" class="headerlink" title="Background"></a>Background</h2><p>I have no issues with what Obsidian is. My only complaint is with what it <em>isn’t</em>: a Markdown editor.</p>
-<p>I know you can edit Markdown in Obsidian, but that’s not what I’m talking about. I mean editing <em>any</em> .md file in Obsidian. Right now, you’re limited to your vault, which makes sense, since Obsidian is a note-taking app–a second brain app. Everything you need is right there in your vault. The thing is, I don’t really care for the whole “second brain” thing. I tried it for a bit, but it really didn’t stick. It’s a nice place to put notes if I don’t know where else to put them, but sometimes I just wanna edit a Markdown file with Obsidian’s QoL. </p>
-<h2 id="The-Hack"><a href="#The-Hack" class="headerlink" title="The Hack"></a>The Hack</h2><p>I don’t call this a hack to be arrogant or even facetious. I just mean I wanted to make technology do something it wasn’t created to do. I wanted to turn Obsidian into an editor. </p>
-<p>There are a few approaches to this method. The first that probably comes to most people’s minds is to edit Obsidian’s view of your file system so it thinks your whole computer is a vault. I didn’t do that, but that would be really cool. Instead, I just wrote a script that copies your .md file into your vault and copies it back when you’re done. Definitely not the most elegant solution, but it works for my purposes.</p>
-<h2 id="Setbacks"><a href="#Setbacks" class="headerlink" title="Setbacks"></a>Setbacks</h2><p>The issues with this project were unrelated to the actual manipulation of the vault. Instead, I realized that in order to take advantage of Obsidian’s features, I would have to engineer changes on top of them to make them compatible with any mainstream Markdown editor. </p>
-<p>In particular, Obsidian’s image linking is fantastic, especially combined with their drag-and-drop feature for images. The problem is that Markdown doesn’t usually support images linked like this: ![[image.img]]</p>
-<p>So, I had to find all the instances of images like those, reformat them, and when copying the Markdown, copy the linked files as well. While I did learn a bit more about regex in the process, the solution is quite messy and works under fairly strong assumptions. Nevertheless, it works.</p>
-<h2 id="Improvements"><a href="#Improvements" class="headerlink" title="Improvements"></a>Improvements</h2><p>Image-linking isn’t the only useful feature in Obsidian. Making more of these QoL standards available through this script means I can take full advantage of the tools Obsidian offers. For example, linking pdfs, better tables, and tags would all be fantastic if I could integrate &#x2F; hide them seamlessly with this script. Or, I could add <code>scp</code> support so I can use this on ssh servers. </p>
-<p>I probably won’t do any of that that, since I don’t really like doing more than making quick prototypes to prove that I can. Who knows? Maybe some day.</p>
-<hr>
-<p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
-  </entry>
-  <entry>
     <title>The Oracle Society</title>
     <url>/projects/oracle_society.html</url>
     <content><![CDATA[<p>CW: violence, kidnapping, murder.</p>
@@ -680,6 +664,22 @@
 <li><p>I didn’t playtest the final version of the game enough.</p>
 </li>
 </ol>
+<hr>
+<p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>Turning Obsidian into a Markdown Editor</title>
+    <url>/projects/obsidian-editor.html</url>
+    <content><![CDATA[<p>This file was created using <code>obsidian.py</code>. The source code is available <a href="https://github.com/ronikbhaskar/obsidian-editor">here</a>.</p>
+<h2 id="Background"><a href="#Background" class="headerlink" title="Background"></a>Background</h2><p>I have no issues with what Obsidian is. My only complaint is with what it <em>isn’t</em>: a Markdown editor.</p>
+<p>I know you can edit Markdown in Obsidian, but that’s not what I’m talking about. I mean editing <em>any</em> .md file in Obsidian. Right now, you’re limited to your vault, which makes sense, since Obsidian is a note-taking app–a second brain app. Everything you need is right there in your vault. The thing is, I don’t really care for the whole “second brain” thing. I tried it for a bit, but it really didn’t stick. It’s a nice place to put notes if I don’t know where else to put them, but sometimes I just wanna edit a Markdown file with Obsidian’s QoL. </p>
+<h2 id="The-Hack"><a href="#The-Hack" class="headerlink" title="The Hack"></a>The Hack</h2><p>I don’t call this a hack to be arrogant or even facetious. I just mean I wanted to make technology do something it wasn’t created to do. I wanted to turn Obsidian into an editor. </p>
+<p>There are a few approaches to this method. The first that probably comes to most people’s minds is to edit Obsidian’s view of your file system so it thinks your whole computer is a vault. I didn’t do that, but that would be really cool. Instead, I just wrote a script that copies your .md file into your vault and copies it back when you’re done. Definitely not the most elegant solution, but it works for my purposes.</p>
+<h2 id="Setbacks"><a href="#Setbacks" class="headerlink" title="Setbacks"></a>Setbacks</h2><p>The issues with this project were unrelated to the actual manipulation of the vault. Instead, I realized that in order to take advantage of Obsidian’s features, I would have to engineer changes on top of them to make them compatible with any mainstream Markdown editor. </p>
+<p>In particular, Obsidian’s image linking is fantastic, especially combined with their drag-and-drop feature for images. The problem is that Markdown doesn’t usually support images linked like this: ![[image.img]]</p>
+<p>So, I had to find all the instances of images like those, reformat them, and when copying the Markdown, copy the linked files as well. While I did learn a bit more about regex in the process, the solution is quite messy and works under fairly strong assumptions. Nevertheless, it works.</p>
+<h2 id="Improvements"><a href="#Improvements" class="headerlink" title="Improvements"></a>Improvements</h2><p>Image-linking isn’t the only useful feature in Obsidian. Making more of these QoL standards available through this script means I can take full advantage of the tools Obsidian offers. For example, linking pdfs, better tables, and tags would all be fantastic if I could integrate &#x2F; hide them seamlessly with this script. Or, I could add <code>scp</code> support so I can use this on ssh servers. </p>
+<p>I probably won’t do any of that that, since I don’t really like doing more than making quick prototypes to prove that I can. Who knows? Maybe some day.</p>
 <hr>
 <p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
   </entry>
@@ -718,6 +718,51 @@ table, th {
 <p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
   </entry>
   <entry>
+    <title>Ultimate Tic Tac Toe</title>
+    <url>/projects/ultimate_tic_tac_toe.html</url>
+    <content><![CDATA[<p>Play the game <a href="https://ronikbhaskar.github.io/ultimate_tic_tac_toe">here</a>. Grab a friend (or enemy) because this game requires two people.</p>
+<img src="misc_images/ultimate_tic_tac_toe_game.png" class="display-image" alt="A game of ultimate tic tac toe."> 
+
+<h2 id="Background"><a href="#Background" class="headerlink" title="Background"></a>Background</h2><p>Tic Tac Toe is incredibly boring. For most people, the game is synonymous with “draw” or “tie” or “cat’s game.” At some point in middle school, I was introduced to Ultimate Tic Tac Toe, a game of Tic Tac Toe with nine smaller games of Tic Tac Toe happening inside of it. </p>
+<p>I didn’t play it much because keeping track of the last moves and legal actions was a bit tedious, but it was a really fun way to pass the time. Rather than manage all the boring stuff on my own, I decided to let a computer do it for me.</p>
+<h2 id="Rules"><a href="#Rules" class="headerlink" title="Rules"></a>Rules</h2><p>I explain the rules on the README for the project, but I’ve also included them below. You can access the source for the project <a href="https://github.com/ronikbhaskar/ultimate_tic_tac_toe">here</a>.</p>
+<h4 id="x-goes-first…"><a href="#x-goes-first…" class="headerlink" title="x goes first…"></a><strong>x goes first…</strong></h4><ul>
+<li>On the first move, <strong>x</strong> can play anywhere on the board.</li>
+</ul>
+<h4 id="o-goes-second…"><a href="#o-goes-second…" class="headerlink" title="o goes second…"></a><strong>o goes second…</strong></h4><ul>
+<li><strong>o</strong> can only play in the section of the global board that corresponds to where <strong>x</strong> played in the local board.<ul>
+<li>ex. If <strong>x</strong> plays in the center of the top left board, then <strong>o</strong> can play anywhere in the center board.</li>
+</ul>
+</li>
+</ul>
+<h4 id="the-game-repeats…"><a href="#the-game-repeats…" class="headerlink" title="the game repeats…"></a><strong>the game repeats…</strong></h4><ul>
+<li>Now <strong>x</strong> is restricted to the section that corresponds to <strong>o</strong>‘s last move.</li>
+<li>If the corresponding section has been won (more on that later), or it is full, the player can play anywhere.</li>
+</ul>
+<h4 id="until-someone-wins"><a href="#until-someone-wins" class="headerlink" title="until someone wins."></a><strong>until someone wins.</strong></h4><ul>
+<li>If you get 3 in a row in a local board, you win that board.</li>
+<li>If the local board is a draw, no one gets it.</li>
+<li>Three local boards in a row, and you win the game.</li>
+<li>If the game finishes without anyone getting 3 local boards in a row, it’s a draw.</li>
+</ul>
+<hr>
+<p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>Text Generator</title>
+    <url>/projects/text_generator.html</url>
+    <content><![CDATA[<p>Try generating some text <a href="https://ronikbhaskar.github.io/text_generator">here</a>. While I can’t guarantee it’ll be meaningful, it is a lot of fun.</p>
+<p>This is a combined summary of the original project in Python, and the subsequent translation to JS.</p>
+<h2 id="Background"><a href="#Background" class="headerlink" title="Background"></a>Background</h2><p>Language is weird. We keep making rules and breaking them, one phrase can mean 15 different things, and despite having tens of thousands of words at our disposal, we can’t always convey exactly what we want to.</p>
+<p>Language is weird, and I love it. Let’s say you start with the word “once.” Whenever you see “once,” you can usually follow it with “upon.” If you see “upon,” you can probably follow it with “a.” Why not generate sentences and paragraphs with probabilities?</p>
+<h2 id="Logic"><a href="#Logic" class="headerlink" title="Logic"></a>Logic</h2><p>Markov chains sound scary, but they’re not. Remember the game Snakes and Ladders? When you’re playing, you’re always on a square on the board. When you roll the dice, you have certain probabilities of moving to different squares. Some have a really high probability, like going from 1 to 6, and others are impossible, like going from 1 to 100. That’s exactly what a Markov chain is. From any given state (square), you have a given probability (dice) of moving to another state.</p>
+<p>That’s great and all, but where does language fit into this? Take that Snakes and Ladders game. Assign each square a word. Every time you land on a new word, you write it down. After playing a full game, you will have a long string of words. Some sections might sound meaningful, others might not. This project takes long pieces of text, pretends like they’re recorded games of Snakes and Ladders, and tries to rebuild the board. On that new board, you can play as many games as you’d like, and most of the time, your string of words will be different.</p>
+<h2 id="Code"><a href="#Code" class="headerlink" title="Code"></a>Code</h2><p>The web project, with the original instructions for collaborators, can be found <a href="https://github.com/ronikbhaskar/text_generator">here</a>.</p>
+<p>The original Python code can be found <a href="https://github.com/ronikbhaskar/markov_text_generation">here</a>. The README has a sample generated from Sun Tzu’s <em>The Art of War</em>.</p>
+<hr>
+<p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
+  </entry>
+  <entry>
     <title>Tomato Timer</title>
     <url>/projects/tomato_timer.html</url>
     <content><![CDATA[<style>
@@ -751,51 +796,6 @@ table, th {
 <p>My other comment is on the fact that they were called “golden.” Why? Tomatoes are red, aren’t they? Well, they didn’t always have that distinct red. Fifteen hundred years ago, it was much less common to find deep red tomatoes. Instead, many were yellow when ripe. This was around the time that tomatoes were being brought back to Europe, thus giving rise to the name “pomodoro.”</p>
 <h2 id="Resources"><a href="#Resources" class="headerlink" title="Resources"></a>Resources</h2><p><a href="https://developer.chrome.com/docs/extensions/mv3/getstarted/">Google’s Getting Started Guide and Documentation</a></p>
 <p><a href="https://iconduck.com/emojis/96851/tomato">Logo Source (not my own design)</a></p>
-<hr>
-<p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>Text Generator</title>
-    <url>/projects/text_generator.html</url>
-    <content><![CDATA[<p>Try generating some text <a href="https://ronikbhaskar.github.io/text_generator">here</a>. While I can’t guarantee it’ll be meaningful, it is a lot of fun.</p>
-<p>This is a combined summary of the original project in Python, and the subsequent translation to JS.</p>
-<h2 id="Background"><a href="#Background" class="headerlink" title="Background"></a>Background</h2><p>Language is weird. We keep making rules and breaking them, one phrase can mean 15 different things, and despite having tens of thousands of words at our disposal, we can’t always convey exactly what we want to.</p>
-<p>Language is weird, and I love it. Let’s say you start with the word “once.” Whenever you see “once,” you can usually follow it with “upon.” If you see “upon,” you can probably follow it with “a.” Why not generate sentences and paragraphs with probabilities?</p>
-<h2 id="Logic"><a href="#Logic" class="headerlink" title="Logic"></a>Logic</h2><p>Markov chains sound scary, but they’re not. Remember the game Snakes and Ladders? When you’re playing, you’re always on a square on the board. When you roll the dice, you have certain probabilities of moving to different squares. Some have a really high probability, like going from 1 to 6, and others are impossible, like going from 1 to 100. That’s exactly what a Markov chain is. From any given state (square), you have a given probability (dice) of moving to another state.</p>
-<p>That’s great and all, but where does language fit into this? Take that Snakes and Ladders game. Assign each square a word. Every time you land on a new word, you write it down. After playing a full game, you will have a long string of words. Some sections might sound meaningful, others might not. This project takes long pieces of text, pretends like they’re recorded games of Snakes and Ladders, and tries to rebuild the board. On that new board, you can play as many games as you’d like, and most of the time, your string of words will be different.</p>
-<h2 id="Code"><a href="#Code" class="headerlink" title="Code"></a>Code</h2><p>The web project, with the original instructions for collaborators, can be found <a href="https://github.com/ronikbhaskar/text_generator">here</a>.</p>
-<p>The original Python code can be found <a href="https://github.com/ronikbhaskar/markov_text_generation">here</a>. The README has a sample generated from Sun Tzu’s <em>The Art of War</em>.</p>
-<hr>
-<p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>Ultimate Tic Tac Toe</title>
-    <url>/projects/ultimate_tic_tac_toe.html</url>
-    <content><![CDATA[<p>Play the game <a href="https://ronikbhaskar.github.io/ultimate_tic_tac_toe">here</a>. Grab a friend (or enemy) because this game requires two people.</p>
-<img src="misc_images/ultimate_tic_tac_toe_game.png" class="display-image" alt="A game of ultimate tic tac toe."> 
-
-<h2 id="Background"><a href="#Background" class="headerlink" title="Background"></a>Background</h2><p>Tic Tac Toe is incredibly boring. For most people, the game is synonymous with “draw” or “tie” or “cat’s game.” At some point in middle school, I was introduced to Ultimate Tic Tac Toe, a game of Tic Tac Toe with nine smaller games of Tic Tac Toe happening inside of it. </p>
-<p>I didn’t play it much because keeping track of the last moves and legal actions was a bit tedious, but it was a really fun way to pass the time. Rather than manage all the boring stuff on my own, I decided to let a computer do it for me.</p>
-<h2 id="Rules"><a href="#Rules" class="headerlink" title="Rules"></a>Rules</h2><p>I explain the rules on the README for the project, but I’ve also included them below. You can access the source for the project <a href="https://github.com/ronikbhaskar/ultimate_tic_tac_toe">here</a>.</p>
-<h4 id="x-goes-first…"><a href="#x-goes-first…" class="headerlink" title="x goes first…"></a><strong>x goes first…</strong></h4><ul>
-<li>On the first move, <strong>x</strong> can play anywhere on the board.</li>
-</ul>
-<h4 id="o-goes-second…"><a href="#o-goes-second…" class="headerlink" title="o goes second…"></a><strong>o goes second…</strong></h4><ul>
-<li><strong>o</strong> can only play in the section of the global board that corresponds to where <strong>x</strong> played in the local board.<ul>
-<li>ex. If <strong>x</strong> plays in the center of the top left board, then <strong>o</strong> can play anywhere in the center board.</li>
-</ul>
-</li>
-</ul>
-<h4 id="the-game-repeats…"><a href="#the-game-repeats…" class="headerlink" title="the game repeats…"></a><strong>the game repeats…</strong></h4><ul>
-<li>Now <strong>x</strong> is restricted to the section that corresponds to <strong>o</strong>‘s last move.</li>
-<li>If the corresponding section has been won (more on that later), or it is full, the player can play anywhere.</li>
-</ul>
-<h4 id="until-someone-wins"><a href="#until-someone-wins" class="headerlink" title="until someone wins."></a><strong>until someone wins.</strong></h4><ul>
-<li>If you get 3 in a row in a local board, you win that board.</li>
-<li>If the local board is a draw, no one gets it.</li>
-<li>Three local boards in a row, and you win the game.</li>
-<li>If the game finishes without anyone getting 3 local boards in a row, it’s a draw.</li>
-</ul>
 <hr>
 <p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
   </entry>
