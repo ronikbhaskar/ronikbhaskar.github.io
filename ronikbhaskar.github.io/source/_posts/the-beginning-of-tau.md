@@ -1,6 +1,6 @@
 ---
 title: The Beginning of Tau
-date: 2023-06-30 22:04:54
+date: 2023-06-28 22:04:54
 tags:
 ---
 
