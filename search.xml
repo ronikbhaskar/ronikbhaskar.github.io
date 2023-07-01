@@ -1,40 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Ex Libris: Cat&#39;s Cradle</title>
-    <url>/ex-libris-cats-cradle/</url>
-    <content><![CDATA[<p>On Christmas this year, I read one of the most famous Christmas novels of all time: <em>Cat’s Cradle</em>, by Kurt Vonnegut. This book is so powerful, it constituted a master’s thesis in anthropology in the eyes of the University of Chicago. Countless experts have analyzed this book throughout the past 59 years. Following behind 59 years of thorough analysis, I do not believe I can meaningfully contribute to the discussion of this novel’s themes.</p>
-<p>So I won’t.</p>
-<p>∴</p>
-<p>Instead, it’s the typography of this book allures me. Between each of the 127 chapters are three dots, arranged in a triangle, left aligned with the body of text that follows. The symbol is called an “asterism”, named after the astronomical term for a pattern of stars. Typographers use asterisms to visually cue a break in the text to the reader. </p>
-<p>∴</p>
-<p>Except, the symbol in the book isn’t really an asterism. Asterisms are constructed with asterisks, and dots are not asterisks. Therefore, this symbol is not an asterism. The symbol is therefore. </p>
-<p>No, I did not forget to finish that sentence. The symbol is therefore. In formal logic, three dots in the form of a triangle represent logical conclusion. Read aloud, they are pronounced, “therefore.” For example, “All humans are mortal. I am human. ∴ I am mortal.” </p>
-<p>Unlike most conclusions, logical conclusions are absolutely true. If you accept the premises (the statements before the ∴), then you must accept the conclusion (the statement after the ∴) to be true without exception. If there are no premises, the conclusion is always true, no matter what. </p>
-<p>∴</p>
-<p>At the beginning of each chapter is empty space, followed by the three dots, followed by the entire chapter. As a student of logic, I read each chapter like a logical conclusion. It must necessarily be true, despite the book being fiction. The book that uses lies to comment on lies with more lies, must necessarily be true. </p>
-<p>It’s not just the text. The table of contents must necessarily be true. The title, written alone on the fourth page, must necessarily be true. Even the list of Vonnegut’s other works on page three begins with the three dots. Therefore, they must be true. It is all true. We can conclude every statement in this novel without premise.</p>
-<p>If I wasn’t a student of logic, then I wouldn’t have noticed this. If I wasn’t a student of logic, then I wouldn’t have dug down a rabbit hole of asterisms and typography. If I wasn’t a student of logic, then I wouldn’t have written this archive, and you wouldn’t have read it. As it happens—“As it was <em>supposed</em> to happen,” Bokonon would say—I am.</p>
-<hr>
-<h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ol>
-<li><a href="https://web.archive.org/web/20120419003715/http://chicagomaroon.com/2007/4/13/alumnus-vonnegut-dead-at-84/">Vonnegut Awarded Master’s Thesis for <em>Cat’s Cradle</em> (Archive)</a></li>
-</ol>
-<p>The rest are Wikipedia links.</p>
-<ol start="2">
-<li><a href="https://en.wikipedia.org/wiki/Asterism_(typography)">Asterism (Typography)</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Asterism_(astronomy)">Asterism (Astronomy)</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Dinkus">Dinkus</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Dingbat">Dingbat</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Therefore_sign">Therefore Symbol</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Logic">The Wiki Page for Logic Includes ∴ in the Image on the Right</a></li>
-</ol>
-]]></content>
-  </entry>
-  <entry>
     <title>AM</title>
     <url>/am/</url>
     <content><![CDATA[<p>What does AM stand for? Maybe Ante Meridiem, before noon. Or maybe the element Americium (Am). Maybe it’s Artium Magister, a Master of Arts degree. Whatever the case, if you compound masters of the arts over time, you get Arctic Monkeys. </p>
-<p>In 2013, Arctic Monkeys released their fifth studio album, AM. While the title references the band’s name, the cover art says otherwise. Taking inspiration from Velvet Underground, AM’s cover art is a wave with changing heights—amplitude modulation. </p>
+<p>In 2013, Arctic Monkeys released their fifth studio album, AM. While the title references the band’s name, the cover art says otherwise. Taking inspiration from Velvet Underground’s cover art of volume units (VU), AM’s cover art is a wave with changing heights—amplitude modulation (AM). </p>
 <p>As a recreational mathematician, I looked around the internet, trying to find a decent recreation of the AM cover as a graph, but none of them were good enough. Most stopped at just modulating a sine wave with a broader sine wave, but this method misses one crucial detail: the AM in the middle. Job Bouwman inserts the AM in the middle, but the heights and widths of the letters don’t quite match the cover.</p>
 <p>The Arctic Monkeys weren’t just monkeying around with amplitude modulation. They figured out a clever way to seamlessly insert their initials into the graph. Mark my words, I will do the same. I will recreate the AM cover.</p>
 <p>Rather than spending lots of time setting up a Jupyter Notebook and writing lots of Python code to establish a working development environment, I’m using Desmos. I believe the initial concept art began with a standard modulation of a sine wave inside a sine wave, so I am starting the same way.</p>
@@ -67,6 +37,36 @@
 <p>As if that wasn’t enough, Wright’s inflated ego shows through in his writing. Naturally, Wright is the first-person narrator, depicted as a historian describing the town. Despite separating himself from the events of the story as this all-seeing onlooker, his frequent interjections make you wonder if he’s too convinced of his own story. For example, in chapter VII, he makes a disturbing quip about passing up kissing a snake to instead kiss Lucy, a fictitious child, while he is still the adult historian describing the story.</p>
 <h2 id="The-Failed-Lipogram"><a href="#The-Failed-Lipogram" class="headerlink" title="The Failed Lipogram"></a>The Failed Lipogram</h2><p>I pushed through the book, hoping to gain some linguistic insights. While I give Wright mild credit for calling flowers “blossoming plants” and turkey “Thanksgiving National Bird,” I cannot forgive his egregious errors. Despite Wright’s claims of not using the letter E, the original publication contains three instances of the word “the” and one instance of the word “officers,” totaling 4 E’s in the body of the text.</p>
 <p>Historical records describe Wright’s attempts at publishing all failing, and he had to turn to self-publishing through Wetzel Publishing Co. After reading this book, I finally understand why. Gimmicks won’t save your story, and twine won’t hold down your typewriter’s E key.</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>Ex Libris: Cat&#39;s Cradle</title>
+    <url>/ex-libris-cats-cradle/</url>
+    <content><![CDATA[<p>On Christmas this year, I read one of the most famous Christmas novels of all time: <em>Cat’s Cradle</em>, by Kurt Vonnegut. This book is so powerful, it constituted a master’s thesis in anthropology in the eyes of the University of Chicago. Countless experts have analyzed this book throughout the past 59 years. Following behind 59 years of thorough analysis, I do not believe I can meaningfully contribute to the discussion of this novel’s themes.</p>
+<p>So I won’t.</p>
+<p>∴</p>
+<p>Instead, it’s the typography of this book allures me. Between each of the 127 chapters are three dots, arranged in a triangle, left aligned with the body of text that follows. The symbol is called an “asterism”, named after the astronomical term for a pattern of stars. Typographers use asterisms to visually cue a break in the text to the reader. </p>
+<p>∴</p>
+<p>Except, the symbol in the book isn’t really an asterism. Asterisms are constructed with asterisks, and dots are not asterisks. Therefore, this symbol is not an asterism. The symbol is therefore. </p>
+<p>No, I did not forget to finish that sentence. The symbol is therefore. In formal logic, three dots in the form of a triangle represent logical conclusion. Read aloud, they are pronounced, “therefore.” For example, “All humans are mortal. I am human. ∴ I am mortal.” </p>
+<p>Unlike most conclusions, logical conclusions are absolutely true. If you accept the premises (the statements before the ∴), then you must accept the conclusion (the statement after the ∴) to be true without exception. If there are no premises, the conclusion is always true, no matter what. </p>
+<p>∴</p>
+<p>At the beginning of each chapter is empty space, followed by the three dots, followed by the entire chapter. As a student of logic, I read each chapter like a logical conclusion. It must necessarily be true, despite the book being fiction. The book that uses lies to comment on lies with more lies, must necessarily be true. </p>
+<p>It’s not just the text. The table of contents must necessarily be true. The title, written alone on the fourth page, must necessarily be true. Even the list of Vonnegut’s other works on page three begins with the three dots. Therefore, they must be true. It is all true. We can conclude every statement in this novel without premise.</p>
+<p>If I wasn’t a student of logic, then I wouldn’t have noticed this. If I wasn’t a student of logic, then I wouldn’t have dug down a rabbit hole of asterisms and typography. If I wasn’t a student of logic, then I wouldn’t have written this archive, and you wouldn’t have read it. As it happens—“As it was <em>supposed</em> to happen,” Bokonon would say—I am.</p>
+<hr>
+<h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ol>
+<li><a href="https://web.archive.org/web/20120419003715/http://chicagomaroon.com/2007/4/13/alumnus-vonnegut-dead-at-84/">Vonnegut Awarded Master’s Thesis for <em>Cat’s Cradle</em> (Archive)</a></li>
+</ol>
+<p>The rest are Wikipedia links.</p>
+<ol start="2">
+<li><a href="https://en.wikipedia.org/wiki/Asterism_(typography)">Asterism (Typography)</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Asterism_(astronomy)">Asterism (Astronomy)</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Dinkus">Dinkus</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Dingbat">Dingbat</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Therefore_sign">Therefore Symbol</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Logic">The Wiki Page for Logic Includes ∴ in the Image on the Right</a></li>
+</ol>
 ]]></content>
   </entry>
   <entry>
@@ -112,6 +112,48 @@
 <li>A librarian’s post is not a sinecure for a scholar — a librarian’s task is often to facilitate the work of many scholars.</li>
 <li>Libraries can be valuable to society.</li>
 <li>Librarianship is an experimental science.</li>
+</ol>
+]]></content>
+  </entry>
+  <entry>
+    <title>Square One</title>
+    <url>/square-one/</url>
+    <content><![CDATA[<p>After another set of fruitless experiments and abandoned ideas, my mentor told me we were back to square one.</p>
+<p>“Quick question,” I interjected, “Where exactly <em>is</em> square one?”</p>
+<p>Some sources claim square one is on the football pitch. In the 1930s, BBC radio sports commentators divided the pitch into eight sections, with square one at the bottom right corner. Others claim square one comes from hopscotch or snakes and ladders. Regardless of the game, being at square one puts you at the beginning with no progress. </p>
+<p>Square-1 is also the name of a puzzle derived from the Rubik’s Cube. For practiced cubers, solving a Square-1 can become incredibly straightforward. </p>
+<p>My mentor and I didn’t feel like we were at square one. Sure, we were at the beginning, but being at square one implies square two is just ahead. Every time we returned to the beginning, we were too disoriented to know where to look first. Much of our progress felt sideways or backwards. </p>
+<p>On a lesser note, computer scientists don’t begin counting with one; they begin counting with zero. </p>
+<p>In that meeting, in front of the drawing board, we made a decision. We were not at square one. We were at circle zero. Eventually, circle zero became familiar. Sure, it was mischevous, and at times confusing, but it no longer felt new. Whenever we left, we never worried about saying goodbye; we would be back eventually.</p>
+<p>For most people, today is square one. Today’s square on the Gregorian calendar is the first day of first month. As such, I wish you all a happy circle zero.</p>
+<hr>
+<h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ol>
+<li><a href="https://en.wikipedia.org/wiki/Square-1_(puzzle)">Square-1 Puzzle</a></li>
+<li>The discourse surrounding the etymology of “square one” lacks enough rigor to warrant any particular links. Instead, a Google search for “origin of square one” will provide plenty of questionable sources offering one of the three explanations listed above.</li>
+</ol>
+]]></content>
+  </entry>
+  <entry>
+    <title>The Beginning of Tau</title>
+    <url>/the-beginning-of-tau/</url>
+    <content><![CDATA[<p>Happy Tau Day, the day when you’re supposed to eat two pies. As an avid Pi Day enthusiast, June 28th provides the perfect opportunity to celebrate twice! All the major festivities you see on Pi Day, from memorizing digits to making music to baking fruit manifolds with crust boundaries, it’s all there on Tau Day. Ultimate Tau Day (6&#x2F;28&#x2F;31) is only eight years away, so start preparing before it’s too late.</p>
+<p>Part of the beauty of Tau (τ) is that it has a life outside of being the ratio of a circle’s circumference to its radius. π has been featured in too many blockbuster equations and gets recognized everywhere. While τ is a lesser known celebrity, it can explore other fields, like particle physics and neuroscience and programming languages.</p>
+<p>Pi and Tau day are wonderful, but they’re not alone. Mathematically wonderful dates are everywhere. Other than just being Tau Day, the numbers in today’s date (6&#x2F;28&#x2F;23) provide a beautiful equation—</p>
+<p>$$\Gamma(6) &#x3D; (28 - 23)!$$</p>
+<p>—with ! denoting factorial, but also excitement because this is exciting. Tomorrow gives us an even simpler equation:</p>
+<p>$$6 &#x3D; 29 - 23$$</p>
+<p>And yesterday worked out quite nicely as well:</p>
+<p>$$6 &#x3D; \Gamma(27 - 23)$$</p>
+<p>For years, I’ve played this little game with the date, trying to insert non-digit symbols around and between the numbers, creating a valid equation while preserving their order from left to right. I recommend you try it too, it’s a nice way to spend a few minutes. Today, I built a toy programming language (thanks τ) whose programs are valid date equations. Then I wrote a script that searched through a finite space of potential programs to find valid ones for the given date. It generated the solutions for the dates I just listed.</p>
+<p>After playing this game for years, I’ve realized that finding an equation for the date is always possible. In fact, there are universal solutions, though they’re not always very exciting. For example, by taking advantage of properties of the sine function:</p>
+<p>$$ \forall m, d, y \in \mathbb{N}, \sin((m + d)\tau) &#x3D; \sin(y\tau) $$</p>
+<p>Strangely, celebrating τ allows us to celebrate other days of the year rather mathematically. Yes, τ is a superstar, but it allows us to celebrate others through its mere presence. </p>
+<p>The Tau Manifesto was written in 2010, spreading the voices of those who carried τ on their backs for years in relative silence. While the Tau Day community has certainly come a far way since then, τ is far from the spotlight it deserves. Until that moment, celebrate each day mathematically. This is just the beginning.</p>
+<hr>
+<h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ol>
+<li><a href="https://tauday.com/">The Official Tau Day Website</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Tau_(particle)">The Tau Particle</a></li>
+<li><a href="https://www.alz.org/media/Documents/alzheimers-dementia-tau-ts.pdf">Tau in Alzheimer’s Research</a></li>
 </ol>
 ]]></content>
   </entry>
@@ -218,68 +260,6 @@
 ]]></content>
   </entry>
   <entry>
-    <title>Square One</title>
-    <url>/square-one/</url>
-    <content><![CDATA[<p>After another set of fruitless experiments and abandoned ideas, my mentor told me we were back to square one.</p>
-<p>“Quick question,” I interjected, “Where exactly <em>is</em> square one?”</p>
-<p>Some sources claim square one is on the football pitch. In the 1930s, BBC radio sports commentators divided the pitch into eight sections, with square one at the bottom right corner. Others claim square one comes from hopscotch or snakes and ladders. Regardless of the game, being at square one puts you at the beginning with no progress. </p>
-<p>Square-1 is also the name of a puzzle derived from the Rubik’s Cube. For practiced cubers, solving a Square-1 can become incredibly straightforward. </p>
-<p>My mentor and I didn’t feel like we were at square one. Sure, we were at the beginning, but being at square one implies square two is just ahead. Every time we returned to the beginning, we were too disoriented to know where to look first. Much of our progress felt sideways or backwards. </p>
-<p>On a lesser note, computer scientists don’t begin counting with one; they begin counting with zero. </p>
-<p>In that meeting, in front of the drawing board, we made a decision. We were not at square one. We were at circle zero. Eventually, circle zero became familiar. Sure, it was mischevous, and at times confusing, but it no longer felt new. Whenever we left, we never worried about saying goodbye; we would be back eventually.</p>
-<p>For most people, today is square one. Today’s square on the Gregorian calendar is the first day of first month. As such, I wish you all a happy circle zero.</p>
-<hr>
-<h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ol>
-<li><a href="https://en.wikipedia.org/wiki/Square-1_(puzzle)">Square-1 Puzzle</a></li>
-<li>The discourse surrounding the etymology of “square one” lacks enough rigor to warrant any particular links. Instead, a Google search for “origin of square one” will provide plenty of questionable sources offering one of the three explanations listed above.</li>
-</ol>
-]]></content>
-  </entry>
-  <entry>
-    <title>The Connoisseur of Random: Before Computers</title>
-    <url>/the-connoisseur-of-random-before-computers/</url>
-    <content><![CDATA[<p>As we discussed last time, computers aren’t great at generating truly random numbers. Can you do any better? You have plenty of practice generating random numbers, I can promise you that, as long as you’ve played a few board games.</p>
-<p>Dice. Roll one to get a random number. Roll a few and add them together to get bigger numbers. So many board games rely on you generating random numbers to make the game enjoyable. Will you pass Go or will you go bankrupt on Boardwalk? Will you climb a ladder or slide down a snake? It all depends on how the dice roll.</p>
-<p>In 1890 Francis Galton saw the power of using dice in statistics, creating a special set of dice for statistical experiments. He argued that shaking dice in a bag and taking them out with your eyes closed was sufficiently random for this random sampling technique.</p>
-<p>Dice are great, but no one has time to sit around, rolling dice hundreds of times to get random numbers. In the early-mid 1900s, scientists began developing better mechanical techniques, like using electronic “roulette wheels.” They generated some binary digits (0s and 1s) and converted the number to decimal. Using this technique, Project RAND turned into the RAND Corporation, selling books of one million random digits. The book still sells for roughly 70 USD. While their analyses of random digits looked usable for the most part, there were some issues with the odd-even distribution, and they made some strong assumptions about overcoming bias.</p>
-<p>While I respect the RAND corporation for pioneering modern techniques, on my quest to finding the best truly random numbers, their method doesn’t meet the mark. You all deserve better. To understand the nature of writing a book of random numbers, I borrowed techniques from Galton and RAND, and <a href="https://github.com/ronikbhaskar/book-of-random-numbers/blob/main/volumes/Volume%20I.md">I wrote my own</a>.</p>
-<p>Rather than creating custom dice, I used existing six-sided dice. After rolling over 1000 dice, I converted from base 6 to base 10, and recorded my results. After thinking for a moment, I realized that one of the few things we need high volumes of random numbers of is dice rolls, so I saved those separately. Random coin flips would be nice too, so I did a bit more math to convert the dice rolls into coin flips. While I was at it, I converted the rolls into hexadecimal digits for the programmers out there. As of writing this, I’m only at the first volume, but if this proves useful, I will gladly create more handcrafted random numbers just for you.</p>
-<p>Unfortunately, these random numbers aren’t truly random. Humans are notoriously bad at being random, and I am human, so I likely introduced a non-random bias into the system. I don’t know how to cheat with dice, nor did I try. While I made a good effort, it’s hard to call these artisan “random” numbers truly random.</p>
-<p>We’ll have to push further next time.</p>
-<hr>
-<h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ol>
-<li><a href="https://doi.org/10.1038/042013a0">Dice for Statistical Experiments</a></li>
-<li><a href="https://www.rand.org/content/dam/rand/pubs/papers/2008/P113.pdf">RAND Corporation’s History of Random Digits</a></li>
-<li><a href="https://www.amazon.com/Million-Random-Digits-Normal-Deviates/dp/0833030477">Book of A Million Random Digits</a></li>
-<li><a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjwx8Pt08D6AhU2lIkEHf8jAqcQFnoECAgQAQ&url=https://www.mdpi.com/2079-9292/10/13/1517/pdf&usg=AOvVaw1PiU7pbgXdIviYWLFI4TgC">Random Number Circuit Using Frequencies</a></li>
-</ol>
-]]></content>
-  </entry>
-  <entry>
-    <title>The Beginning of Tau</title>
-    <url>/the-beginning-of-tau/</url>
-    <content><![CDATA[<p>Happy Tau Day, the day when you’re supposed to eat two pies. As an avid Pi Day enthusiast, June 28th provides the perfect opportunity to celebrate twice! All the major festivities you see on Pi Day, from memorizing digits to making music to baking fruit manifolds with crust boundaries, it’s all there on Tau Day. Ultimate Tau Day (6&#x2F;28&#x2F;31) is only eight years away, so start preparing before it’s too late.</p>
-<p>Part of the beauty of Tau (τ) is that it has a life outside of being the ratio of a circle’s circumference to its radius. π has been featured in too many blockbuster equations and gets recognized everywhere. While τ is a lesser known celebrity, it can explore other fields, like particle physics and neuroscience and programming languages.</p>
-<p>Pi and Tau day are wonderful, but they’re not alone. Mathematically wonderful dates are everywhere. Other than just being Tau Day, the numbers in today’s date (6&#x2F;28&#x2F;23) provide a beautiful equation—</p>
-<p>$$\Gamma(6) &#x3D; (28 - 23)!$$</p>
-<p>—with ! denoting factorial, but also excitement because this is exciting. Tomorrow gives us an even simpler equation:</p>
-<p>$$6 &#x3D; 29 - 23$$</p>
-<p>And yesterday worked out quite nicely as well:</p>
-<p>$$6 &#x3D; \Gamma(27 - 23)$$</p>
-<p>For years, I’ve played this little game with the date, trying to insert non-digit symbols around and between the numbers, creating a valid equation while preserving their order from left to right. I recommend you try it too, it’s a nice way to spend a few minutes. Today, I built a toy programming language (thanks τ) whose programs are valid date equations. Then I wrote a script that searched through a finite space of potential programs to find valid ones for the given date. It generated the solutions for the dates I just listed.</p>
-<p>After playing this game for years, I’ve realized that finding an equation for the date is always possible. In fact, there are universal solutions, though they’re not always very exciting. For example, by taking advantage of properties of the sine function:</p>
-<p>$$ \forall m, d, y \in \mathbb{N}, \sin((m + d)\tau) &#x3D; \sin(y\tau) $$</p>
-<p>Strangely, celebrating τ allows us to celebrate other days of the year rather mathematically. Yes, τ is a superstar, but it allows us to celebrate others through its mere presence. </p>
-<p>The Tau Manifesto was written in 2010, spreading the voices of those who carried τ on their backs for years in relative silence. While the Tau Day community has certainly come a far way since then, τ is far from the spotlight it deserves. Until that moment, celebrate each day mathematically. This is just the beginning.</p>
-<hr>
-<h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ol>
-<li><a href="https://tauday.com/">The Official Tau Day Website</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Tau_(particle)">The Tau Particle</a></li>
-<li><a href="https://www.alz.org/media/Documents/alzheimers-dementia-tau-ts.pdf">Tau in Alzheimer’s Research</a></li>
-</ol>
-]]></content>
-  </entry>
-  <entry>
     <title>The Connoisseur of Random: Lava Lamps are Protecting your Data</title>
     <url>/the-connoisseur-of-random-lava-lamps-are-protecting-your-data/</url>
     <content><![CDATA[<p>Have you ever used the Canva website? How about Etsy, Walmart, or even Best Buy? If so, congrats! Your data is being protected by lava lamps.</p>
@@ -352,6 +332,26 @@
 ]]></content>
   </entry>
   <entry>
+    <title>The Connoisseur of Random: Before Computers</title>
+    <url>/the-connoisseur-of-random-before-computers/</url>
+    <content><![CDATA[<p>As we discussed last time, computers aren’t great at generating truly random numbers. Can you do any better? You have plenty of practice generating random numbers, I can promise you that, as long as you’ve played a few board games.</p>
+<p>Dice. Roll one to get a random number. Roll a few and add them together to get bigger numbers. So many board games rely on you generating random numbers to make the game enjoyable. Will you pass Go or will you go bankrupt on Boardwalk? Will you climb a ladder or slide down a snake? It all depends on how the dice roll.</p>
+<p>In 1890 Francis Galton saw the power of using dice in statistics, creating a special set of dice for statistical experiments. He argued that shaking dice in a bag and taking them out with your eyes closed was sufficiently random for this random sampling technique.</p>
+<p>Dice are great, but no one has time to sit around, rolling dice hundreds of times to get random numbers. In the early-mid 1900s, scientists began developing better mechanical techniques, like using electronic “roulette wheels.” They generated some binary digits (0s and 1s) and converted the number to decimal. Using this technique, Project RAND turned into the RAND Corporation, selling books of one million random digits. The book still sells for roughly 70 USD. While their analyses of random digits looked usable for the most part, there were some issues with the odd-even distribution, and they made some strong assumptions about overcoming bias.</p>
+<p>While I respect the RAND corporation for pioneering modern techniques, on my quest to finding the best truly random numbers, their method doesn’t meet the mark. You all deserve better. To understand the nature of writing a book of random numbers, I borrowed techniques from Galton and RAND, and <a href="https://github.com/ronikbhaskar/book-of-random-numbers/blob/main/volumes/Volume%20I.md">I wrote my own</a>.</p>
+<p>Rather than creating custom dice, I used existing six-sided dice. After rolling over 1000 dice, I converted from base 6 to base 10, and recorded my results. After thinking for a moment, I realized that one of the few things we need high volumes of random numbers of is dice rolls, so I saved those separately. Random coin flips would be nice too, so I did a bit more math to convert the dice rolls into coin flips. While I was at it, I converted the rolls into hexadecimal digits for the programmers out there. As of writing this, I’m only at the first volume, but if this proves useful, I will gladly create more handcrafted random numbers just for you.</p>
+<p>Unfortunately, these random numbers aren’t truly random. Humans are notoriously bad at being random, and I am human, so I likely introduced a non-random bias into the system. I don’t know how to cheat with dice, nor did I try. While I made a good effort, it’s hard to call these artisan “random” numbers truly random.</p>
+<p>We’ll have to push further next time.</p>
+<hr>
+<h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ol>
+<li><a href="https://doi.org/10.1038/042013a0">Dice for Statistical Experiments</a></li>
+<li><a href="https://www.rand.org/content/dam/rand/pubs/papers/2008/P113.pdf">RAND Corporation’s History of Random Digits</a></li>
+<li><a href="https://www.amazon.com/Million-Random-Digits-Normal-Deviates/dp/0833030477">Book of A Million Random Digits</a></li>
+<li><a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjwx8Pt08D6AhU2lIkEHf8jAqcQFnoECAgQAQ&url=https://www.mdpi.com/2079-9292/10/13/1517/pdf&usg=AOvVaw1PiU7pbgXdIviYWLFI4TgC">Random Number Circuit Using Frequencies</a></li>
+</ol>
+]]></content>
+  </entry>
+  <entry>
     <title>The End of Pi</title>
     <url>/the-end-of-pi/</url>
     <content><![CDATA[<p>I’m fed up with you, π. I get it, you’re the ratio of the circumference to the diameter, good for you. But that isn’t enough for you, is it? No, you need to make sure <strong>everyone</strong> knows exactly who you are. You needed a day in your honor and competitions just for you. Was memorizing 100,000 of your digits not enough? No, of course not. It will never be enough. You are never ending.</p>
@@ -416,16 +416,6 @@
 <p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
   </entry>
   <entry>
-    <title>Discord Scraper</title>
-    <url>/projects/discord_scraper.html</url>
-    <content><![CDATA[<p>Access the source files <a href="https://github.com/ronikbhaskar/discord_scraper">here</a>. </p>
-<h2 id="Disclaimer"><a href="#Disclaimer" class="headerlink" title="Disclaimer"></a>Disclaimer</h2><p>Botting your Discord account violates their Terms of Service. I do not use this scraper, nor will I, and I recommend you never use it either. This is solely for educational purposes.</p>
-<h2 id="Theoretical-Use-Cases"><a href="#Theoretical-Use-Cases" class="headerlink" title="Theoretical Use Cases"></a>Theoretical Use Cases</h2><p>Hypothetically speaking, wouldn’t it be cool to go through your server’s chat history, run the text through a Markov Chain generator, and spit out some nonsense for you all to laugh at? Just a thought. It would be tedious, copying every message by hand, but it’s definitely doable, so that’s how you should do it. By hand.</p>
-<h2 id="Getting-your-Access-Token"><a href="#Getting-your-Access-Token" class="headerlink" title="Getting your Access Token"></a>Getting your Access Token</h2><p>Now, having access to the Discord API requires an Access Token, and no one would know how to get their access token. I mean, who is going to open Discord in Chrome, open the inspector, switch to mobile&#x2F;tablet display, go to the Application tab, find the sidebar section labeled Storage, select <a href="https://discord.com/">https://discord.com</a> from the Local Storage dropdown, search token, and copy the value from the Key-Value pair? That’s a ridiculous number of hoops to jump through, and I can’t imagine anyone figuring that out on their own. </p>
-<hr>
-<p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
-  </entry>
-  <entry>
     <title>Discord Bot</title>
     <url>/projects/discord_bot.html</url>
     <content><![CDATA[<p>Access the source files <a href="https://github.com/ronikbhaskar/discord_bot">here</a>. </p>
@@ -452,6 +442,16 @@
 <ul>
 <li>just @ mention Igor in your message and maybe you’ll get a response</li>
 </ul>
+<hr>
+<p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>Discord Scraper</title>
+    <url>/projects/discord_scraper.html</url>
+    <content><![CDATA[<p>Access the source files <a href="https://github.com/ronikbhaskar/discord_scraper">here</a>. </p>
+<h2 id="Disclaimer"><a href="#Disclaimer" class="headerlink" title="Disclaimer"></a>Disclaimer</h2><p>Botting your Discord account violates their Terms of Service. I do not use this scraper, nor will I, and I recommend you never use it either. This is solely for educational purposes.</p>
+<h2 id="Theoretical-Use-Cases"><a href="#Theoretical-Use-Cases" class="headerlink" title="Theoretical Use Cases"></a>Theoretical Use Cases</h2><p>Hypothetically speaking, wouldn’t it be cool to go through your server’s chat history, run the text through a Markov Chain generator, and spit out some nonsense for you all to laugh at? Just a thought. It would be tedious, copying every message by hand, but it’s definitely doable, so that’s how you should do it. By hand.</p>
+<h2 id="Getting-your-Access-Token"><a href="#Getting-your-Access-Token" class="headerlink" title="Getting your Access Token"></a>Getting your Access Token</h2><p>Now, having access to the Discord API requires an Access Token, and no one would know how to get their access token. I mean, who is going to open Discord in Chrome, open the inspector, switch to mobile&#x2F;tablet display, go to the Application tab, find the sidebar section labeled Storage, select <a href="https://discord.com/">https://discord.com</a> from the Local Storage dropdown, search token, and copy the value from the Key-Value pair? That’s a ridiculous number of hoops to jump through, and I can’t imagine anyone figuring that out on their own. </p>
 <hr>
 <p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
   </entry>
@@ -646,6 +646,22 @@
 <p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
   </entry>
   <entry>
+    <title>Turning Obsidian into a Markdown Editor</title>
+    <url>/projects/obsidian-editor.html</url>
+    <content><![CDATA[<p>This file was created using <code>obsidian.py</code>. The source code is available <a href="https://github.com/ronikbhaskar/obsidian-editor">here</a>.</p>
+<h2 id="Background"><a href="#Background" class="headerlink" title="Background"></a>Background</h2><p>I have no issues with what Obsidian is. My only complaint is with what it <em>isn’t</em>: a Markdown editor.</p>
+<p>I know you can edit Markdown in Obsidian, but that’s not what I’m talking about. I mean editing <em>any</em> .md file in Obsidian. Right now, you’re limited to your vault, which makes sense, since Obsidian is a note-taking app–a second brain app. Everything you need is right there in your vault. The thing is, I don’t really care for the whole “second brain” thing. I tried it for a bit, but it really didn’t stick. It’s a nice place to put notes if I don’t know where else to put them, but sometimes I just wanna edit a Markdown file with Obsidian’s QoL. </p>
+<h2 id="The-Hack"><a href="#The-Hack" class="headerlink" title="The Hack"></a>The Hack</h2><p>I don’t call this a hack to be arrogant or even facetious. I just mean I wanted to make technology do something it wasn’t created to do. I wanted to turn Obsidian into an editor. </p>
+<p>There are a few approaches to this method. The first that probably comes to most people’s minds is to edit Obsidian’s view of your file system so it thinks your whole computer is a vault. I didn’t do that, but that would be really cool. Instead, I just wrote a script that copies your .md file into your vault and copies it back when you’re done. Definitely not the most elegant solution, but it works for my purposes.</p>
+<h2 id="Setbacks"><a href="#Setbacks" class="headerlink" title="Setbacks"></a>Setbacks</h2><p>The issues with this project were unrelated to the actual manipulation of the vault. Instead, I realized that in order to take advantage of Obsidian’s features, I would have to engineer changes on top of them to make them compatible with any mainstream Markdown editor. </p>
+<p>In particular, Obsidian’s image linking is fantastic, especially combined with their drag-and-drop feature for images. The problem is that Markdown doesn’t usually support images linked like this: ![[image.img]]</p>
+<p>So, I had to find all the instances of images like those, reformat them, and when copying the Markdown, copy the linked files as well. While I did learn a bit more about regex in the process, the solution is quite messy and works under fairly strong assumptions. Nevertheless, it works.</p>
+<h2 id="Improvements"><a href="#Improvements" class="headerlink" title="Improvements"></a>Improvements</h2><p>Image-linking isn’t the only useful feature in Obsidian. Making more of these QoL standards available through this script means I can take full advantage of the tools Obsidian offers. For example, linking pdfs, better tables, and tags would all be fantastic if I could integrate &#x2F; hide them seamlessly with this script. Or, I could add <code>scp</code> support so I can use this on ssh servers. </p>
+<p>I probably won’t do any of that that, since I don’t really like doing more than making quick prototypes to prove that I can. Who knows? Maybe some day.</p>
+<hr>
+<p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
+  </entry>
+  <entry>
     <title>The Oracle Society</title>
     <url>/projects/oracle_society.html</url>
     <content><![CDATA[<p>CW: violence, kidnapping, murder.</p>
@@ -664,22 +680,6 @@
 <li><p>I didn’t playtest the final version of the game enough.</p>
 </li>
 </ol>
-<hr>
-<p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>Turning Obsidian into a Markdown Editor</title>
-    <url>/projects/obsidian-editor.html</url>
-    <content><![CDATA[<p>This file was created using <code>obsidian.py</code>. The source code is available <a href="https://github.com/ronikbhaskar/obsidian-editor">here</a>.</p>
-<h2 id="Background"><a href="#Background" class="headerlink" title="Background"></a>Background</h2><p>I have no issues with what Obsidian is. My only complaint is with what it <em>isn’t</em>: a Markdown editor.</p>
-<p>I know you can edit Markdown in Obsidian, but that’s not what I’m talking about. I mean editing <em>any</em> .md file in Obsidian. Right now, you’re limited to your vault, which makes sense, since Obsidian is a note-taking app–a second brain app. Everything you need is right there in your vault. The thing is, I don’t really care for the whole “second brain” thing. I tried it for a bit, but it really didn’t stick. It’s a nice place to put notes if I don’t know where else to put them, but sometimes I just wanna edit a Markdown file with Obsidian’s QoL. </p>
-<h2 id="The-Hack"><a href="#The-Hack" class="headerlink" title="The Hack"></a>The Hack</h2><p>I don’t call this a hack to be arrogant or even facetious. I just mean I wanted to make technology do something it wasn’t created to do. I wanted to turn Obsidian into an editor. </p>
-<p>There are a few approaches to this method. The first that probably comes to most people’s minds is to edit Obsidian’s view of your file system so it thinks your whole computer is a vault. I didn’t do that, but that would be really cool. Instead, I just wrote a script that copies your .md file into your vault and copies it back when you’re done. Definitely not the most elegant solution, but it works for my purposes.</p>
-<h2 id="Setbacks"><a href="#Setbacks" class="headerlink" title="Setbacks"></a>Setbacks</h2><p>The issues with this project were unrelated to the actual manipulation of the vault. Instead, I realized that in order to take advantage of Obsidian’s features, I would have to engineer changes on top of them to make them compatible with any mainstream Markdown editor. </p>
-<p>In particular, Obsidian’s image linking is fantastic, especially combined with their drag-and-drop feature for images. The problem is that Markdown doesn’t usually support images linked like this: ![[image.img]]</p>
-<p>So, I had to find all the instances of images like those, reformat them, and when copying the Markdown, copy the linked files as well. While I did learn a bit more about regex in the process, the solution is quite messy and works under fairly strong assumptions. Nevertheless, it works.</p>
-<h2 id="Improvements"><a href="#Improvements" class="headerlink" title="Improvements"></a>Improvements</h2><p>Image-linking isn’t the only useful feature in Obsidian. Making more of these QoL standards available through this script means I can take full advantage of the tools Obsidian offers. For example, linking pdfs, better tables, and tags would all be fantastic if I could integrate &#x2F; hide them seamlessly with this script. Or, I could add <code>scp</code> support so I can use this on ssh servers. </p>
-<p>I probably won’t do any of that that, since I don’t really like doing more than making quick prototypes to prove that I can. Who knows? Maybe some day.</p>
 <hr>
 <p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
   </entry>
@@ -714,6 +714,43 @@ table, th {
 
 <p>For this code, you will have to redirect the output to a file using the <code>&gt;</code> operator.</p>
 <p>Happy sleuthing!</p>
+<hr>
+<p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>Tomato Timer</title>
+    <url>/projects/tomato_timer.html</url>
+    <content><![CDATA[<style>
+.display-image {
+    width: min(max(25%,7rem),100%)!important;
+    margin: 1rem;
+    margin-top: 0;
+    margin-right: 0;
+    float: right!important;
+    border-radius: 10%;
+}
+</style>
+
+<h2 id="Overview"><a href="#Overview" class="headerlink" title="Overview"></a>Overview</h2><p>The <a href="https://en.wikipedia.org/wiki/Pomodoro_Technique">Pomodoro Technique</a> is a time-management &#x2F; productivity technique developed by <a href="https://francescocirillo.com/pages/pomodoro-technique">Francesco Cirillo</a>.</p>
+<p>This Chrome Extension provides an adjustable timer for implementing this study technique. I will not be publishing the Chrome Extension because I don’t want to pay the $5 developer fee for a product I won’t use myself.</p>
+<p>You can find the source code <a href="https://github.com/ronikbhaskar/tomato_timer">here</a>.</p>
+<h2 id="Manual-Installation"><a href="#Manual-Installation" class="headerlink" title="Manual Installation"></a>Manual Installation</h2><img src="misc_images/tomato_timer.png" class="display-image" alt="A Pomodoro Technique Chrome Extension">
+
+<ol>
+<li>Download the source code</li>
+<li>Open Chrome and go to <code>chrome://extensions/</code></li>
+<li>In the top right corner, enable “Developer mode”</li>
+<li>In the top left corner, click “Load unpacked”</li>
+<li>Select the folder <code>Tomato Timer</code> not <code>tomato_timer</code></li>
+<li>Click the puzzle piece in the top right of the browser window</li>
+<li>Click the pin to the right of “Tomato Timer”</li>
+</ol>
+<h2 id="Tangent-Towards-Timing-Tomatoes"><a href="#Tangent-Towards-Timing-Tomatoes" class="headerlink" title="Tangent Towards Timing Tomatoes"></a>Tangent Towards Timing Tomatoes</h2><p>A few weeks ago, I learned that “tomato” in Italian is “pomodoro.” Before this, I had only ever heard the word “pomodoro” in the context of the Pomodoro Technique. While I don’t fully buy the Pomodoro Technique, I knew I wanted to create something that commented on pomodoro meaning tomato, even if the joke was only new to me.</p>
+<p>A week later, I still couldn’t wrap my head around why <em>tomato</em> in Italian was <em>pomodoro</em>. So many Romance languages use a word similar to “tomato” to represent the red produce (owing to Nahuatl), but not Italian. It turns out that “pomodoro” comes from “pomo d’oro,” which translates to “golden apple” or “golden fruit.” This made sense for a bit, and it gave me an idea for renaming “golden apples” to “pomodori” in the video game that makes heavy use of golden apples (you know the one), but then I was confused again. </p>
+<p>If I’m not mistaken (though it is likely that I am), the more common way to say “apple” in Italian is “mela,” but “pomo” makes so much more sense, especially in the context of other Romance languages like the word “pomme” in French, which comes from Latin words referencing fruit plucked from trees, or those trees themselves. After looking into it, “mela” likely comes from Vulgar Latin. But the words from which it comes do not mean “apple” or “plucked fruit.” Instead, they derive from “malus,” roughly meaning “evil.” I’ll leave it as an exercise to the reader to think about why the word “apple” might come from the word “evil.”</p>
+<p>My other comment is on the fact that they were called “golden.” Why? Tomatoes are red, aren’t they? Well, they didn’t always have that distinct red. Fifteen hundred years ago, it was much less common to find deep red tomatoes. Instead, many were yellow when ripe. This was around the time that tomatoes were being brought back to Europe, thus giving rise to the name “pomodoro.”</p>
+<h2 id="Resources"><a href="#Resources" class="headerlink" title="Resources"></a>Resources</h2><p><a href="https://developer.chrome.com/docs/extensions/mv3/getstarted/">Google’s Getting Started Guide and Documentation</a></p>
+<p><a href="https://iconduck.com/emojis/96851/tomato">Logo Source (not my own design)</a></p>
 <hr>
 <p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
   </entry>
@@ -759,43 +796,6 @@ table, th {
 <p>That’s great and all, but where does language fit into this? Take that Snakes and Ladders game. Assign each square a word. Every time you land on a new word, you write it down. After playing a full game, you will have a long string of words. Some sections might sound meaningful, others might not. This project takes long pieces of text, pretends like they’re recorded games of Snakes and Ladders, and tries to rebuild the board. On that new board, you can play as many games as you’d like, and most of the time, your string of words will be different.</p>
 <h2 id="Code"><a href="#Code" class="headerlink" title="Code"></a>Code</h2><p>The web project, with the original instructions for collaborators, can be found <a href="https://github.com/ronikbhaskar/text_generator">here</a>.</p>
 <p>The original Python code can be found <a href="https://github.com/ronikbhaskar/markov_text_generation">here</a>. The README has a sample generated from Sun Tzu’s <em>The Art of War</em>.</p>
-<hr>
-<p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>Tomato Timer</title>
-    <url>/projects/tomato_timer.html</url>
-    <content><![CDATA[<style>
-.display-image {
-    width: min(max(25%,7rem),100%)!important;
-    margin: 1rem;
-    margin-top: 0;
-    margin-right: 0;
-    float: right!important;
-    border-radius: 10%;
-}
-</style>
-
-<h2 id="Overview"><a href="#Overview" class="headerlink" title="Overview"></a>Overview</h2><p>The <a href="https://en.wikipedia.org/wiki/Pomodoro_Technique">Pomodoro Technique</a> is a time-management &#x2F; productivity technique developed by <a href="https://francescocirillo.com/pages/pomodoro-technique">Francesco Cirillo</a>.</p>
-<p>This Chrome Extension provides an adjustable timer for implementing this study technique. I will not be publishing the Chrome Extension because I don’t want to pay the $5 developer fee for a product I won’t use myself.</p>
-<p>You can find the source code <a href="https://github.com/ronikbhaskar/tomato_timer">here</a>.</p>
-<h2 id="Manual-Installation"><a href="#Manual-Installation" class="headerlink" title="Manual Installation"></a>Manual Installation</h2><img src="misc_images/tomato_timer.png" class="display-image" alt="A Pomodoro Technique Chrome Extension">
-
-<ol>
-<li>Download the source code</li>
-<li>Open Chrome and go to <code>chrome://extensions/</code></li>
-<li>In the top right corner, enable “Developer mode”</li>
-<li>In the top left corner, click “Load unpacked”</li>
-<li>Select the folder <code>Tomato Timer</code> not <code>tomato_timer</code></li>
-<li>Click the puzzle piece in the top right of the browser window</li>
-<li>Click the pin to the right of “Tomato Timer”</li>
-</ol>
-<h2 id="Tangent-Towards-Timing-Tomatoes"><a href="#Tangent-Towards-Timing-Tomatoes" class="headerlink" title="Tangent Towards Timing Tomatoes"></a>Tangent Towards Timing Tomatoes</h2><p>A few weeks ago, I learned that “tomato” in Italian is “pomodoro.” Before this, I had only ever heard the word “pomodoro” in the context of the Pomodoro Technique. While I don’t fully buy the Pomodoro Technique, I knew I wanted to create something that commented on pomodoro meaning tomato, even if the joke was only new to me.</p>
-<p>A week later, I still couldn’t wrap my head around why <em>tomato</em> in Italian was <em>pomodoro</em>. So many Romance languages use a word similar to “tomato” to represent the red produce (owing to Nahuatl), but not Italian. It turns out that “pomodoro” comes from “pomo d’oro,” which translates to “golden apple” or “golden fruit.” This made sense for a bit, and it gave me an idea for renaming “golden apples” to “pomodori” in the video game that makes heavy use of golden apples (you know the one), but then I was confused again. </p>
-<p>If I’m not mistaken (though it is likely that I am), the more common way to say “apple” in Italian is “mela,” but “pomo” makes so much more sense, especially in the context of other Romance languages like the word “pomme” in French, which comes from Latin words referencing fruit plucked from trees, or those trees themselves. After looking into it, “mela” likely comes from Vulgar Latin. But the words from which it comes do not mean “apple” or “plucked fruit.” Instead, they derive from “malus,” roughly meaning “evil.” I’ll leave it as an exercise to the reader to think about why the word “apple” might come from the word “evil.”</p>
-<p>My other comment is on the fact that they were called “golden.” Why? Tomatoes are red, aren’t they? Well, they didn’t always have that distinct red. Fifteen hundred years ago, it was much less common to find deep red tomatoes. Instead, many were yellow when ripe. This was around the time that tomatoes were being brought back to Europe, thus giving rise to the name “pomodoro.”</p>
-<h2 id="Resources"><a href="#Resources" class="headerlink" title="Resources"></a>Resources</h2><p><a href="https://developer.chrome.com/docs/extensions/mv3/getstarted/">Google’s Getting Started Guide and Documentation</a></p>
-<p><a href="https://iconduck.com/emojis/96851/tomato">Logo Source (not my own design)</a></p>
 <hr>
 <p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
   </entry>
