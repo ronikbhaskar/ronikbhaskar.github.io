@@ -115,3 +115,9 @@ search:
   field: all
   content: true
   format: html
+
+sitemap:
+  path: 
+    - sitemap.xml
+    - sitemap.txt
+  rel: false
