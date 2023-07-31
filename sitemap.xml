@@ -110,15 +110,6 @@
   </url>
   
   <url>
-    <loc>http://ronikbhaskar.github.io/projects/steganography.html</loc>
-    
-    <lastmod>2023-07-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://ronikbhaskar.github.io/projects/oracle_society.html</loc>
     
     <lastmod>2023-07-01</lastmod>
@@ -128,7 +119,7 @@
   </url>
   
   <url>
-    <loc>http://ronikbhaskar.github.io/projects/tomato_timer.html</loc>
+    <loc>http://ronikbhaskar.github.io/projects/steganography.html</loc>
     
     <lastmod>2023-07-01</lastmod>
     
@@ -147,6 +138,15 @@
   
   <url>
     <loc>http://ronikbhaskar.github.io/projects/ultimate_tic_tac_toe.html</loc>
+    
+    <lastmod>2023-07-01</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://ronikbhaskar.github.io/projects/tomato_timer.html</loc>
     
     <lastmod>2023-07-01</lastmod>
     
