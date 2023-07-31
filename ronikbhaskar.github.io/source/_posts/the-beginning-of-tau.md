@@ -2,6 +2,8 @@
 title: The Beginning of Tau
 date: 2023-06-28 22:04:54
 tags:
+description: "Happy Tau Day, the day when you're supposed to eat two pies. As an avid Pi Day enthusiast, June 28th provides the perfect opportunity to celebrate twice! All the major festivities you see on Pi Day, from memorizing digits to making music to baking fruit manifolds with crust boundaries, it's all there on Tau Day. Ultimate Tau Day (6/28/31) is only eight years away, so start preparing before it's too late."
+keywords: "tau, tau day, pi, circle constant, two pi, 2 pi, math holiday"
 ---
 
 

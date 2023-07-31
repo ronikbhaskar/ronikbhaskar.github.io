@@ -2,6 +2,8 @@
 title: 'The Connoisseur of Random: Predicting the Future'
 date: 2022-09-12 23:32:35
 tags:
+description: "Predicting the future is necessary for survival. I don't mean predicting the end of the world, just simple things like whether the sun will rise tomorrow or how late your friend will be to coffee. These predictions use prior knowledge to figure out what to do next. Pretty nifty. On the other hand, there are some events that aren't meant to be predicted—unknown futures that are best left in the hands of the universe."
+keywords: "connoisseur of random, gambler fallacy, monte carlo, prediction, true randomness, statistics, cryptography"
 ---
 
 

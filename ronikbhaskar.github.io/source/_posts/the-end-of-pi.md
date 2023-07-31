@@ -2,6 +2,8 @@
 title: The End of Pi
 date: 2023-03-14 22:09:31
 tags:
+description: "I'm fed up with you, π. I get it, you're the ratio of the circumference to the diameter, good for you. But that isn't enough for you, is it? No, you need to make sure everyone knows exactly who you are. You needed a day in your honor and competitions just for you. Was memorizing 100,000 of your digits not enough? No, of course not. It will never be enough. You are never ending."
+keywords: "pi day, pi, circle constant, 3.14, computing pi, digits of pi, memorize"
 ---
 
 

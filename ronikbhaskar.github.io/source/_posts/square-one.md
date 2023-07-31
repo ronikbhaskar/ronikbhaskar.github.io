@@ -2,6 +2,8 @@
 title: Square One
 date: 2023-01-01 22:46:16
 tags:
+description: "After another set of fruitless experiments and abandoned ideas, my mentor told me we were back to square one. Where exactly is square one? Some sources claim square one is on the football pitch. Others claim square one comes from hopscotch or snakes and ladders. Regardless of the game, being at square one puts you at the beginning with no progress. "
+keywords: "etymology, square one, circle zero, new year, computer science"
 ---
 
 

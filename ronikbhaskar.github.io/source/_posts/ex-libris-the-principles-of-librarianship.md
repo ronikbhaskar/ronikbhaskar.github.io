@@ -2,6 +2,8 @@
 title: 'Ex Libris: The Principles of Librarianship'
 date: 2022-09-21 22:18:31
 tags:
+description: "In the depths of the library basement, among the dusty, hand-crank bookcases, I finally found the section on Library and Information Science. Skimming the shelves, The Principles of Librarianship by Donald Urquhart seemed short and digestible. While I hoped the book would explain how literature was organized, I was excited at how wrong I was."
+keywords: "ex libris, librarianship, the principles of librarianship, librarians, donald urquhart, library, principles, advice"
 ---
 
 

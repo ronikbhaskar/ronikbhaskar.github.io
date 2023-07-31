@@ -2,6 +2,8 @@
 title: 'Ex Libris: Gadsby (not The Great Gatsby)'
 date: 2022-09-24 15:31:32
 tags:
+description: "IMPORTANT: This is about the book Gadsby By Ernest Vincent Wright, not The Great Gatsby by F. Scott Fitzgerald. This is a book without the letter E, and that's the only redeeming quality."
+keywords: "ex libris, Gadsby, Ernest Vincent Wright, lipogram, constrained writing, gimmick"
 ---
 
 

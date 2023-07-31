@@ -2,6 +2,8 @@
 title: AM
 date: 2023-04-23 21:23:32
 tags:
+description: What does AM stand for? Maybe Ante Meridiem, before noon. Or maybe the element Americium (Am). Maybe it's Artium Magister, a Master of Arts degree. Whatever the case, if you compound masters of the arts over time, you get Arctic Monkeys. Today, I attempt to recreate the cover art of 2013 studio album, AM.
+keywords: Arctic Monkeys, AM, cover art, recreational math, amplitude modulation, album cover
 ---
 
 

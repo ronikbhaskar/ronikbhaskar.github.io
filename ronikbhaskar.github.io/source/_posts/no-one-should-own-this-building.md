@@ -2,6 +2,8 @@
 title: No One Should Own This Building
 date: 2022-09-09
 tags:
+description: "Learn the history of St. Stephen's Church, one of the most fascinating buildings in Hyde Park, through the struggle for control over the last 30 years. Disclaimer: while there are references to true events and people in this story, the majority of these events and characters are heavily fictionalized. Do not trust any of this as a factual source."
+keywords: "st stephen, st stephens church, abandoned church, Konstantinos Antoniou, Linda Neal, Robert Mandel, John Liu, Frank Kladis, Max Eddy"
 ---
 
 <img src="/images/cleaned_ai_generated_church.png" alt="AI rendering of a domed church.">

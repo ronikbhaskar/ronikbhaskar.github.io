@@ -10,10 +10,14 @@
 <% if(config.subtitle){ %>
     <meta name="subtitle" content="<%- config.subtitle %>">
 <% } %>
-<% if(config.description){ %>
+<% if(page.description){ %>
+    <meta name="description" content="<%- page.description %>">
+<% }else if(config.description){ %>
     <meta name="description" content="<%- config.description %>">
 <% } %>
-<% if(config.keywords){ %>
+<% if(page.keywords){ %>
+    <meta name="keywords" content="<%- page.keywords %>">
+<% }else if(config.keywords){ %>
     <meta name="keywords" content="<%- config.keywords %>">
 <% } %>
 
@@ -34,16 +38,6 @@ if (is_archive()){
     title = __('Tag') + ': ' + page.tag;
 }
 %>
-
-<script>
-    function cb(response) {
-        const visits = document.getElementById('visits')
-        if (visits) {
-            visits.innerText = "Total page visits: " + response.value;
-        }
-    }
-    </script>
-    <script async src="https://api.countapi.xyz/hit/ronikbhaskar.github.io/visits?callback=cb"></script>
 
 <title><% if (title){ %><%= title %> | <% } %><%= config.title %></title>
 

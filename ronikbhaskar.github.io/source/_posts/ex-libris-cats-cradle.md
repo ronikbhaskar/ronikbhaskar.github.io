@@ -2,6 +2,8 @@
 title: 'Ex Libris: Cat''s Cradle'
 date: 2022-12-27 22:41:15
 tags:
+description: "Part of the Ex-Libris series. On Christmas this year, I read one of the most famous Christmas novels of all time: Cat's Cradle, by Kurt Vonnegut. This book is so powerful, it constituted a master's thesis in anthropology in the eyes of the University of Chicago. Countless experts have analyzed this book throughout the past 59 years."
+keywords: "ex libris, Kurt Vonnegut, Cat's Cradle, Vonnegut, typography, novel, therefore, logic, syllogism, dots, three dots"
 ---
 
 

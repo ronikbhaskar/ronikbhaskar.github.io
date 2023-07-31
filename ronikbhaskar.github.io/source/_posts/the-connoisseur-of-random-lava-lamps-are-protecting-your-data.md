@@ -2,6 +2,8 @@
 title: 'The Connoisseur of Random: Lava Lamps are Protecting your Data'
 date: 2022-10-15 17:25:50
 tags:
+description: "Have you ever used the Canva website? How about Etsy, Walmart, or even Best Buy? If so, congrats! Your data is being protected by lava lamps. Cloudflare is one of the largest global networks, securely providing you access to many of your favorite websites. In an attempt to generate more secure encryption keys, they turned to lava lamps. While lava lamps are deterministic—they follow an exact set of rules in a particular order—they are mathematically chaotic, meaning that approximate initial conditions won't tell you the final outcome. If you are even slightly off when trying to simulate a lava lamp, your results will be almost entirely inaccurate."
+keywords: "connoisseur of random, random numbers, lava lamps, cloudflare, random seed, statistics, cryptography"
 ---
 
 Have you ever used the Canva website? How about Etsy, Walmart, or even Best Buy? If so, congrats! Your data is being protected by lava lamps.
