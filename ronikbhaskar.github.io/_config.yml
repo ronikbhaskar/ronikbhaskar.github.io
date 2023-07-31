@@ -99,6 +99,9 @@ ignore:
 ## Themes: https://hexo.io/themes/
 theme: frame
 
+plugins:
+ - hexo-generator-robotstxt
+
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
@@ -121,3 +124,10 @@ sitemap:
     - sitemap.xml
     - sitemap.txt
   rel: false
+
+# robots.txt
+robotstxt:
+  useragent: "*"
+  disallow:
+  allow:
+  sitemap: /sitemap.xml
