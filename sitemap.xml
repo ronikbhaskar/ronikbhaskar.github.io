@@ -2,15 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://ronikbhaskar.github.io/the-mortifying-ordeal-of-being-perceived/</loc>
-    
-    <lastmod>2023-08-08</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://ronikbhaskar.github.io/the-end-of-pi/</loc>
     
     <lastmod>2023-07-31</lastmod>
@@ -119,7 +110,7 @@
   </url>
   
   <url>
-    <loc>http://ronikbhaskar.github.io/projects/steganography.html</loc>
+    <loc>http://ronikbhaskar.github.io/projects/oracle_society.html</loc>
     
     <lastmod>2023-07-01</lastmod>
     
@@ -128,7 +119,7 @@
   </url>
   
   <url>
-    <loc>http://ronikbhaskar.github.io/projects/oracle_society.html</loc>
+    <loc>http://ronikbhaskar.github.io/projects/steganography.html</loc>
     
     <lastmod>2023-07-01</lastmod>
     
@@ -200,7 +191,7 @@
   </url>
   
   <url>
-    <loc>http://ronikbhaskar.github.io/projects/linear_transformation_visualizer.html</loc>
+    <loc>http://ronikbhaskar.github.io/projects/index.html</loc>
     
     <lastmod>2023-07-01</lastmod>
     
@@ -209,7 +200,7 @@
   </url>
   
   <url>
-    <loc>http://ronikbhaskar.github.io/projects/index.html</loc>
+    <loc>http://ronikbhaskar.github.io/projects/linear_transformation_visualizer.html</loc>
     
     <lastmod>2023-07-01</lastmod>
     
@@ -229,7 +220,7 @@
 
   <url>
     <loc>http://ronikbhaskar.github.io/</loc>
-    <lastmod>2023-08-08</lastmod>
+    <lastmod>2023-08-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
