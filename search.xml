@@ -116,6 +116,73 @@
 ]]></content>
   </entry>
   <entry>
+    <title>The AI Summer</title>
+    <url>/the-ai-summer/</url>
+    <content><![CDATA[<p>Well, my little cousin is using large language models to do his homework for him, my aunt makes Facebook posts with images from diffusion models, and I just deepfaked my voice in 5 minutes. That sentence sounds impossible, but the AI revolution has made it all too real. Some argue the AI revolution started in November of 2022, when ChatGPT was first released. Others say it started with Dall-E in early 2021. I say it started in 1958, but not with any big, fancy machine learning models. It started with the Perceptron.</p>
+<p>The Perceptron is the predecessor of all deep learning models. Before our modern neural networks with hundreds of hidden layers and fancy activation functions, there was a single-layer, linear network called the Perceptron. Designed by Warren McCulloch and Walter Pitts in 1943, it took 15 years before it was actually built by Frank Rosenblatt in 1958. Made to be a standalone machine, the Mark 1 Perceptron used an array of 20x20 photocells for the input, potentiometers to encode the weights, and electric motors to adjust the weights. One of the first things it learned was how to tell left from right. </p>
+<p>Rosenblatt envisioned a future, one where machines could understand language and see the world around us. His innovative work sparked uncertainty for the future, and where there is uncertainty, there is skepticism. Minsky and Papert provided a strong counterexample to the power of the Perceptron: it could not learn the XOR gate. Essentially, given two objects—each one either a “yes” or a “no”—the Perceptron would not be able to tell you whether they were the same. Even for problems it could solve, the Perceptron required far more computing power than was possible at the time. This gave skeptics the upper hand. A few years later, scientists entered the first AI winter. Funding was down and interest was low. The field stalled.</p>
+<p>The AI winter provided no incentive to consider the impacts of the potentially groundbreaking field. Companies didn’t anticipate how AI might impact them, and the law gave no specific consideration to such technologies. Because no one really cared to make any decisions, an AI future remained entirely uncertain. Rather than consider the implications and consequences, almost everyone deemed such decision-making unnecessary. Sure, calling Rosenblatt’s future nonsense sounded strong and resolute, but no problem has ever been answered by pretending it didn’t exist. The uncertain future of AI remained, but it was pawned off to the next generations as a problem for later.</p>
+<p>To the dismay of many, Rosenblatt was right. We are living through the AI revolution. Everyone with internet has access to state-of-the-art models, and they continue to transform how so many of us approach work and play in our everyday lives. Conversations about AI are no longer hypothetical. Businesses are transforming, the Senate is having hearings, and grassroots movements are growing because AI hit us hard, and we didn’t anticipate the impact. The uncertainty built over 60 years has finally broken free from the chains of hypotheticals and entered reality. </p>
+<p>And now, in our AI summer, we are woefully underprepared to deal with any of the consequences of AI. Yes, we have money and resources and attention pointing directly at this technology, but we remain almost as uncertain as we were a few decades ago. In this time, plenty have created theories about approaches to AI, but most were in the context of sentient machines. While I’m certainly thankful for that preparation for when the time comes, AI right now isn’t alive, it’s just fancy statistics. Issues of copyright and stolen data and plagiarism plague modern discussions of AI, and almost none have truly been resolved.   </p>
+<p>I sometimes wonder if this uncertainty is the price we pay for technological advancement. Almost no one batted an eyelid when LAION and CommonCrawl started building their massive datasets. Before ChatGPT, GPT-3 was already wildly powerful, writing an entire Batman movie script. GANs could do text-to-image generation well before Stable Diffusion. Few people asked if we should stop to reflect on these developments. I suppose, the longer we ignored the voices telling us to stop, the faster we could develop this technology. We paid for our speed by ignoring the uncertainty. When organizations released AI into the wild with few provisions or plans, it was already too late.</p>
+<p>To be clear, I would never expect anyone to anticipate everything that AI would bring. For the average internet user, the limits of what is possible have changed dramatically, and the evolutions of this technology continue to be unfathomable. Besides, we got a head start on some issues—like self-driving cars—but that still isn’t enough. With AI accessible to all, everyone is left to answer the uncertainty. Schools, healthcare, legislatures, companies small and large, everyone must now grapple with how to continue their lives in this once impossible future—in Rosenblatt’s future.</p>
+<p>The AI summer is heating up, and we’re flying too close to the sun. Try not to get burned.</p>
+<hr>
+<h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ol>
+<li><a href="https://doi.org/10.1177/030631296026003005">A Sociological Study of the Official History of the Perceptrons Controversy</a></li>
+<li><a href="https://archive.org/details/perceptronsintro00mins">Perceptrons. Minsky and Papert.</a></li>
+<li><a href="https://news.cornell.edu/stories/2019/09/professors-perceptron-paved-way-ai-60-years-too-soon">Professor’s Perceptron Paved the Way for AI – 60 Years Too Soon</a></li>
+<li><a href="https://commoncrawl.org/">CommonCrawl</a></li>
+<li><a href="https://laion.ai/blog/laion-5b/">LAION-5B</a></li>
+<li><a href="https://twitter.com/KeatonPatti/status/1161284670601990146">AI Batman Script from 2019</a></li>
+</ol>
+]]></content>
+  </entry>
+  <entry>
+    <title>The Beginning of Tau</title>
+    <url>/the-beginning-of-tau/</url>
+    <content><![CDATA[<p>Happy Tau Day, the day when you’re supposed to eat two pies. As an avid Pi Day enthusiast, June 28th provides the perfect opportunity to celebrate twice! All the major festivities you see on Pi Day, from memorizing digits to making music to baking fruit manifolds with crust boundaries, it’s all there on Tau Day. Ultimate Tau Day (6&#x2F;28&#x2F;31) is only eight years away, so start preparing before it’s too late.</p>
+<p>Part of the beauty of Tau (τ) is that it has a life outside of being the ratio of a circle’s circumference to its radius. π has been featured in too many blockbuster equations and gets recognized everywhere. While τ is a lesser known celebrity, it can explore other fields, like particle physics and neuroscience and programming languages.</p>
+<p>Pi and Tau day are wonderful, but they’re not alone. Mathematically wonderful dates are everywhere. Other than just being Tau Day, the numbers in today’s date (6&#x2F;28&#x2F;23) provide a beautiful equation—</p>
+<p>$$\Gamma(6) &#x3D; (28 - 23)!$$</p>
+<p>—with ! denoting factorial, but also excitement because this is exciting. Tomorrow gives us an even simpler equation:</p>
+<p>$$6 &#x3D; 29 - 23$$</p>
+<p>And yesterday worked out quite nicely as well:</p>
+<p>$$6 &#x3D; \Gamma(27 - 23)$$</p>
+<p>For years, I’ve played this little game with the date, trying to insert non-digit symbols around and between the numbers, creating a valid equation while preserving their order from left to right. I recommend you try it too, it’s a nice way to spend a few minutes. Today, I built a toy programming language (thanks τ) whose programs are valid date equations. Then I wrote a script that searched through a finite space of potential programs to find valid ones for the given date. It generated the solutions for the dates I just listed.</p>
+<p>After playing this game for years, I’ve realized that finding an equation for the date is always possible. In fact, there are universal solutions, though they’re not always very exciting. For example, by taking advantage of properties of the sine function:</p>
+<p>$$ \forall m, d, y \in \mathbb{N}, \sin((m + d)\tau) &#x3D; \sin(y\tau) $$</p>
+<p>Strangely, celebrating τ allows us to celebrate other days of the year rather mathematically. Yes, τ is a superstar, but it allows us to celebrate others through its mere presence. </p>
+<p>The Tau Manifesto was written in 2010, spreading the voices of those who carried τ on their backs for years in relative silence. While the Tau Day community has certainly come a far way since then, τ is far from the spotlight it deserves. Until that moment, celebrate each day mathematically. This is just the beginning.</p>
+<hr>
+<h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ol>
+<li><a href="https://tauday.com/">The Official Tau Day Website</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Tau_(particle)">The Tau Particle</a></li>
+<li><a href="https://www.alz.org/media/Documents/alzheimers-dementia-tau-ts.pdf">Tau in Alzheimer’s Research</a></li>
+</ol>
+]]></content>
+  </entry>
+  <entry>
+    <title>The Connoisseur of Random: Before Computers</title>
+    <url>/the-connoisseur-of-random-before-computers/</url>
+    <content><![CDATA[<p>As we discussed last time, computers aren’t great at generating truly random numbers. Can you do any better? You have plenty of practice generating random numbers, I can promise you that, as long as you’ve played a few board games.</p>
+<p>Dice. Roll one to get a random number. Roll a few and add them together to get bigger numbers. So many board games rely on you generating random numbers to make the game enjoyable. Will you pass Go or will you go bankrupt on Boardwalk? Will you climb a ladder or slide down a snake? It all depends on how the dice roll.</p>
+<p>In 1890 Francis Galton saw the power of using dice in statistics, creating a special set of dice for statistical experiments. He argued that shaking dice in a bag and taking them out with your eyes closed was sufficiently random for this random sampling technique.</p>
+<p>Dice are great, but no one has time to sit around, rolling dice hundreds of times to get random numbers. In the early-mid 1900s, scientists at Project RAND began developing better mechanical techniques, like using electronic “roulette wheels.” They generated some binary digits (0s and 1s) and converted the number to decimal. Using this technique, Project RAND turned into the RAND Corporation, selling books of one million random digits. The book still sells for roughly 70 USD. While their analyses of random digits looked usable for the most part, there were some issues with the odd-even distribution, and they made some strong assumptions about overcoming bias.</p>
+<p>While I respect the RAND Corporation for pioneering modern techniques, on my quest to finding the best truly random numbers, their method doesn’t meet the mark. You all deserve better. To understand the nature of writing a book of random numbers, I borrowed techniques from Galton and RAND, and <a href="https://github.com/ronikbhaskar/book-of-random-numbers/blob/main/volumes/Volume%20I.md">I wrote my own</a>.</p>
+<p>Rather than creating custom dice, I used existing six-sided dice. After rolling over 1000 dice, I converted from base 6 to base 10, and recorded my results. After thinking for a moment, I realized that one of the few things we need high volumes of random numbers of is dice rolls, so I saved those separately. Random coin flips would be nice too, so I did a bit more math to convert the dice rolls into coin flips. While I was at it, I converted the rolls into hexadecimal digits for the programmers out there. As of writing this, I’m only at the first volume, but if this proves useful, I will gladly create more handcrafted random numbers just for you.</p>
+<p>Unfortunately, these random numbers aren’t truly random. Humans are notoriously bad at being random, and I am human, so I likely introduced a non-random bias into the system. I don’t know how to cheat with dice, nor did I try. While I made a good effort, it’s hard to call these artisan “random” numbers truly random.</p>
+<p>We’ll have to push further next time.</p>
+<hr>
+<h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ol>
+<li><a href="https://doi.org/10.1038/042013a0">Dice for Statistical Experiments</a></li>
+<li><a href="https://www.rand.org/content/dam/rand/pubs/papers/2008/P113.pdf">RAND Corporation’s History of Random Digits</a></li>
+<li><a href="https://www.amazon.com/Million-Random-Digits-Normal-Deviates/dp/0833030477">Book of A Million Random Digits</a></li>
+<li><a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjwx8Pt08D6AhU2lIkEHf8jAqcQFnoECAgQAQ&url=https://www.mdpi.com/2079-9292/10/13/1517/pdf&usg=AOvVaw1PiU7pbgXdIviYWLFI4TgC">Random Number Circuit Using Frequencies</a></li>
+</ol>
+]]></content>
+  </entry>
+  <entry>
     <title>No One Should Own This Building</title>
     <url>/no-one-should-own-this-building/</url>
     <content><![CDATA[<img src="/images/cleaned_ai_generated_church.png" alt="AI rendering of a domed church.">
@@ -218,64 +285,19 @@
 ]]></content>
   </entry>
   <entry>
-    <title>Square One</title>
-    <url>/square-one/</url>
-    <content><![CDATA[<p>After another set of fruitless experiments and abandoned ideas, my mentor told me we were back to square one.</p>
-<p>“Quick question,” I interjected, “Where exactly <em>is</em> square one?”</p>
-<p>Some sources claim square one is on the football pitch. In the 1930s, BBC radio sports commentators divided the pitch into eight sections, with square one at the bottom right corner. Others claim square one comes from hopscotch or snakes and ladders. Regardless of the game, being at square one puts you at the beginning with no progress. </p>
-<p>Square-1 is also the name of a puzzle derived from the Rubik’s Cube. For practiced cubers, solving a Square-1 can become incredibly straightforward. </p>
-<p>My mentor and I didn’t feel like we were at square one. Sure, we were at the beginning, but being at square one implies square two is just ahead. Every time we returned to the beginning, we were too disoriented to know where to look first. Much of our progress felt sideways or backwards. </p>
-<p>On a lesser note, computer scientists don’t begin counting with one; they begin counting with zero. </p>
-<p>In that meeting, in front of the drawing board, we made a decision. We were not at square one. We were at circle zero. Eventually, circle zero became familiar. Sure, it was mischevous, and at times confusing, but it no longer felt new. Whenever we left, we never worried about saying goodbye; we would be back eventually.</p>
-<p>For most people, today is square one. Today’s square on the Gregorian calendar is the first day of first month. As such, I wish you all a happy circle zero.</p>
+    <title>The Connoisseur of Random: Lava Lamps are Protecting your Data</title>
+    <url>/the-connoisseur-of-random-lava-lamps-are-protecting-your-data/</url>
+    <content><![CDATA[<p>Have you ever used the Canva website? How about Etsy, Walmart, or even Best Buy? If so, congrats! Your data is being protected by lava lamps.</p>
+<p>Cloudflare is one of the largest global networks, securely providing you access to many of your favorite websites. In an attempt to generate more secure encryption keys, they turned to lava lamps. While lava lamps are deterministic—they follow an exact set of rules in a particular order—they are mathematically chaotic, meaning that approximate initial conditions won’t tell you the final outcome. If you are even slightly off when trying to simulate a lava lamp, your results will be almost entirely inaccurate.</p>
+<p>Additionally, Cloudflare uses a double pendulum and uranium decay to generate chaos, but that’s beyond the scope of this archive.</p>
+<p>Using lava lamps to generate random numbers isn’t a new idea. Back in 1996, Lavarand began using lava lamps to generate random numbers. They took the data from images of lava lamp arrays, and used them as seeds for pseudorandom number generators. Naturally, the use of a pseudorandom number generator makes the process a bit less safe, but it’s nice to see they were taking precautions.</p>
+<p>Pseudorandom number generation is too well understood to be used in cryptography, so Cloudflare imposes two additional rules on their random number generation to keep your data secure. First, their numbers should pass statistical tests that prove unpredictability. If you can find patterns in your data, it’s hard to call it random (I have another archive on the way about this topic). Second, if someone knows how part—not all—of the program works, they still shouldn’t be able to predict the random numbers. </p>
+<p>So, the next time you’re shopping on Etsy or Walmart.com, remember that you’re safe. You have lava lamps protecting you. </p>
+<p><em>Disclaimer: I am not affiliated with Cloudflare in any way, and these statements are entirely my own.</em></p>
 <hr>
 <h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ol>
-<li><a href="https://en.wikipedia.org/wiki/Square-1_(puzzle)">Square-1 Puzzle</a></li>
-<li>The discourse surrounding the etymology of “square one” lacks enough rigor to warrant any particular links. Instead, a Google search for “origin of square one” will provide plenty of questionable sources offering one of the three explanations listed above.</li>
-</ol>
-]]></content>
-  </entry>
-  <entry>
-    <title>The Beginning of Tau</title>
-    <url>/the-beginning-of-tau/</url>
-    <content><![CDATA[<p>Happy Tau Day, the day when you’re supposed to eat two pies. As an avid Pi Day enthusiast, June 28th provides the perfect opportunity to celebrate twice! All the major festivities you see on Pi Day, from memorizing digits to making music to baking fruit manifolds with crust boundaries, it’s all there on Tau Day. Ultimate Tau Day (6&#x2F;28&#x2F;31) is only eight years away, so start preparing before it’s too late.</p>
-<p>Part of the beauty of Tau (τ) is that it has a life outside of being the ratio of a circle’s circumference to its radius. π has been featured in too many blockbuster equations and gets recognized everywhere. While τ is a lesser known celebrity, it can explore other fields, like particle physics and neuroscience and programming languages.</p>
-<p>Pi and Tau day are wonderful, but they’re not alone. Mathematically wonderful dates are everywhere. Other than just being Tau Day, the numbers in today’s date (6&#x2F;28&#x2F;23) provide a beautiful equation—</p>
-<p>$$\Gamma(6) &#x3D; (28 - 23)!$$</p>
-<p>—with ! denoting factorial, but also excitement because this is exciting. Tomorrow gives us an even simpler equation:</p>
-<p>$$6 &#x3D; 29 - 23$$</p>
-<p>And yesterday worked out quite nicely as well:</p>
-<p>$$6 &#x3D; \Gamma(27 - 23)$$</p>
-<p>For years, I’ve played this little game with the date, trying to insert non-digit symbols around and between the numbers, creating a valid equation while preserving their order from left to right. I recommend you try it too, it’s a nice way to spend a few minutes. Today, I built a toy programming language (thanks τ) whose programs are valid date equations. Then I wrote a script that searched through a finite space of potential programs to find valid ones for the given date. It generated the solutions for the dates I just listed.</p>
-<p>After playing this game for years, I’ve realized that finding an equation for the date is always possible. In fact, there are universal solutions, though they’re not always very exciting. For example, by taking advantage of properties of the sine function:</p>
-<p>$$ \forall m, d, y \in \mathbb{N}, \sin((m + d)\tau) &#x3D; \sin(y\tau) $$</p>
-<p>Strangely, celebrating τ allows us to celebrate other days of the year rather mathematically. Yes, τ is a superstar, but it allows us to celebrate others through its mere presence. </p>
-<p>The Tau Manifesto was written in 2010, spreading the voices of those who carried τ on their backs for years in relative silence. While the Tau Day community has certainly come a far way since then, τ is far from the spotlight it deserves. Until that moment, celebrate each day mathematically. This is just the beginning.</p>
-<hr>
-<h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ol>
-<li><a href="https://tauday.com/">The Official Tau Day Website</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Tau_(particle)">The Tau Particle</a></li>
-<li><a href="https://www.alz.org/media/Documents/alzheimers-dementia-tau-ts.pdf">Tau in Alzheimer’s Research</a></li>
-</ol>
-]]></content>
-  </entry>
-  <entry>
-    <title>The Connoisseur of Random: Before Computers</title>
-    <url>/the-connoisseur-of-random-before-computers/</url>
-    <content><![CDATA[<p>As we discussed last time, computers aren’t great at generating truly random numbers. Can you do any better? You have plenty of practice generating random numbers, I can promise you that, as long as you’ve played a few board games.</p>
-<p>Dice. Roll one to get a random number. Roll a few and add them together to get bigger numbers. So many board games rely on you generating random numbers to make the game enjoyable. Will you pass Go or will you go bankrupt on Boardwalk? Will you climb a ladder or slide down a snake? It all depends on how the dice roll.</p>
-<p>In 1890 Francis Galton saw the power of using dice in statistics, creating a special set of dice for statistical experiments. He argued that shaking dice in a bag and taking them out with your eyes closed was sufficiently random for this random sampling technique.</p>
-<p>Dice are great, but no one has time to sit around, rolling dice hundreds of times to get random numbers. In the early-mid 1900s, scientists at Project RAND began developing better mechanical techniques, like using electronic “roulette wheels.” They generated some binary digits (0s and 1s) and converted the number to decimal. Using this technique, Project RAND turned into the RAND Corporation, selling books of one million random digits. The book still sells for roughly 70 USD. While their analyses of random digits looked usable for the most part, there were some issues with the odd-even distribution, and they made some strong assumptions about overcoming bias.</p>
-<p>While I respect the RAND Corporation for pioneering modern techniques, on my quest to finding the best truly random numbers, their method doesn’t meet the mark. You all deserve better. To understand the nature of writing a book of random numbers, I borrowed techniques from Galton and RAND, and <a href="https://github.com/ronikbhaskar/book-of-random-numbers/blob/main/volumes/Volume%20I.md">I wrote my own</a>.</p>
-<p>Rather than creating custom dice, I used existing six-sided dice. After rolling over 1000 dice, I converted from base 6 to base 10, and recorded my results. After thinking for a moment, I realized that one of the few things we need high volumes of random numbers of is dice rolls, so I saved those separately. Random coin flips would be nice too, so I did a bit more math to convert the dice rolls into coin flips. While I was at it, I converted the rolls into hexadecimal digits for the programmers out there. As of writing this, I’m only at the first volume, but if this proves useful, I will gladly create more handcrafted random numbers just for you.</p>
-<p>Unfortunately, these random numbers aren’t truly random. Humans are notoriously bad at being random, and I am human, so I likely introduced a non-random bias into the system. I don’t know how to cheat with dice, nor did I try. While I made a good effort, it’s hard to call these artisan “random” numbers truly random.</p>
-<p>We’ll have to push further next time.</p>
-<hr>
-<h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ol>
-<li><a href="https://doi.org/10.1038/042013a0">Dice for Statistical Experiments</a></li>
-<li><a href="https://www.rand.org/content/dam/rand/pubs/papers/2008/P113.pdf">RAND Corporation’s History of Random Digits</a></li>
-<li><a href="https://www.amazon.com/Million-Random-Digits-Normal-Deviates/dp/0833030477">Book of A Million Random Digits</a></li>
-<li><a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjwx8Pt08D6AhU2lIkEHf8jAqcQFnoECAgQAQ&url=https://www.mdpi.com/2079-9292/10/13/1517/pdf&usg=AOvVaw1PiU7pbgXdIviYWLFI4TgC">Random Number Circuit Using Frequencies</a></li>
+<li><a href="https://www.cloudflare.com/learning/ssl/lava-lamp-encryption/">Cloudflare Uses Lava Lamps</a></li>
+<li><a href="https://web.archive.org/web/19971210213248/http://lavarand.sgi.com/">Lavarand Web Archive</a></li>
 </ol>
 ]]></content>
   </entry>
@@ -335,23 +357,6 @@
 ]]></content>
   </entry>
   <entry>
-    <title>The Connoisseur of Random: Lava Lamps are Protecting your Data</title>
-    <url>/the-connoisseur-of-random-lava-lamps-are-protecting-your-data/</url>
-    <content><![CDATA[<p>Have you ever used the Canva website? How about Etsy, Walmart, or even Best Buy? If so, congrats! Your data is being protected by lava lamps.</p>
-<p>Cloudflare is one of the largest global networks, securely providing you access to many of your favorite websites. In an attempt to generate more secure encryption keys, they turned to lava lamps. While lava lamps are deterministic—they follow an exact set of rules in a particular order—they are mathematically chaotic, meaning that approximate initial conditions won’t tell you the final outcome. If you are even slightly off when trying to simulate a lava lamp, your results will be almost entirely inaccurate.</p>
-<p>Additionally, Cloudflare uses a double pendulum and uranium decay to generate chaos, but that’s beyond the scope of this archive.</p>
-<p>Using lava lamps to generate random numbers isn’t a new idea. Back in 1996, Lavarand began using lava lamps to generate random numbers. They took the data from images of lava lamp arrays, and used them as seeds for pseudorandom number generators. Naturally, the use of a pseudorandom number generator makes the process a bit less safe, but it’s nice to see they were taking precautions.</p>
-<p>Pseudorandom number generation is too well understood to be used in cryptography, so Cloudflare imposes two additional rules on their random number generation to keep your data secure. First, their numbers should pass statistical tests that prove unpredictability. If you can find patterns in your data, it’s hard to call it random (I have another archive on the way about this topic). Second, if someone knows how part—not all—of the program works, they still shouldn’t be able to predict the random numbers. </p>
-<p>So, the next time you’re shopping on Etsy or Walmart.com, remember that you’re safe. You have lava lamps protecting you. </p>
-<p><em>Disclaimer: I am not affiliated with Cloudflare in any way, and these statements are entirely my own.</em></p>
-<hr>
-<h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ol>
-<li><a href="https://www.cloudflare.com/learning/ssl/lava-lamp-encryption/">Cloudflare Uses Lava Lamps</a></li>
-<li><a href="https://web.archive.org/web/19971210213248/http://lavarand.sgi.com/">Lavarand Web Archive</a></li>
-</ol>
-]]></content>
-  </entry>
-  <entry>
     <title>The End of Pi</title>
     <url>/the-end-of-pi/</url>
     <content><![CDATA[<p>I’m fed up with you, π. I get it, you’re the ratio of the circumference to the diameter, good for you. But that isn’t enough for you, is it? No, you need to make sure <strong>everyone</strong> knows exactly who you are. You needed a day in your honor and competitions just for you. Was memorizing 100,000 of your digits not enough? No, of course not. It will never be enough. You are never ending.</p>
@@ -367,6 +372,78 @@
 <li><a href="https://blog.timothymullican.com/calculating-pi-my-attempt-breaking-pi-record">Timothy Mullican, Prev Record Holder for Computing Digits</a></li>
 </ol>
 ]]></content>
+  </entry>
+  <entry>
+    <title>The Sunlit Forge</title>
+    <url>/the-sunlit-forge/</url>
+    <content><![CDATA[<p>When OpenAI first released ChatGPT, I was in the middle of a project on large language model security. My advisor and I discussed, and I pivoted to a security project focused on ChatGPT. For weeks, I worked to reveal its flaws—to uncover its vulnerabilities. </p>
+<p>I’m glad I finally stopped.</p>
+<p>Back in early 2022, I built a <a href="https://ronikbhaskar.github.io/projects/text_generator">toy language model</a> from scratch. It didn’t do anything fancy—it could barely put together coherent sentences—but I saw potential. I taught it <em>The Art of War</em> and watched it ramble about spies and morale. I fed it Discord transcripts and laughed as it tried to imitate my friends. The night that I finished it, I stayed up until 2:00am just playing around with everything it could do.</p>
+<p>When I showed it to the people around me, they fell in love almost as fast as I did, giving me plenty of suggestions on what to do with it. Jon—now the co-host of <a href="https://jonikpodcast.github.io/">Jonik</a>—sent me the best ideas by far. Together, we watched this little language model review the anthropocene and explain how it met your mother. I felt bad making him and others wait for me to run the model whenever they sent new training data, so I translated the entire project into JavaScript—the language of the web—and built a <a href="https://ronikbhaskar.github.io/text_generator/">website</a> around it. This way, everyone could use it whenever they wanted.</p>
+<p>A short while after, I started working in a security lab, and my first project was on how the predecessors of ChatGPT could be actively tricked into saying incorrect statements. My attention turned away from the little language model, and my perspective on language models shifted from embracing strengths to discovering weaknesses. Over the next six months, this was my primary focus, reviewing literature, brainstorming better attack methods, and running experiments, all to demonstrate vulnerability in LLMs. My mentor taught me so much, and on the off chance I had a good idea, we used it. Even if we did end up back at <a href="https://ronikbhaskar.github.io/square-one/">square one</a>, I wouldn’t trade that time for the world.</p>
+<p>So when OpenAI released ChatGPT to the world, I wasn’t in the right headspace to appreciate it. Before I even touched it, I pulled up the related literature and started comparing it to the other language models I had studied. The first time I tried ChatGPT, I didn’t ask it anything fun or interesting. I just started feeding it attack prompts, trying to make it mess up. </p>
+<p>A few months later, when I was no longer working on the project, I sat down and had a conversation with ChatGPT. I had fun, and part of me remembered the little toy language model I made over a year prior. Hoping to give my language model a chat interface, I asked ChatGPT to help me design the layout. It wrote a beautiful piece of HTML and CSS, and once I added the logic, I had my own little AI chatbot, <a href="https://ronikbhaskar.github.io/chatgpt-mini-projects/chatumm/">ChatUMM</a>. </p>
+<p>Suddenly, if I dreamed an idea, ChatGPT could help me make it a reality. Furiously flipping through my notebook, I searched for a few ideas for which I had concrete plans. I started explaining them to ChatGPT, copying the web design, and adding my own functionality. In just one day, I had created <a href="https://ronikbhaskar.github.io/chatgpt-mini-projects/daylight/">a clock that tells you how much daylight you have left</a>, <a href="https://ronikbhaskar.github.io/chatgpt-mini-projects/ukulelify/">a chord converter for ukulelists that can’t transpose</a>, and <a href="https://ronikbhaskar.github.io/chatgpt-mini-projects/the_daily_pi/">an infinite monkey typewriter using pi instead of a real monkey</a>. When it was all over, I had ChatGPT design <a href="https://ronikbhaskar.github.io/chatgpt-mini-projects/">a homepage for all the projects</a>.</p>
+<p>That day, ChatGPT became my sunlit forge. If I could figure out what to make and how to share it with the world, ChatGPT gave me the tools to build faster than I ever could have imagined. Unlike an actual person, ChatGPT rarely gave me any good ideas. Instead, I provided the ideas, and ChatGPT offered me a way to realize them. Once I finally let a little light in, my vision cleared, and I did what I do best—I created. </p>
+<p>From there, whenever I needed to create a quick website, I would turn back to the sunlit forge. From <a href="https://jonikpodcast.github.io/">a podcast website</a> to my own <a href="https://ronikbhaskar.github.io/chatgpt-mini-projects/small-e/">mini image generator</a>, I built it all there. For higher-consequence projects, or ones where I risk violating licenses, I’ll build everything by hand, but so long as this works, I will keep coming back to the sunlit forge. </p>
+<p>None of the ChatGPT-assisted websites are perfect. They’re all prototypes, nothing more. On some devices, they don’t work. At some scales, the user interface looks garbled. I have no plans on improving them, because they were never meant to be perfect. All I want is to share my ideas with the world, and doing just that has never been easier. </p>
+<p>This AI summer has just begun, so let a little light into your forge.</p>
+<hr>
+<h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ol>
+<li><a href="https://ronikbhaskar.github.io/">Me</a></li>
+</ol>
+]]></content>
+  </entry>
+  <entry>
+    <title>Square One</title>
+    <url>/square-one/</url>
+    <content><![CDATA[<p>After another set of fruitless experiments and abandoned ideas, my mentor told me we were back to square one.</p>
+<p>“Quick question,” I interjected, “Where exactly <em>is</em> square one?”</p>
+<p>Some sources claim square one is on the football pitch. In the 1930s, BBC radio sports commentators divided the pitch into eight sections, with square one at the bottom right corner. Others claim square one comes from hopscotch or snakes and ladders. Regardless of the game, being at square one puts you at the beginning with no progress. </p>
+<p>Square-1 is also the name of a puzzle derived from the Rubik’s Cube. For practiced cubers, solving a Square-1 can become incredibly straightforward. </p>
+<p>My mentor and I didn’t feel like we were at square one. Sure, we were at the beginning, but being at square one implies square two is just ahead. Every time we returned to the beginning, we were too disoriented to know where to look first. Much of our progress felt sideways or backwards. </p>
+<p>On a lesser note, computer scientists don’t begin counting with one; they begin counting with zero. </p>
+<p>In that meeting, in front of the drawing board, we made a decision. We were not at square one. We were at circle zero. Eventually, circle zero became familiar. Sure, it was mischevous, and at times confusing, but it no longer felt new. Whenever we left, we never worried about saying goodbye; we would be back eventually.</p>
+<p>For most people, today is square one. Today’s square on the Gregorian calendar is the first day of first month. As such, I wish you all a happy circle zero.</p>
+<hr>
+<h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ol>
+<li><a href="https://en.wikipedia.org/wiki/Square-1_(puzzle)">Square-1 Puzzle</a></li>
+<li>The discourse surrounding the etymology of “square one” lacks enough rigor to warrant any particular links. Instead, a Google search for “origin of square one” will provide plenty of questionable sources offering one of the three explanations listed above.</li>
+</ol>
+]]></content>
+  </entry>
+  <entry>
+    <title>About Me</title>
+    <url>/about/index.html</url>
+    <content><![CDATA[<style>
+.profile-image-ronik {
+    width: min(max(50%,14rem),100%)!important;
+    margin: 1rem;
+    margin-top: 0;
+    margin-right: 0;
+    float: right!important;
+}
+</style>
+
+<img src="ronik.jpg" class="profile-image-ronik" alt="Ronik looking up at a plant."> 
+
+<p id="visits"></p>
+
+<p>Under renovation. Will return shortly.</p>
+<!-- I was never the creative one or the artistic one. I was always "that guy that's good at math." -->
+
+<!-- Then COVID hit. -->
+
+<!-- In December of 2020, a welcoming group of friends adopted me into their Discord server. We joked about building more friends, but some part of me kept whispering, *Maybe that's not a bad idea.* So, that month, I built a working [discord bot](/projects/discord_bot). His name was Igor, and despite the lack of functionality, he was full of life and personality. The server members loved him like a pet.  -->
+
+
+<!-- A few months later, while chatting about the chaos of life with some filmmakers, they mentioned the butterfly effect. I asked about the origin of the phrase, and a few hours later, I found myself stumbling down a rabbit hole of differential equations and strange attractors. A week later, I recreated Lorenz's Butterfly Effect—the beginnings of the [math art](/projects/math-art) project. -->
+
+<!-- This continued incessantly. Someone would throw out a phrase or idea, and I would run with it. As I continued creating, I started finding my voice in code. Despite everything I made, it took me months to finally call myself creative, which would have been impossible on my own. My friends reminded me that I was more than test scores and good grades, and I hope they know how grateful I am. -->
+
+<!-- Without the people closest to me providing constant support and inspiration and critiques, I wouldn't still be creating. If that's you, thanks.  -->
+
+<!-- *Add to the [dialogue](https://ronikbhaskar.github.io/chat), and become part of my story.* -->]]></content>
   </entry>
   <entry>
     <title>Full Stack Chat App</title>
@@ -580,21 +657,6 @@
 <br />]]></content>
   </entry>
   <entry>
-    <title>Linear Transformation Visualizer</title>
-    <url>/projects/linear_transformation_visualizer.html</url>
-    <content><![CDATA[<p>Learn a thing or two about linear algebra <a href="https://ronikbhaskar.github.io/linear_transformation_visualizer">here</a> (or just play with numbers).</p>
-<h2 id="Purpose"><a href="#Purpose" class="headerlink" title="Purpose"></a>Purpose</h2><p>For part of my abstract linear algebra class, we were allowed to build a piece of software related to the course material. We spent so much time looking at grids of numbers and analyzing proofs, but I wanted to <em>see</em> how it all worked. So, I took it upon myself to learn vanilla JavaScript and write a web app capable of letting me see what was happening to the space as I transformed it.</p>
-<p>Shoutout to Prof. Lanier.</p>
-<h2 id="Engineering-the-App"><a href="#Engineering-the-App" class="headerlink" title="Engineering the App"></a>Engineering the App</h2><p>I followed one tutorial on html and css and just stuck with the color scheme in the tutorial, which is why the screen is a mess of orange and blue.</p>
-<p><strong>For the frontend, I used math.js and Plotly.</strong> I wanted to make the project source lightweight, so I looked for libraries with CDNs. Plotly, while used for statistical visualizations, had a 3D mode, and vectors can be plotted as points, so translating the vectors to points &#x2F; segments to plot was not difficult. Math.js gave me access to matrix multiplication and mathematical expression interpretation, which solved the majority of my logic problems immediately.</p>
-<p><strong>The linear algebra was simple. The UI wasn’t.</strong> Coming up with pseudo-random methods of generating random matrices with certain constraints was not difficult. The matrix multiplication was already given to me by math.js. Even in my aspirations to embody one tenth of the Desmos’ quality-of-life features, the variable with the slider took little time to get working. </p>
-<p>The big issue was responsiveness. The user shouldn’t have to hit “Run” every time they make a change, because you shouldn’t be slowed down by the speed of this tool. As a result, each text area and button and checkbox has a listener to make sure that the visualizer always keeps up with what you wrote. </p>
-<p>And if you wrote an invalid state, like a matrix with empty fields, the whole visual shouldn’t shut down or change from what you had originally. Maybe you’re just making a quick edit, and that change would distract you. For this reason, if you go from a valid to invalid input state, the visualizer stays at the previous valid state. Intuitively, it makes the most sense, and keeps everything looking clean.</p>
-<p>The code is a mess, but it’s there if you want to see it: <a href="https://github.com/ronikbhaskar/linear_transformation_visualizer">https://github.com/ronikbhaskar/linear_transformation_visualizer</a></p>
-<hr>
-<p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
-  </entry>
-  <entry>
     <title>Math Art</title>
     <url>/projects/math-art.html</url>
     <content><![CDATA[<p>I discuss this project in my <a href="/about">about page</a>. The source code, along with an explanation of the project, can be found <a href="https://github.com/ronikbhaskar/math-art">here</a>.</p>
@@ -609,6 +671,21 @@
 
 <img src="math-art-gifs/static_aizawa.gif" alt="The Aizawa Attractor" />
 
+<hr>
+<p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>Linear Transformation Visualizer</title>
+    <url>/projects/linear_transformation_visualizer.html</url>
+    <content><![CDATA[<p>Learn a thing or two about linear algebra <a href="https://ronikbhaskar.github.io/linear_transformation_visualizer">here</a> (or just play with numbers).</p>
+<h2 id="Purpose"><a href="#Purpose" class="headerlink" title="Purpose"></a>Purpose</h2><p>For part of my abstract linear algebra class, we were allowed to build a piece of software related to the course material. We spent so much time looking at grids of numbers and analyzing proofs, but I wanted to <em>see</em> how it all worked. So, I took it upon myself to learn vanilla JavaScript and write a web app capable of letting me see what was happening to the space as I transformed it.</p>
+<p>Shoutout to Prof. Lanier.</p>
+<h2 id="Engineering-the-App"><a href="#Engineering-the-App" class="headerlink" title="Engineering the App"></a>Engineering the App</h2><p>I followed one tutorial on html and css and just stuck with the color scheme in the tutorial, which is why the screen is a mess of orange and blue.</p>
+<p><strong>For the frontend, I used math.js and Plotly.</strong> I wanted to make the project source lightweight, so I looked for libraries with CDNs. Plotly, while used for statistical visualizations, had a 3D mode, and vectors can be plotted as points, so translating the vectors to points &#x2F; segments to plot was not difficult. Math.js gave me access to matrix multiplication and mathematical expression interpretation, which solved the majority of my logic problems immediately.</p>
+<p><strong>The linear algebra was simple. The UI wasn’t.</strong> Coming up with pseudo-random methods of generating random matrices with certain constraints was not difficult. The matrix multiplication was already given to me by math.js. Even in my aspirations to embody one tenth of the Desmos’ quality-of-life features, the variable with the slider took little time to get working. </p>
+<p>The big issue was responsiveness. The user shouldn’t have to hit “Run” every time they make a change, because you shouldn’t be slowed down by the speed of this tool. As a result, each text area and button and checkbox has a listener to make sure that the visualizer always keeps up with what you wrote. </p>
+<p>And if you wrote an invalid state, like a matrix with empty fields, the whole visual shouldn’t shut down or change from what you had originally. Maybe you’re just making a quick edit, and that change would distract you. For this reason, if you go from a valid to invalid input state, the visualizer stays at the previous valid state. Intuitively, it makes the most sense, and keeps everything looking clean.</p>
+<p>The code is a mess, but it’s there if you want to see it: <a href="https://github.com/ronikbhaskar/linear_transformation_visualizer">https://github.com/ronikbhaskar/linear_transformation_visualizer</a></p>
 <hr>
 <p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
   </entry>
@@ -765,38 +842,5 @@ table, th {
 </ul>
 <hr>
 <p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>About Me</title>
-    <url>/about/index.html</url>
-    <content><![CDATA[<style>
-.profile-image-ronik {
-    width: min(max(50%,14rem),100%)!important;
-    margin: 1rem;
-    margin-top: 0;
-    margin-right: 0;
-    float: right!important;
-}
-</style>
-
-<img src="ronik.jpg" class="profile-image-ronik" alt="Ronik looking up at a plant."> 
-
-<p id="visits"></p>
-
-<p>Under renovation. Will return shortly.</p>
-<!-- I was never the creative one or the artistic one. I was always "that guy that's good at math." -->
-
-<!-- Then COVID hit. -->
-
-<!-- In December of 2020, a welcoming group of friends adopted me into their Discord server. We joked about building more friends, but some part of me kept whispering, *Maybe that's not a bad idea.* So, that month, I built a working [discord bot](/projects/discord_bot). His name was Igor, and despite the lack of functionality, he was full of life and personality. The server members loved him like a pet.  -->
-
-
-<!-- A few months later, while chatting about the chaos of life with some filmmakers, they mentioned the butterfly effect. I asked about the origin of the phrase, and a few hours later, I found myself stumbling down a rabbit hole of differential equations and strange attractors. A week later, I recreated Lorenz's Butterfly Effect—the beginnings of the [math art](/projects/math-art) project. -->
-
-<!-- This continued incessantly. Someone would throw out a phrase or idea, and I would run with it. As I continued creating, I started finding my voice in code. Despite everything I made, it took me months to finally call myself creative, which would have been impossible on my own. My friends reminded me that I was more than test scores and good grades, and I hope they know how grateful I am. -->
-
-<!-- Without the people closest to me providing constant support and inspiration and critiques, I wouldn't still be creating. If that's you, thanks.  -->
-
-<!-- *Add to the [dialogue](https://ronikbhaskar.github.io/chat), and become part of my story.* -->]]></content>
   </entry>
 </search>
