@@ -1,5 +1,5 @@
 ---
-title: The AI Summer
+title: "The AI Summer: Part 1"
 date: 2023-08-14 17:31:16
 tags:
 description: "Well, my little cousin is using large language models to do his homework for him, my aunt makes Facebook posts with images from diffusion models, and I just deepfaked my voice in 5 minutes. That sentence sounds impossible, but the AI revolution has made it all too real. Some argue the AI revolution started in November of 2022, when ChatGPT was first released. Others say it started with Dall-E in early 2021. I say it started in 1958, but not with any big, fancy machine learning models. It started with the Perceptron. I sometimes wonder if this uncertainty is the price we pay for technological advancement. When organizations released AI into the wild with few provisions or plans, it was already too late."

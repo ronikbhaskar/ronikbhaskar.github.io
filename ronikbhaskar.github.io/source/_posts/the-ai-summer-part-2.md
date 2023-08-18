@@ -1,5 +1,5 @@
 ---
-title: The Sunlit Forge
+title: "The AI Summer: Part 2"
 date: 2023-08-14 17:31:25
 tags:
 description: "When OpenAI first released ChatGPT, I was in the middle of a project on large language model security. My advisor and I discussed, and I pivoted to a security project focused on ChatGPT. For weeks, I worked to reveal its flaws—to uncover its vulnerabilities. I'm glad I finally stopped. That day, ChatGPT became my sunlit forge. If I could figure out what to make and how to share it with the world, ChatGPT gave me the tools to build faster than I ever could have imagined. I provided the ideas, and ChatGPT offered me a way to realize them. Once I finally let a little light in, my vision cleared, and I did what I do best—I created."
