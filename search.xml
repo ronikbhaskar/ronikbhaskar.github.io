@@ -70,6 +70,75 @@
 ]]></content>
   </entry>
   <entry>
+    <title>Ex Libris: The Principles of Librarianship</title>
+    <url>/ex-libris-the-principles-of-librarianship/</url>
+    <content><![CDATA[<p>If you ever need a list of incredibly British-sounding city names, simply refer to the sentence, “To obtain a more precise location, a study of the postal services suggested that it shoule be located in Lancashire, the West Riding of Yorkshire, Cheshire, Nottinghamshire, Leicestershire, Derbyshire or Cumberland” (p. 36).</p>
+<hr>
+<p>In the depths of the library basement, among the dusty, hand-crank bookcases, I finally found the section on Library and Information Science. Skimming the shelves, <em>The Principles of Librarianship</em> by Donald Urquhart seemed short and digestible. While I hoped the book would explain how literature was organized, I was excited at how wrong I was.</p>
+<p>In the elementary school library, massive posters signified different parts of the Dewey Decimal System. After years of seeing these posters, organizing books stuck with me as the library’s purpose, and I forgot about the librarian that helped me find origami books for the first time. </p>
+<p>In middle school and high school, my English classes only ever visited the library when we were doing research projects. Sitting in rooms full of students searching online databases, I brushed off the librarian asking students about their projects as a teacher doing their job. </p>
+<p>One afternoon, a librarian asked me about Bertrand Russell. It became painfully obvious I knew nothing about him or his work, so I grabbed one of his books, checked it out, and took a few notes. His comments on historical set theory stuck with me as I began studying mathematics at university. </p>
+<p>My perception of libraries, librarians, and their purpose was skewed, but my memories of them were always positive. While I enjoyed working in the library, I never truly appreciated why they functioned they way they did, and I wish I had.</p>
+<p><em>To my younger self,</em></p>
+<p><em>Libraries are not just rooms full of books. They are the place of practice for librarians.</em> </p>
+<p><em>Librarians study the needs of their users and adjust their libraries accordingly.</em> </p>
+<p><em>Librarians familiarize themselves with countless fields of study to better guide scholars.</em></p>
+<p><em>Librarians recommend materials they think would benefit you, not necessarily ones they enjoy.</em></p>
+<p><em>Librarians connect with others in their field to leverage resources from countless libraries, all to get you access to the information you need.</em></p>
+<p><em>Librarians optimize their services to help the most people as efficiently and effectively as possible.</em> </p>
+<p><em>Librarians convince funding organizations that the service they provide is worth funding, even though you can’t put a price on information.</em></p>
+<p><em>Every conversation you have with a librarian will be fruitful. They will have insights in whatever work you’re doing, and you’ll almost always walk away with a new direction you want to explore. If you get a book or article or author recommendation, even better. Talk to as many librarians as you can, even if you’re not stuck in your research.</em></p>
+<p><em>Seriously, go talk to some librarians,</em> </p>
+<p><em>Ronik</em></p>
+<p>Recently, I visited my high school library, and I caught up with the librarian that showed me Russell so many years ago. I brought up my current research, and without skipping a beat, he mentioned an author I should look into. The name had been on my list for a while, but I didn’t feel compelled to read any of their works. Given the success of the Russell recommendation, I think I know what I’ll be reading next.</p>
+<hr>
+<p>In case you were wondering, here are the 18 principles of librarianship.</p>
+<ol>
+<li>Libraries are for users.</li>
+<li>The failures of an information supply system to satisfy its users are, as a rule, not obvious.</li>
+<li>Supply creates demand.</li>
+<li>Users must be provided with guides so that they can select the records which may interest them.</li>
+<li>Libraries must be able to provide adequate access to the records users may wish to consult.</li>
+<li>Libraries have to be paid for.</li>
+<li>Libraries, both individually and collectively, must have regard to cost-effectiveness.</li>
+<li>Information cannot be valued as a rule in monetary terms.</li>
+<li>Libraries must have regard to the law of diminishing returns.</li>
+<li>The best is the enemy of the good.</li>
+<li>Unit costs for a particular activity should decrease as the magnitude of the activity increases.</li>
+<li>No library is an island.</li>
+<li>Objective data about users’ requirements should be used in planning developments of libraries.</li>
+<li>In considering the use of new techniques and systems, it is necessary to look at the future, not the past.</li>
+<li>The staff of a library should work as a team.</li>
+<li>A librarian’s post is not a sinecure for a scholar — a librarian’s task is often to facilitate the work of many scholars.</li>
+<li>Libraries can be valuable to society.</li>
+<li>Librarianship is an experimental science.</li>
+</ol>
+]]></content>
+  </entry>
+  <entry>
+    <title>The AI Summer: Part 1</title>
+    <url>/the-ai-summer-part-1/</url>
+    <content><![CDATA[<p>Well, my little cousin is using large language models to do his homework for him, my aunt makes Facebook posts with images from diffusion models, and I just deepfaked my voice in 5 minutes. That sentence sounds impossible, but the AI revolution has made it all too real. Some argue the AI revolution started in November of 2022, when ChatGPT was first released. Others say it started with Dall-E in early 2021. I say it started in 1958, but not with any big, fancy machine learning models. It started with the Perceptron.</p>
+<p>The Perceptron is the predecessor of all deep learning models. Before our modern neural networks with hundreds of hidden layers and fancy activation functions, there was a single-layer, linear network called the Perceptron. Designed by Warren McCulloch and Walter Pitts in 1943, it took 15 years before it was actually built by Frank Rosenblatt in 1958. Made to be a standalone machine, the Mark 1 Perceptron used an array of 20x20 photocells for the input, potentiometers to encode the weights, and electric motors to adjust the weights. One of the first things it learned was how to tell left from right. </p>
+<p>Rosenblatt envisioned a future, one where machines could understand language and see the world around us. His innovative work sparked uncertainty for the future, and where there is uncertainty, there is skepticism. Minsky and Papert provided a strong counterexample to the power of the Perceptron: it could not learn the XOR gate. Essentially, given two objects—each one either a “yes” or a “no”—the Perceptron would not be able to tell you whether they were the same. Even for problems it could solve, the Perceptron required far more computing power than was possible at the time. This gave skeptics the upper hand. A few years later, scientists entered the first AI winter. Funding was down and interest was low. The field stalled.</p>
+<p>The AI winter provided no incentive to consider the impacts of the potentially groundbreaking field. Companies didn’t anticipate how AI might impact them, and the law gave no specific consideration to such technologies. Because no one really cared to make any decisions, an AI future remained entirely uncertain. Rather than consider the implications and consequences, almost everyone deemed such decision-making unnecessary. Sure, calling Rosenblatt’s future nonsense sounded strong and resolute, but no problem has ever been answered by pretending it didn’t exist. The uncertain future of AI remained, but it was pawned off to the next generations as a problem for later.</p>
+<p>To the dismay of many, Rosenblatt was right. We are living through the AI revolution. Everyone with internet has access to state-of-the-art models, and they continue to transform how so many of us approach work and play in our everyday lives. Conversations about AI are no longer hypothetical. Businesses are transforming, the Senate is having hearings, and grassroots movements are growing because AI hit us hard, and we didn’t anticipate the impact. The uncertainty built over 60 years has finally broken free from the chains of hypotheticals and entered reality. </p>
+<p>And now, in our AI summer, we are woefully underprepared to deal with any of the consequences of AI. Yes, we have money and resources and attention pointing directly at this technology, but we remain almost as uncertain as we were a few decades ago. In this time, plenty have created theories about approaches to AI, but most were in the context of sentient machines. While I’m certainly thankful for that preparation for when the time comes, AI right now isn’t alive, it’s just fancy statistics. Issues of copyright and stolen data and plagiarism plague modern discussions of AI, and almost none have truly been resolved.   </p>
+<p>I sometimes wonder if this uncertainty is the price we pay for technological advancement. Almost no one batted an eyelid when LAION and CommonCrawl started building their massive datasets. Before ChatGPT, GPT-3 was already wildly powerful, writing an entire Batman movie script. GANs could do text-to-image generation well before Stable Diffusion. Few people asked if we should stop to reflect on these developments. I suppose, the longer we ignored the voices telling us to stop, the faster we could develop this technology. We paid for our speed by ignoring the uncertainty. When organizations released AI into the wild with few provisions or plans, it was already too late.</p>
+<p>To be clear, I would never expect anyone to anticipate everything that AI would bring. For the average internet user, the limits of what is possible have changed dramatically, and the evolutions of this technology continue to be unfathomable. Besides, we got a head start on some issues—like self-driving cars—but that still isn’t enough. With AI accessible to all, everyone is left to answer the uncertainty. Schools, healthcare, legislatures, companies small and large, everyone must now grapple with how to continue their lives in this once impossible future—in Rosenblatt’s future.</p>
+<p>The AI summer is heating up, and we’re flying too close to the sun. Try not to get burned.</p>
+<hr>
+<h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ol>
+<li><a href="https://doi.org/10.1177/030631296026003005">A Sociological Study of the Official History of the Perceptrons Controversy</a></li>
+<li><a href="https://archive.org/details/perceptronsintro00mins">Perceptrons. Minsky and Papert.</a></li>
+<li><a href="https://news.cornell.edu/stories/2019/09/professors-perceptron-paved-way-ai-60-years-too-soon">Professor’s Perceptron Paved the Way for AI – 60 Years Too Soon</a></li>
+<li><a href="https://commoncrawl.org/">CommonCrawl</a></li>
+<li><a href="https://laion.ai/blog/laion-5b/">LAION-5B</a></li>
+<li><a href="https://twitter.com/KeatonPatti/status/1161284670601990146">AI Batman Script from 2019</a></li>
+</ol>
+]]></content>
+  </entry>
+  <entry>
     <title>No One Should Own This Building</title>
     <url>/no-one-should-own-this-building/</url>
     <content><![CDATA[<img src="/images/cleaned_ai_generated_church.png" alt="AI rendering of a domed church.">
@@ -172,52 +241,6 @@
 ]]></content>
   </entry>
   <entry>
-    <title>Ex Libris: The Principles of Librarianship</title>
-    <url>/ex-libris-the-principles-of-librarianship/</url>
-    <content><![CDATA[<p>If you ever need a list of incredibly British-sounding city names, simply refer to the sentence, “To obtain a more precise location, a study of the postal services suggested that it shoule be located in Lancashire, the West Riding of Yorkshire, Cheshire, Nottinghamshire, Leicestershire, Derbyshire or Cumberland” (p. 36).</p>
-<hr>
-<p>In the depths of the library basement, among the dusty, hand-crank bookcases, I finally found the section on Library and Information Science. Skimming the shelves, <em>The Principles of Librarianship</em> by Donald Urquhart seemed short and digestible. While I hoped the book would explain how literature was organized, I was excited at how wrong I was.</p>
-<p>In the elementary school library, massive posters signified different parts of the Dewey Decimal System. After years of seeing these posters, organizing books stuck with me as the library’s purpose, and I forgot about the librarian that helped me find origami books for the first time. </p>
-<p>In middle school and high school, my English classes only ever visited the library when we were doing research projects. Sitting in rooms full of students searching online databases, I brushed off the librarian asking students about their projects as a teacher doing their job. </p>
-<p>One afternoon, a librarian asked me about Bertrand Russell. It became painfully obvious I knew nothing about him or his work, so I grabbed one of his books, checked it out, and took a few notes. His comments on historical set theory stuck with me as I began studying mathematics at university. </p>
-<p>My perception of libraries, librarians, and their purpose was skewed, but my memories of them were always positive. While I enjoyed working in the library, I never truly appreciated why they functioned they way they did, and I wish I had.</p>
-<p><em>To my younger self,</em></p>
-<p><em>Libraries are not just rooms full of books. They are the place of practice for librarians.</em> </p>
-<p><em>Librarians study the needs of their users and adjust their libraries accordingly.</em> </p>
-<p><em>Librarians familiarize themselves with countless fields of study to better guide scholars.</em></p>
-<p><em>Librarians recommend materials they think would benefit you, not necessarily ones they enjoy.</em></p>
-<p><em>Librarians connect with others in their field to leverage resources from countless libraries, all to get you access to the information you need.</em></p>
-<p><em>Librarians optimize their services to help the most people as efficiently and effectively as possible.</em> </p>
-<p><em>Librarians convince funding organizations that the service they provide is worth funding, even though you can’t put a price on information.</em></p>
-<p><em>Every conversation you have with a librarian will be fruitful. They will have insights in whatever work you’re doing, and you’ll almost always walk away with a new direction you want to explore. If you get a book or article or author recommendation, even better. Talk to as many librarians as you can, even if you’re not stuck in your research.</em></p>
-<p><em>Seriously, go talk to some librarians,</em> </p>
-<p><em>Ronik</em></p>
-<p>Recently, I visited my high school library, and I caught up with the librarian that showed me Russell so many years ago. I brought up my current research, and without skipping a beat, he mentioned an author I should look into. The name had been on my list for a while, but I didn’t feel compelled to read any of their works. Given the success of the Russell recommendation, I think I know what I’ll be reading next.</p>
-<hr>
-<p>In case you were wondering, here are the 18 principles of librarianship.</p>
-<ol>
-<li>Libraries are for users.</li>
-<li>The failures of an information supply system to satisfy its users are, as a rule, not obvious.</li>
-<li>Supply creates demand.</li>
-<li>Users must be provided with guides so that they can select the records which may interest them.</li>
-<li>Libraries must be able to provide adequate access to the records users may wish to consult.</li>
-<li>Libraries have to be paid for.</li>
-<li>Libraries, both individually and collectively, must have regard to cost-effectiveness.</li>
-<li>Information cannot be valued as a rule in monetary terms.</li>
-<li>Libraries must have regard to the law of diminishing returns.</li>
-<li>The best is the enemy of the good.</li>
-<li>Unit costs for a particular activity should decrease as the magnitude of the activity increases.</li>
-<li>No library is an island.</li>
-<li>Objective data about users’ requirements should be used in planning developments of libraries.</li>
-<li>In considering the use of new techniques and systems, it is necessary to look at the future, not the past.</li>
-<li>The staff of a library should work as a team.</li>
-<li>A librarian’s post is not a sinecure for a scholar — a librarian’s task is often to facilitate the work of many scholars.</li>
-<li>Libraries can be valuable to society.</li>
-<li>Librarianship is an experimental science.</li>
-</ol>
-]]></content>
-  </entry>
-  <entry>
     <title>Square One</title>
     <url>/square-one/</url>
     <content><![CDATA[<p>After another set of fruitless experiments and abandoned ideas, my mentor told me we were back to square one.</p>
@@ -236,25 +259,23 @@
 ]]></content>
   </entry>
   <entry>
-    <title>The AI Summer</title>
-    <url>/the-ai-summer/</url>
-    <content><![CDATA[<p>Well, my little cousin is using large language models to do his homework for him, my aunt makes Facebook posts with images from diffusion models, and I just deepfaked my voice in 5 minutes. That sentence sounds impossible, but the AI revolution has made it all too real. Some argue the AI revolution started in November of 2022, when ChatGPT was first released. Others say it started with Dall-E in early 2021. I say it started in 1958, but not with any big, fancy machine learning models. It started with the Perceptron.</p>
-<p>The Perceptron is the predecessor of all deep learning models. Before our modern neural networks with hundreds of hidden layers and fancy activation functions, there was a single-layer, linear network called the Perceptron. Designed by Warren McCulloch and Walter Pitts in 1943, it took 15 years before it was actually built by Frank Rosenblatt in 1958. Made to be a standalone machine, the Mark 1 Perceptron used an array of 20x20 photocells for the input, potentiometers to encode the weights, and electric motors to adjust the weights. One of the first things it learned was how to tell left from right. </p>
-<p>Rosenblatt envisioned a future, one where machines could understand language and see the world around us. His innovative work sparked uncertainty for the future, and where there is uncertainty, there is skepticism. Minsky and Papert provided a strong counterexample to the power of the Perceptron: it could not learn the XOR gate. Essentially, given two objects—each one either a “yes” or a “no”—the Perceptron would not be able to tell you whether they were the same. Even for problems it could solve, the Perceptron required far more computing power than was possible at the time. This gave skeptics the upper hand. A few years later, scientists entered the first AI winter. Funding was down and interest was low. The field stalled.</p>
-<p>The AI winter provided no incentive to consider the impacts of the potentially groundbreaking field. Companies didn’t anticipate how AI might impact them, and the law gave no specific consideration to such technologies. Because no one really cared to make any decisions, an AI future remained entirely uncertain. Rather than consider the implications and consequences, almost everyone deemed such decision-making unnecessary. Sure, calling Rosenblatt’s future nonsense sounded strong and resolute, but no problem has ever been answered by pretending it didn’t exist. The uncertain future of AI remained, but it was pawned off to the next generations as a problem for later.</p>
-<p>To the dismay of many, Rosenblatt was right. We are living through the AI revolution. Everyone with internet has access to state-of-the-art models, and they continue to transform how so many of us approach work and play in our everyday lives. Conversations about AI are no longer hypothetical. Businesses are transforming, the Senate is having hearings, and grassroots movements are growing because AI hit us hard, and we didn’t anticipate the impact. The uncertainty built over 60 years has finally broken free from the chains of hypotheticals and entered reality. </p>
-<p>And now, in our AI summer, we are woefully underprepared to deal with any of the consequences of AI. Yes, we have money and resources and attention pointing directly at this technology, but we remain almost as uncertain as we were a few decades ago. In this time, plenty have created theories about approaches to AI, but most were in the context of sentient machines. While I’m certainly thankful for that preparation for when the time comes, AI right now isn’t alive, it’s just fancy statistics. Issues of copyright and stolen data and plagiarism plague modern discussions of AI, and almost none have truly been resolved.   </p>
-<p>I sometimes wonder if this uncertainty is the price we pay for technological advancement. Almost no one batted an eyelid when LAION and CommonCrawl started building their massive datasets. Before ChatGPT, GPT-3 was already wildly powerful, writing an entire Batman movie script. GANs could do text-to-image generation well before Stable Diffusion. Few people asked if we should stop to reflect on these developments. I suppose, the longer we ignored the voices telling us to stop, the faster we could develop this technology. We paid for our speed by ignoring the uncertainty. When organizations released AI into the wild with few provisions or plans, it was already too late.</p>
-<p>To be clear, I would never expect anyone to anticipate everything that AI would bring. For the average internet user, the limits of what is possible have changed dramatically, and the evolutions of this technology continue to be unfathomable. Besides, we got a head start on some issues—like self-driving cars—but that still isn’t enough. With AI accessible to all, everyone is left to answer the uncertainty. Schools, healthcare, legislatures, companies small and large, everyone must now grapple with how to continue their lives in this once impossible future—in Rosenblatt’s future.</p>
-<p>The AI summer is heating up, and we’re flying too close to the sun. Try not to get burned.</p>
+    <title>The AI Summer: Part 2</title>
+    <url>/the-ai-summer-part-2/</url>
+    <content><![CDATA[<p>When OpenAI first released ChatGPT, I was in the middle of a project on large language model security. My advisor and I discussed, and I pivoted to a security project focused on ChatGPT. For weeks, I worked to reveal its flaws—to uncover its vulnerabilities. </p>
+<p>I’m glad I finally stopped.</p>
+<p>Back in early 2022, I built a <a href="https://ronikbhaskar.github.io/projects/text_generator">toy language model</a> from scratch. It didn’t do anything fancy—it could barely put together coherent sentences—but I saw potential. I taught it <em>The Art of War</em> and watched it ramble about spies and morale. I fed it Discord transcripts and laughed as it tried to imitate my friends. The night that I finished it, I stayed up until 2:00am just playing around with everything it could do.</p>
+<p>When I showed it to the people around me, they fell in love almost as fast as I did, giving me plenty of suggestions on what to do with it. Jon—now the co-host of <a href="https://jonikpodcast.github.io/">Jonik</a>—sent me the best ideas by far. Together, we watched this little language model review the anthropocene and explain how it met your mother. I felt bad making him and others wait for me to run the model whenever they sent new training data, so I translated the entire project into JavaScript—the language of the web—and built a <a href="https://ronikbhaskar.github.io/text_generator/">website</a> around it. This way, everyone could use it whenever they wanted.</p>
+<p>A short while after, I started working in a security lab, and my first project was on how the predecessors of ChatGPT could be actively tricked into saying incorrect statements. My attention turned away from the little language model, and my perspective on language models shifted from embracing strengths to discovering weaknesses. Over the next six months, this was my primary focus, reviewing literature, brainstorming better attack methods, and running experiments, all to demonstrate vulnerability in LLMs. My mentor taught me so much, and on the off chance I had a good idea, we used it. Even if we did end up back at <a href="https://ronikbhaskar.github.io/square-one/">square one</a>, I wouldn’t trade that time for the world.</p>
+<p>So when OpenAI released ChatGPT to the world, I wasn’t in the right headspace to appreciate it. Before I even touched it, I pulled up the related literature and started comparing it to the other language models I had studied. The first time I tried ChatGPT, I didn’t ask it anything fun or interesting. I just started feeding it attack prompts, trying to make it mess up. </p>
+<p>A few months later, when I was no longer working on the project, I sat down and had a conversation with ChatGPT. I had fun, and part of me remembered the little toy language model I made over a year prior. Hoping to give my language model a chat interface, I asked ChatGPT to help me design the layout. It wrote a beautiful piece of HTML and CSS, and once I added the logic, I had my own little AI chatbot, <a href="https://ronikbhaskar.github.io/chatgpt-mini-projects/chatumm/">ChatUMM</a>. </p>
+<p>Suddenly, if I dreamed an idea, ChatGPT could help me make it a reality. Furiously flipping through my notebook, I searched for a few ideas for which I had concrete plans. I started explaining them to ChatGPT, copying the web design, and adding my own functionality. In just one day, I had created <a href="https://ronikbhaskar.github.io/chatgpt-mini-projects/daylight/">a clock that tells you how much daylight you have left</a>, <a href="https://ronikbhaskar.github.io/chatgpt-mini-projects/ukulelify/">a chord converter for ukulelists that can’t transpose</a>, and <a href="https://ronikbhaskar.github.io/chatgpt-mini-projects/the_daily_pi/">an infinite monkey typewriter using pi instead of a real monkey</a>. When it was all over, I had ChatGPT design <a href="https://ronikbhaskar.github.io/chatgpt-mini-projects/">a homepage for all the projects</a>.</p>
+<p>That day, ChatGPT became my sunlit forge. If I could figure out what to make and how to share it with the world, ChatGPT gave me the tools to build faster than I ever could have imagined. Unlike an actual person, ChatGPT rarely gave me any good ideas. Instead, I provided the ideas, and ChatGPT offered me a way to realize them. Once I finally let a little light in, my vision cleared, and I did what I do best—I created. </p>
+<p>From there, whenever I needed to create a quick website, I would turn back to the sunlit forge. From <a href="https://jonikpodcast.github.io/">a podcast website</a> to my own <a href="https://ronikbhaskar.github.io/chatgpt-mini-projects/small-e/">mini image generator</a>, I built it all there. For higher-consequence projects, or ones where I risk violating licenses, I’ll build everything by hand, but so long as this works, I will keep coming back to the sunlit forge. </p>
+<p>None of the ChatGPT-assisted websites are perfect. They’re all prototypes, nothing more. On some devices, they don’t work. At some scales, the user interface looks garbled. I have no plans on improving them, because they were never meant to be perfect. All I want is to share my ideas with the world, and doing just that has never been easier. </p>
+<p>This AI summer has just begun, so let a little light into your forge.</p>
 <hr>
 <h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ol>
-<li><a href="https://doi.org/10.1177/030631296026003005">A Sociological Study of the Official History of the Perceptrons Controversy</a></li>
-<li><a href="https://archive.org/details/perceptronsintro00mins">Perceptrons. Minsky and Papert.</a></li>
-<li><a href="https://news.cornell.edu/stories/2019/09/professors-perceptron-paved-way-ai-60-years-too-soon">Professor’s Perceptron Paved the Way for AI – 60 Years Too Soon</a></li>
-<li><a href="https://commoncrawl.org/">CommonCrawl</a></li>
-<li><a href="https://laion.ai/blog/laion-5b/">LAION-5B</a></li>
-<li><a href="https://twitter.com/KeatonPatti/status/1161284670601990146">AI Batman Script from 2019</a></li>
+<li><a href="https://ronikbhaskar.github.io/">Me</a></li>
 </ol>
 ]]></content>
   </entry>
@@ -388,27 +409,6 @@
 <li><a href="https://en.wikipedia.org/wiki/Emma_Haruka_Iwao">Emma Haruka Iwao, Current Record Holder for Computing Digits</a></li>
 <li><a href="https://www.theguardian.com/science/alexs-adventures-in-numberland/2015/mar/13/pi-day-2015-memory-memorisation-world-record-japanese-akira-haraguchi">Akira Haraguchi Memorized +100k digits</a></li>
 <li><a href="https://blog.timothymullican.com/calculating-pi-my-attempt-breaking-pi-record">Timothy Mullican, Prev Record Holder for Computing Digits</a></li>
-</ol>
-]]></content>
-  </entry>
-  <entry>
-    <title>The Sunlit Forge</title>
-    <url>/the-sunlit-forge/</url>
-    <content><![CDATA[<p>When OpenAI first released ChatGPT, I was in the middle of a project on large language model security. My advisor and I discussed, and I pivoted to a security project focused on ChatGPT. For weeks, I worked to reveal its flaws—to uncover its vulnerabilities. </p>
-<p>I’m glad I finally stopped.</p>
-<p>Back in early 2022, I built a <a href="https://ronikbhaskar.github.io/projects/text_generator">toy language model</a> from scratch. It didn’t do anything fancy—it could barely put together coherent sentences—but I saw potential. I taught it <em>The Art of War</em> and watched it ramble about spies and morale. I fed it Discord transcripts and laughed as it tried to imitate my friends. The night that I finished it, I stayed up until 2:00am just playing around with everything it could do.</p>
-<p>When I showed it to the people around me, they fell in love almost as fast as I did, giving me plenty of suggestions on what to do with it. Jon—now the co-host of <a href="https://jonikpodcast.github.io/">Jonik</a>—sent me the best ideas by far. Together, we watched this little language model review the anthropocene and explain how it met your mother. I felt bad making him and others wait for me to run the model whenever they sent new training data, so I translated the entire project into JavaScript—the language of the web—and built a <a href="https://ronikbhaskar.github.io/text_generator/">website</a> around it. This way, everyone could use it whenever they wanted.</p>
-<p>A short while after, I started working in a security lab, and my first project was on how the predecessors of ChatGPT could be actively tricked into saying incorrect statements. My attention turned away from the little language model, and my perspective on language models shifted from embracing strengths to discovering weaknesses. Over the next six months, this was my primary focus, reviewing literature, brainstorming better attack methods, and running experiments, all to demonstrate vulnerability in LLMs. My mentor taught me so much, and on the off chance I had a good idea, we used it. Even if we did end up back at <a href="https://ronikbhaskar.github.io/square-one/">square one</a>, I wouldn’t trade that time for the world.</p>
-<p>So when OpenAI released ChatGPT to the world, I wasn’t in the right headspace to appreciate it. Before I even touched it, I pulled up the related literature and started comparing it to the other language models I had studied. The first time I tried ChatGPT, I didn’t ask it anything fun or interesting. I just started feeding it attack prompts, trying to make it mess up. </p>
-<p>A few months later, when I was no longer working on the project, I sat down and had a conversation with ChatGPT. I had fun, and part of me remembered the little toy language model I made over a year prior. Hoping to give my language model a chat interface, I asked ChatGPT to help me design the layout. It wrote a beautiful piece of HTML and CSS, and once I added the logic, I had my own little AI chatbot, <a href="https://ronikbhaskar.github.io/chatgpt-mini-projects/chatumm/">ChatUMM</a>. </p>
-<p>Suddenly, if I dreamed an idea, ChatGPT could help me make it a reality. Furiously flipping through my notebook, I searched for a few ideas for which I had concrete plans. I started explaining them to ChatGPT, copying the web design, and adding my own functionality. In just one day, I had created <a href="https://ronikbhaskar.github.io/chatgpt-mini-projects/daylight/">a clock that tells you how much daylight you have left</a>, <a href="https://ronikbhaskar.github.io/chatgpt-mini-projects/ukulelify/">a chord converter for ukulelists that can’t transpose</a>, and <a href="https://ronikbhaskar.github.io/chatgpt-mini-projects/the_daily_pi/">an infinite monkey typewriter using pi instead of a real monkey</a>. When it was all over, I had ChatGPT design <a href="https://ronikbhaskar.github.io/chatgpt-mini-projects/">a homepage for all the projects</a>.</p>
-<p>That day, ChatGPT became my sunlit forge. If I could figure out what to make and how to share it with the world, ChatGPT gave me the tools to build faster than I ever could have imagined. Unlike an actual person, ChatGPT rarely gave me any good ideas. Instead, I provided the ideas, and ChatGPT offered me a way to realize them. Once I finally let a little light in, my vision cleared, and I did what I do best—I created. </p>
-<p>From there, whenever I needed to create a quick website, I would turn back to the sunlit forge. From <a href="https://jonikpodcast.github.io/">a podcast website</a> to my own <a href="https://ronikbhaskar.github.io/chatgpt-mini-projects/small-e/">mini image generator</a>, I built it all there. For higher-consequence projects, or ones where I risk violating licenses, I’ll build everything by hand, but so long as this works, I will keep coming back to the sunlit forge. </p>
-<p>None of the ChatGPT-assisted websites are perfect. They’re all prototypes, nothing more. On some devices, they don’t work. At some scales, the user interface looks garbled. I have no plans on improving them, because they were never meant to be perfect. All I want is to share my ideas with the world, and doing just that has never been easier. </p>
-<p>This AI summer has just begun, so let a little light into your forge.</p>
-<hr>
-<h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ol>
-<li><a href="https://ronikbhaskar.github.io/">Me</a></li>
 </ol>
 ]]></content>
   </entry>
