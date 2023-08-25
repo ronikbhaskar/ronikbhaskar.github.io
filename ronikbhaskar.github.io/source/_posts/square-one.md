@@ -19,7 +19,7 @@ My mentor and I didn't feel like we were at square one. Sure, we were at the beg
 
 On a lesser note, computer scientists don't begin counting with one; they begin counting with zero. 
 
-In that meeting, in front of the drawing board, we made a decision. We were not at square one. We were at circle zero. Eventually, circle zero became familiar. Sure, it was mischevous, and at times confusing, but it no longer felt new. Whenever we left, we never worried about saying goodbye; we would be back eventually.
+In that meeting, in front of the drawing board, we made a decision. We were not at square one. We were at circle zero. Eventually, circle zero became familiar. Sure, it was mischievous, and at times confusing, but it no longer felt new. Whenever we left, we never worried about saying goodbye; we would be back eventually.
 
 For most people, today is square one. Today's square on the Gregorian calendar is the first day of first month. As such, I wish you all a happy circle zero.
 
