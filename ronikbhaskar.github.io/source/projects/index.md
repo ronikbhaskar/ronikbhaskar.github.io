@@ -84,9 +84,20 @@ title: Projects
 <b>I Made My Own Programming Language</b>
 </summary>
 <ul>
-    <li><a href="https://sigbovik.org/2023/proceedings.pdf#page124">Published in the ACH Proceedings 2023</a></li>
+    <li><a href="https://sigbovik.org/2023/proceedings.pdf#page124">Published in the Association for Computing Heresy Proceedings 2023</a></li>
     <li><a href="/projects/PizzaLang.pdf">Full Paper (Pre-Print)</a></li>
     <li><a href="https://github.com/TheEasyLemon/PizzaLang">GitHub</a></li>
+</ul>
+</details>
+<br />
+
+<details>
+<summary>
+<b>Inventing a Game, Then Building a Bot to Play It Perfectly</b>
+</summary>
+<ul>
+    <li><a href="/projects/forest-algorithm">Summary</a></li>
+    <li><a href="https://github.com/ronikbhaskar/forest-algorithm">GitHub</a></li>
 </ul>
 </details>
 <br />
