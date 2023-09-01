@@ -1,3 +1,6 @@
+http://ronikbhaskar.github.io/first-time-for-everything/
+http://ronikbhaskar.github.io/projects/index.html
+http://ronikbhaskar.github.io/projects/forest-algorithm.html
 http://ronikbhaskar.github.io/square-one/
 http://ronikbhaskar.github.io/the-ai-summer-part-2/
 http://ronikbhaskar.github.io/the-ai-summer-part-1/
@@ -19,9 +22,8 @@ http://ronikbhaskar.github.io/projects/tomato_timer.html
 http://ronikbhaskar.github.io/projects/ultimate_tic_tac_toe.html
 http://ronikbhaskar.github.io/projects/math-art.html
 http://ronikbhaskar.github.io/projects/discord_bot.html
-http://ronikbhaskar.github.io/projects/linear_transformation_visualizer.html
-http://ronikbhaskar.github.io/projects/discord_scraper.html
-http://ronikbhaskar.github.io/projects/index.html
 http://ronikbhaskar.github.io/projects/chat.html
+http://ronikbhaskar.github.io/projects/discord_scraper.html
+http://ronikbhaskar.github.io/projects/linear_transformation_visualizer.html
 http://ronikbhaskar.github.io/about/index.html
 http://ronikbhaskar.github.io/
