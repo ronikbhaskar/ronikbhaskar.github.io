@@ -27,11 +27,11 @@ Having ordered our tickets online, he follows me into the theater. The attendant
 
 "Yeah, there are four screening rooms." I respond, still looking down the hall.
 
-"But, how will we which one is ours?"
+"But, how will we know which one is ours?"
 
 "Oh, they have signs next to the doors." I point to the metal "four" on the wall.
 
-We walk down the aisle, looking back and forth between the row numbers and our tickets until we reach the front of the auditorium. On arriving to our seats, I lean forward and brush the screen with my fingertips. Reclining in his chair, my mentor's shoes stop mere inches away from kicking the trailers. We turn to each other and pause for a brief moment before breaking into laughter. I glance over my shoulder, checking if there were any empty seats we could switch to. There weren't. 
+We walk down the aisle, looking back and forth between the row numbers and our tickets until we reach the front of the auditorium. On arriving at our seats, I lean forward and brush the screen with my fingertips. Reclining in his chair, my mentor's shoes stop mere inches away from kicking the trailers. We turn to each other and pause for a brief moment before breaking into laughter. I glance over my shoulder, checking if there were any empty seats we could switch to. There weren't. 
 
 "Hey," I whisper, "let's wait for the movie to start, then we can try and look for better seats." He nods, and we lean back.
 
