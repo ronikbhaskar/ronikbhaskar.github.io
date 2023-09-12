@@ -1,6 +1,9 @@
+http://ronikbhaskar.github.io/the-mortifying-ordeal-of-being-perceived/
+http://ronikbhaskar.github.io/ex-libris-sleepy/
+http://ronikbhaskar.github.io/ex-libris-the-principles-of-librarianship/
+http://ronikbhaskar.github.io/projects/forest-algorithm.html
 http://ronikbhaskar.github.io/first-time-for-everything/
 http://ronikbhaskar.github.io/projects/index.html
-http://ronikbhaskar.github.io/projects/forest-algorithm.html
 http://ronikbhaskar.github.io/square-one/
 http://ronikbhaskar.github.io/the-ai-summer-part-2/
 http://ronikbhaskar.github.io/the-ai-summer-part-1/
@@ -10,7 +13,6 @@ http://ronikbhaskar.github.io/the-connoisseur-of-random-lava-lamps-are-protectin
 http://ronikbhaskar.github.io/the-connoisseur-of-random-before-computers/
 http://ronikbhaskar.github.io/the-beginning-of-tau/
 http://ronikbhaskar.github.io/no-one-should-own-this-building/
-http://ronikbhaskar.github.io/ex-libris-the-principles-of-librarianship/
 http://ronikbhaskar.github.io/ex-libris-gadsby/
 http://ronikbhaskar.github.io/ex-libris-cats-cradle/
 http://ronikbhaskar.github.io/am/
@@ -21,8 +23,8 @@ http://ronikbhaskar.github.io/projects/text_generator.html
 http://ronikbhaskar.github.io/projects/tomato_timer.html
 http://ronikbhaskar.github.io/projects/ultimate_tic_tac_toe.html
 http://ronikbhaskar.github.io/projects/math-art.html
-http://ronikbhaskar.github.io/projects/discord_bot.html
 http://ronikbhaskar.github.io/projects/chat.html
+http://ronikbhaskar.github.io/projects/discord_bot.html
 http://ronikbhaskar.github.io/projects/discord_scraper.html
 http://ronikbhaskar.github.io/projects/linear_transformation_visualizer.html
 http://ronikbhaskar.github.io/about/index.html
