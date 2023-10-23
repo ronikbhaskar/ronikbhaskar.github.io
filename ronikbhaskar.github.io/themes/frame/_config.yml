@@ -36,9 +36,9 @@ profile:
 
   links:
     Projects: /projects/
-    Archives: /archives/
     GitHub: https://github.com/ronikbhaskar
-    What's that strange, sphere thing?: /projects/math-art
+    About: /about/
+    The coolest project I've worked on: https://glaze.cs.uchicago.edu
 
 # footer
 footer:

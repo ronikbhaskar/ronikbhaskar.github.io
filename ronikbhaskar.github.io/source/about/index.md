@@ -14,9 +14,17 @@ title: About Me
 
 <img src="ronik.jpg" class="profile-image-ronik" alt="Ronik looking up at a plant."> 
 
-<p id="visits"></p>
+I am a 4th year undergraduate studying CS and math at the University of Chicago. I am a research assistant in the [SAND Lab](https://sandlab.cs.uchicago.edu/index.html) where I'm fortunate to be co-advised by Prof. [Heather Zheng](http://people.cs.uchicago.edu/~htzheng/) and Prof. [Ben Y. Zhao](http://people.cs.uchicago.edu/~ravenben/). 
 
-Under renovation. Will return shortly.
+I'm broadly interested in security and privacy for communities with a recent focus on adversarial machine learning. If you're a digital artist, or you're interested in generative AI, I recommend checking out [Glaze](https://glaze.cs.uchicago.edu). I'm proud to work on this project and hopefully similar ones in the future.
+
+While I am relatively new to research, I have made some observations. Computer security research exists in a delicate ethical space. Every discovered vulnerability is an opportunity for attack, but it is also a potential warning. Every defense offers protection to some group, but it also risks unintended side effects and consequences for future technology. As I continue in this field, I hope to learn how to meaningfully consider the implications of my work, regardless of the subfield I research.
+
+## Contact Me
+```bash
+# My email:
+echo "cmJoYXNrYXJAdWNoaWNhZ28uZWR1Cg==" | base64 --decode
+```
 
 <!-- I was never the creative one or the artistic one. I was always "that guy that's good at math." -->
 

@@ -84,7 +84,7 @@ title: Projects
 <b>I Made My Own Programming Language</b>
 </summary>
 <ul>
-    <li><a href="https://sigbovik.org/2023/proceedings.pdf#page124">Published in the Association for Computing Heresy Proceedings 2023</a></li>
+    <li><a href="https://sigbovik.org/2023/proceedings.pdf#page124">Published in the SIGBOVIK Proceedings 2023</a></li>
     <li><a href="/projects/PizzaLang.pdf">Full Paper (Pre-Print)</a></li>
     <li><a href="https://github.com/TheEasyLemon/PizzaLang">GitHub</a></li>
 </ul>
