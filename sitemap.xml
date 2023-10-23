@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://ronikbhaskar.github.io/about/index.html</loc>
+    
+    <lastmod>2023-10-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://ronikbhaskar.github.io/projects/index.html</loc>
+    
+    <lastmod>2023-10-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://ronikbhaskar.github.io/the-mortifying-ordeal-of-being-perceived/</loc>
     
     <lastmod>2023-09-12</lastmod>
@@ -39,15 +57,6 @@
   
   <url>
     <loc>http://ronikbhaskar.github.io/first-time-for-everything/</loc>
-    
-    <lastmod>2023-09-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://ronikbhaskar.github.io/projects/index.html</loc>
     
     <lastmod>2023-09-01</lastmod>
     
@@ -262,19 +271,10 @@
     <priority>0.6</priority>
   </url>
   
-  <url>
-    <loc>http://ronikbhaskar.github.io/about/index.html</loc>
-    
-    <lastmod>2023-07-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
 
   <url>
     <loc>http://ronikbhaskar.github.io/</loc>
-    <lastmod>2023-09-12</lastmod>
+    <lastmod>2023-10-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
