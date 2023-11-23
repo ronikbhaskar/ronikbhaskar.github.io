@@ -2,18 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://ronikbhaskar.github.io/about/index.html</loc>
+    <loc>http://ronikbhaskar.github.io/projects/</loc>
     
-    <lastmod>2023-10-23</lastmod>
+    <lastmod>2023-11-23</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://ronikbhaskar.github.io/projects/index.html</loc>
+    <loc>http://ronikbhaskar.github.io/about/</loc>
     
-    <lastmod>2023-10-23</lastmod>
+    <lastmod>2023-11-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://ronikbhaskar.github.io/publications/</loc>
+    
+    <lastmod>2023-11-23</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -47,7 +56,7 @@
   </url>
   
   <url>
-    <loc>http://ronikbhaskar.github.io/projects/forest-algorithm.html</loc>
+    <loc>http://ronikbhaskar.github.io/projects/forest-algorithm</loc>
     
     <lastmod>2023-09-05</lastmod>
     
@@ -173,7 +182,7 @@
   </url>
   
   <url>
-    <loc>http://ronikbhaskar.github.io/projects/obsidian-editor.html</loc>
+    <loc>http://ronikbhaskar.github.io/projects/obsidian-editor</loc>
     
     <lastmod>2023-07-01</lastmod>
     
@@ -182,7 +191,7 @@
   </url>
   
   <url>
-    <loc>http://ronikbhaskar.github.io/projects/oracle_society.html</loc>
+    <loc>http://ronikbhaskar.github.io/projects/oracle_society</loc>
     
     <lastmod>2023-07-01</lastmod>
     
@@ -191,7 +200,7 @@
   </url>
   
   <url>
-    <loc>http://ronikbhaskar.github.io/projects/steganography.html</loc>
+    <loc>http://ronikbhaskar.github.io/projects/steganography</loc>
     
     <lastmod>2023-07-01</lastmod>
     
@@ -200,7 +209,7 @@
   </url>
   
   <url>
-    <loc>http://ronikbhaskar.github.io/projects/text_generator.html</loc>
+    <loc>http://ronikbhaskar.github.io/projects/text_generator</loc>
     
     <lastmod>2023-07-01</lastmod>
     
@@ -209,7 +218,7 @@
   </url>
   
   <url>
-    <loc>http://ronikbhaskar.github.io/projects/tomato_timer.html</loc>
+    <loc>http://ronikbhaskar.github.io/projects/tomato_timer</loc>
     
     <lastmod>2023-07-01</lastmod>
     
@@ -218,7 +227,7 @@
   </url>
   
   <url>
-    <loc>http://ronikbhaskar.github.io/projects/ultimate_tic_tac_toe.html</loc>
+    <loc>http://ronikbhaskar.github.io/projects/ultimate_tic_tac_toe</loc>
     
     <lastmod>2023-07-01</lastmod>
     
@@ -227,7 +236,7 @@
   </url>
   
   <url>
-    <loc>http://ronikbhaskar.github.io/projects/math-art.html</loc>
+    <loc>http://ronikbhaskar.github.io/projects/math-art</loc>
     
     <lastmod>2023-07-01</lastmod>
     
@@ -236,7 +245,7 @@
   </url>
   
   <url>
-    <loc>http://ronikbhaskar.github.io/projects/chat.html</loc>
+    <loc>http://ronikbhaskar.github.io/projects/discord_bot</loc>
     
     <lastmod>2023-07-01</lastmod>
     
@@ -245,7 +254,7 @@
   </url>
   
   <url>
-    <loc>http://ronikbhaskar.github.io/projects/discord_bot.html</loc>
+    <loc>http://ronikbhaskar.github.io/projects/chat</loc>
     
     <lastmod>2023-07-01</lastmod>
     
@@ -254,7 +263,7 @@
   </url>
   
   <url>
-    <loc>http://ronikbhaskar.github.io/projects/discord_scraper.html</loc>
+    <loc>http://ronikbhaskar.github.io/projects/discord_scraper</loc>
     
     <lastmod>2023-07-01</lastmod>
     
@@ -263,7 +272,7 @@
   </url>
   
   <url>
-    <loc>http://ronikbhaskar.github.io/projects/linear_transformation_visualizer.html</loc>
+    <loc>http://ronikbhaskar.github.io/projects/linear_transformation_visualizer</loc>
     
     <lastmod>2023-07-01</lastmod>
     
@@ -274,7 +283,7 @@
 
   <url>
     <loc>http://ronikbhaskar.github.io/</loc>
-    <lastmod>2023-10-23</lastmod>
+    <lastmod>2023-11-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>

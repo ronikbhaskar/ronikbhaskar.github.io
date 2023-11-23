@@ -149,24 +149,6 @@
 ]]></content>
   </entry>
   <entry>
-    <title>Square One</title>
-    <url>/square-one/</url>
-    <content><![CDATA[<p>After another set of fruitless experiments and abandoned ideas, my mentor told me we were back to square one.</p>
-<p>“Quick question,” I interjected, “Where exactly <em>is</em> square one?”</p>
-<p>Some sources claim square one is on the football pitch. In the 1930s, BBC radio sports commentators divided the pitch into eight sections, with square one at the bottom right corner. Others claim square one comes from hopscotch or snakes and ladders. Regardless of the game, being at square one puts you at the beginning with no progress. </p>
-<p>Square-1 is also the name of a puzzle derived from the Rubik’s Cube. For practiced cubers, solving a Square-1 can become incredibly straightforward. </p>
-<p>My mentor and I didn’t feel like we were at square one. Sure, we were at the beginning, but being at square one implies square two is just ahead. Every time we returned to the beginning, we were too disoriented to know where to look first. Much of our progress felt sideways or backwards. </p>
-<p>On a lesser note, computer scientists don’t begin counting with one; they begin counting with zero. </p>
-<p>In that meeting, in front of the drawing board, we made a decision. We were not at square one. We were at circle zero. Eventually, circle zero became familiar. Sure, it was mischievous, and at times confusing, but it no longer felt new. Whenever we left, we never worried about saying goodbye; we would be back eventually.</p>
-<p>For most people, today is square one. Today’s square on the Gregorian calendar is the first day of first month. As such, I wish you all a happy circle zero.</p>
-<hr>
-<h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ol>
-<li><a href="https://en.wikipedia.org/wiki/Square-1_(puzzle)">Square-1 Puzzle</a></li>
-<li>The discourse surrounding the etymology of “square one” lacks enough rigor to warrant any particular links. Instead, a Google search for “origin of square one” will provide plenty of questionable sources offering one of the three explanations listed above.</li>
-</ol>
-]]></content>
-  </entry>
-  <entry>
     <title>No One Should Own This Building</title>
     <url>/no-one-should-own-this-building/</url>
     <content><![CDATA[<img src="/images/cleaned_ai_generated_church.png" alt="AI rendering of a domed church.">
@@ -269,6 +251,24 @@
 ]]></content>
   </entry>
   <entry>
+    <title>Square One</title>
+    <url>/square-one/</url>
+    <content><![CDATA[<p>After another set of fruitless experiments and abandoned ideas, my mentor told me we were back to square one.</p>
+<p>“Quick question,” I interjected, “Where exactly <em>is</em> square one?”</p>
+<p>Some sources claim square one is on the football pitch. In the 1930s, BBC radio sports commentators divided the pitch into eight sections, with square one at the bottom right corner. Others claim square one comes from hopscotch or snakes and ladders. Regardless of the game, being at square one puts you at the beginning with no progress. </p>
+<p>Square-1 is also the name of a puzzle derived from the Rubik’s Cube. For practiced cubers, solving a Square-1 can become incredibly straightforward. </p>
+<p>My mentor and I didn’t feel like we were at square one. Sure, we were at the beginning, but being at square one implies square two is just ahead. Every time we returned to the beginning, we were too disoriented to know where to look first. Much of our progress felt sideways or backwards. </p>
+<p>On a lesser note, computer scientists don’t begin counting with one; they begin counting with zero. </p>
+<p>In that meeting, in front of the drawing board, we made a decision. We were not at square one. We were at circle zero. Eventually, circle zero became familiar. Sure, it was mischievous, and at times confusing, but it no longer felt new. Whenever we left, we never worried about saying goodbye; we would be back eventually.</p>
+<p>For most people, today is square one. Today’s square on the Gregorian calendar is the first day of first month. As such, I wish you all a happy circle zero.</p>
+<hr>
+<h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ol>
+<li><a href="https://en.wikipedia.org/wiki/Square-1_(puzzle)">Square-1 Puzzle</a></li>
+<li>The discourse surrounding the etymology of “square one” lacks enough rigor to warrant any particular links. Instead, a Google search for “origin of square one” will provide plenty of questionable sources offering one of the three explanations listed above.</li>
+</ol>
+]]></content>
+  </entry>
+  <entry>
     <title>The AI Summer: Part 1</title>
     <url>/the-ai-summer-part-1/</url>
     <content><![CDATA[<p>Well, my little cousin is using large language models to do his homework for him, my aunt makes Facebook posts with images from diffusion models, and I just deepfaked my voice in 5 minutes. That sentence sounds impossible, but the AI revolution has made it all too real. Some argue the AI revolution started in November of 2022, when ChatGPT was first released. Others say it started with Dall-E in early 2021. I say it started in 1958, but not with any big, fancy machine learning models. It started with the Perceptron.</p>
@@ -357,6 +357,23 @@
 ]]></content>
   </entry>
   <entry>
+    <title>The Connoisseur of Random: Lava Lamps are Protecting your Data</title>
+    <url>/the-connoisseur-of-random-lava-lamps-are-protecting-your-data/</url>
+    <content><![CDATA[<p>Have you ever used the Canva website? How about Etsy, Walmart, or even Best Buy? If so, congrats! Your data is being protected by lava lamps.</p>
+<p>Cloudflare is one of the largest global networks, securely providing you access to many of your favorite websites. In an attempt to generate more secure encryption keys, they turned to lava lamps. While lava lamps are deterministic—they follow an exact set of rules in a particular order—they are mathematically chaotic, meaning that approximate initial conditions won’t tell you the final outcome. If you are even slightly off when trying to simulate a lava lamp, your results will be almost entirely inaccurate.</p>
+<p>Additionally, Cloudflare uses a double pendulum and uranium decay to generate chaos, but that’s beyond the scope of this archive.</p>
+<p>Using lava lamps to generate random numbers isn’t a new idea. Back in 1996, Lavarand began using lava lamps to generate random numbers. They took the data from images of lava lamp arrays, and used them as seeds for pseudorandom number generators. Naturally, the use of a pseudorandom number generator makes the process a bit less safe, but it’s nice to see they were taking precautions.</p>
+<p>Pseudorandom number generation is too well understood to be used in cryptography, so Cloudflare imposes two additional rules on their random number generation to keep your data secure. First, their numbers should pass statistical tests that prove unpredictability. If you can find patterns in your data, it’s hard to call it random (I have another archive on the way about this topic). Second, if someone knows how part—not all—of the program works, they still shouldn’t be able to predict the random numbers. </p>
+<p>So, the next time you’re shopping on Etsy or Walmart.com, remember that you’re safe. You have lava lamps protecting you. </p>
+<p><em>Disclaimer: I am not affiliated with Cloudflare in any way, and these statements are entirely my own.</em></p>
+<hr>
+<h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ol>
+<li><a href="https://www.cloudflare.com/learning/ssl/lava-lamp-encryption/">Cloudflare Uses Lava Lamps</a></li>
+<li><a href="https://web.archive.org/web/19971210213248/http://lavarand.sgi.com/">Lavarand Web Archive</a></li>
+</ol>
+]]></content>
+  </entry>
+  <entry>
     <title>The Connoisseur of Random: Predicting the Future</title>
     <url>/the-connoisseur-of-random-predicting-the-future/</url>
     <content><![CDATA[<h2 id="The-Gambler’s-Fallacy"><a href="#The-Gambler’s-Fallacy" class="headerlink" title="The Gambler’s Fallacy"></a>The Gambler’s Fallacy</h2><p>Predicting the future is necessary for survival. I don’t mean predicting the end of the world, just simple things like whether the sun will rise tomorrow or how late your friend will be to coffee. These predictions use prior knowledge to figure out what to do next. Pretty nifty. On the other hand, there are some events that aren’t meant to be predicted—unknown futures that are best left in the hands of the universe.</p>
@@ -412,23 +429,6 @@
 ]]></content>
   </entry>
   <entry>
-    <title>The Connoisseur of Random: Lava Lamps are Protecting your Data</title>
-    <url>/the-connoisseur-of-random-lava-lamps-are-protecting-your-data/</url>
-    <content><![CDATA[<p>Have you ever used the Canva website? How about Etsy, Walmart, or even Best Buy? If so, congrats! Your data is being protected by lava lamps.</p>
-<p>Cloudflare is one of the largest global networks, securely providing you access to many of your favorite websites. In an attempt to generate more secure encryption keys, they turned to lava lamps. While lava lamps are deterministic—they follow an exact set of rules in a particular order—they are mathematically chaotic, meaning that approximate initial conditions won’t tell you the final outcome. If you are even slightly off when trying to simulate a lava lamp, your results will be almost entirely inaccurate.</p>
-<p>Additionally, Cloudflare uses a double pendulum and uranium decay to generate chaos, but that’s beyond the scope of this archive.</p>
-<p>Using lava lamps to generate random numbers isn’t a new idea. Back in 1996, Lavarand began using lava lamps to generate random numbers. They took the data from images of lava lamp arrays, and used them as seeds for pseudorandom number generators. Naturally, the use of a pseudorandom number generator makes the process a bit less safe, but it’s nice to see they were taking precautions.</p>
-<p>Pseudorandom number generation is too well understood to be used in cryptography, so Cloudflare imposes two additional rules on their random number generation to keep your data secure. First, their numbers should pass statistical tests that prove unpredictability. If you can find patterns in your data, it’s hard to call it random (I have another archive on the way about this topic). Second, if someone knows how part—not all—of the program works, they still shouldn’t be able to predict the random numbers. </p>
-<p>So, the next time you’re shopping on Etsy or Walmart.com, remember that you’re safe. You have lava lamps protecting you. </p>
-<p><em>Disclaimer: I am not affiliated with Cloudflare in any way, and these statements are entirely my own.</em></p>
-<hr>
-<h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ol>
-<li><a href="https://www.cloudflare.com/learning/ssl/lava-lamp-encryption/">Cloudflare Uses Lava Lamps</a></li>
-<li><a href="https://web.archive.org/web/19971210213248/http://lavarand.sgi.com/">Lavarand Web Archive</a></li>
-</ol>
-]]></content>
-  </entry>
-  <entry>
     <title>The End of Pi</title>
     <url>/the-end-of-pi/</url>
     <content><![CDATA[<p>I’m fed up with you, π. I get it, you’re the ratio of the circumference to the diameter, good for you. But that isn’t enough for you, is it? No, you need to make sure <strong>everyone</strong> knows exactly who you are. You needed a day in your honor and competitions just for you. Was memorizing 100,000 of your digits not enough? No, of course not. It will never be enough. You are never ending.</p>
@@ -479,9 +479,9 @@
 
 <img src="ronik.jpg" class="profile-image-ronik" alt="Ronik looking up at a plant."> 
 
-<p>I am a 4th year undergraduate studying CS and math at the University of Chicago. I am a research assistant in the <a href="https://sandlab.cs.uchicago.edu/index.html">SAND Lab</a> where I’m fortunate to be co-advised by Prof. <a href="http://people.cs.uchicago.edu/~htzheng/">Heather Zheng</a> and Prof. <a href="http://people.cs.uchicago.edu/~ravenben/">Ben Y. Zhao</a>. </p>
-<p>I’m broadly interested in security and privacy for communities with a recent focus on adversarial machine learning. If you’re a digital artist, or you’re interested in generative AI, I recommend checking out <a href="https://glaze.cs.uchicago.edu/">Glaze</a>. I’m proud to work on this project and hopefully similar ones in the future.</p>
-<p>While I am relatively new to research, I have made some observations. Computer security research exists in a delicate ethical space. Every discovered vulnerability is an opportunity for attack, but it is also a potential warning. Every defense offers protection to some group, but it also risks unintended side effects and consequences for future technology. As I continue in this field, I hope to learn how to meaningfully consider the implications of my work, regardless of the subfield I research.</p>
+<p>I am a 4th year undergraduate studying math and CS at the University of Chicago. I am a research assistant in the <a href="https://sandlab.cs.uchicago.edu/index.html">SAND Lab</a> where I’m fortunate to be co-advised by Prof. <a href="http://people.cs.uchicago.edu/~htzheng/">Heather Zheng</a> and Prof. <a href="http://people.cs.uchicago.edu/~ravenben/">Ben Y. Zhao</a>. I’m currently in the terrifying process of applying to CS PhD programs.</p>
+<p>I’m broadly interested in security and privacy with a recent focus on adversarial machine learning. If you’re a digital artist, or you’re interested in generative AI, I recommend checking out <a href="https://glaze.cs.uchicago.edu/">Glaze</a>. I’m proud to work on this project and hopefully similar ones in the future.</p>
+<p>While I am relatively new to research, I have made some observations. Computer security research exists in a delicate ethical space. Every discovered vulnerability is an opportunity for attack, but it is also a potential warning. Every defense offers protection to some group, but it also risks unintended side effects and consequences for future technology. As I continue my academic journey, I hope to learn how to meaningfully consider the implications of my work, regardless of the field I research.</p>
 <h2 id="Contact-Me"><a href="#Contact-Me" class="headerlink" title="Contact Me"></a>Contact Me</h2><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line"><span class="comment"># My email:</span></span><br><span class="line"><span class="built_in">echo</span> <span class="string">&quot;cmJoYXNrYXJAdWNoaWNhZ28uZWR1Cg==&quot;</span> | <span class="built_in">base64</span> --decode</span><br></pre></td></tr></table></figure>
 
 <!-- I was never the creative one or the artistic one. I was always "that guy that's good at math." -->
@@ -498,20 +498,6 @@
 <!-- Without the people closest to me providing constant support and inspiration and critiques, I wouldn't still be creating. If that's you, thanks.  -->
 
 <!-- *Add to the [dialogue](https://ronikbhaskar.github.io/chat), and become part of my story.* -->]]></content>
-  </entry>
-  <entry>
-    <title>Full Stack Chat App</title>
-    <url>/projects/chat.html</url>
-    <content><![CDATA[<p>Chat with me <a href="https://ronikbhaskar.github.io/chat">here</a>. (You’ll know it’s me because my name is <strong>bold</strong>.)</p>
-<h2 id="Designing-the-UI"><a href="#Designing-the-UI" class="headerlink" title="Designing the UI"></a>Designing the UI</h2><p>I don’t create in a vacuum. The people around me drastically influence my creations. Our conversations feel like dialogue in a script. There’s a purpose to everything being said. It’s driving the plot somewhere, and I would never reach the end without their help. </p>
-<p>My chat app doesn’t look like Messages or WhatsApp or Slack or Discord because I don’t see it as a chat app. It’s a continuation of the dialogue happening all around me, which is why <strong>I built the chat app to look like a movie script.</strong> The header has an act number, the location is specified, we get a general description, and the rest that follows is the dialogue.</p>
-<h2 id="Engineering-the-App"><a href="#Engineering-the-App" class="headerlink" title="Engineering the App"></a>Engineering the App</h2><p>I’m incredibly grateful for the power and flexibility of GitHub pages (as you can tell by the URL). That being said, the documentation says they only support static sites, or so they claim. Depending on how much functionality you want from the site, you can do user authentication and even have hooks checking for database updates, updating the UI in real-time. </p>
-<p><strong>For the backend, I used Google Firebase.</strong> Their free tier, the Spark plan, is incredibly powerful, and if you’re getting enough traffic to exceed its limits, you have the demand to monetize your product. I don’t expect heavy traffic, so the Spark plan is enough for me.</p>
-<p>Firebase allows for for Google Authentication, along with plenty of other auth providers. This makes it mildly more difficult to spam the site with fake accounts, and the authentication redirect keeps auth traffic away from GitHub. It’s a win-win.</p>
-<p><strong>For the frontend, I used React.</strong> This isn’t an incredibly intense, so vanilla JS was an option, but React’s libraries wrapping Firebase query snapshots made development much easier. </p>
-<p>There are tutorials and articles out there for building apps with React and Firebase, but relevant ones used Firebase v8 instead of v9, which transitions away from the namespacing. Luckily, Firebase’s documentation covers translating v8 into v9.</p>
-<hr>
-<p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
   </entry>
   <entry>
     <title>Discord Bot</title>
@@ -540,6 +526,20 @@
 <ul>
 <li>just @ mention Igor in your message and maybe you’ll get a response</li>
 </ul>
+<hr>
+<p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>Full Stack Chat App</title>
+    <url>/projects/chat.html</url>
+    <content><![CDATA[<p>Chat with me <a href="https://ronikbhaskar.github.io/chat">here</a>. (You’ll know it’s me because my name is <strong>bold</strong>.)</p>
+<h2 id="Designing-the-UI"><a href="#Designing-the-UI" class="headerlink" title="Designing the UI"></a>Designing the UI</h2><p>I don’t create in a vacuum. The people around me drastically influence my creations. Our conversations feel like dialogue in a script. There’s a purpose to everything being said. It’s driving the plot somewhere, and I would never reach the end without their help. </p>
+<p>My chat app doesn’t look like Messages or WhatsApp or Slack or Discord because I don’t see it as a chat app. It’s a continuation of the dialogue happening all around me, which is why <strong>I built the chat app to look like a movie script.</strong> The header has an act number, the location is specified, we get a general description, and the rest that follows is the dialogue.</p>
+<h2 id="Engineering-the-App"><a href="#Engineering-the-App" class="headerlink" title="Engineering the App"></a>Engineering the App</h2><p>I’m incredibly grateful for the power and flexibility of GitHub pages (as you can tell by the URL). That being said, the documentation says they only support static sites, or so they claim. Depending on how much functionality you want from the site, you can do user authentication and even have hooks checking for database updates, updating the UI in real-time. </p>
+<p><strong>For the backend, I used Google Firebase.</strong> Their free tier, the Spark plan, is incredibly powerful, and if you’re getting enough traffic to exceed its limits, you have the demand to monetize your product. I don’t expect heavy traffic, so the Spark plan is enough for me.</p>
+<p>Firebase allows for for Google Authentication, along with plenty of other auth providers. This makes it mildly more difficult to spam the site with fake accounts, and the authentication redirect keeps auth traffic away from GitHub. It’s a win-win.</p>
+<p><strong>For the frontend, I used React.</strong> This isn’t an incredibly intense, so vanilla JS was an option, but React’s libraries wrapping Firebase query snapshots made development much easier. </p>
+<p>There are tutorials and articles out there for building apps with React and Firebase, but relevant ones used Firebase v8 instead of v9, which transitions away from the namespacing. Luckily, Firebase’s documentation covers translating v8 into v9.</p>
 <hr>
 <p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
   </entry>
@@ -579,7 +579,20 @@
   <entry>
     <title>Projects</title>
     <url>/projects/index.html</url>
-    <content><![CDATA[<style>
+    <content><![CDATA[<h2 id="Archives"><a href="#Archives" class="headerlink" title="Archives"></a><a href="/archives">Archives</a></h2><p>I’ve temporarily moved the <a href="/archives">Archives</a> writing project from the menu. I’ll reorganize soon, but for now, I need to prioritize being a PhD applicant.</p>
+<h2 id="Research-With-Tangible-Products"><a href="#Research-With-Tangible-Products" class="headerlink" title="Research With Tangible Products"></a>Research With Tangible Products</h2><details>
+<summary>
+<b>Glaze</b>
+</summary>
+<ul>
+    <li><a href="https://glaze.cs.uchicago.edu">Overview</a></li>
+    <li><a href="https://glaze.cs.uchicago.edu/downloads.html">Download</a></li>
+    <li><a href="https://glaze.cs.uchicago.edu/webglaze.html">Most Excited About This</a></li>
+</ul>
+</details>
+<br />
+
+<style>
 .display-image {
     width: min(max(25%,7rem),100%)!important;
     margin: 1rem;
@@ -930,5 +943,13 @@ table, th {
 </ul>
 <hr>
 <p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>Publications</title>
+    <url>/publications/index.html</url>
+    <content><![CDATA[<p>Also see my: <a href="https://scholar.google.com/citations?user=dqTwtegAAAAJ&hl=en&oi=ao">Google Scholar</a></p>
+<h2 id="Refereed"><a href="#Refereed" class="headerlink" title="Refereed"></a>Refereed</h2><p>Zhuolin Yang, Zain Sarwar, Iris Hwang, <strong>Ronik Bhaskar</strong>, Ben Y. Zhao, Haitao Zheng (2024). Can Virtual Reality Protect Users from Keystroke Inference Attacks? USENIX Security, Philadelphia PA. <a href="https://www.usenix.org/system/files/sec23winter-prepub-116-yang-zhuolin.pdf">PDF</a></p>
+<h2 id="Not-Refereed"><a href="#Not-Refereed" class="headerlink" title="Not Refereed"></a>Not Refereed</h2><p><strong>Ronik Bhaskar</strong>, Dawson Ren (2023). PizzaLang: A Language for Hungry Developers. SIGBOVIK, Pittsburgh PA. <a href="https://ronikbhaskar.github.io/projects/PizzaLang.pdf">PDF</a> </p>
+]]></content>
   </entry>
 </search>
