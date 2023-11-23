@@ -2,6 +2,24 @@
 title: Projects
 ---
 
+## [Archives](/archives)
+
+I've temporarily moved the [Archives](/archives) writing project from the menu. I'll reorganize soon, but for now, I need to prioritize being a PhD applicant.
+
+## Research With Tangible Products
+
+<details>
+<summary>
+<b>Glaze</b>
+</summary>
+<ul>
+    <li><a href="https://glaze.cs.uchicago.edu">Overview</a></li>
+    <li><a href="https://glaze.cs.uchicago.edu/downloads.html">Download</a></li>
+    <li><a href="https://glaze.cs.uchicago.edu/webglaze.html">Most Excited About This</a></li>
+</ul>
+</details>
+<br />
+
 <style>
 .display-image {
     width: min(max(25%,7rem),100%)!important;
