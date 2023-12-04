@@ -37,8 +37,7 @@ profile:
   links:
     Projects: /projects/
     GitHub: https://github.com/ronikbhaskar
-    About: /about/
-    The coolest project I've worked on: https://glaze.cs.uchicago.edu
+    Glaze: https://glaze.cs.uchicago.edu
 
 # footer
 footer:

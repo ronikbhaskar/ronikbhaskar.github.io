@@ -2,7 +2,7 @@
 title: Linear Transformation Visualizer
 ---
 
-Learn a thing or two about linear algebra [here](https://ronikbhaskar.github.io/linear_transformation_visualizer) (or just play with numbers).
+Learn a thing or two about linear algebra [here](/linear_transformation_visualizer) (or just play with numbers).
 
 ## Purpose
 

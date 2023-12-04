@@ -2,7 +2,7 @@
 title: Ultimate Tic Tac Toe
 ---
 
-Play the game [here](https://ronikbhaskar.github.io/ultimate_tic_tac_toe). Grab a friend (or enemy) because this game requires two people.
+Play the game [here](/ultimate_tic_tac_toe). Grab a friend (or enemy) because this game requires two people.
 
 <img src="misc_images/ultimate_tic_tac_toe_game.png" class="display-image" alt="A game of ultimate tic tac toe."> 
 

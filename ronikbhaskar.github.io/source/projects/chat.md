@@ -2,7 +2,7 @@
 title: Full Stack Chat App
 ---
 
-Chat with me [here](https://ronikbhaskar.github.io/chat). (You'll know it's me because my name is **bold**.)
+Chat with me [here](/chat). (You'll know it's me because my name is **bold**.)
 
 ## Designing the UI
 

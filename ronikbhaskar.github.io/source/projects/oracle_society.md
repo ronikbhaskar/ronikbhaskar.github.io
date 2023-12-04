@@ -4,7 +4,7 @@ title: The Oracle Society
 
 CW: violence, kidnapping, murder.
 
-Play the game [here](https://ronikbhaskar.github.io/oracle_society/).
+Play the game [here](/oracle_society/).
 
 ## Background
 

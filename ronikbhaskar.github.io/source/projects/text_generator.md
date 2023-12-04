@@ -2,7 +2,7 @@
 title: Text Generator
 ---
 
-Try generating some text [here](https://ronikbhaskar.github.io/text_generator). While I can't guarantee it'll be meaningful, it is a lot of fun.
+Try generating some text [here](/text_generator). While I can't guarantee it'll be meaningful, it is a lot of fun.
 
 This is a combined summary of the original project in Python, and the subsequent translation to JS.
 

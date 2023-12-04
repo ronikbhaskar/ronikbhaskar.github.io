@@ -2,11 +2,7 @@
 title: Projects
 ---
 
-## [Archives](/archives)
-
-I've temporarily moved the [Archives](/archives) writing project from the menu. I'll reorganize soon, but for now, I need to prioritize being a PhD applicant.
-
-## Research With Tangible Products
+## Lab Projects
 
 <details>
 <summary>
@@ -31,14 +27,18 @@ I've temporarily moved the [Archives](/archives) writing project from the menu. 
 }
 </style>
 
-## Projects With Websites 
+## [Archives](/archives/)
+
+I removed the [archives](/archives/) writing project from the menu bar to prioritize being a PhD applicant. 
+
+## Independent Projects With Websites 
 
 <details>
 <summary>
 <b>A Full Stack Chat App with User Authentication</b>
 </summary>
 <ul>
-    <li><a href="https://ronikbhaskar.github.io/chat">Website</a> (Mobile Compatible)</li>
+    <li><a href="/chat">Website</a> (Mobile Compatible)</li>
     <li><a href="/projects/chat">Summary</a></li>
     <li><a href="https://github.com/ronikbhaskar/chat">GitHub</a></li>
 </ul>
@@ -50,7 +50,7 @@ I've temporarily moved the [Archives](/archives) writing project from the menu. 
 <b>A Linear Transformation Visualizer</b>
 </summary>
 <ul>
-    <li><a href="https://ronikbhaskar.github.io/linear_transformation_visualizer">Website</a> (Not Mobile Compatible)</li>
+    <li><a href="/linear_transformation_visualizer">Website</a> (Not Mobile Compatible)</li>
     <li><a href="/projects/linear_transformation_visualizer">Summary</a></li>
     <li><a href="https://github.com/ronikbhaskar/linear_transformation_visualizer">GitHub</a></li>
 </ul>
@@ -62,7 +62,7 @@ I've temporarily moved the [Archives](/archives) writing project from the menu. 
 <b>A Text Generator Using Markov Chains</b>
 </summary>
 <ul>
-    <li><a href="https://ronikbhaskar.github.io/text_generator">Website</a> (Mobile Compatible)</li>
+    <li><a href="/text_generator">Website</a> (Mobile Compatible)</li>
     <li><a href="/projects/text_generator">Summary</a></li>
     <li><a href="https://github.com/ronikbhaskar/text_generator">GitHub</a></li>
     <li><a href="https://github.com/ronikbhaskar/markov_text_generation">Original Python Project</a></li>
@@ -76,7 +76,7 @@ I've temporarily moved the [Archives](/archives) writing project from the menu. 
 </summary>
 <img src="misc_images/ultimate_tic_tac_toe_game.png" class="display-image" alt="A game of ultimate tic tac toe."> 
 <ul>
-    <li><a href="https://ronikbhaskar.github.io/ultimate_tic_tac_toe">Website</a> (Mobile Compatible)</li>
+    <li><a href="/ultimate_tic_tac_toe">Website</a> (Mobile Compatible)</li>
     <li><a href="/projects/ultimate_tic_tac_toe">Summary</a></li>
     <li><a href="https://github.com/ronikbhaskar/ultimate_tic_tac_toe">GitHub</a></li>
 </ul>
@@ -88,14 +88,14 @@ I've temporarily moved the [Archives](/archives) writing project from the menu. 
 <b>Text-Based Game to Teach Oracles (CW: violence, kidnapping, murder)</b>
 </summary>
 <ul>
-    <li><a href="https://ronikbhaskar.github.io/oracle_society/">Website</a> (NOT Mobile Compatible)</li>
+    <li><a href="/oracle_society/">Website</a> (NOT Mobile Compatible)</li>
     <li><a href="/projects/oracle_society">Summary</a></li>
     <li><a href="https://github.com/ronikbhaskar/oracle_society">GitHub</a></li>
 </ul>
 </details>
 <br /> -->
 
-## Projects Without Websites
+## Independent Projects Without Websites
 
 <details>
 <summary>
