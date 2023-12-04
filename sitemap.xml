@@ -4,16 +4,34 @@
   <url>
     <loc>http://ronikbhaskar.github.io/projects/</loc>
     
-    <lastmod>2023-11-23</lastmod>
+    <lastmod>2023-12-04</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://ronikbhaskar.github.io/about/</loc>
+    <loc>http://ronikbhaskar.github.io/projects/ultimate_tic_tac_toe</loc>
     
-    <lastmod>2023-11-23</lastmod>
+    <lastmod>2023-12-04</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://ronikbhaskar.github.io/projects/text_generator</loc>
+    
+    <lastmod>2023-12-04</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://ronikbhaskar.github.io/projects/oracle_society</loc>
+    
+    <lastmod>2023-12-04</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -21,6 +39,42 @@
   
   <url>
     <loc>http://ronikbhaskar.github.io/publications/</loc>
+    
+    <lastmod>2023-12-04</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://ronikbhaskar.github.io/projects/chat</loc>
+    
+    <lastmod>2023-12-04</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://ronikbhaskar.github.io/projects/linear_transformation_visualizer</loc>
+    
+    <lastmod>2023-12-04</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://ronikbhaskar.github.io/the-ai-summer-part-2/</loc>
+    
+    <lastmod>2023-12-04</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://ronikbhaskar.github.io/about/</loc>
     
     <lastmod>2023-11-23</lastmod>
     
@@ -77,15 +131,6 @@
     <loc>http://ronikbhaskar.github.io/square-one/</loc>
     
     <lastmod>2023-08-25</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://ronikbhaskar.github.io/the-ai-summer-part-2/</loc>
-    
-    <lastmod>2023-08-18</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -191,15 +236,6 @@
   </url>
   
   <url>
-    <loc>http://ronikbhaskar.github.io/projects/oracle_society</loc>
-    
-    <lastmod>2023-07-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://ronikbhaskar.github.io/projects/steganography</loc>
     
     <lastmod>2023-07-01</lastmod>
@@ -209,25 +245,7 @@
   </url>
   
   <url>
-    <loc>http://ronikbhaskar.github.io/projects/text_generator</loc>
-    
-    <lastmod>2023-07-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://ronikbhaskar.github.io/projects/tomato_timer</loc>
-    
-    <lastmod>2023-07-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://ronikbhaskar.github.io/projects/ultimate_tic_tac_toe</loc>
     
     <lastmod>2023-07-01</lastmod>
     
@@ -254,25 +272,7 @@
   </url>
   
   <url>
-    <loc>http://ronikbhaskar.github.io/projects/chat</loc>
-    
-    <lastmod>2023-07-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://ronikbhaskar.github.io/projects/discord_scraper</loc>
-    
-    <lastmod>2023-07-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://ronikbhaskar.github.io/projects/linear_transformation_visualizer</loc>
     
     <lastmod>2023-07-01</lastmod>
     
@@ -283,7 +283,7 @@
 
   <url>
     <loc>http://ronikbhaskar.github.io/</loc>
-    <lastmod>2023-11-23</lastmod>
+    <lastmod>2023-12-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
