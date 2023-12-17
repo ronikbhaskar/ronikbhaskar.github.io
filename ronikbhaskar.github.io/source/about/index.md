@@ -14,6 +14,8 @@ title: About Me
 
 <img src="ronik.jpg" class="profile-image-ronik" alt="Ronik looking up at a plant."> 
 
+More details in my [CV](/about/Ronik%20Bhaskar%20CV%20Redacted.pdf).
+
 I am a 4th year undergraduate studying math and CS at the University of Chicago. I am a research assistant in the [SAND Lab](https://sandlab.cs.uchicago.edu/index.html) where I'm fortunate to be co-advised by Prof. [Heather Zheng](http://people.cs.uchicago.edu/~htzheng/) and Prof. [Ben Y. Zhao](http://people.cs.uchicago.edu/~ravenben/). I'm currently in the terrifying process of applying to CS PhD programs.
 
 I'm broadly interested in security and privacy with a recent focus on adversarial machine learning. If you're a digital artist, or you're interested in generative AI, I recommend checking out [Glaze](https://glaze.cs.uchicago.edu). I'm proud to work on this project and hopefully similar ones in the future.
@@ -39,4 +41,4 @@ echo "cmJoYXNrYXJAdWNoaWNhZ28uZWR1Cg==" | base64 --decode
 
 <!-- Without the people closest to me providing constant support and inspiration and critiques, I wouldn't still be creating. If that's you, thanks.  -->
 
-<!-- *Add to the [dialogue](https://ronikbhaskar.github.io/chat), and become part of my story.* -->
+<!-- *Add to the [dialogue](/chat), and become part of my story.* -->
