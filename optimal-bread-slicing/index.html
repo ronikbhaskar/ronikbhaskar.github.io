@@ -1,0 +1,280 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <link rel="icon" href="favicon.ico"> 
+    <meta charset="UTF-8">
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0, maximum-scale=5.0, minimum-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+<link rel="icon" href="favicon.ico"> 
+<!-- I just can't get this favicon to load -->
+
+    <meta name="author" content="Ronik Bhaskar">
+
+
+    <meta name="subtitle" content="Maker & Student of Life">
+
+ 
+    <meta name="description" content="Self-described maker and student of life sharing his journey with the world. I am an undergrad studying math and CS at the University of Chicago. Consider hiring me if you're looking for PhD students.">
+
+
+    <meta name="keywords" content="research, programming, computer science, math, art, writing, stories">
+
+
+
+
+<title>Optimal Bread Slicing | Ronik Bhaskar</title>
+
+
+
+    <link rel="icon" href="/base_logo_black_white_circle.ico">
+    <!-- <link rel="icon" href="favicon.ico?" type="image/x-icon"> -->
+
+
+
+<style>
+    @import url('https://fonts.googleapis.com/css2?family=Libre+Caslon+Text&display=swap');
+    @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Noto+Sans+SC:wght@300;400;500;700&family=Roboto+Mono&display=swap');
+</style>
+
+
+
+    <!-- stylesheets list from _config.yml -->
+    
+    <link rel="stylesheet" href="/css/style.css">
+    
+
+
+
+
+
+
+
+    <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+    <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+
+
+
+
+
+
+
+  <meta name="generator" content="Hexo 6.3.0"></head>
+  <body>
+    <div class="mask-border">
+    </div>
+
+    <div class="wrapper">
+
+      <div class="header">
+  <div class="flex-container">
+    <div class="header-inner">
+      <div class="site-brand-container">
+        <a href="/">
+          
+            <img class="logo-img" src="/base_logo_black.png" alt="logo_image">
+          
+        </a>
+      </div>
+      <div id="menu-btn" class="menu-btn" onclick="toggleMenu()">
+        <script>
+            function toggleMenu() {
+                var menuList = document.getElementsByClassName("menu-list")[0];
+                var menuButton = document.getElementById("menu-btn");  
+                if(menuList.classList.contains("active")){
+                  menuList.classList.remove("active");
+                  menuButton.innerHTML = "MENU";
+                }else{
+                  menuList.classList.add("active");
+                  menuButton.innerHTML = "<div class=\"icon arrow-up\"> </div>";
+                }
+            }
+        </script>
+        Menu
+      </div>
+      <nav class="site-nav">
+        <ul class="menu-list">
+          
+            
+              <li class="menu-item">
+                <a href="/">Home</a>
+              </li> 
+                   
+          
+            
+              <li class="menu-item">
+                <a href="/publications/">Publications</a>
+              </li> 
+                   
+          
+            
+              <li class="menu-item">
+                <a href="/projects/">Projects</a>
+              </li> 
+                   
+          
+            
+              <li class="menu-item">
+                <a href="/about/">About</a>
+              </li> 
+                   
+          
+          
+            <li class="menu-item search-btn">
+              <a href="#">Search</a>
+            </li>
+          
+        </ul>
+      </nav>
+    </div>
+  </div>
+</div>
+
+
+      <div class="main">
+        <div class="flex-container">
+          <article id="post">
+
+  
+    <div class="post-head">
+    <div class="post-info">
+        <div class="tag-list">
+            
+        </div>
+        <div class="post-title">
+            
+            
+                Optimal Bread Slicing
+            
+            
+        </div>
+        <span class="post-date">
+            January 1st, 2024
+        </span>
+    </div>
+    <div class="post-img">
+        
+            <div class="h-line-primary"></div>
+              
+    </div>
+</div>
+    <div class="post-content">
+    <p>For the original paper, click <a href="/projects/optimal_slicing.pdf">here</a>.</p>
+<p>For an implement of the results using real bread, check out <a target="_blank" rel="noopener" href="https://youtu.be/R6SYxpiGGJ0?si=PetWIvfnnBJfoWIo">this video</a>.</p>
+<hr>
+<p>Since 1928, sliced bread has remained largely the same. For nearly a century, we have accepted sliced bread as it is, but I want to challenge our complacency. Sometimes our sliced bread works well, and other times it doesn’t. To fully understand the issue, I approach the topic using formalisms and semi-rigorous proofs. The following is a guide to simplify the paper for anyone that doesn’t care to decipher dense mathematics about bread.</p>
+<h2 id="Defining-Bread"><a href="#Defining-Bread" class="headerlink" title="Defining Bread"></a>Defining Bread</h2><p>First, I needed to define a loaf of bread mathematically. I decided that for my purposes, a prism of infinite length worked best. The definition is quite broad, so standard loaf shapes like cylinders and rectangular prisms work. It all depends on how you select the parameters in the following definition:</p>
+<p>$$B &#x3D; \{ (x, y, z) \in \mathbb{R}^3 | 0 \leq x \leq w, g(x) \leq y \leq f(x) \}$$</p>
+<p>From there, I defined a slice independently from a loaf of bread. Slices are a region in space that have an angle, a width, and a starting point. </p>
+<p>$$S(\theta, \delta, z_0) &#x3D;  \{ (x, y, z) \in \mathbb{R}^3 |<br>z_0 + x \cot{\theta} \leq z \leq z_0 + x \cot{\theta} + \delta \}$$</p>
+<p>To make a slice of bread, you intersect a loaf (infinte prism) with a slice. In real life, slices are repeatable, which is why I introduced adjacent slices. Essentially, when one slice ends, the next one begins, and the have an intersection of zero width.</p>
+<p>While slices have three parameters, the volume is only dependent on the width. As such, you can express the volume of a slice as:</p>
+<p>$$m (S \cap B) &#x3D; \delta \int_0^w \int_{g(x)}^{f(x)} dydx$$</p>
+<p>As established earlier, loaves of bread are prisms, and slices are also prisms, so the volume is the product of the base and the height. Since this is bread, I call the base the face area, and I call the height the thickness. They can be calculated using the following formulas:</p>
+<p>$$\text{thickness } &#x3D;\delta \sin{\theta}$$</p>
+<p>$$\text{area } &#x3D;A \csc{\theta}$$</p>
+<h2 id="Optimal-Slicing"><a href="#Optimal-Slicing" class="headerlink" title="Optimal Slicing"></a>Optimal Slicing</h2><p>As a broad guiding principle, I propose optimizing over both the thickness and area. </p>
+<p>$$u(S, B) &#x3D; u_A(A \csc{\theta}) + u_h(\delta \sin{\theta})$$</p>
+<p>Using this guiding principle, I explore optimization in two settings, bruschetta and sandwiches. For bruschetta, I posit that you want to maximize surface area, so long as you don’t go below a minimum thickness. For sandwiches, I posit that height is the most important factor. The optimal slicing angles for each are as follows: </p>
+<p>$$\text{bruschetta: } \theta &#x3D; \arcsin{ \Big ( \frac{nh_{min}}{l} \Big )}$$</p>
+<p>$$\text{sandwich: } \theta &#x3D; \frac{\pi}{2}$$</p>
+<h2 id="Conclusion"><a href="#Conclusion" class="headerlink" title="Conclusion"></a>Conclusion</h2><p>Hint: get a loaf of bread and start cutting.</p>
+<hr>
+<h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ol>
+<li><a target="_blank" rel="noopener" href="http://www.historyofbread.com/bread-history/history-of-sliced-bread/">History of Sliced Bread</a></li>
+<li><a href="/projects/optimal_slicing.pdf">Optimal Bread Slicing</a></li>
+</ol>
+
+</div> 
+<link rel="icon" href="favicon.ico">
+<script>
+    try {
+        window.onload = detectors();
+    } catch (error) { // doesn't seem to pose an issue when nothing happens
+        console.log(error);
+    }
+    
+</script>
+    <div class="post-footer">
+    <div class="h-line-primary"></div>
+    <nav class="post-nav">
+        <div class="prev-item">
+           
+        </div>
+        <div class="next-item">
+            
+                <div class="icon arrow-right"></div>
+                <div class="post-link">
+                  <a href="/the-mortifying-ordeal-of-being-perceived/">Next</a>  
+                </div>  
+            
+        </div>
+    </nav>
+</div>
+
+    
+      <div class="post-comment">
+
+     
+
+     
+    
+    
+
+</div>
+     
+  
+</article>
+        </div>
+      </div>
+      
+      <div class="footer">
+    <div class="flex-container">
+        <div class="footer-text">
+            
+            
+                © Ronik Bhaskar, 2022 - 2023  
+            
+                
+        </div>
+    </div>
+</div>
+
+    </div>
+
+    
+      <div class="search-popup">
+    <div class="search-popup-overlay">  
+    </div>
+    <div class="search-popup-window" >
+        <div class="search-header">
+            <div class="search-input-container">
+              <input autocomplete="off" autocapitalize="off" maxlength="80"
+                     placeholder="Search Anything" spellcheck="false"
+                     type="search" class="search-input">
+            </div>
+            <div class="search-close-btn">
+                <div class="icon close-btn"></div>
+            </div>
+        </div>
+        <div class="search-result-container">
+        </div>
+    </div>
+</div>
+
+<script>
+    const searchConfig = {
+        path             : "/search.xml",
+        top_n_per_article: "1",
+        unescape         : "false",
+        trigger: "auto",
+        preload: "false"
+    }
+</script>
+<script src="https://cdn.jsdelivr.net/npm/hexo-generator-searchdb@1.4.0/dist/search.js"></script>
+<script src="/js/search.js"></script>
+    
+    
+
+  </body>
+</html>
