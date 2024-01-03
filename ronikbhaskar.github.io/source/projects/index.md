@@ -27,10 +27,6 @@ title: Projects
 }
 </style>
 
-## [Archives](/archives/)
-
-I removed the [archives](/archives/) writing project from the menu bar to prioritize being a PhD applicant. 
-
 ## Independent Projects With Websites 
 
 <details>
@@ -66,6 +62,16 @@ I removed the [archives](/archives/) writing project from the menu bar to priori
     <li><a href="/projects/text_generator">Summary</a></li>
     <li><a href="https://github.com/ronikbhaskar/text_generator">GitHub</a></li>
     <li><a href="https://github.com/ronikbhaskar/markov_text_generation">Original Python Project</a></li>
+</ul>
+</details>
+<br />
+
+<details>
+<summary>
+<b>The Archives Project</b>
+</summary>
+<ul>
+    <li><a href="/archives/">Table of Contents</a></li>
 </ul>
 </details>
 <br />
