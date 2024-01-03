@@ -70,17 +70,6 @@
 ]]></content>
   </entry>
   <entry>
-    <title>Ex Libris: Sleepy</title>
-    <url>/ex-libris-sleepy/</url>
-    <content><![CDATA[<p>Known for incredibly concise storytelling, Anton Chekhov leaves no detail unresolved in his stories. Everything serves a purpose. The principle has been titled Chekhov’s Gun: if you introduce a gun, the audience expects it to be fired at some point. These details—these promises—build and interweave, and by the end of the story, every promise has reached a payoff that serves the ending. Mind you, these payoffs are rarely happily-ever-afters or neat, little bows wrapping up the story. They often include tragedy and death, but that doesn’t make them any less satisfying. </p>
-<p>In <em>Sleepy</em>, a story written in one day, Chekhov introduces a baby, the 13-year-old servant, and a horrible family that fuels the young girl’s ongoing suffering. With a payoff of the servant killing the baby, the story resolves as the reader expects. Writing this masterful story in one day is already an incredible feat, but the more impressive feat is how Chekhov wove a secondary set of promises into the plot, all centered around a lamp, a pair of trousers, and a cricket.</p>
-<p>In the introduction, Chekhov introduces a lamp emitting green light, a pair of trousers on a clothesline, and a cricket in the stove. At first glance, these items only exist to enhance the setting, but he brings them up again and again and again. As I was doing my first reading, the purpose of these three items seemed quite unclear. No one wears the pants. No one puts out the lamp. No one complains about the cricket. They just sit there, doing nothing.</p>
-<p>The young girl, Varka, enters a few dreams throughout the short story, and each time she does, she first looks at the green light on the wall and the shadows. The flickering light and moving shadows and chirping cricket appear more and more hypnotic until eventually, the light and shadows wink at her. Chekhov builds on the personification until the end of the story. The three items laugh, and she laughs with them as she kills the baby.</p>
-<p>In the span of six pages, Chekhov created an entirely new character out of thin air and gave it a personality. This tricky, evil spirit laughing and dancing on the wall is made of no more than some green light, the shadow of a pair of trousers, and the chirp of a cricket. Its development represents Varka’s descent into madness, an integral component of the story. Chekhov promised to do something with these three items, and he overdelivered on the payoff. Without it, we wouldn’t see Varka lose her mind, just her frustration.</p>
-<p>Creating payoff is about more than finally using the promise. It’s about giving it a broader significance—a life of its own—in the story, one that serves the ending. Once you have that, the payoff can reflect its symbolism, even if you use the promise in an unconventional way. Just because you’ve introduced Chekhov’s Gun doesn’t mean you need to fire it.</p>
-]]></content>
-  </entry>
-  <entry>
     <title>Ex Libris: The Principles of Librarianship</title>
     <url>/ex-libris-the-principles-of-librarianship/</url>
     <content><![CDATA[<p>If you ever need a list of incredibly British-sounding city names, simply refer to the sentence, “To obtain a more precise location, a study of the postal services suggested that it should be located in Lancashire, the West Riding of Yorkshire, Cheshire, Nottinghamshire, Leicestershire, Derbyshire or Cumberland” (p. 36).</p>
@@ -124,6 +113,17 @@
 <li>Libraries can be valuable to society.</li>
 <li>Librarianship is an experimental science.</li>
 </ol>
+]]></content>
+  </entry>
+  <entry>
+    <title>Ex Libris: Sleepy</title>
+    <url>/ex-libris-sleepy/</url>
+    <content><![CDATA[<p>Known for incredibly concise storytelling, Anton Chekhov leaves no detail unresolved in his stories. Everything serves a purpose. The principle has been titled Chekhov’s Gun: if you introduce a gun, the audience expects it to be fired at some point. These details—these promises—build and interweave, and by the end of the story, every promise has reached a payoff that serves the ending. Mind you, these payoffs are rarely happily-ever-afters or neat, little bows wrapping up the story. They often include tragedy and death, but that doesn’t make them any less satisfying. </p>
+<p>In <em>Sleepy</em>, a story written in one day, Chekhov introduces a baby, the 13-year-old servant, and a horrible family that fuels the young girl’s ongoing suffering. With a payoff of the servant killing the baby, the story resolves as the reader expects. Writing this masterful story in one day is already an incredible feat, but the more impressive feat is how Chekhov wove a secondary set of promises into the plot, all centered around a lamp, a pair of trousers, and a cricket.</p>
+<p>In the introduction, Chekhov introduces a lamp emitting green light, a pair of trousers on a clothesline, and a cricket in the stove. At first glance, these items only exist to enhance the setting, but he brings them up again and again and again. As I was doing my first reading, the purpose of these three items seemed quite unclear. No one wears the pants. No one puts out the lamp. No one complains about the cricket. They just sit there, doing nothing.</p>
+<p>The young girl, Varka, enters a few dreams throughout the short story, and each time she does, she first looks at the green light on the wall and the shadows. The flickering light and moving shadows and chirping cricket appear more and more hypnotic until eventually, the light and shadows wink at her. Chekhov builds on the personification until the end of the story. The three items laugh, and she laughs with them as she kills the baby.</p>
+<p>In the span of six pages, Chekhov created an entirely new character out of thin air and gave it a personality. This tricky, evil spirit laughing and dancing on the wall is made of no more than some green light, the shadow of a pair of trousers, and the chirp of a cricket. Its development represents Varka’s descent into madness, an integral component of the story. Chekhov promised to do something with these three items, and he overdelivered on the payoff. Without it, we wouldn’t see Varka lose her mind, just her frustration.</p>
+<p>Creating payoff is about more than finally using the promise. It’s about giving it a broader significance—a life of its own—in the story, one that serves the ending. Once you have that, the payoff can reflect its symbolism, even if you use the promise in an unconventional way. Just because you’ve introduced Chekhov’s Gun doesn’t mean you need to fire it.</p>
 ]]></content>
   </entry>
   <entry>
@@ -269,55 +269,23 @@
 ]]></content>
   </entry>
   <entry>
-    <title>Optimal Bread Slicing</title>
-    <url>/optimal-bread-slicing/</url>
-    <content><![CDATA[<p>For the original paper, click <a href="/projects/optimal_slicing.pdf">here</a>.</p>
-<p>For an implement of the results using real bread, check out <a href="https://youtu.be/R6SYxpiGGJ0?si=PetWIvfnnBJfoWIo">this video</a>.</p>
-<hr>
-<p>Since 1928, sliced bread has remained largely the same. For nearly a century, we have accepted sliced bread as it is, but I want to challenge our complacency. Sometimes our sliced bread works well, and other times it doesn’t. To fully understand the issue, I approach the topic using formalisms and semi-rigorous proofs. The following is a guide to simplify the paper for anyone that doesn’t care to decipher dense mathematics about bread.</p>
-<h2 id="Defining-Bread"><a href="#Defining-Bread" class="headerlink" title="Defining Bread"></a>Defining Bread</h2><p>First, I needed to define a loaf of bread mathematically. I decided that for my purposes, a prism of infinite length worked best. The definition is quite broad, so standard loaf shapes like cylinders and rectangular prisms work. It all depends on how you select the parameters in the following definition:</p>
-<p>$$B &#x3D; \{ (x, y, z) \in \mathbb{R}^3 | 0 \leq x \leq w, g(x) \leq y \leq f(x) \}$$</p>
-<p>From there, I defined a slice independently from a loaf of bread. Slices are a region in space that have an angle, a width, and a starting point. </p>
-<p>$$S(\theta, \delta, z_0) &#x3D;  \{ (x, y, z) \in \mathbb{R}^3 |<br>z_0 + x \cot{\theta} \leq z \leq z_0 + x \cot{\theta} + \delta \}$$</p>
-<p>To make a slice of bread, you intersect a loaf (infinte prism) with a slice. In real life, slices are repeatable, which is why I introduced adjacent slices. Essentially, when one slice ends, the next one begins, and the have an intersection of zero width.</p>
-<p>While slices have three parameters, the volume is only dependent on the width. As such, you can express the volume of a slice as:</p>
-<p>$$m (S \cap B) &#x3D; \delta \int_0^w \int_{g(x)}^{f(x)} dydx$$</p>
-<p>As established earlier, loaves of bread are prisms, and slices are also prisms, so the volume is the product of the base and the height. Since this is bread, I call the base the face area, and I call the height the thickness. They can be calculated using the following formulas:</p>
-<p>$$\text{thickness } &#x3D;\delta \sin{\theta}$$</p>
-<p>$$\text{area } &#x3D;A \csc{\theta}$$</p>
-<h2 id="Optimal-Slicing"><a href="#Optimal-Slicing" class="headerlink" title="Optimal Slicing"></a>Optimal Slicing</h2><p>As a broad guiding principle, I propose optimizing over both the thickness and area. </p>
-<p>$$u(S, B) &#x3D; u_A(A \csc{\theta}) + u_h(\delta \sin{\theta})$$</p>
-<p>Using this guiding principle, I explore optimization in two settings, bruschetta and sandwiches. For bruschetta, I posit that you want to maximize surface area, so long as you don’t go below a minimum thickness. For sandwiches, I posit that height is the most important factor. The optimal slicing angles for each are as follows: </p>
-<p>$$\text{bruschetta: } \theta &#x3D; \arcsin{ \Big ( \frac{nh_{min}}{l} \Big )}$$</p>
-<p>$$\text{sandwich: } \theta &#x3D; \frac{\pi}{2}$$</p>
-<h2 id="Conclusion"><a href="#Conclusion" class="headerlink" title="Conclusion"></a>Conclusion</h2><p>Hint: get a loaf of bread and start cutting.</p>
+    <title>Taking Silly Ideas Seriously</title>
+    <url>/taking-silly-ideas-seriously/</url>
+    <content><![CDATA[<p>Since 2007, the Association for Computational Heresy has celebrated the sillier side of academic research through the annual SIGBOVIK conference. This interdisciplinary computer science conference invites three categories of research: joke realizations of joke ideas, joke realizations of serious ideas, and serious realizations of joke ideas. While all three quadrants offer exciting opportunities, I’m particulary intrigued by the last one: serious realizations of joke ideas.</p>
+<p>The first part, serious realizations, is relatively straightforward. Given some idea, a serious realization would offer results that answer some underlying questions or issues. One fantastic example of a serious realization is GradIEEEnt half decent. In GradIEEEnt half decent, Dr. Tom Murphy explores the idea of how computer rounding errors could be used on purpose. His realization includes creating a non-linear activaction function using linear operations. He evaluates the effectiveness of his activation function on standard machine learning benchmark datasets like MNIST and CIFAR-10, comparing performance to other activation functions. Not all serious realizations require experimental results, but they do require going beyond just the initial idea.</p>
+<p>The second part, joke ideas, is less clear-cut. Plenty of ideas that start as jokes are later taken more seriously. For example, Schrödinger’s Cat was originally used to poke fun at the absurdity of quantum models of macroscopic objects. This ridiculous idea of a cat in a box is now the most well-known analogy for measurement in quantum systems. Similarly, Fred Hoyle coined the term “Big Bang” because he was poking fun at the idea of the universe expanding from a singularity. He never did accept the theory, but today, supporters and critics all use the term “Big Bang” seriously. Joke ideas frequently become serious, making them much more difficult to define.</p>
+<p>While Schrödinger and Hoyle made jokes out of disbelief, not all joke ideas come from disagreement. Jokes can come from a variety of sources, but for the purposes of SIGBOVIK and similar venues, there is one common unifier among joke ideas: they would not receive funding. This argument requires establishing a few premises. First, I will discuss joke ideas and serious ideas as opposites, so not serious ideas are joke ideas. It’s reasonable to assume that researchers publishing in most journals and conferences are addressing serious ideas. Researchers can do that work as their job because it is funded. Since funding agencies decide whether a researcher’s proposal gets funded, funding agencies thus decide if the work is serious. Note that I am not arguing that every serious idea gets funding. Instead, if a funding agency funds a proposal, then the idea is serious. By the contrapositive, if the idea is not serious, then it will not be funded.</p>
+<p>Using funding as this guiding principle elucidates how narrow the range of serious ideas really is. Joke ideas aren’t necessarily useless, they’re just a large portion of the ideas that academia doesn’t care about. Exploring them seriously can create opportunities for knowledge that would have never been known before. Research is about pushing the boundaries of human knowledge, and that can be done in all directions. I truly enjoy doing research, and while my work is focused on serious ideas, I’ve been exploring some joke ideas too. Most recently, I wrote a paper that formally analyzes bread slicing with rigorous mathematics. I don’t claim that it offers much utility to society, but it’s a nice piece of absurdist humor that pairs well with <a href="https://youtu.be/R6SYxpiGGJ0?si=PetWIvfnnBJfoWIo">this summary video</a>. </p>
+<p>SIGBOVIK is a fantastic venue for exploring serious realizations of joke ideas, but I would love to see this occuring more broadly. Granted, my worldview as a computer science research student is vastly limited, but most academics don’t care to put effort into their silly ideas. If you have the time and resources to do so, why not? Push the boundaries of human knowledge, even in strange directions. Explore silly ideas with the effort you put into your publications. Take your jokes seriously.</p>
 <hr>
 <h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ol>
-<li><a href="http://www.historyofbread.com/bread-history/history-of-sliced-bread/">History of Sliced Bread</a></li>
+<li><a href="http://sigbovik.org/">SIGBOVIK</a></li>
+<li><a href="http://tom7.org/grad/murphy2023grad.pdf">GradIEEEnt half decent</a></li>
+<li><a href="http://yann.lecun.com/exdb/mnist/">MNIST</a></li>
+<li><a href="https://www.cs.toronto.edu/~kriz/cifar.html">CIFAR-10</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Schr%C3%B6dinger%27s_cat">Schrödinger’s Cat</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Fred_Hoyle">Fred Hoyle</a></li>
 <li><a href="/projects/optimal_slicing.pdf">Optimal Bread Slicing</a></li>
-</ol>
-]]></content>
-  </entry>
-  <entry>
-    <title>The AI Summer: Part 1</title>
-    <url>/the-ai-summer-part-1/</url>
-    <content><![CDATA[<p>Well, my little cousin is using large language models to do his homework for him, my aunt makes Facebook posts with images from diffusion models, and I just deepfaked my voice in 5 minutes. That sentence sounds impossible, but the AI revolution has made it all too real. Some argue the AI revolution started in November of 2022, when ChatGPT was first released. Others say it started with Dall-E in early 2021. I say it started in 1958, but not with any big, fancy machine learning models. It started with the Perceptron.</p>
-<p>The Perceptron is the predecessor of all deep learning models. Before our modern neural networks with hundreds of hidden layers and fancy activation functions, there was a single-layer, linear network called the Perceptron. Designed by Warren McCulloch and Walter Pitts in 1943, it took 15 years before it was actually built by Frank Rosenblatt in 1958. Made to be a standalone machine, the Mark 1 Perceptron used an array of 20x20 photocells for the input, potentiometers to encode the weights, and electric motors to adjust the weights. One of the first things it learned was how to tell left from right. </p>
-<p>Rosenblatt envisioned a future, one where machines could understand language and see the world around us. His innovative work sparked uncertainty for the future, and where there is uncertainty, there is skepticism. Minsky and Papert provided a strong counterexample to the power of the Perceptron: it could not learn the XOR gate. Essentially, given two objects—each one either a “yes” or a “no”—the Perceptron would not be able to tell you whether they were the same. Even for problems it could solve, the Perceptron required far more computing power than was possible at the time. This gave skeptics the upper hand. A few years later, scientists entered the first AI winter. Funding was down and interest was low. The field stalled.</p>
-<p>The AI winter provided no incentive to consider the impacts of the potentially groundbreaking field. Companies didn’t anticipate how AI might impact them, and the law gave no specific consideration to such technologies. Because no one really cared to make any decisions, an AI future remained entirely uncertain. Rather than consider the implications and consequences, almost everyone deemed such decision-making unnecessary. Sure, calling Rosenblatt’s future nonsense sounded strong and resolute, but no problem has ever been answered by pretending it didn’t exist. The uncertain future of AI remained, but it was pawned off to the next generations as a problem for later.</p>
-<p>To the dismay of many, Rosenblatt was right. We are living through the AI revolution. Everyone with internet has access to state-of-the-art models, and they continue to transform how so many of us approach work and play in our everyday lives. Conversations about AI are no longer hypothetical. Businesses are transforming, the Senate is having hearings, and grassroots movements are growing because AI hit us hard, and we didn’t anticipate the impact. The uncertainty built over 60 years has finally broken free from the chains of hypotheticals and entered reality. </p>
-<p>And now, in our AI summer, we are woefully underprepared to deal with any of the consequences of AI. Yes, we have money and resources and attention pointing directly at this technology, but we remain almost as uncertain as we were a few decades ago. In this time, plenty have created theories about approaches to AI, but most were in the context of sentient machines. While I’m certainly thankful for that preparation for when the time comes, AI right now isn’t alive, it’s just fancy statistics. Issues of copyright and stolen data and plagiarism plague modern discussions of AI, and almost none have truly been resolved.   </p>
-<p>I sometimes wonder if this uncertainty is the price we pay for technological advancement. Almost no one batted an eyelid when LAION and CommonCrawl started building their massive datasets. Before ChatGPT, GPT-3 was already wildly powerful, writing an entire Batman movie script. GANs could do text-to-image generation well before Stable Diffusion. Few people asked if we should stop to reflect on these developments. I suppose, the longer we ignored the voices telling us to stop, the faster we could develop this technology. We paid for our speed by ignoring the uncertainty. When organizations released AI into the wild with few provisions or plans, it was already too late.</p>
-<p>To be clear, I would never expect anyone to anticipate everything that AI would bring. For the average internet user, the limits of what is possible have changed dramatically, and the evolutions of this technology continue to be unfathomable. Besides, we got a head start on some issues—like self-driving cars—but that still isn’t enough. With AI accessible to all, everyone is left to answer the uncertainty. Schools, healthcare, legislatures, companies small and large, everyone must now grapple with how to continue their lives in this once impossible future—in Rosenblatt’s future.</p>
-<p>The AI summer is heating up, and we’re flying too close to the sun. Try not to get burned.</p>
-<hr>
-<h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ol>
-<li><a href="https://doi.org/10.1177/030631296026003005">A Sociological Study of the Official History of the Perceptrons Controversy</a></li>
-<li><a href="https://archive.org/details/perceptronsintro00mins">Perceptrons. Minsky and Papert.</a></li>
-<li><a href="https://news.cornell.edu/stories/2019/09/professors-perceptron-paved-way-ai-60-years-too-soon">Professor’s Perceptron Paved the Way for AI – 60 Years Too Soon</a></li>
-<li><a href="https://commoncrawl.org/">CommonCrawl</a></li>
-<li><a href="https://laion.ai/blog/laion-5b/">LAION-5B</a></li>
-<li><a href="https://twitter.com/KeatonPatti/status/1161284670601990146">AI Batman Script from 2019</a></li>
 </ol>
 ]]></content>
   </entry>
@@ -495,6 +463,65 @@
 ]]></content>
   </entry>
   <entry>
+    <title>The AI Summer: Part 1</title>
+    <url>/the-ai-summer-part-1/</url>
+    <content><![CDATA[<p>Well, my little cousin is using large language models to do his homework for him, my aunt makes Facebook posts with images from diffusion models, and I just deepfaked my voice in 5 minutes. That sentence sounds impossible, but the AI revolution has made it all too real. Some argue the AI revolution started in November of 2022, when ChatGPT was first released. Others say it started with Dall-E in early 2021. I say it started in 1958, but not with any big, fancy machine learning models. It started with the Perceptron.</p>
+<p>The Perceptron is the predecessor of all deep learning models. Before our modern neural networks with hundreds of hidden layers and fancy activation functions, there was a single-layer, linear network called the Perceptron. Designed by Warren McCulloch and Walter Pitts in 1943, it took 15 years before it was actually built by Frank Rosenblatt in 1958. Made to be a standalone machine, the Mark 1 Perceptron used an array of 20x20 photocells for the input, potentiometers to encode the weights, and electric motors to adjust the weights. One of the first things it learned was how to tell left from right. </p>
+<p>Rosenblatt envisioned a future, one where machines could understand language and see the world around us. His innovative work sparked uncertainty for the future, and where there is uncertainty, there is skepticism. Minsky and Papert provided a strong counterexample to the power of the Perceptron: it could not learn the XOR gate. Essentially, given two objects—each one either a “yes” or a “no”—the Perceptron would not be able to tell you whether they were the same. Even for problems it could solve, the Perceptron required far more computing power than was possible at the time. This gave skeptics the upper hand. A few years later, scientists entered the first AI winter. Funding was down and interest was low. The field stalled.</p>
+<p>The AI winter provided no incentive to consider the impacts of the potentially groundbreaking field. Companies didn’t anticipate how AI might impact them, and the law gave no specific consideration to such technologies. Because no one really cared to make any decisions, an AI future remained entirely uncertain. Rather than consider the implications and consequences, almost everyone deemed such decision-making unnecessary. Sure, calling Rosenblatt’s future nonsense sounded strong and resolute, but no problem has ever been answered by pretending it didn’t exist. The uncertain future of AI remained, but it was pawned off to the next generations as a problem for later.</p>
+<p>To the dismay of many, Rosenblatt was right. We are living through the AI revolution. Everyone with internet has access to state-of-the-art models, and they continue to transform how so many of us approach work and play in our everyday lives. Conversations about AI are no longer hypothetical. Businesses are transforming, the Senate is having hearings, and grassroots movements are growing because AI hit us hard, and we didn’t anticipate the impact. The uncertainty built over 60 years has finally broken free from the chains of hypotheticals and entered reality. </p>
+<p>And now, in our AI summer, we are woefully underprepared to deal with any of the consequences of AI. Yes, we have money and resources and attention pointing directly at this technology, but we remain almost as uncertain as we were a few decades ago. In this time, plenty have created theories about approaches to AI, but most were in the context of sentient machines. While I’m certainly thankful for that preparation for when the time comes, AI right now isn’t alive, it’s just fancy statistics. Issues of copyright and stolen data and plagiarism plague modern discussions of AI, and almost none have truly been resolved.   </p>
+<p>I sometimes wonder if this uncertainty is the price we pay for technological advancement. Almost no one batted an eyelid when LAION and CommonCrawl started building their massive datasets. Before ChatGPT, GPT-3 was already wildly powerful, writing an entire Batman movie script. GANs could do text-to-image generation well before Stable Diffusion. Few people asked if we should stop to reflect on these developments. I suppose, the longer we ignored the voices telling us to stop, the faster we could develop this technology. We paid for our speed by ignoring the uncertainty. When organizations released AI into the wild with few provisions or plans, it was already too late.</p>
+<p>To be clear, I would never expect anyone to anticipate everything that AI would bring. For the average internet user, the limits of what is possible have changed dramatically, and the evolutions of this technology continue to be unfathomable. Besides, we got a head start on some issues—like self-driving cars—but that still isn’t enough. With AI accessible to all, everyone is left to answer the uncertainty. Schools, healthcare, legislatures, companies small and large, everyone must now grapple with how to continue their lives in this once impossible future—in Rosenblatt’s future.</p>
+<p>The AI summer is heating up, and we’re flying too close to the sun. Try not to get burned.</p>
+<hr>
+<h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ol>
+<li><a href="https://doi.org/10.1177/030631296026003005">A Sociological Study of the Official History of the Perceptrons Controversy</a></li>
+<li><a href="https://archive.org/details/perceptronsintro00mins">Perceptrons. Minsky and Papert.</a></li>
+<li><a href="https://news.cornell.edu/stories/2019/09/professors-perceptron-paved-way-ai-60-years-too-soon">Professor’s Perceptron Paved the Way for AI – 60 Years Too Soon</a></li>
+<li><a href="https://commoncrawl.org/">CommonCrawl</a></li>
+<li><a href="https://laion.ai/blog/laion-5b/">LAION-5B</a></li>
+<li><a href="https://twitter.com/KeatonPatti/status/1161284670601990146">AI Batman Script from 2019</a></li>
+</ol>
+]]></content>
+  </entry>
+  <entry>
+    <title>About Me</title>
+    <url>/about/index.html</url>
+    <content><![CDATA[<style>
+.profile-image-ronik {
+    width: min(max(50%,14rem),100%)!important;
+    margin: 1rem;
+    margin-top: 0;
+    margin-right: 0;
+    float: right!important;
+}
+</style>
+
+<img src="ronik.jpg" class="profile-image-ronik" alt="Ronik looking up at a plant."> 
+
+<p>More details in my <a href="/about/Ronik%20Bhaskar%20CV%20Redacted.pdf">CV</a>.</p>
+<p>I am a 4th year undergraduate studying math and CS at the University of Chicago. I am a research assistant in the <a href="https://sandlab.cs.uchicago.edu/index.html">SAND Lab</a> where I’m fortunate to be co-advised by Prof. <a href="http://people.cs.uchicago.edu/~htzheng/">Heather Zheng</a> and Prof. <a href="http://people.cs.uchicago.edu/~ravenben/">Ben Y. Zhao</a>. I’m currently in the terrifying process of applying to CS PhD programs.</p>
+<p>I’m broadly interested in security and privacy with a recent focus on adversarial machine learning. If you’re a digital artist, or you’re interested in generative AI, I recommend checking out <a href="https://glaze.cs.uchicago.edu/">Glaze</a>. I’m proud to work on this project and hopefully similar ones in the future.</p>
+<p>While I am relatively new to research, I have made some observations. Computer security research exists in a delicate ethical space. Every discovered vulnerability is an opportunity for attack, but it is also a potential warning. Every defense offers protection to some group, but it also risks unintended side effects and consequences for future technology. As I continue my academic journey, I hope to learn how to meaningfully consider the implications of my work, regardless of the field I research.</p>
+<h2 id="Contact-Me"><a href="#Contact-Me" class="headerlink" title="Contact Me"></a>Contact Me</h2><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line"><span class="comment"># My email:</span></span><br><span class="line"><span class="built_in">echo</span> <span class="string">&quot;cmJoYXNrYXJAdWNoaWNhZ28uZWR1Cg==&quot;</span> | <span class="built_in">base64</span> --decode</span><br></pre></td></tr></table></figure>
+
+<!-- I was never the creative one or the artistic one. I was always "that guy that's good at math." -->
+
+<!-- Then COVID hit. -->
+
+<!-- In December of 2020, a welcoming group of friends adopted me into their Discord server. We joked about building more friends, but some part of me kept whispering, *Maybe that's not a bad idea.* So, that month, I built a working [discord bot](/projects/discord_bot). His name was Igor, and despite the lack of functionality, he was full of life and personality. The server members loved him like a pet.  -->
+
+
+<!-- A few months later, while chatting about the chaos of life with some filmmakers, they mentioned the butterfly effect. I asked about the origin of the phrase, and a few hours later, I found myself stumbling down a rabbit hole of differential equations and strange attractors. A week later, I recreated Lorenz's Butterfly Effect—the beginnings of the [math art](/projects/math-art) project. -->
+
+<!-- This continued incessantly. Someone would throw out a phrase or idea, and I would run with it. As I continued creating, I started finding my voice in code. Despite everything I made, it took me months to finally call myself creative, which would have been impossible on my own. My friends reminded me that I was more than test scores and good grades, and I hope they know how grateful I am. -->
+
+<!-- Without the people closest to me providing constant support and inspiration and critiques, I wouldn't still be creating. If that's you, thanks.  -->
+
+<!-- *Add to the [dialogue](/chat), and become part of my story.* -->]]></content>
+  </entry>
+  <entry>
     <title>Full Stack Chat App</title>
     <url>/projects/chat.html</url>
     <content><![CDATA[<p>Chat with me <a href="/chat">here</a>. (You’ll know it’s me because my name is <strong>bold</strong>.)</p>
@@ -539,16 +566,6 @@
 <p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
   </entry>
   <entry>
-    <title>Discord Scraper</title>
-    <url>/projects/discord_scraper.html</url>
-    <content><![CDATA[<p>Access the source files <a href="https://github.com/ronikbhaskar/discord_scraper">here</a>. </p>
-<h2 id="Disclaimer"><a href="#Disclaimer" class="headerlink" title="Disclaimer"></a>Disclaimer</h2><p>Botting your Discord account violates their Terms of Service. I do not use this scraper, nor will I, and I recommend you never use it either. This is solely for educational purposes.</p>
-<h2 id="Theoretical-Use-Cases"><a href="#Theoretical-Use-Cases" class="headerlink" title="Theoretical Use Cases"></a>Theoretical Use Cases</h2><p>Hypothetically speaking, wouldn’t it be cool to go through your server’s chat history, run the text through a Markov Chain generator, and spit out some nonsense for you all to laugh at? Just a thought. It would be tedious, copying every message by hand, but it’s definitely doable, so that’s how you should do it. By hand.</p>
-<h2 id="Getting-your-Access-Token"><a href="#Getting-your-Access-Token" class="headerlink" title="Getting your Access Token"></a>Getting your Access Token</h2><p>Now, having access to the Discord API requires an Access Token, and no one would know how to get their access token. I mean, who is going to open Discord in Chrome, open the inspector, switch to mobile&#x2F;tablet display, go to the Application tab, find the sidebar section labeled Storage, select <a href="https://discord.com/">https://discord.com</a> from the Local Storage dropdown, search token, and copy the value from the Key-Value pair? That’s a ridiculous number of hoops to jump through, and I can’t imagine anyone figuring that out on their own. </p>
-<hr>
-<p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
-  </entry>
-  <entry>
     <title>Inventing a Game, Then Building a Bot to Play It Perfectly</title>
     <url>/projects/forest-algorithm.html</url>
     <content><![CDATA[<p>It’s easier to learn how the game works by playing it, so I’ll create a playable version soon (hopefully).</p>
@@ -568,6 +585,16 @@
 <p>I made a few similar changes, removing redundant data structures and fancy sorting and simplifying to basic arithmetic operations. All of a sudden, my basic minimax implementation was flying, and the program generated a table with all of the optimal moves in 22 seconds.</p>
 <h2 id="Reinforcement-Learning-Dawson’s-Strategy"><a href="#Reinforcement-Learning-Dawson’s-Strategy" class="headerlink" title="Reinforcement Learning (Dawson’s Strategy)"></a>Reinforcement Learning (Dawson’s Strategy)</h2><p>While I was working on this, Dawson took a different approach. Rather than using massive lookup space reductions, he turned to Reinforcement Learning with Monte-Carlo Tree Search. I’ll leave him to give an explanation of his process and how he approached this problem.</p>
 <h2 id="Two-Will-Enter-Only-One-Will-Leave"><a href="#Two-Will-Enter-Only-One-Will-Leave" class="headerlink" title="Two Will Enter, Only One Will Leave"></a>Two Will Enter, Only One Will Leave</h2><p>Now that we have our working Forest bots, we need to pit them against each other and see how they compare.</p>
+<hr>
+<p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>Discord Scraper</title>
+    <url>/projects/discord_scraper.html</url>
+    <content><![CDATA[<p>Access the source files <a href="https://github.com/ronikbhaskar/discord_scraper">here</a>. </p>
+<h2 id="Disclaimer"><a href="#Disclaimer" class="headerlink" title="Disclaimer"></a>Disclaimer</h2><p>Botting your Discord account violates their Terms of Service. I do not use this scraper, nor will I, and I recommend you never use it either. This is solely for educational purposes.</p>
+<h2 id="Theoretical-Use-Cases"><a href="#Theoretical-Use-Cases" class="headerlink" title="Theoretical Use Cases"></a>Theoretical Use Cases</h2><p>Hypothetically speaking, wouldn’t it be cool to go through your server’s chat history, run the text through a Markov Chain generator, and spit out some nonsense for you all to laugh at? Just a thought. It would be tedious, copying every message by hand, but it’s definitely doable, so that’s how you should do it. By hand.</p>
+<h2 id="Getting-your-Access-Token"><a href="#Getting-your-Access-Token" class="headerlink" title="Getting your Access Token"></a>Getting your Access Token</h2><p>Now, having access to the Discord API requires an Access Token, and no one would know how to get their access token. I mean, who is going to open Discord in Chrome, open the inspector, switch to mobile&#x2F;tablet display, go to the Application tab, find the sidebar section labeled Storage, select <a href="https://discord.com/">https://discord.com</a> from the Local Storage dropdown, search token, and copy the value from the Key-Value pair? That’s a ridiculous number of hoops to jump through, and I can’t imagine anyone figuring that out on their own. </p>
 <hr>
 <p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
   </entry>
@@ -597,7 +624,6 @@
 }
 </style>
 
-<h2 id="Archives"><a href="#Archives" class="headerlink" title="Archives"></a><a href="/archives/">Archives</a></h2><p>I removed the <a href="/archives/">archives</a> writing project from the menu bar to prioritize being a PhD applicant. </p>
 <h2 id="Independent-Projects-With-Websites"><a href="#Independent-Projects-With-Websites" class="headerlink" title="Independent Projects With Websites"></a>Independent Projects With Websites</h2><details>
 <summary>
 <b>A Full Stack Chat App with User Authentication</b>
@@ -631,6 +657,16 @@
     <li><a href="/projects/text_generator">Summary</a></li>
     <li><a href="https://github.com/ronikbhaskar/text_generator">GitHub</a></li>
     <li><a href="https://github.com/ronikbhaskar/markov_text_generation">Original Python Project</a></li>
+</ul>
+</details>
+<br />
+
+<details>
+<summary>
+<b>The Archives Project</b>
+</summary>
+<ul>
+    <li><a href="/archives/">Table of Contents</a></li>
 </ul>
 </details>
 <br />
@@ -802,40 +838,6 @@
 <p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
   </entry>
   <entry>
-    <title>Steganography</title>
-    <url>/projects/steganography.html</url>
-    <content><![CDATA[<h2 id="Find-the-difference-between-these-two-images"><a href="#Find-the-difference-between-these-two-images" class="headerlink" title="Find the difference between these two images"></a>Find the difference between these two images</h2><style>
-table, th {
-    border: none!important;
-}
-</style>
-
-<table>
-<thead>
-<tr>
-<th><img src="steganography_pngs/image_with_a_secret_message.png"></th>
-<th><img src="steganography_pngs/normal_image.png"></th>
-</tr>
-</thead>
-</table>
-<p>As enticing as it may be to give up, don’t be discouraged. When filmmaker and literary visionary Michael Scott faced a similar problem, he never accepted defeat. Then again, he also never made any progress. Despite Michael’s failures, you <em>can</em> succeed in this seemingly impossible task using the power of STEGANOGRAPHY.</p>
-<blockquote>
-<p>“Steganography is the practice of concealing a message within another message or a physical object.” (Wikipedia definition)</p>
-</blockquote>
-<h2 id="Least-Significant-Bit"><a href="#Least-Significant-Bit" class="headerlink" title="Least Significant Bit"></a>Least Significant Bit</h2><p>Least significant bit is an image steganography technique that conceals messages inside images. Despite the complicated sounding name, you can understand the concept in the next 60 seconds. Ready?</p>
-<p>Consider the number 1,000,000. If you change that to 1,300,000, that seems like a noticeable change, but 1,000,003 is practically the same. By changing the least significant digit, we can encode information in a number without drastically changing its value. The red, green, and blue image channels give numerical values for RGB, and they don’t change much when you add or subtract 1 from them. By changing 255 to 254 or 120 to 121, we can encode information in the RGB values of pixels by checking whether it’s odd or even. Putting those together, we get a series of 1’s and 0’s that we can turn into readable text.</p>
-<p>Great, now you know what’s going on, but how do you actually encode and decode messages practically? All you need to do is create a main function in <code>lsb.c</code> and add the following lines:</p>
-<h3 id="Reading-Messages"><a href="#Reading-Messages" class="headerlink" title="Reading Messages"></a>Reading Messages</h3><figure class="highlight c"><table><tr><td class="code"><pre><span class="line"><span class="type">ppm_t</span> *ppm = read_ppm(<span class="string">&quot;image_with_a_secret_message.ppm&quot;</span>);</span><br><span class="line">read_message(ppm);</span><br><span class="line">ppm_free(ppm);</span><br><span class="line"><span class="keyword">return</span> <span class="number">0</span>;</span><br></pre></td></tr></table></figure>
-
-<p>This can be run as is and will print out the secret message.</p>
-<h3 id="Hiding-Messages"><a href="#Hiding-Messages" class="headerlink" title="Hiding Messages"></a>Hiding Messages</h3><figure class="highlight c"><table><tr><td class="code"><pre><span class="line"><span class="type">ppm_t</span> *ppm = read_ppm(<span class="string">&quot;normal_image.ppm&quot;</span>);</span><br><span class="line">hide_message(ppm, <span class="string">&quot;Your secret message goes here.&quot;</span>);</span><br><span class="line">write_ppm(ppm);</span><br><span class="line">ppm_free(ppm);</span><br><span class="line"><span class="keyword">return</span> <span class="number">0</span>;</span><br></pre></td></tr></table></figure>
-
-<p>For this code, you will have to redirect the output to a file using the <code>&gt;</code> operator.</p>
-<p>Happy sleuthing!</p>
-<hr>
-<p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
-  </entry>
-  <entry>
     <title>The Oracle Society</title>
     <url>/projects/oracle_society.html</url>
     <content><![CDATA[<p>CW: violence, kidnapping, murder.</p>
@@ -909,6 +911,40 @@ table, th {
 <p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
   </entry>
   <entry>
+    <title>Steganography</title>
+    <url>/projects/steganography.html</url>
+    <content><![CDATA[<h2 id="Find-the-difference-between-these-two-images"><a href="#Find-the-difference-between-these-two-images" class="headerlink" title="Find the difference between these two images"></a>Find the difference between these two images</h2><style>
+table, th {
+    border: none!important;
+}
+</style>
+
+<table>
+<thead>
+<tr>
+<th><img src="steganography_pngs/image_with_a_secret_message.png"></th>
+<th><img src="steganography_pngs/normal_image.png"></th>
+</tr>
+</thead>
+</table>
+<p>As enticing as it may be to give up, don’t be discouraged. When filmmaker and literary visionary Michael Scott faced a similar problem, he never accepted defeat. Then again, he also never made any progress. Despite Michael’s failures, you <em>can</em> succeed in this seemingly impossible task using the power of STEGANOGRAPHY.</p>
+<blockquote>
+<p>“Steganography is the practice of concealing a message within another message or a physical object.” (Wikipedia definition)</p>
+</blockquote>
+<h2 id="Least-Significant-Bit"><a href="#Least-Significant-Bit" class="headerlink" title="Least Significant Bit"></a>Least Significant Bit</h2><p>Least significant bit is an image steganography technique that conceals messages inside images. Despite the complicated sounding name, you can understand the concept in the next 60 seconds. Ready?</p>
+<p>Consider the number 1,000,000. If you change that to 1,300,000, that seems like a noticeable change, but 1,000,003 is practically the same. By changing the least significant digit, we can encode information in a number without drastically changing its value. The red, green, and blue image channels give numerical values for RGB, and they don’t change much when you add or subtract 1 from them. By changing 255 to 254 or 120 to 121, we can encode information in the RGB values of pixels by checking whether it’s odd or even. Putting those together, we get a series of 1’s and 0’s that we can turn into readable text.</p>
+<p>Great, now you know what’s going on, but how do you actually encode and decode messages practically? All you need to do is create a main function in <code>lsb.c</code> and add the following lines:</p>
+<h3 id="Reading-Messages"><a href="#Reading-Messages" class="headerlink" title="Reading Messages"></a>Reading Messages</h3><figure class="highlight c"><table><tr><td class="code"><pre><span class="line"><span class="type">ppm_t</span> *ppm = read_ppm(<span class="string">&quot;image_with_a_secret_message.ppm&quot;</span>);</span><br><span class="line">read_message(ppm);</span><br><span class="line">ppm_free(ppm);</span><br><span class="line"><span class="keyword">return</span> <span class="number">0</span>;</span><br></pre></td></tr></table></figure>
+
+<p>This can be run as is and will print out the secret message.</p>
+<h3 id="Hiding-Messages"><a href="#Hiding-Messages" class="headerlink" title="Hiding Messages"></a>Hiding Messages</h3><figure class="highlight c"><table><tr><td class="code"><pre><span class="line"><span class="type">ppm_t</span> *ppm = read_ppm(<span class="string">&quot;normal_image.ppm&quot;</span>);</span><br><span class="line">hide_message(ppm, <span class="string">&quot;Your secret message goes here.&quot;</span>);</span><br><span class="line">write_ppm(ppm);</span><br><span class="line">ppm_free(ppm);</span><br><span class="line"><span class="keyword">return</span> <span class="number">0</span>;</span><br></pre></td></tr></table></figure>
+
+<p>For this code, you will have to redirect the output to a file using the <code>&gt;</code> operator.</p>
+<p>Happy sleuthing!</p>
+<hr>
+<p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
+  </entry>
+  <entry>
     <title>Ultimate Tic Tac Toe</title>
     <url>/projects/ultimate_tic_tac_toe.html</url>
     <content><![CDATA[<p>Play the game <a href="/ultimate_tic_tac_toe">here</a>. Grab a friend (or enemy) because this game requires two people.</p>
@@ -946,41 +982,5 @@ table, th {
 <h2 id="Refereed"><a href="#Refereed" class="headerlink" title="Refereed"></a>Refereed</h2><p>Zhuolin Yang, Zain Sarwar, Iris Hwang, <strong>Ronik Bhaskar</strong>, Ben Y. Zhao, Haitao Zheng (2024). Can Virtual Reality Protect Users from Keystroke Inference Attacks? USENIX Security, Philadelphia PA. <a href="https://www.usenix.org/system/files/sec23winter-prepub-116-yang-zhuolin.pdf">PDF</a> <a href="https://www.newscientist.com/article/2401929-ai-can-steal-passwords-in-virtual-reality-from-avatar-hand-motions/">Media Coverage</a></p>
 <h2 id="Not-Refereed"><a href="#Not-Refereed" class="headerlink" title="Not Refereed"></a>Not Refereed</h2><p><strong>Ronik Bhaskar</strong>, Dawson Ren (2023). PizzaLang: A Language for Hungry Developers. SIGBOVIK, Pittsburgh PA. <a href="/projects/PizzaLang.pdf">PDF</a> </p>
 ]]></content>
-  </entry>
-  <entry>
-    <title>About Me</title>
-    <url>/about/index.html</url>
-    <content><![CDATA[<style>
-.profile-image-ronik {
-    width: min(max(50%,14rem),100%)!important;
-    margin: 1rem;
-    margin-top: 0;
-    margin-right: 0;
-    float: right!important;
-}
-</style>
-
-<img src="ronik.jpg" class="profile-image-ronik" alt="Ronik looking up at a plant."> 
-
-<p>More details in my <a href="/about/Ronik%20Bhaskar%20CV%20Redacted.pdf">CV</a>.</p>
-<p>I am a 4th year undergraduate studying math and CS at the University of Chicago. I am a research assistant in the <a href="https://sandlab.cs.uchicago.edu/index.html">SAND Lab</a> where I’m fortunate to be co-advised by Prof. <a href="http://people.cs.uchicago.edu/~htzheng/">Heather Zheng</a> and Prof. <a href="http://people.cs.uchicago.edu/~ravenben/">Ben Y. Zhao</a>. I’m currently in the terrifying process of applying to CS PhD programs.</p>
-<p>I’m broadly interested in security and privacy with a recent focus on adversarial machine learning. If you’re a digital artist, or you’re interested in generative AI, I recommend checking out <a href="https://glaze.cs.uchicago.edu/">Glaze</a>. I’m proud to work on this project and hopefully similar ones in the future.</p>
-<p>While I am relatively new to research, I have made some observations. Computer security research exists in a delicate ethical space. Every discovered vulnerability is an opportunity for attack, but it is also a potential warning. Every defense offers protection to some group, but it also risks unintended side effects and consequences for future technology. As I continue my academic journey, I hope to learn how to meaningfully consider the implications of my work, regardless of the field I research.</p>
-<h2 id="Contact-Me"><a href="#Contact-Me" class="headerlink" title="Contact Me"></a>Contact Me</h2><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line"><span class="comment"># My email:</span></span><br><span class="line"><span class="built_in">echo</span> <span class="string">&quot;cmJoYXNrYXJAdWNoaWNhZ28uZWR1Cg==&quot;</span> | <span class="built_in">base64</span> --decode</span><br></pre></td></tr></table></figure>
-
-<!-- I was never the creative one or the artistic one. I was always "that guy that's good at math." -->
-
-<!-- Then COVID hit. -->
-
-<!-- In December of 2020, a welcoming group of friends adopted me into their Discord server. We joked about building more friends, but some part of me kept whispering, *Maybe that's not a bad idea.* So, that month, I built a working [discord bot](/projects/discord_bot). His name was Igor, and despite the lack of functionality, he was full of life and personality. The server members loved him like a pet.  -->
-
-
-<!-- A few months later, while chatting about the chaos of life with some filmmakers, they mentioned the butterfly effect. I asked about the origin of the phrase, and a few hours later, I found myself stumbling down a rabbit hole of differential equations and strange attractors. A week later, I recreated Lorenz's Butterfly Effect—the beginnings of the [math art](/projects/math-art) project. -->
-
-<!-- This continued incessantly. Someone would throw out a phrase or idea, and I would run with it. As I continued creating, I started finding my voice in code. Despite everything I made, it took me months to finally call myself creative, which would have been impossible on my own. My friends reminded me that I was more than test scores and good grades, and I hope they know how grateful I am. -->
-
-<!-- Without the people closest to me providing constant support and inspiration and critiques, I wouldn't still be creating. If that's you, thanks.  -->
-
-<!-- *Add to the [dialogue](/chat), and become part of my story.* -->]]></content>
   </entry>
 </search>

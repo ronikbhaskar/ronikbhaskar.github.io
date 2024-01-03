@@ -23,7 +23,7 @@
 
 
 
-<title>Optimal Bread Slicing | Ronik Bhaskar</title>
+<title>Taking Silly Ideas Seriously | Ronik Bhaskar</title>
 
 
 
@@ -144,7 +144,7 @@
         <div class="post-title">
             
             
-                Optimal Bread Slicing
+                Taking Silly Ideas Seriously
             
             
         </div>
@@ -159,29 +159,20 @@
     </div>
 </div>
     <div class="post-content">
-    <p>For the original paper, click <a href="/projects/optimal_slicing.pdf">here</a>.</p>
-<p>For an implement of the results using real bread, check out <a target="_blank" rel="noopener" href="https://youtu.be/R6SYxpiGGJ0?si=PetWIvfnnBJfoWIo">this video</a>.</p>
-<hr>
-<p>Since 1928, sliced bread has remained largely the same. For nearly a century, we have accepted sliced bread as it is, but I want to challenge our complacency. Sometimes our sliced bread works well, and other times it doesn’t. To fully understand the issue, I approach the topic using formalisms and semi-rigorous proofs. The following is a guide to simplify the paper for anyone that doesn’t care to decipher dense mathematics about bread.</p>
-<h2 id="Defining-Bread"><a href="#Defining-Bread" class="headerlink" title="Defining Bread"></a>Defining Bread</h2><p>First, I needed to define a loaf of bread mathematically. I decided that for my purposes, a prism of infinite length worked best. The definition is quite broad, so standard loaf shapes like cylinders and rectangular prisms work. It all depends on how you select the parameters in the following definition:</p>
-<p>$$B &#x3D; \{ (x, y, z) \in \mathbb{R}^3 | 0 \leq x \leq w, g(x) \leq y \leq f(x) \}$$</p>
-<p>From there, I defined a slice independently from a loaf of bread. Slices are a region in space that have an angle, a width, and a starting point. </p>
-<p>$$S(\theta, \delta, z_0) &#x3D;  \{ (x, y, z) \in \mathbb{R}^3 |<br>z_0 + x \cot{\theta} \leq z \leq z_0 + x \cot{\theta} + \delta \}$$</p>
-<p>To make a slice of bread, you intersect a loaf (infinte prism) with a slice. In real life, slices are repeatable, which is why I introduced adjacent slices. Essentially, when one slice ends, the next one begins, and the have an intersection of zero width.</p>
-<p>While slices have three parameters, the volume is only dependent on the width. As such, you can express the volume of a slice as:</p>
-<p>$$m (S \cap B) &#x3D; \delta \int_0^w \int_{g(x)}^{f(x)} dydx$$</p>
-<p>As established earlier, loaves of bread are prisms, and slices are also prisms, so the volume is the product of the base and the height. Since this is bread, I call the base the face area, and I call the height the thickness. They can be calculated using the following formulas:</p>
-<p>$$\text{thickness } &#x3D;\delta \sin{\theta}$$</p>
-<p>$$\text{area } &#x3D;A \csc{\theta}$$</p>
-<h2 id="Optimal-Slicing"><a href="#Optimal-Slicing" class="headerlink" title="Optimal Slicing"></a>Optimal Slicing</h2><p>As a broad guiding principle, I propose optimizing over both the thickness and area. </p>
-<p>$$u(S, B) &#x3D; u_A(A \csc{\theta}) + u_h(\delta \sin{\theta})$$</p>
-<p>Using this guiding principle, I explore optimization in two settings, bruschetta and sandwiches. For bruschetta, I posit that you want to maximize surface area, so long as you don’t go below a minimum thickness. For sandwiches, I posit that height is the most important factor. The optimal slicing angles for each are as follows: </p>
-<p>$$\text{bruschetta: } \theta &#x3D; \arcsin{ \Big ( \frac{nh_{min}}{l} \Big )}$$</p>
-<p>$$\text{sandwich: } \theta &#x3D; \frac{\pi}{2}$$</p>
-<h2 id="Conclusion"><a href="#Conclusion" class="headerlink" title="Conclusion"></a>Conclusion</h2><p>Hint: get a loaf of bread and start cutting.</p>
+    <p>Since 2007, the Association for Computational Heresy has celebrated the sillier side of academic research through the annual SIGBOVIK conference. This interdisciplinary computer science conference invites three categories of research: joke realizations of joke ideas, joke realizations of serious ideas, and serious realizations of joke ideas. While all three quadrants offer exciting opportunities, I’m particulary intrigued by the last one: serious realizations of joke ideas.</p>
+<p>The first part, serious realizations, is relatively straightforward. Given some idea, a serious realization would offer results that answer some underlying questions or issues. One fantastic example of a serious realization is GradIEEEnt half decent. In GradIEEEnt half decent, Dr. Tom Murphy explores the idea of how computer rounding errors could be used on purpose. His realization includes creating a non-linear activaction function using linear operations. He evaluates the effectiveness of his activation function on standard machine learning benchmark datasets like MNIST and CIFAR-10, comparing performance to other activation functions. Not all serious realizations require experimental results, but they do require going beyond just the initial idea.</p>
+<p>The second part, joke ideas, is less clear-cut. Plenty of ideas that start as jokes are later taken more seriously. For example, Schrödinger’s Cat was originally used to poke fun at the absurdity of quantum models of macroscopic objects. This ridiculous idea of a cat in a box is now the most well-known analogy for measurement in quantum systems. Similarly, Fred Hoyle coined the term “Big Bang” because he was poking fun at the idea of the universe expanding from a singularity. He never did accept the theory, but today, supporters and critics all use the term “Big Bang” seriously. Joke ideas frequently become serious, making them much more difficult to define.</p>
+<p>While Schrödinger and Hoyle made jokes out of disbelief, not all joke ideas come from disagreement. Jokes can come from a variety of sources, but for the purposes of SIGBOVIK and similar venues, there is one common unifier among joke ideas: they would not receive funding. This argument requires establishing a few premises. First, I will discuss joke ideas and serious ideas as opposites, so not serious ideas are joke ideas. It’s reasonable to assume that researchers publishing in most journals and conferences are addressing serious ideas. Researchers can do that work as their job because it is funded. Since funding agencies decide whether a researcher’s proposal gets funded, funding agencies thus decide if the work is serious. Note that I am not arguing that every serious idea gets funding. Instead, if a funding agency funds a proposal, then the idea is serious. By the contrapositive, if the idea is not serious, then it will not be funded.</p>
+<p>Using funding as this guiding principle elucidates how narrow the range of serious ideas really is. Joke ideas aren’t necessarily useless, they’re just a large portion of the ideas that academia doesn’t care about. Exploring them seriously can create opportunities for knowledge that would have never been known before. Research is about pushing the boundaries of human knowledge, and that can be done in all directions. I truly enjoy doing research, and while my work is focused on serious ideas, I’ve been exploring some joke ideas too. Most recently, I wrote a paper that formally analyzes bread slicing with rigorous mathematics. I don’t claim that it offers much utility to society, but it’s a nice piece of absurdist humor that pairs well with <a target="_blank" rel="noopener" href="https://youtu.be/R6SYxpiGGJ0?si=PetWIvfnnBJfoWIo">this summary video</a>. </p>
+<p>SIGBOVIK is a fantastic venue for exploring serious realizations of joke ideas, but I would love to see this occuring more broadly. Granted, my worldview as a computer science research student is vastly limited, but most academics don’t care to put effort into their silly ideas. If you have the time and resources to do so, why not? Push the boundaries of human knowledge, even in strange directions. Explore silly ideas with the effort you put into your publications. Take your jokes seriously.</p>
 <hr>
 <h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ol>
-<li><a target="_blank" rel="noopener" href="http://www.historyofbread.com/bread-history/history-of-sliced-bread/">History of Sliced Bread</a></li>
+<li><a target="_blank" rel="noopener" href="http://sigbovik.org/">SIGBOVIK</a></li>
+<li><a target="_blank" rel="noopener" href="http://tom7.org/grad/murphy2023grad.pdf">GradIEEEnt half decent</a></li>
+<li><a target="_blank" rel="noopener" href="http://yann.lecun.com/exdb/mnist/">MNIST</a></li>
+<li><a target="_blank" rel="noopener" href="https://www.cs.toronto.edu/~kriz/cifar.html">CIFAR-10</a></li>
+<li><a target="_blank" rel="noopener" href="https://en.wikipedia.org/wiki/Schr%C3%B6dinger%27s_cat">Schrödinger’s Cat</a></li>
+<li><a target="_blank" rel="noopener" href="https://en.wikipedia.org/wiki/Fred_Hoyle">Fred Hoyle</a></li>
 <li><a href="/projects/optimal_slicing.pdf">Optimal Bread Slicing</a></li>
 </ol>
 
@@ -233,7 +224,7 @@
         <div class="footer-text">
             
             
-                © Ronik Bhaskar, 2022 - 2023  
+                © Ronik Bhaskar, 2022 - 2024  
             
                 
         </div>
