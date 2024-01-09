@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://ronikbhaskar.github.io/ex-libris-kafka-on-the-shore/</loc>
+    
+    <lastmod>2024-01-09</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://ronikbhaskar.github.io/projects/linear_transformation_visualizer</loc>
+    
+    <lastmod>2024-01-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://ronikbhaskar.github.io/publications/</loc>
     
     <lastmod>2024-01-05</lastmod>
@@ -75,15 +93,6 @@
   
   <url>
     <loc>http://ronikbhaskar.github.io/projects/chat</loc>
-    
-    <lastmod>2023-12-04</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://ronikbhaskar.github.io/projects/linear_transformation_visualizer</loc>
     
     <lastmod>2023-12-04</lastmod>
     
@@ -272,7 +281,7 @@
   </url>
   
   <url>
-    <loc>http://ronikbhaskar.github.io/projects/discord_bot</loc>
+    <loc>http://ronikbhaskar.github.io/projects/discord_scraper</loc>
     
     <lastmod>2023-07-01</lastmod>
     
@@ -281,7 +290,7 @@
   </url>
   
   <url>
-    <loc>http://ronikbhaskar.github.io/projects/discord_scraper</loc>
+    <loc>http://ronikbhaskar.github.io/projects/discord_bot</loc>
     
     <lastmod>2023-07-01</lastmod>
     
@@ -292,7 +301,7 @@
 
   <url>
     <loc>http://ronikbhaskar.github.io/</loc>
-    <lastmod>2024-01-06</lastmod>
+    <lastmod>2024-01-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>

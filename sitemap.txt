@@ -1,3 +1,5 @@
+http://ronikbhaskar.github.io/ex-libris-kafka-on-the-shore/
+http://ronikbhaskar.github.io/projects/linear_transformation_visualizer
 http://ronikbhaskar.github.io/publications/
 http://ronikbhaskar.github.io/taking-silly-ideas-seriously/
 http://ronikbhaskar.github.io/ex-libris-sleepy/
@@ -7,7 +9,6 @@ http://ronikbhaskar.github.io/projects/ultimate_tic_tac_toe
 http://ronikbhaskar.github.io/projects/text_generator
 http://ronikbhaskar.github.io/projects/oracle_society
 http://ronikbhaskar.github.io/projects/chat
-http://ronikbhaskar.github.io/projects/linear_transformation_visualizer
 http://ronikbhaskar.github.io/the-ai-summer-part-2/
 http://ronikbhaskar.github.io/the-mortifying-ordeal-of-being-perceived/
 http://ronikbhaskar.github.io/ex-libris-the-principles-of-librarianship/
@@ -28,6 +29,6 @@ http://ronikbhaskar.github.io/projects/obsidian-editor
 http://ronikbhaskar.github.io/projects/steganography
 http://ronikbhaskar.github.io/projects/tomato_timer
 http://ronikbhaskar.github.io/projects/math-art
-http://ronikbhaskar.github.io/projects/discord_bot
 http://ronikbhaskar.github.io/projects/discord_scraper
+http://ronikbhaskar.github.io/projects/discord_bot
 http://ronikbhaskar.github.io/
