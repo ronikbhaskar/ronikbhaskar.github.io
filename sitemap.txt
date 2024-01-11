@@ -29,6 +29,6 @@ http://ronikbhaskar.github.io/projects/obsidian-editor
 http://ronikbhaskar.github.io/projects/steganography
 http://ronikbhaskar.github.io/projects/tomato_timer
 http://ronikbhaskar.github.io/projects/math-art
-http://ronikbhaskar.github.io/projects/discord_scraper
 http://ronikbhaskar.github.io/projects/discord_bot
+http://ronikbhaskar.github.io/projects/discord_scraper
 http://ronikbhaskar.github.io/
