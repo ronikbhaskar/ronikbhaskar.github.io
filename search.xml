@@ -1,6 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>AM</title>
+    <url>/am/</url>
+    <content><![CDATA[<p>What does AM stand for? Maybe Ante Meridiem, before noon. Or maybe the element Americium (Am). Maybe it’s Artium Magister, a Master of Arts degree. Whatever the case, if you compound masters of the arts over time, you get Arctic Monkeys. </p>
+<p>In 2013, Arctic Monkeys released their fifth studio album, AM. While the title references the band’s name, the cover art says otherwise. Taking inspiration from Velvet Underground’s cover art of volume units (VU), AM’s cover art is a wave with changing heights—amplitude modulation (AM). </p>
+<p>As a recreational mathematician, I looked around the internet, trying to find a decent recreation of the AM cover as a graph, but none of them were good enough. Most stopped at just modulating a sine wave with a broader sine wave, but this method misses one crucial detail: the AM in the middle. Job Bouwman inserts the AM in the middle, but the heights and widths of the letters don’t quite match the cover.</p>
+<p>The Arctic Monkeys weren’t just monkeying around with amplitude modulation. They figured out a clever way to seamlessly insert their initials into the graph. Mark my words, I will do the same. I will recreate the AM cover.</p>
+<p>Rather than spending lots of time setting up a Jupyter Notebook and writing lots of Python code to establish a working development environment, I’m using Desmos. I believe the initial concept art began with a standard modulation of a sine wave inside a sine wave, so I am starting the same way.</p>
+<p><img src="/images/initial_am.png"></p>
+<p>Aha! See? In the center? There is a segment of the graph that can be used for the AM. I’ll mark it in green. This will require removing that purple part, which I see as a bonus. The A and M in the cover have longer wavelengths than the rest of the graph, so stretching the green segment should recreate this well.</p>
+<p><img src="/images/am_annotated.png"></p>
+<p>After stretching the green segment of the graph, the height of each portion will need to be adjusted. Maybe I’m just throwing a hammer at a screw, but a sigmoid function looks like it will do the trick. A few adjustments later, and we have this:</p>
+<p><img src="/images/am_final.png"></p>
+<p>A few minutes ago, I was perfectly happy with this result, but that is no longer the case. Yes, I completed what I set out to do, but the closer I get, the farther I feel. The M needs to be more rectangular. My approximation isn’t actually a continuous function, much less a differentiable one. Looking at the two side-by-side, I can no longer see their similarities, only their differences. Recreating this cover art was supposed to be about a quick recreational math project, but now I feel obliged to honor this album. If imitation is the sincerest form of flattery, are better imitations more flattering?</p>
+<p>After this project, I suppose not. By acknowledging the distance between my imitation and the original, I can do justice to the beauty it holds. I may have not recreated the cover perfectly, but I can certainly appreciate it much more now than I could when I first saw it. This is no Absent Minded Advanced Math. This is AM. </p>
+<hr>
+<ol>
+<li><p><a href="https://www.nme.com/news/music/arctic-monkeys-178-1266582">Influence of VU on AM</a></p>
+</li>
+<li><p><a href="https://www.quora.com/What-function-is-Arctic-Monkeys-album-cover">Job Bouwman’s approximation</a></p>
+</li>
+<li><p><a href="https://www.desmos.com/calculator/v37m6icmwg">My recreation</a></p>
+</li>
+</ol>
+]]></content>
+  </entry>
+  <entry>
     <title>Ex Libris: Cat&#39;s Cradle</title>
     <url>/ex-libris-cats-cradle/</url>
     <content><![CDATA[<p>On Christmas this year, I read one of the most famous Christmas novels of all time: <em>Cat’s Cradle</em>, by Kurt Vonnegut. This book is so powerful, it constituted a master’s thesis in anthropology in the eyes of the University of Chicago. Countless experts have analyzed this book throughout the past 59 years. Following behind 59 years of thorough analysis, I do not believe I can meaningfully contribute to the discussion of this novel’s themes.</p>
@@ -44,32 +70,6 @@
 ]]></content>
   </entry>
   <entry>
-    <title>AM</title>
-    <url>/am/</url>
-    <content><![CDATA[<p>What does AM stand for? Maybe Ante Meridiem, before noon. Or maybe the element Americium (Am). Maybe it’s Artium Magister, a Master of Arts degree. Whatever the case, if you compound masters of the arts over time, you get Arctic Monkeys. </p>
-<p>In 2013, Arctic Monkeys released their fifth studio album, AM. While the title references the band’s name, the cover art says otherwise. Taking inspiration from Velvet Underground’s cover art of volume units (VU), AM’s cover art is a wave with changing heights—amplitude modulation (AM). </p>
-<p>As a recreational mathematician, I looked around the internet, trying to find a decent recreation of the AM cover as a graph, but none of them were good enough. Most stopped at just modulating a sine wave with a broader sine wave, but this method misses one crucial detail: the AM in the middle. Job Bouwman inserts the AM in the middle, but the heights and widths of the letters don’t quite match the cover.</p>
-<p>The Arctic Monkeys weren’t just monkeying around with amplitude modulation. They figured out a clever way to seamlessly insert their initials into the graph. Mark my words, I will do the same. I will recreate the AM cover.</p>
-<p>Rather than spending lots of time setting up a Jupyter Notebook and writing lots of Python code to establish a working development environment, I’m using Desmos. I believe the initial concept art began with a standard modulation of a sine wave inside a sine wave, so I am starting the same way.</p>
-<p><img src="/images/initial_am.png"></p>
-<p>Aha! See? In the center? There is a segment of the graph that can be used for the AM. I’ll mark it in green. This will require removing that purple part, which I see as a bonus. The A and M in the cover have longer wavelengths than the rest of the graph, so stretching the green segment should recreate this well.</p>
-<p><img src="/images/am_annotated.png"></p>
-<p>After stretching the green segment of the graph, the height of each portion will need to be adjusted. Maybe I’m just throwing a hammer at a screw, but a sigmoid function looks like it will do the trick. A few adjustments later, and we have this:</p>
-<p><img src="/images/am_final.png"></p>
-<p>A few minutes ago, I was perfectly happy with this result, but that is no longer the case. Yes, I completed what I set out to do, but the closer I get, the farther I feel. The M needs to be more rectangular. My approximation isn’t actually a continuous function, much less a differentiable one. Looking at the two side-by-side, I can no longer see their similarities, only their differences. Recreating this cover art was supposed to be about a quick recreational math project, but now I feel obliged to honor this album. If imitation is the sincerest form of flattery, are better imitations more flattering?</p>
-<p>After this project, I suppose not. By acknowledging the distance between my imitation and the original, I can do justice to the beauty it holds. I may have not recreated the cover perfectly, but I can certainly appreciate it much more now than I could when I first saw it. This is no Absent Minded Advanced Math. This is AM. </p>
-<hr>
-<ol>
-<li><p><a href="https://www.nme.com/news/music/arctic-monkeys-178-1266582">Influence of VU on AM</a></p>
-</li>
-<li><p><a href="https://www.quora.com/What-function-is-Arctic-Monkeys-album-cover">Job Bouwman’s approximation</a></p>
-</li>
-<li><p><a href="https://www.desmos.com/calculator/v37m6icmwg">My recreation</a></p>
-</li>
-</ol>
-]]></content>
-  </entry>
-  <entry>
     <title>Ex Libris: Kafka on the Shore</title>
     <url>/ex-libris-kafka-on-the-shore/</url>
     <content><![CDATA[<!-- https://www.btsgtheories.com/wp-content/uploads/2020/07/kafka-24grammata.com-free-e-book.-pdf-1.pdf -->
@@ -88,6 +88,17 @@
 <h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ol>
 <li><a href="https://www.bookbrowse.com/author_interviews/full/index.cfm?author_number=1103">Interview with Haruki Murakami</a></li>
 </ol>
+]]></content>
+  </entry>
+  <entry>
+    <title>Ex Libris: Sleepy</title>
+    <url>/ex-libris-sleepy/</url>
+    <content><![CDATA[<p>Known for incredibly concise storytelling, Anton Chekhov leaves no detail unresolved in his stories. Everything serves a purpose. The principle has been titled Chekhov’s Gun: if you introduce a gun, the audience expects it to be fired at some point. These details—these promises—build and interweave, and by the end of the story, every promise has reached a payoff that serves the ending. Mind you, these payoffs are rarely happily-ever-afters or neat, little bows wrapping up the story. They often include tragedy and death, but that doesn’t make them any less satisfying. </p>
+<p>In <em>Sleepy</em>, a story written in one day, Chekhov introduces a baby, a 13-year-old girl working as a servant, and a horrible family that fuels the young girl’s ongoing suffering. With a payoff of the servant killing the baby, the story resolves as the reader expects. Writing this masterful story in one day is already an incredible feat, but the more impressive feat is how Chekhov wove a secondary set of promises into the plot, all centered around a lamp, a pair of trousers, and a cricket.</p>
+<p>In the introduction, Chekhov introduces a lamp emitting green light, a pair of trousers on a clothesline, and a cricket in the stove. At first glance, these items only exist to enhance the setting, but he brings them up again and again and again. As I was doing my first reading, the purpose of these three items seemed quite unclear. No one wears the pants. No one puts out the lamp. No one complains about the cricket. They just sit there, doing nothing.</p>
+<p>The young girl, Varka, enters a few dreams throughout the short story, and each time she does, she first looks at the green light on the wall and the shadows. The flickering light and moving shadows and chirping cricket appear more and more hypnotic until eventually, the light and shadows wink at her. Chekhov builds on the personification until the end of the story. The three items laugh, and she laughs with them as she kills the baby.</p>
+<p>In the span of six pages, Chekhov created an entirely new character out of thin air and gave it a personality. This tricky, evil spirit laughing and dancing on the wall is made of no more than some green light, the shadow of a pair of trousers, and the chirp of a cricket. Its development represents Varka’s descent into madness, an integral component of the story. Chekhov promised to do something with these three items, and he overdelivered on the payoff. Without it, we wouldn’t see Varka lose her mind, just her frustration.</p>
+<p>Creating payoff is about more than finally using the promise. It’s about giving it a broader significance—a life of its own—in the story, one that serves the ending. Once you have that, the payoff can reflect its symbolism, even if you use the promise in an unconventional way. Just because you’ve introduced Chekhov’s Gun doesn’t mean you need to fire it.</p>
 ]]></content>
   </entry>
   <entry>
@@ -137,17 +148,6 @@
 ]]></content>
   </entry>
   <entry>
-    <title>Ex Libris: Sleepy</title>
-    <url>/ex-libris-sleepy/</url>
-    <content><![CDATA[<p>Known for incredibly concise storytelling, Anton Chekhov leaves no detail unresolved in his stories. Everything serves a purpose. The principle has been titled Chekhov’s Gun: if you introduce a gun, the audience expects it to be fired at some point. These details—these promises—build and interweave, and by the end of the story, every promise has reached a payoff that serves the ending. Mind you, these payoffs are rarely happily-ever-afters or neat, little bows wrapping up the story. They often include tragedy and death, but that doesn’t make them any less satisfying. </p>
-<p>In <em>Sleepy</em>, a story written in one day, Chekhov introduces a baby, a 13-year-old girl working as a servant, and a horrible family that fuels the young girl’s ongoing suffering. With a payoff of the servant killing the baby, the story resolves as the reader expects. Writing this masterful story in one day is already an incredible feat, but the more impressive feat is how Chekhov wove a secondary set of promises into the plot, all centered around a lamp, a pair of trousers, and a cricket.</p>
-<p>In the introduction, Chekhov introduces a lamp emitting green light, a pair of trousers on a clothesline, and a cricket in the stove. At first glance, these items only exist to enhance the setting, but he brings them up again and again and again. As I was doing my first reading, the purpose of these three items seemed quite unclear. No one wears the pants. No one puts out the lamp. No one complains about the cricket. They just sit there, doing nothing.</p>
-<p>The young girl, Varka, enters a few dreams throughout the short story, and each time she does, she first looks at the green light on the wall and the shadows. The flickering light and moving shadows and chirping cricket appear more and more hypnotic until eventually, the light and shadows wink at her. Chekhov builds on the personification until the end of the story. The three items laugh, and she laughs with them as she kills the baby.</p>
-<p>In the span of six pages, Chekhov created an entirely new character out of thin air and gave it a personality. This tricky, evil spirit laughing and dancing on the wall is made of no more than some green light, the shadow of a pair of trousers, and the chirp of a cricket. Its development represents Varka’s descent into madness, an integral component of the story. Chekhov promised to do something with these three items, and he overdelivered on the payoff. Without it, we wouldn’t see Varka lose her mind, just her frustration.</p>
-<p>Creating payoff is about more than finally using the promise. It’s about giving it a broader significance—a life of its own—in the story, one that serves the ending. Once you have that, the payoff can reflect its symbolism, even if you use the promise in an unconventional way. Just because you’ve introduced Chekhov’s Gun doesn’t mean you need to fire it.</p>
-]]></content>
-  </entry>
-  <entry>
     <title>First Time for Everything</title>
     <url>/first-time-for-everything/</url>
     <content><![CDATA[<p>On July 21, 2023, that weekend when the Barbie and Oppenheimer movies came out, I invited my old mentor to watch Oppenheimer at the local theater. I did this partly to spend time with him, partly to push myself out of my social comfort zone, and I thought this might kill two birds with one stone. On the days we have long, rambling conversations, he eventually turns the topic to nuclear physics and the history of the atomic bomb. Occasionally, I sprinkle in details related to our university, given its position in the history of the Manhattan project, but for the most part, I listen. How he knows so much about the field, I’m not sure, but it’s one of our few conversation topics unrelated to research and our lab. </p>
@@ -167,24 +167,6 @@
 <p>“No, ever.”</p>
 <p>His Lyft pulls up, so he waves goodbye. I probably mumble something about seeing him in lab as I wave back. The sound of the rain cuts out as the gears whir in my head. I don’t know if it was a few seconds or a few minutes, but eventually, I put on my jacket and step out into the rain.</p>
 <p>I guess there’s a first time for everything.</p>
-]]></content>
-  </entry>
-  <entry>
-    <title>Square One</title>
-    <url>/square-one/</url>
-    <content><![CDATA[<p>After another set of fruitless experiments and abandoned ideas, my mentor told me we were back to square one.</p>
-<p>“Quick question,” I interjected, “Where exactly <em>is</em> square one?”</p>
-<p>Some sources claim square one is on the football pitch. In the 1930s, BBC radio sports commentators divided the pitch into eight sections, with square one at the bottom right corner. Others claim square one comes from hopscotch or snakes and ladders. Regardless of the game, being at square one puts you at the beginning with no progress. </p>
-<p>Square-1 is also the name of a puzzle derived from the Rubik’s Cube. For practiced cubers, solving a Square-1 can become incredibly straightforward. </p>
-<p>My mentor and I didn’t feel like we were at square one. Sure, we were at the beginning, but being at square one implies square two is just ahead. Every time we returned to the beginning, we were too disoriented to know where to look first. Much of our progress felt sideways or backwards. </p>
-<p>On a lesser note, computer scientists don’t begin counting with one; they begin counting with zero. </p>
-<p>In that meeting, in front of the drawing board, we made a decision. We were not at square one. We were at circle zero. Eventually, circle zero became familiar. Sure, it was mischievous, and at times confusing, but it no longer felt new. Whenever we left, we never worried about saying goodbye; we would be back eventually.</p>
-<p>For most people, today is square one. Today’s square on the Gregorian calendar is the first day of first month. As such, I wish you all a happy circle zero.</p>
-<hr>
-<h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ol>
-<li><a href="https://en.wikipedia.org/wiki/Square-1_(puzzle)">Square-1 Puzzle</a></li>
-<li>The discourse surrounding the etymology of “square one” lacks enough rigor to warrant any particular links. Instead, a Google search for “origin of square one” will provide plenty of questionable sources offering one of the three explanations listed above.</li>
-</ol>
 ]]></content>
   </entry>
   <entry>
@@ -290,6 +272,24 @@
 ]]></content>
   </entry>
   <entry>
+    <title>Square One</title>
+    <url>/square-one/</url>
+    <content><![CDATA[<p>After another set of fruitless experiments and abandoned ideas, my mentor told me we were back to square one.</p>
+<p>“Quick question,” I interjected, “Where exactly <em>is</em> square one?”</p>
+<p>Some sources claim square one is on the football pitch. In the 1930s, BBC radio sports commentators divided the pitch into eight sections, with square one at the bottom right corner. Others claim square one comes from hopscotch or snakes and ladders. Regardless of the game, being at square one puts you at the beginning with no progress. </p>
+<p>Square-1 is also the name of a puzzle derived from the Rubik’s Cube. For practiced cubers, solving a Square-1 can become incredibly straightforward. </p>
+<p>My mentor and I didn’t feel like we were at square one. Sure, we were at the beginning, but being at square one implies square two is just ahead. Every time we returned to the beginning, we were too disoriented to know where to look first. Much of our progress felt sideways or backwards. </p>
+<p>On a lesser note, computer scientists don’t begin counting with one; they begin counting with zero. </p>
+<p>In that meeting, in front of the drawing board, we made a decision. We were not at square one. We were at circle zero. Eventually, circle zero became familiar. Sure, it was mischievous, and at times confusing, but it no longer felt new. Whenever we left, we never worried about saying goodbye; we would be back eventually.</p>
+<p>For most people, today is square one. Today’s square on the Gregorian calendar is the first day of first month. As such, I wish you all a happy circle zero.</p>
+<hr>
+<h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ol>
+<li><a href="https://en.wikipedia.org/wiki/Square-1_(puzzle)">Square-1 Puzzle</a></li>
+<li>The discourse surrounding the etymology of “square one” lacks enough rigor to warrant any particular links. Instead, a Google search for “origin of square one” will provide plenty of questionable sources offering one of the three explanations listed above.</li>
+</ol>
+]]></content>
+  </entry>
+  <entry>
     <title>Taking Silly Ideas Seriously</title>
     <url>/taking-silly-ideas-seriously/</url>
     <content><![CDATA[<p>Since 2007, the Association for Computational Heresy has celebrated the sillier side of academic research through the annual SIGBOVIK conference. As their website states, “SIGBOVIK is an evening of tongue-in-cheek academic presentations, a venue for silly ideas and&#x2F;or executions.” This interdisciplinary computer science conference invites three categories of research: “joke realizations of joke ideas, joke realizations of serious ideas, and serious realizations of joke ideas.” While all three quadrants offer exciting opportunities, I’m particularly intrigued by the last one: serious realizations of joke ideas. Fully understanding this quadrant requires understanding the two parts individually.</p>
@@ -307,6 +307,27 @@
 <li><a href="https://en.wikipedia.org/wiki/Schr%C3%B6dinger%27s_cat">Schrödinger’s Cat</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Fred_Hoyle">Fred Hoyle</a></li>
 <li><a href="/projects/optimal_slicing.pdf">Optimal Bread Slicing</a></li>
+</ol>
+]]></content>
+  </entry>
+  <entry>
+    <title>The AI Summer: Part 2</title>
+    <url>/the-ai-summer-part-2/</url>
+    <content><![CDATA[<p>When OpenAI first released ChatGPT, I was in the middle of a project on large language model security. My advisor and I discussed, and I pivoted to a security project focused on ChatGPT. For weeks, I worked to reveal its flaws—to uncover its vulnerabilities. </p>
+<p>I’m glad I finally stopped.</p>
+<p>Back in early 2022, I built a <a href="/projects/text_generator">toy language model</a> from scratch. It didn’t do anything fancy—it could barely put together coherent sentences—but I saw potential. I taught it <em>The Art of War</em> and watched it ramble about spies and morale. I fed it Discord transcripts and laughed as it tried to imitate my friends. The night that I finished it, I stayed up until 2:00am just playing around with everything it could do.</p>
+<p>When I showed it to the people around me, they fell in love almost as fast as I did, giving me plenty of suggestions on what to do with it. Jon—now the co-host of <a href="https://jonikpodcast.github.io/">Jonik</a>—sent me the best ideas by far. Together, we watched this little language model review the anthropocene and explain how it met your mother. I felt bad making him and others wait for me to run the model whenever they sent new training data, so I translated the entire project into JavaScript—the language of the web—and built a <a href="/text_generator/">website</a> around it. This way, everyone could use it whenever they wanted.</p>
+<p>A short while after, I started working in a security lab, and my first project was on how the predecessors of ChatGPT could be actively tricked into saying incorrect statements. My attention turned away from the little language model, and my perspective on language models shifted from embracing strengths to discovering weaknesses. Over the next six months, this was my primary focus, reviewing literature, brainstorming better attack methods, and running experiments, all to demonstrate vulnerability in LLMs. My mentor taught me so much, and on the off chance I had a good idea, we used it. Even if we did end up back at <a href="/square-one/">square one</a>, I wouldn’t trade that time for the world.</p>
+<p>So when OpenAI released ChatGPT to the world, I wasn’t in the right headspace to appreciate it. Before I even touched it, I pulled up the related literature and started comparing it to the other language models I had studied. The first time I tried ChatGPT, I didn’t ask it anything fun or interesting. I just started feeding it attack prompts, trying to make it mess up. </p>
+<p>A few months later, when I was no longer working on the project, I sat down and had a conversation with ChatGPT. I had fun, and part of me remembered the little toy language model I made over a year prior. Hoping to give my language model a chat interface, I asked ChatGPT to help me design the layout. It wrote a beautiful piece of HTML and CSS, and once I added the logic, I had my own little AI chatbot, <a href="/chatgpt-mini-projects/chatumm/">ChatUMM</a>. </p>
+<p>Suddenly, if I dreamed an idea, ChatGPT could help me make it a reality. Furiously flipping through my notebook, I searched for a few ideas for which I had concrete plans. I started explaining them to ChatGPT, copying the web design, and adding my own functionality. In just one day, I had created <a href="/chatgpt-mini-projects/daylight/">a clock that tells you how much daylight you have left</a>, <a href="/chatgpt-mini-projects/ukulelify/">a chord converter for ukulelists that can’t transpose</a>, and <a href="/chatgpt-mini-projects/the_daily_pi/">an infinite monkey typewriter using pi instead of a real monkey</a>. When it was all over, I had ChatGPT design <a href="/chatgpt-mini-projects/">a homepage for all the projects</a>.</p>
+<p>That day, ChatGPT became my sunlit forge. If I could figure out what to make and how to share it with the world, ChatGPT gave me the tools to build faster than I ever could have imagined. Unlike an actual person, ChatGPT rarely gave me any good ideas. Instead, I provided the ideas, and ChatGPT offered me a way to realize them. Once I finally let a little light in, my vision cleared, and I did what I do best—I created. </p>
+<p>From there, whenever I needed to create a quick website, I would turn back to the sunlit forge. From <a href="https://jonikpodcast.github.io/">a podcast website</a> to my own <a href="/chatgpt-mini-projects/small-e/">mini image generator</a>, I built it all there. For higher-consequence projects, or ones where I risk violating licenses, I’ll build everything by hand, but so long as this works, I will keep coming back to the sunlit forge. </p>
+<p>None of the ChatGPT-assisted websites are perfect. They’re all prototypes, nothing more. On some devices, they don’t work. At some scales, the user interface looks garbled. I have no plans on improving them, because they were never meant to be perfect. All I want is to share my ideas with the world, and doing just that has never been easier. </p>
+<p>This AI summer has just begun, so let a little light into your forge.</p>
+<hr>
+<h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ol>
+<li><a href="/">Me</a></li>
 </ol>
 ]]></content>
   </entry>
@@ -330,27 +351,6 @@
 <li><a href="https://commoncrawl.org/">CommonCrawl</a></li>
 <li><a href="https://laion.ai/blog/laion-5b/">LAION-5B</a></li>
 <li><a href="https://twitter.com/KeatonPatti/status/1161284670601990146">AI Batman Script from 2019</a></li>
-</ol>
-]]></content>
-  </entry>
-  <entry>
-    <title>The AI Summer: Part 2</title>
-    <url>/the-ai-summer-part-2/</url>
-    <content><![CDATA[<p>When OpenAI first released ChatGPT, I was in the middle of a project on large language model security. My advisor and I discussed, and I pivoted to a security project focused on ChatGPT. For weeks, I worked to reveal its flaws—to uncover its vulnerabilities. </p>
-<p>I’m glad I finally stopped.</p>
-<p>Back in early 2022, I built a <a href="/projects/text_generator">toy language model</a> from scratch. It didn’t do anything fancy—it could barely put together coherent sentences—but I saw potential. I taught it <em>The Art of War</em> and watched it ramble about spies and morale. I fed it Discord transcripts and laughed as it tried to imitate my friends. The night that I finished it, I stayed up until 2:00am just playing around with everything it could do.</p>
-<p>When I showed it to the people around me, they fell in love almost as fast as I did, giving me plenty of suggestions on what to do with it. Jon—now the co-host of <a href="https://jonikpodcast.github.io/">Jonik</a>—sent me the best ideas by far. Together, we watched this little language model review the anthropocene and explain how it met your mother. I felt bad making him and others wait for me to run the model whenever they sent new training data, so I translated the entire project into JavaScript—the language of the web—and built a <a href="/text_generator/">website</a> around it. This way, everyone could use it whenever they wanted.</p>
-<p>A short while after, I started working in a security lab, and my first project was on how the predecessors of ChatGPT could be actively tricked into saying incorrect statements. My attention turned away from the little language model, and my perspective on language models shifted from embracing strengths to discovering weaknesses. Over the next six months, this was my primary focus, reviewing literature, brainstorming better attack methods, and running experiments, all to demonstrate vulnerability in LLMs. My mentor taught me so much, and on the off chance I had a good idea, we used it. Even if we did end up back at <a href="/square-one/">square one</a>, I wouldn’t trade that time for the world.</p>
-<p>So when OpenAI released ChatGPT to the world, I wasn’t in the right headspace to appreciate it. Before I even touched it, I pulled up the related literature and started comparing it to the other language models I had studied. The first time I tried ChatGPT, I didn’t ask it anything fun or interesting. I just started feeding it attack prompts, trying to make it mess up. </p>
-<p>A few months later, when I was no longer working on the project, I sat down and had a conversation with ChatGPT. I had fun, and part of me remembered the little toy language model I made over a year prior. Hoping to give my language model a chat interface, I asked ChatGPT to help me design the layout. It wrote a beautiful piece of HTML and CSS, and once I added the logic, I had my own little AI chatbot, <a href="/chatgpt-mini-projects/chatumm/">ChatUMM</a>. </p>
-<p>Suddenly, if I dreamed an idea, ChatGPT could help me make it a reality. Furiously flipping through my notebook, I searched for a few ideas for which I had concrete plans. I started explaining them to ChatGPT, copying the web design, and adding my own functionality. In just one day, I had created <a href="/chatgpt-mini-projects/daylight/">a clock that tells you how much daylight you have left</a>, <a href="/chatgpt-mini-projects/ukulelify/">a chord converter for ukulelists that can’t transpose</a>, and <a href="/chatgpt-mini-projects/the_daily_pi/">an infinite monkey typewriter using pi instead of a real monkey</a>. When it was all over, I had ChatGPT design <a href="/chatgpt-mini-projects/">a homepage for all the projects</a>.</p>
-<p>That day, ChatGPT became my sunlit forge. If I could figure out what to make and how to share it with the world, ChatGPT gave me the tools to build faster than I ever could have imagined. Unlike an actual person, ChatGPT rarely gave me any good ideas. Instead, I provided the ideas, and ChatGPT offered me a way to realize them. Once I finally let a little light in, my vision cleared, and I did what I do best—I created. </p>
-<p>From there, whenever I needed to create a quick website, I would turn back to the sunlit forge. From <a href="https://jonikpodcast.github.io/">a podcast website</a> to my own <a href="/chatgpt-mini-projects/small-e/">mini image generator</a>, I built it all there. For higher-consequence projects, or ones where I risk violating licenses, I’ll build everything by hand, but so long as this works, I will keep coming back to the sunlit forge. </p>
-<p>None of the ChatGPT-assisted websites are perfect. They’re all prototypes, nothing more. On some devices, they don’t work. At some scales, the user interface looks garbled. I have no plans on improving them, because they were never meant to be perfect. All I want is to share my ideas with the world, and doing just that has never been easier. </p>
-<p>This AI summer has just begun, so let a little light into your forge.</p>
-<hr>
-<h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ol>
-<li><a href="/">Me</a></li>
 </ol>
 ]]></content>
   </entry>
@@ -471,23 +471,6 @@
 ]]></content>
   </entry>
   <entry>
-    <title>The End of Pi</title>
-    <url>/the-end-of-pi/</url>
-    <content><![CDATA[<p>I’m fed up with you, π. I get it, you’re the ratio of the circumference to the diameter, good for you. But that isn’t enough for you, is it? No, you need to make sure <strong>everyone</strong> knows exactly who you are. You needed a day in your honor and competitions just for you. Was memorizing 100,000 of your digits not enough? No, of course not. It will never be enough. You are never ending.</p>
-<p>If human memorization isn’t enough, surely calculating trillions of digits should suffice. Is 663 terabytes enough space for you? Is 864 GB of RAM enough memory for you? Is nearly half a year of continuous computing enough time for you? Calculating digits of you has cost humans thousands of computing hours on the world’s best cloud servers, and I don’t blame them. They, like everyone else, have become sucked into this never-ending cycle of discovering more, learning more, doing more for you.</p>
-<p>You know what I think, π? I don’t think this is actually what you want. Clearly, there is a hole in you, a circular void, but these fruitless attempts at getting closer to the end aren’t what you truly desire. Everyone knows 3.14, and a lot of people know 3.1415, but how many people care that the next digit is 9? Even for those that do, they will still say 3.1415, and I’m sure that stings. Rather than appreciate a nice approximation and round to 3.1416, your loving followers are blinded by your never-ending being. Every digit we calculate gives us exponentially less information. All the while, we ignore the beauty in front of us. How many can say they have truly appreciated the 9 in the fifth decimal place of your expansion?</p>
-<p>Every approximation we can fathom is finite. They will all be finite because your decimal expansion contains more information than we could store in every atom of the universe. Rather than fail to attempt to appreciate your unending presence, we should enjoy the finite. Bask in the glory of the approximations and reflect on how even good things can end. Round to the fourth decimal place rather than forever waiting for the fifth. Maybe then, we can finally see the end of π.</p>
-<hr>
-<h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ol>
-<li><a href="https://en.wikipedia.org/wiki/Chronology_of_computation_of_%CF%80">Chronology of Computation of π</a></li>
-<li><a href="http://www.numberworld.org/y-cruncher/">y-cruncher for computing π</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Emma_Haruka_Iwao">Emma Haruka Iwao, Current Record Holder for Computing Digits</a></li>
-<li><a href="https://www.theguardian.com/science/alexs-adventures-in-numberland/2015/mar/13/pi-day-2015-memory-memorisation-world-record-japanese-akira-haraguchi">Akira Haraguchi Memorized +100k digits</a></li>
-<li><a href="https://blog.timothymullican.com/calculating-pi-my-attempt-breaking-pi-record">Timothy Mullican, Prev Record Holder for Computing Digits</a></li>
-</ol>
-]]></content>
-  </entry>
-  <entry>
     <title>The Mortifying Ordeal of Being Perceived</title>
     <url>/the-mortifying-ordeal-of-being-perceived/</url>
     <content><![CDATA[<p><em>The following is a transcript from a recent episode of the <a href="https://jonikpodcast.github.io/">Jonik Podcast</a>.</em></p>
@@ -503,6 +486,23 @@
 <hr>
 <h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ol>
 <li><a href="https://archive.nytimes.com/opinionator.blogs.nytimes.com/2013/06/15/i-know-what-you-think-of-me/?smid=pl-share">I Know What You Think of Me by Tim Kreider</a></li>
+</ol>
+]]></content>
+  </entry>
+  <entry>
+    <title>The End of Pi</title>
+    <url>/the-end-of-pi/</url>
+    <content><![CDATA[<p>I’m fed up with you, π. I get it, you’re the ratio of the circumference to the diameter, good for you. But that isn’t enough for you, is it? No, you need to make sure <strong>everyone</strong> knows exactly who you are. You needed a day in your honor and competitions just for you. Was memorizing 100,000 of your digits not enough? No, of course not. It will never be enough. You are never ending.</p>
+<p>If human memorization isn’t enough, surely calculating trillions of digits should suffice. Is 663 terabytes enough space for you? Is 864 GB of RAM enough memory for you? Is nearly half a year of continuous computing enough time for you? Calculating digits of you has cost humans thousands of computing hours on the world’s best cloud servers, and I don’t blame them. They, like everyone else, have become sucked into this never-ending cycle of discovering more, learning more, doing more for you.</p>
+<p>You know what I think, π? I don’t think this is actually what you want. Clearly, there is a hole in you, a circular void, but these fruitless attempts at getting closer to the end aren’t what you truly desire. Everyone knows 3.14, and a lot of people know 3.1415, but how many people care that the next digit is 9? Even for those that do, they will still say 3.1415, and I’m sure that stings. Rather than appreciate a nice approximation and round to 3.1416, your loving followers are blinded by your never-ending being. Every digit we calculate gives us exponentially less information. All the while, we ignore the beauty in front of us. How many can say they have truly appreciated the 9 in the fifth decimal place of your expansion?</p>
+<p>Every approximation we can fathom is finite. They will all be finite because your decimal expansion contains more information than we could store in every atom of the universe. Rather than fail to attempt to appreciate your unending presence, we should enjoy the finite. Bask in the glory of the approximations and reflect on how even good things can end. Round to the fourth decimal place rather than forever waiting for the fifth. Maybe then, we can finally see the end of π.</p>
+<hr>
+<h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ol>
+<li><a href="https://en.wikipedia.org/wiki/Chronology_of_computation_of_%CF%80">Chronology of Computation of π</a></li>
+<li><a href="http://www.numberworld.org/y-cruncher/">y-cruncher for computing π</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Emma_Haruka_Iwao">Emma Haruka Iwao, Current Record Holder for Computing Digits</a></li>
+<li><a href="https://www.theguardian.com/science/alexs-adventures-in-numberland/2015/mar/13/pi-day-2015-memory-memorisation-world-record-japanese-akira-haraguchi">Akira Haraguchi Memorized +100k digits</a></li>
+<li><a href="https://blog.timothymullican.com/calculating-pi-my-attempt-breaking-pi-record">Timothy Mullican, Prev Record Holder for Computing Digits</a></li>
 </ol>
 ]]></content>
   </entry>
@@ -541,14 +541,6 @@
 <!-- Without the people closest to me providing constant support and inspiration and critiques, I wouldn't still be creating. If that's you, thanks.  -->
 
 <!-- *Add to the [dialogue](/chat), and become part of my story.* -->]]></content>
-  </entry>
-  <entry>
-    <title>Publications</title>
-    <url>/publications/index.html</url>
-    <content><![CDATA[<p>Also see my: <a href="https://scholar.google.com/citations?user=dqTwtegAAAAJ&hl=en&oi=ao">Google Scholar</a></p>
-<h3 id="Refereed"><a href="#Refereed" class="headerlink" title="Refereed"></a>Refereed</h3><p>Zhuolin Yang, Zain Sarwar, Iris Hwang, <strong>Ronik Bhaskar</strong>, Ben Y. Zhao, Haitao Zheng (2024). Can Virtual Reality Protect Users from Keystroke Inference Attacks? USENIX Security, Philadelphia PA. <a href="https://www.usenix.org/system/files/sec23winter-prepub-116-yang-zhuolin.pdf">PDF</a> <a href="https://www.newscientist.com/article/2401929-ai-can-steal-passwords-in-virtual-reality-from-avatar-hand-motions/">Media Coverage</a></p>
-<h3 id="Recreational"><a href="#Recreational" class="headerlink" title="Recreational"></a>Recreational</h3><p><strong>Ronik Bhaskar</strong>, Dawson Ren (2023). PizzaLang: A Language for Hungry Developers. SIGBOVIK, Pittsburgh PA. <a href="/projects/PizzaLang.pdf">PDF</a> </p>
-]]></content>
   </entry>
   <entry>
     <title>Full Stack Chat App</title>
@@ -833,6 +825,24 @@
 <p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
   </entry>
   <entry>
+    <title>Math Art</title>
+    <url>/projects/math-art.html</url>
+    <content><![CDATA[<p>I discuss this project in my <a href="/about">about page</a>. The source code, along with an explanation of the project, can be found <a href="https://github.com/ronikbhaskar/math-art">here</a>.</p>
+<h2 id="Quick-Overview"><a href="#Quick-Overview" class="headerlink" title="Quick Overview"></a>Quick Overview</h2><p>The butterfly effect says that small changes can lead to drastically different results. This is the foundation of chaos theory. Sometimes, that chaos results in stunning patterns called strange attractors, and I’ve done my best to capture them here. It’s also what you see on the landing page of my site.</p>
+<h2 id="Strange-Attractors"><a href="#Strange-Attractors" class="headerlink" title="Strange Attractors"></a>Strange Attractors</h2><img src="math-art-gifs/static_halvorsen.gif" alt="The Halvorsen Attractor" />
+
+<br/>
+
+<img src="math-art-gifs/static_lorenz.gif" alt="The Lorenz Attractor" />
+
+<br/>
+
+<img src="math-art-gifs/static_aizawa.gif" alt="The Aizawa Attractor" />
+
+<hr>
+<p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
+  </entry>
+  <entry>
     <title>Turning Obsidian into a Markdown Editor</title>
     <url>/projects/obsidian-editor.html</url>
     <content><![CDATA[<p>This file was created using <code>obsidian.py</code>. The source code is available <a href="https://github.com/ronikbhaskar/obsidian-editor">here</a>.</p>
@@ -845,6 +855,28 @@
 <p>So, I had to find all the instances of images like those, reformat them, and when copying the Markdown, copy the linked files as well. While I did learn a bit more about regex in the process, the solution is quite messy and works under fairly strong assumptions. Nevertheless, it works.</p>
 <h2 id="Improvements"><a href="#Improvements" class="headerlink" title="Improvements"></a>Improvements</h2><p>Image-linking isn’t the only useful feature in Obsidian. Making more of these QoL standards available through this script means I can take full advantage of the tools Obsidian offers. For example, linking pdfs, better tables, and tags would all be fantastic if I could integrate &#x2F; hide them seamlessly with this script. Or, I could add <code>scp</code> support so I can use this on ssh servers. </p>
 <p>I probably won’t do any of that that, since I don’t really like doing more than making quick prototypes to prove that I can. Who knows? Maybe some day.</p>
+<hr>
+<p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>The Oracle Society</title>
+    <url>/projects/oracle_society.html</url>
+    <content><![CDATA[<p>CW: violence, kidnapping, murder.</p>
+<p>Play the game <a href="/oracle_society/">here</a>.</p>
+<h2 id="Background"><a href="#Background" class="headerlink" title="Background"></a>Background</h2><p>Our final project for introductory quantum computing had us create an educational artifact to teach a quantum concept. I chose oracles, which I had the pleasure of studying in complexity theory. Oracles function as a sort of answer machine. They know things that you want to know, but you don’t know how they know them. By asking well-formed questions, you can extract relevant information from an oracle. In general, you want to use as few questions as possible. </p>
+<h2 id="Gameplay"><a href="#Gameplay" class="headerlink" title="Gameplay"></a>Gameplay</h2><p>Please note that I constructed this narrative very late at night during finals week. It is not cohesive.</p>
+<p>You are a detective&#x2F;hostage negotiator that has discovered a method of communication to a serial kidnapper. Your job is to free the hostages, but doing so requires you to play a twisted game devised by the kidnapper. There are a select number of questions you can use to play the game, and each one will be answered truthfully. Beat the kidnapper’s riddle, and they will release the hostages. If your guessing strategy isn’t efficient enough, hostages will start dying. Try not to let too many die. Good luck!</p>
+<h2 id="Issues"><a href="#Issues" class="headerlink" title="Issues"></a>Issues</h2><p>Note: I will not resolve these issues, but keep them in mind if you decide to play.</p>
+<ol>
+<li><p>This game is not mobile compatible.</p>
+</li>
+<li><p>Skipping text too fast can cause buttons to appear before they should.</p>
+</li>
+<li><p>The transitions between deaths don’t allow you to pause the text.</p>
+</li>
+<li><p>I didn’t playtest the final version of the game enough.</p>
+</li>
+</ol>
 <hr>
 <p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
   </entry>
@@ -879,28 +911,6 @@ table, th {
 
 <p>For this code, you will have to redirect the output to a file using the <code>&gt;</code> operator.</p>
 <p>Happy sleuthing!</p>
-<hr>
-<p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>The Oracle Society</title>
-    <url>/projects/oracle_society.html</url>
-    <content><![CDATA[<p>CW: violence, kidnapping, murder.</p>
-<p>Play the game <a href="/oracle_society/">here</a>.</p>
-<h2 id="Background"><a href="#Background" class="headerlink" title="Background"></a>Background</h2><p>Our final project for introductory quantum computing had us create an educational artifact to teach a quantum concept. I chose oracles, which I had the pleasure of studying in complexity theory. Oracles function as a sort of answer machine. They know things that you want to know, but you don’t know how they know them. By asking well-formed questions, you can extract relevant information from an oracle. In general, you want to use as few questions as possible. </p>
-<h2 id="Gameplay"><a href="#Gameplay" class="headerlink" title="Gameplay"></a>Gameplay</h2><p>Please note that I constructed this narrative very late at night during finals week. It is not cohesive.</p>
-<p>You are a detective&#x2F;hostage negotiator that has discovered a method of communication to a serial kidnapper. Your job is to free the hostages, but doing so requires you to play a twisted game devised by the kidnapper. There are a select number of questions you can use to play the game, and each one will be answered truthfully. Beat the kidnapper’s riddle, and they will release the hostages. If your guessing strategy isn’t efficient enough, hostages will start dying. Try not to let too many die. Good luck!</p>
-<h2 id="Issues"><a href="#Issues" class="headerlink" title="Issues"></a>Issues</h2><p>Note: I will not resolve these issues, but keep them in mind if you decide to play.</p>
-<ol>
-<li><p>This game is not mobile compatible.</p>
-</li>
-<li><p>Skipping text too fast can cause buttons to appear before they should.</p>
-</li>
-<li><p>The transitions between deaths don’t allow you to pause the text.</p>
-</li>
-<li><p>I didn’t playtest the final version of the game enough.</p>
-</li>
-</ol>
 <hr>
 <p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
   </entry>
@@ -987,21 +997,11 @@ table, th {
 <p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
   </entry>
   <entry>
-    <title>Math Art</title>
-    <url>/projects/math-art.html</url>
-    <content><![CDATA[<p>I discuss this project in my <a href="/about">about page</a>. The source code, along with an explanation of the project, can be found <a href="https://github.com/ronikbhaskar/math-art">here</a>.</p>
-<h2 id="Quick-Overview"><a href="#Quick-Overview" class="headerlink" title="Quick Overview"></a>Quick Overview</h2><p>The butterfly effect says that small changes can lead to drastically different results. This is the foundation of chaos theory. Sometimes, that chaos results in stunning patterns called strange attractors, and I’ve done my best to capture them here. It’s also what you see on the landing page of my site.</p>
-<h2 id="Strange-Attractors"><a href="#Strange-Attractors" class="headerlink" title="Strange Attractors"></a>Strange Attractors</h2><img src="math-art-gifs/static_halvorsen.gif" alt="The Halvorsen Attractor" />
-
-<br/>
-
-<img src="math-art-gifs/static_lorenz.gif" alt="The Lorenz Attractor" />
-
-<br/>
-
-<img src="math-art-gifs/static_aizawa.gif" alt="The Aizawa Attractor" />
-
-<hr>
-<p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
+    <title>Publications</title>
+    <url>/publications/index.html</url>
+    <content><![CDATA[<p>Also see my: <a href="https://scholar.google.com/citations?user=dqTwtegAAAAJ&hl=en&oi=ao">Google Scholar</a></p>
+<h3 id="Refereed"><a href="#Refereed" class="headerlink" title="Refereed"></a>Refereed</h3><p>Zhuolin Yang, Zain Sarwar, Iris Hwang, <strong>Ronik Bhaskar</strong>, Ben Y. Zhao, Haitao Zheng (2024). Can Virtual Reality Protect Users from Keystroke Inference Attacks? USENIX Security, Philadelphia PA. <a href="https://www.usenix.org/system/files/sec23winter-prepub-116-yang-zhuolin.pdf">PDF</a> <a href="https://www.newscientist.com/article/2401929-ai-can-steal-passwords-in-virtual-reality-from-avatar-hand-motions/">Media Coverage</a></p>
+<h3 id="Recreational"><a href="#Recreational" class="headerlink" title="Recreational"></a>Recreational</h3><p><strong>Ronik Bhaskar</strong>, Dawson Ren (2023). PizzaLang: A Language for Hungry Developers. SIGBOVIK, Pittsburgh PA. <a href="/projects/PizzaLang.pdf">PDF</a> </p>
+]]></content>
   </entry>
 </search>
