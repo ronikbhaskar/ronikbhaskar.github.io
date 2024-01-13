@@ -1,2 +1,3 @@
 User-agent: *
+Allow: /
 Sitemap: https://ronikbhaskar.github.io/sitemap.xml
