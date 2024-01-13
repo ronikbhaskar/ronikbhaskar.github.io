@@ -80,4 +80,17 @@ if (is_archive()){
     <script src='https://unpkg.com/valine@1.4.16/dist/Valine.min.js'></script>
 <% } %>
 
+<% if (theme.google_analytics){ %>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=<%= theme.google_analytics %>"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', '<%= theme.google_analytics %>');
+</script>
+<!-- End Google Analytics -->
+<% } %>
+
 
