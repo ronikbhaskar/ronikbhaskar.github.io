@@ -31,12 +31,12 @@ title: Projects
 
 <details>
 <summary>
-<b>A Full Stack Chat App with User Authentication</b>
+<b>Optimal Bread Slicing</b>
 </summary>
 <ul>
-    <li><a href="/chat">Website</a> (Mobile Compatible)</li>
-    <li><a href="/projects/chat">Summary</a></li>
-    <li><a href="https://github.com/ronikbhaskar/chat">GitHub</a></li>
+    <li><a href="/optimal-bread-slicing">Website</a> (Mobile Compatible)</li>
+    <li><a href="/projects/optimal_slicing.pdf">Full Paper</a></li>
+    <li><a href="https://youtu.be/R6SYxpiGGJ0?si=Ipt-r0DK1HKfHJa3">Video Explanation (Kinda)</a></li>
 </ul>
 </details>
 <br />
@@ -88,6 +88,19 @@ title: Projects
 </ul>
 </details>
 <br />
+
+<details>
+<summary>
+<b>A Full Stack Chat App with User Authentication</b>
+</summary>
+<ul>
+    <li><a href="/chat">Website</a> (Mobile Compatible)</li>
+    <li><a href="/projects/chat">Summary</a></li>
+    <li><a href="https://github.com/ronikbhaskar/chat">GitHub</a></li>
+</ul>
+</details>
+<br />
+
 
 <!-- <details>
 <summary>
