@@ -14,6 +14,8 @@ tags:
 
 *All pieces were folded by me. The umbrella is my own design. The flasher hat and the koi were designed by Jeremy Shafer and Riccardo Foschi respectively.*
 
+*Update: My work was accepted in an [exhibit](https://voices.uchicago.edu/uchicagorigami/events/showcase/winter-2024/rainy-day/).*
+
 ---
 
 Recently, I was inspired by Haruki Murakami's *Kafka on the Shore* to fold an umbrella, a hat, and a fish. These pieces are meant to honor a character in the novel, Mr. Nakata. In Murakami's whirlwind of magical realism, Mr. Nakata seems to have the most direct access to the supernatural forces at play. He speaks to cats; he makes fish rain from the sky; he goes on an increasingly strange series of adventures to restore the state of the universe.
