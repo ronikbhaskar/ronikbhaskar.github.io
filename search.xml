@@ -1,32 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>AM</title>
-    <url>/am/</url>
-    <content><![CDATA[<p>What does AM stand for? Maybe Ante Meridiem, before noon. Or maybe the element Americium (Am). Maybe it’s Artium Magister, a Master of Arts degree. Whatever the case, if you compound masters of the arts over time, you get Arctic Monkeys. </p>
-<p>In 2013, Arctic Monkeys released their fifth studio album, AM. While the title references the band’s name, the cover art says otherwise. Taking inspiration from Velvet Underground’s cover art of volume units (VU), AM’s cover art is a wave with changing heights—amplitude modulation (AM). </p>
-<p>As a recreational mathematician, I looked around the internet, trying to find a decent recreation of the AM cover as a graph, but none of them were good enough. Most stopped at just modulating a sine wave with a broader sine wave, but this method misses one crucial detail: the AM in the middle. Job Bouwman inserts the AM in the middle, but the heights and widths of the letters don’t quite match the cover.</p>
-<p>The Arctic Monkeys weren’t just monkeying around with amplitude modulation. They figured out a clever way to seamlessly insert their initials into the graph. Mark my words, I will do the same. I will recreate the AM cover.</p>
-<p>Rather than spending lots of time setting up a Jupyter Notebook and writing lots of Python code to establish a working development environment, I’m using Desmos. I believe the initial concept art began with a standard modulation of a sine wave inside a sine wave, so I am starting the same way.</p>
-<p><img src="/images/initial_am.png"></p>
-<p>Aha! See? In the center? There is a segment of the graph that can be used for the AM. I’ll mark it in green. This will require removing that purple part, which I see as a bonus. The A and M in the cover have longer wavelengths than the rest of the graph, so stretching the green segment should recreate this well.</p>
-<p><img src="/images/am_annotated.png"></p>
-<p>After stretching the green segment of the graph, the height of each portion will need to be adjusted. Maybe I’m just throwing a hammer at a screw, but a sigmoid function looks like it will do the trick. A few adjustments later, and we have this:</p>
-<p><img src="/images/am_final.png"></p>
-<p>A few minutes ago, I was perfectly happy with this result, but that is no longer the case. Yes, I completed what I set out to do, but the closer I get, the farther I feel. The M needs to be more rectangular. My approximation isn’t actually a continuous function, much less a differentiable one. Looking at the two side-by-side, I can no longer see their similarities, only their differences. Recreating this cover art was supposed to be about a quick recreational math project, but now I feel obliged to honor this album. If imitation is the sincerest form of flattery, are better imitations more flattering?</p>
-<p>After this project, I suppose not. By acknowledging the distance between my imitation and the original, I can do justice to the beauty it holds. I may have not recreated the cover perfectly, but I can certainly appreciate it much more now than I could when I first saw it. This is no Absent Minded Advanced Math. This is AM. </p>
-<hr>
-<ol>
-<li><p><a href="https://www.nme.com/news/music/arctic-monkeys-178-1266582">Influence of VU on AM</a></p>
-</li>
-<li><p><a href="https://www.quora.com/What-function-is-Arctic-Monkeys-album-cover">Job Bouwman’s approximation</a></p>
-</li>
-<li><p><a href="https://www.desmos.com/calculator/v37m6icmwg">My recreation</a></p>
-</li>
-</ol>
-]]></content>
-  </entry>
-  <entry>
     <title>Ex Libris: Cat&#39;s Cradle</title>
     <url>/ex-libris-cats-cradle/</url>
     <content><![CDATA[<p>On Christmas this year, I read one of the most famous Christmas novels of all time: <em>Cat’s Cradle</em>, by Kurt Vonnegut. This book is so powerful, it constituted a master’s thesis in anthropology in the eyes of the University of Chicago. Countless experts have analyzed this book throughout the past 59 years. Following behind 59 years of thorough analysis, I do not believe I can meaningfully contribute to the discussion of this novel’s themes.</p>
@@ -67,6 +41,65 @@
 <p>As if that wasn’t enough, Wright’s inflated ego shows through in his writing. Naturally, Wright is the first-person narrator, depicted as a historian describing the town. Despite separating himself from the events of the story as this all-seeing onlooker, his frequent interjections make you wonder if he’s too convinced of his own story. For example, in chapter VII, he makes a disturbing quip about passing up kissing a snake to instead kiss Lucy, a fictitious child, while he is still the adult historian describing the story.</p>
 <h2 id="The-Failed-Lipogram"><a href="#The-Failed-Lipogram" class="headerlink" title="The Failed Lipogram"></a>The Failed Lipogram</h2><p>I pushed through the book, hoping to gain some linguistic insights. While I give Wright mild credit for calling flowers “blossoming plants” and turkey “Thanksgiving National Bird,” I cannot forgive his egregious errors. Despite Wright’s claims of not using the letter E, the original publication contains three instances of the word “the” and one instance of the word “officers,” totaling 4 E’s in the body of the text.</p>
 <p>Historical records describe Wright’s attempts at publishing all failing, and he had to turn to self-publishing through Wetzel Publishing Co. After reading this book, I finally understand why. Gimmicks won’t save your story, and twine won’t hold down your typewriter’s E key.</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>AM</title>
+    <url>/am/</url>
+    <content><![CDATA[<p>What does AM stand for? Maybe Ante Meridiem, before noon. Or maybe the element Americium (Am). Maybe it’s Artium Magister, a Master of Arts degree. Whatever the case, if you compound masters of the arts over time, you get Arctic Monkeys. </p>
+<p>In 2013, Arctic Monkeys released their fifth studio album, AM. While the title references the band’s name, the cover art says otherwise. Taking inspiration from Velvet Underground’s cover art of volume units (VU), AM’s cover art is a wave with changing heights—amplitude modulation (AM). </p>
+<p>As a recreational mathematician, I looked around the internet, trying to find a decent recreation of the AM cover as a graph, but none of them were good enough. Most stopped at just modulating a sine wave with a broader sine wave, but this method misses one crucial detail: the AM in the middle. Job Bouwman inserts the AM in the middle, but the heights and widths of the letters don’t quite match the cover.</p>
+<p>The Arctic Monkeys weren’t just monkeying around with amplitude modulation. They figured out a clever way to seamlessly insert their initials into the graph. Mark my words, I will do the same. I will recreate the AM cover.</p>
+<p>Rather than spending lots of time setting up a Jupyter Notebook and writing lots of Python code to establish a working development environment, I’m using Desmos. I believe the initial concept art began with a standard modulation of a sine wave inside a sine wave, so I am starting the same way.</p>
+<p><img src="/images/initial_am.png"></p>
+<p>Aha! See? In the center? There is a segment of the graph that can be used for the AM. I’ll mark it in green. This will require removing that purple part, which I see as a bonus. The A and M in the cover have longer wavelengths than the rest of the graph, so stretching the green segment should recreate this well.</p>
+<p><img src="/images/am_annotated.png"></p>
+<p>After stretching the green segment of the graph, the height of each portion will need to be adjusted. Maybe I’m just throwing a hammer at a screw, but a sigmoid function looks like it will do the trick. A few adjustments later, and we have this:</p>
+<p><img src="/images/am_final.png"></p>
+<p>A few minutes ago, I was perfectly happy with this result, but that is no longer the case. Yes, I completed what I set out to do, but the closer I get, the farther I feel. The M needs to be more rectangular. My approximation isn’t actually a continuous function, much less a differentiable one. Looking at the two side-by-side, I can no longer see their similarities, only their differences. Recreating this cover art was supposed to be about a quick recreational math project, but now I feel obliged to honor this album. If imitation is the sincerest form of flattery, are better imitations more flattering?</p>
+<p>After this project, I suppose not. By acknowledging the distance between my imitation and the original, I can do justice to the beauty it holds. I may have not recreated the cover perfectly, but I can certainly appreciate it much more now than I could when I first saw it. This is no Absent Minded Advanced Math. This is AM. </p>
+<hr>
+<ol>
+<li><p><a href="https://www.nme.com/news/music/arctic-monkeys-178-1266582">Influence of VU on AM</a></p>
+</li>
+<li><p><a href="https://www.quora.com/What-function-is-Arctic-Monkeys-album-cover">Job Bouwman’s approximation</a></p>
+</li>
+<li><p><a href="https://www.desmos.com/calculator/v37m6icmwg">My recreation</a></p>
+</li>
+</ol>
+]]></content>
+  </entry>
+  <entry>
+    <title>Ex Libris: Kafka on the Shore</title>
+    <url>/ex-libris-kafka-on-the-shore/</url>
+    <content><![CDATA[<!-- https://www.btsgtheories.com/wp-content/uploads/2020/07/kafka-24grammata.com-free-e-book.-pdf-1.pdf -->
+
+<img src="/images/hat_umbrella_fish.png" alt="An origami flasher hat, an origami umbrella, and an origami koi.">
+
+<p><em>All pieces were folded by me. The umbrella is my own design. The flasher hat and the koi were designed by Jeremy Shafer and Riccardo Foschi respectively.</em></p>
+<p><em>Update: My work was accepted in an <a href="https://voices.uchicago.edu/uchicagorigami/events/showcase/winter-2024/rainy-day/">exhibit</a>.</em></p>
+<hr>
+<p>Recently, I was inspired by Haruki Murakami’s <em>Kafka on the Shore</em> to fold an umbrella, a hat, and a fish. These pieces are meant to honor a character in the novel, Mr. Nakata. In Murakami’s whirlwind of magical realism, Mr. Nakata seems to have the most direct access to the supernatural forces at play. He speaks to cats; he makes fish rain from the sky; he goes on an increasingly strange series of adventures to restore the state of the universe.</p>
+<p>Although Mr. Nakata has such a strong connection to the strange occurrences in the book, he has very little understanding as to why. At each turn, he is unwaveringly sure of what his next step must be. He knows to go to Takamatsu. He knows to find the entrance stone. He knows to talk to the librarian of the Komura Library. But despite his confidence, he has never heard of Takamatsu before arriving. He has never seen the entrance stone before beginning his search. He has never met this librarian in his life. As one character put it, “You don’t know why you’re going, or even where you’re going.” And that’s true. He doesn’t know. He doesn’t know why or where or how, but he’s going. He’s going, and that’s what matters. </p>
+<p>I was curious as to what inspired Murakami to write such a character, so I read through some interviews. In answering this question, Murakami responds, “Why did I create a character like him? It must be because I like him. It’s a long novel, and the author has to have at least one character he loves unconditionally.” This unconditional love poured into Mr. Nakata by Murakami can be seen inside the book and out. Other characters are quick to trust him, appreciating his sincerity and simple kindness. Readers are quick to empathize with him as he tries to live his life in an incomprehensibly complex system. </p>
+<p>Mr. Nakata’s journey mirrors the experience of most readers that approach this story. This story is full of riddles and mysteries, and as you move forward, you reveal more questions than you do answers. Readers are sucked into a labyrinth of magical realism, and they don’t quite know why they’re going or even where they’re going, but they go regardless. </p>
+<p>Even Murakami relates to Mr. Nakata in this way. Murakami set out to write a novel in which the solutions lie partly in the riddles themselves. Initially, he didn’t have all the details in view, but he wrote the novel regardless. Over time, he gained a better understanding of the story by reading it again and again as he rewrote it. For this reason, he recommends readers read the novel more than once—if they have the time—to understand it better. Going through that first pass, the reader is almost as lost as Mr. Nakata, trying to find answers despite barely understanding the questions. Even to the author, the whole story is one, big puzzle.</p>
+<p>In no way am I trying to deny Murakami’s incredible intentionality in his writing. He crafted a literary puzzle that demands rereading just to appreciate a fraction of the details. Murakami couldn’t fully solve his own riddles the first time through, but he unraveled the mysteries through rereading as he wrote the story. Mr. Nakata, however, only gets to live through the story once. He will never read it a second time. He doesn’t get to unravel the mysteries like the reader, but he goes regardless, wearing his hat and carrying his umbrella while fish fall from the sky.</p>
+<hr>
+<h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ol>
+<li><a href="https://www.bookbrowse.com/author_interviews/full/index.cfm?author_number=1103">Interview with Haruki Murakami</a></li>
+</ol>
+]]></content>
+  </entry>
+  <entry>
+    <title>Ex Libris: Sleepy</title>
+    <url>/ex-libris-sleepy/</url>
+    <content><![CDATA[<p>Known for incredibly concise storytelling, Anton Chekhov leaves no detail unresolved in his stories. Everything serves a purpose. The principle has been titled Chekhov’s Gun: if you introduce a gun, the audience expects it to be fired at some point. These details—these promises—build and interweave, and by the end of the story, every promise has reached a payoff that serves the ending. Mind you, these payoffs are rarely happily-ever-afters or neat, little bows wrapping up the story. They often include tragedy and death, but that doesn’t make them any less satisfying. </p>
+<p>In <em>Sleepy</em>, a story written in one day, Chekhov introduces a baby, a 13-year-old girl working as a servant, and a horrible family that fuels the young girl’s ongoing suffering. With a payoff of the servant killing the baby, the story resolves as the reader expects. Writing this masterful story in one day is already an incredible feat, but the more impressive feat is how Chekhov wove a secondary set of promises into the plot, all centered around a lamp, a pair of trousers, and a cricket.</p>
+<p>In the introduction, Chekhov introduces a lamp emitting green light, a pair of trousers on a clothesline, and a cricket in the stove. At first glance, these items only exist to enhance the setting, but he brings them up again and again and again. As I was doing my first reading, the purpose of these three items seemed quite unclear. No one wears the pants. No one puts out the lamp. No one complains about the cricket. They just sit there, doing nothing.</p>
+<p>The young girl, Varka, enters a few dreams throughout the short story, and each time she does, she first looks at the green light on the wall and the shadows. The flickering light and moving shadows and chirping cricket appear more and more hypnotic until eventually, the light and shadows wink at her. Chekhov builds on the personification until the end of the story. The three items laugh, and she laughs with them as she kills the baby.</p>
+<p>In the span of six pages, Chekhov created an entirely new character out of thin air and gave it a personality. This tricky, evil spirit laughing and dancing on the wall is made of no more than some green light, the shadow of a pair of trousers, and the chirp of a cricket. Its development represents Varka’s descent into madness, an integral component of the story. Chekhov promised to do something with these three items, and he overdelivered on the payoff. Without it, we wouldn’t see Varka lose her mind, just her frustration.</p>
+<p>Creating payoff is about more than finally using the promise. It’s about giving it a broader significance—a life of its own—in the story, one that serves the ending. Once you have that, the payoff can reflect its symbolism, even if you use the promise in an unconventional way. Just because you’ve introduced Chekhov’s Gun doesn’t mean you need to fire it.</p>
 ]]></content>
   </entry>
   <entry>
@@ -112,6 +145,24 @@
 <li>A librarian’s post is not a sinecure for a scholar — a librarian’s task is often to facilitate the work of many scholars.</li>
 <li>Libraries can be valuable to society.</li>
 <li>Librarianship is an experimental science.</li>
+</ol>
+]]></content>
+  </entry>
+  <entry>
+    <title>Square One</title>
+    <url>/square-one/</url>
+    <content><![CDATA[<p>After another set of fruitless experiments and abandoned ideas, my mentor told me we were back to square one.</p>
+<p>“Quick question,” I interjected, “Where exactly <em>is</em> square one?”</p>
+<p>Some sources claim square one is on the football pitch. In the 1930s, BBC radio sports commentators divided the pitch into eight sections, with square one at the bottom right corner. Others claim square one comes from hopscotch or snakes and ladders. Regardless of the game, being at square one puts you at the beginning with no progress. </p>
+<p>Square-1 is also the name of a puzzle derived from the Rubik’s Cube. For practiced cubers, solving a Square-1 can become incredibly straightforward. </p>
+<p>My mentor and I didn’t feel like we were at square one. Sure, we were at the beginning, but being at square one implies square two is just ahead. Every time we returned to the beginning, we were too disoriented to know where to look first. Much of our progress felt sideways or backwards. </p>
+<p>On a lesser note, computer scientists don’t begin counting with one; they begin counting with zero. </p>
+<p>In that meeting, in front of the drawing board, we made a decision. We were not at square one. We were at circle zero. Eventually, circle zero became familiar. Sure, it was mischievous, and at times confusing, but it no longer felt new. Whenever we left, we never worried about saying goodbye; we would be back eventually.</p>
+<p>For most people, today is square one. Today’s square on the Gregorian calendar is the first day of first month. As such, I wish you all a happy circle zero.</p>
+<hr>
+<h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ol>
+<li><a href="https://en.wikipedia.org/wiki/Square-1_(puzzle)">Square-1 Puzzle</a></li>
+<li>The discourse surrounding the etymology of “square one” lacks enough rigor to warrant any particular links. Instead, a Google search for “origin of square one” will provide plenty of questionable sources offering one of the three explanations listed above.</li>
 </ol>
 ]]></content>
   </entry>
@@ -240,45 +291,6 @@
 ]]></content>
   </entry>
   <entry>
-    <title>Ex Libris: Kafka on the Shore</title>
-    <url>/ex-libris-kafka-on-the-shore/</url>
-    <content><![CDATA[<!-- https://www.btsgtheories.com/wp-content/uploads/2020/07/kafka-24grammata.com-free-e-book.-pdf-1.pdf -->
-
-<img src="/images/hat_umbrella_fish.png" alt="An origami flasher hat, an origami umbrella, and an origami koi.">
-
-<p><em>All pieces were folded by me. The umbrella is my own design. The flasher hat and the koi were designed by Jeremy Shafer and Riccardo Foschi respectively.</em></p>
-<hr>
-<p>Recently, I was inspired by Haruki Murakami’s <em>Kafka on the Shore</em> to fold an umbrella, a hat, and a fish. These pieces are meant to honor a character in the novel, Mr. Nakata. In Murakami’s whirlwind of magical realism, Mr. Nakata seems to have the most direct access to the supernatural forces at play. He speaks to cats; he makes fish rain from the sky; he goes on an increasingly strange series of adventures to restore the state of the universe.</p>
-<p>Although Mr. Nakata has such a strong connection to the strange occurrences in the book, he has very little understanding as to why. At each turn, he is unwaveringly sure of what his next step must be. He knows to go to Takamatsu. He knows to find the entrance stone. He knows to talk to the librarian of the Komura Library. But despite his confidence, he has never heard of Takamatsu before arriving. He has never seen the entrance stone before beginning his search. He has never met this librarian in his life. As one character put it, “You don’t know why you’re going, or even where you’re going.” And that’s true. He doesn’t know. He doesn’t know why or where or how, but he’s going. He’s going, and that’s what matters. </p>
-<p>I was curious as to what inspired Murakami to write such a character, so I read through some interviews. In answering this question, Murakami responds, “Why did I create a character like him? It must be because I like him. It’s a long novel, and the author has to have at least one character he loves unconditionally.” This unconditional love poured into Mr. Nakata by Murakami can be seen inside the book and out. Other characters are quick to trust him, appreciating his sincerity and simple kindness. Readers are quick to empathize with him as he tries to live his life in an incomprehensibly complex system. </p>
-<p>Mr. Nakata’s journey mirrors the experience of most readers that approach this story. This story is full of riddles and mysteries, and as you move forward, you reveal more questions than you do answers. Readers are sucked into a labyrinth of magical realism, and they don’t quite know why they’re going or even where they’re going, but they go regardless. </p>
-<p>Even Murakami relates to Mr. Nakata in this way. Murakami set out to write a novel in which the solutions lie partly in the riddles themselves. Initially, he didn’t have all the details in view, but he wrote the novel regardless. Over time, he gained a better understanding of the story by reading it again and again as he rewrote it. For this reason, he recommends readers read the novel more than once—if they have the time—to understand it better. Going through that first pass, the reader is almost as lost as Mr. Nakata, trying to find answers despite barely understanding the questions. Even to the author, the whole story is one, big puzzle.</p>
-<p>In no way am I trying to deny Murakami’s incredible intentionality in his writing. He crafted a literary puzzle that demands rereading just to appreciate a fraction of the details. Murakami couldn’t fully solve his own riddles the first time through, but he unraveled the mysteries through rereading as he wrote the story. Mr. Nakata, however, only gets to live through the story once. He will never read it a second time. He doesn’t get to unravel the mysteries like the reader, but he goes regardless, wearing his hat and carrying his umbrella while fish fall from the sky.</p>
-<hr>
-<h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ol>
-<li><a href="https://www.bookbrowse.com/author_interviews/full/index.cfm?author_number=1103">Interview with Haruki Murakami</a></li>
-</ol>
-]]></content>
-  </entry>
-  <entry>
-    <title>Square One</title>
-    <url>/square-one/</url>
-    <content><![CDATA[<p>After another set of fruitless experiments and abandoned ideas, my mentor told me we were back to square one.</p>
-<p>“Quick question,” I interjected, “Where exactly <em>is</em> square one?”</p>
-<p>Some sources claim square one is on the football pitch. In the 1930s, BBC radio sports commentators divided the pitch into eight sections, with square one at the bottom right corner. Others claim square one comes from hopscotch or snakes and ladders. Regardless of the game, being at square one puts you at the beginning with no progress. </p>
-<p>Square-1 is also the name of a puzzle derived from the Rubik’s Cube. For practiced cubers, solving a Square-1 can become incredibly straightforward. </p>
-<p>My mentor and I didn’t feel like we were at square one. Sure, we were at the beginning, but being at square one implies square two is just ahead. Every time we returned to the beginning, we were too disoriented to know where to look first. Much of our progress felt sideways or backwards. </p>
-<p>On a lesser note, computer scientists don’t begin counting with one; they begin counting with zero. </p>
-<p>In that meeting, in front of the drawing board, we made a decision. We were not at square one. We were at circle zero. Eventually, circle zero became familiar. Sure, it was mischievous, and at times confusing, but it no longer felt new. Whenever we left, we never worried about saying goodbye; we would be back eventually.</p>
-<p>For most people, today is square one. Today’s square on the Gregorian calendar is the first day of first month. As such, I wish you all a happy circle zero.</p>
-<hr>
-<h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ol>
-<li><a href="https://en.wikipedia.org/wiki/Square-1_(puzzle)">Square-1 Puzzle</a></li>
-<li>The discourse surrounding the etymology of “square one” lacks enough rigor to warrant any particular links. Instead, a Google search for “origin of square one” will provide plenty of questionable sources offering one of the three explanations listed above.</li>
-</ol>
-]]></content>
-  </entry>
-  <entry>
     <title>Student of Life: FM Radio Frequencies are Lying to You</title>
     <url>/student-of-life-fm-radio-frequencies-are-lying-to-you/</url>
     <content><![CDATA[<p>I was driving when suddenly my radio started playing. I don’t typically listen to the radio, but the music was nice, so I let it keep playing. After the song finished, the radio announcer said, “You’re listening to 98.9* FM radio.”</p>
@@ -317,17 +329,6 @@
 <li><a href="https://en.wikipedia.org/wiki/Fred_Hoyle">Fred Hoyle</a></li>
 <li><a href="/projects/optimal_slicing.pdf">Optimal Bread Slicing</a></li>
 </ol>
-]]></content>
-  </entry>
-  <entry>
-    <title>Ex Libris: Sleepy</title>
-    <url>/ex-libris-sleepy/</url>
-    <content><![CDATA[<p>Known for incredibly concise storytelling, Anton Chekhov leaves no detail unresolved in his stories. Everything serves a purpose. The principle has been titled Chekhov’s Gun: if you introduce a gun, the audience expects it to be fired at some point. These details—these promises—build and interweave, and by the end of the story, every promise has reached a payoff that serves the ending. Mind you, these payoffs are rarely happily-ever-afters or neat, little bows wrapping up the story. They often include tragedy and death, but that doesn’t make them any less satisfying. </p>
-<p>In <em>Sleepy</em>, a story written in one day, Chekhov introduces a baby, a 13-year-old girl working as a servant, and a horrible family that fuels the young girl’s ongoing suffering. With a payoff of the servant killing the baby, the story resolves as the reader expects. Writing this masterful story in one day is already an incredible feat, but the more impressive feat is how Chekhov wove a secondary set of promises into the plot, all centered around a lamp, a pair of trousers, and a cricket.</p>
-<p>In the introduction, Chekhov introduces a lamp emitting green light, a pair of trousers on a clothesline, and a cricket in the stove. At first glance, these items only exist to enhance the setting, but he brings them up again and again and again. As I was doing my first reading, the purpose of these three items seemed quite unclear. No one wears the pants. No one puts out the lamp. No one complains about the cricket. They just sit there, doing nothing.</p>
-<p>The young girl, Varka, enters a few dreams throughout the short story, and each time she does, she first looks at the green light on the wall and the shadows. The flickering light and moving shadows and chirping cricket appear more and more hypnotic until eventually, the light and shadows wink at her. Chekhov builds on the personification until the end of the story. The three items laugh, and she laughs with them as she kills the baby.</p>
-<p>In the span of six pages, Chekhov created an entirely new character out of thin air and gave it a personality. This tricky, evil spirit laughing and dancing on the wall is made of no more than some green light, the shadow of a pair of trousers, and the chirp of a cricket. Its development represents Varka’s descent into madness, an integral component of the story. Chekhov promised to do something with these three items, and he overdelivered on the payoff. Without it, we wouldn’t see Varka lose her mind, just her frustration.</p>
-<p>Creating payoff is about more than finally using the promise. It’s about giving it a broader significance—a life of its own—in the story, one that serves the ending. Once you have that, the payoff can reflect its symbolism, even if you use the promise in an unconventional way. Just because you’ve introduced Chekhov’s Gun doesn’t mean you need to fire it.</p>
 ]]></content>
   </entry>
   <entry>
@@ -399,6 +400,23 @@
 ]]></content>
   </entry>
   <entry>
+    <title>The Connoisseur of Random: Lava Lamps are Protecting your Data</title>
+    <url>/the-connoisseur-of-random-lava-lamps-are-protecting-your-data/</url>
+    <content><![CDATA[<p>Have you ever used the Canva website? How about Etsy, Walmart, or even Best Buy? If so, congrats! Your data is being protected by lava lamps.</p>
+<p>Cloudflare is one of the largest global networks, securely providing you access to many of your favorite websites. In an attempt to generate more secure encryption keys, they turned to lava lamps. While lava lamps are deterministic—they follow an exact set of rules in a particular order—they are mathematically chaotic, meaning that approximate initial conditions won’t tell you the final outcome. If you are even slightly off when trying to simulate a lava lamp, your results will be almost entirely inaccurate.</p>
+<p>Additionally, Cloudflare uses a double pendulum and uranium decay to generate chaos, but that’s beyond the scope of this archive.</p>
+<p>Using lava lamps to generate random numbers isn’t a new idea. Back in 1996, Lavarand began using lava lamps to generate random numbers. They took the data from images of lava lamp arrays, and used them as seeds for pseudorandom number generators. Naturally, the use of a pseudorandom number generator makes the process a bit less safe, but it’s nice to see they were taking precautions.</p>
+<p>Pseudorandom number generation is too well understood to be used in cryptography, so Cloudflare imposes two additional rules on their random number generation to keep your data secure. First, their numbers should pass statistical tests that prove unpredictability. If you can find patterns in your data, it’s hard to call it random (I have another archive on the way about this topic). Second, if someone knows how part—not all—of the program works, they still shouldn’t be able to predict the random numbers. </p>
+<p>So, the next time you’re shopping on Etsy or Walmart.com, remember that you’re safe. You have lava lamps protecting you. </p>
+<p><em>Disclaimer: I am not affiliated with Cloudflare in any way, and these statements are entirely my own.</em></p>
+<hr>
+<h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ol>
+<li><a href="https://www.cloudflare.com/learning/ssl/lava-lamp-encryption/">Cloudflare Uses Lava Lamps</a></li>
+<li><a href="https://web.archive.org/web/19971210213248/http://lavarand.sgi.com/">Lavarand Web Archive</a></li>
+</ol>
+]]></content>
+  </entry>
+  <entry>
     <title>The Connoisseur of Random: Before Computers</title>
     <url>/the-connoisseur-of-random-before-computers/</url>
     <content><![CDATA[<p>As we discussed last time, computers aren’t great at generating truly random numbers. Can you do any better? You have plenty of practice generating random numbers, I can promise you that, as long as you’ve played a few board games.</p>
@@ -415,23 +433,6 @@
 <li><a href="https://www.rand.org/content/dam/rand/pubs/papers/2008/P113.pdf">RAND Corporation’s History of Random Digits</a></li>
 <li><a href="https://www.amazon.com/Million-Random-Digits-Normal-Deviates/dp/0833030477">Book of A Million Random Digits</a></li>
 <li><a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjwx8Pt08D6AhU2lIkEHf8jAqcQFnoECAgQAQ&url=https://www.mdpi.com/2079-9292/10/13/1517/pdf&usg=AOvVaw1PiU7pbgXdIviYWLFI4TgC">Random Number Circuit Using Frequencies</a></li>
-</ol>
-]]></content>
-  </entry>
-  <entry>
-    <title>The Connoisseur of Random: Lava Lamps are Protecting your Data</title>
-    <url>/the-connoisseur-of-random-lava-lamps-are-protecting-your-data/</url>
-    <content><![CDATA[<p>Have you ever used the Canva website? How about Etsy, Walmart, or even Best Buy? If so, congrats! Your data is being protected by lava lamps.</p>
-<p>Cloudflare is one of the largest global networks, securely providing you access to many of your favorite websites. In an attempt to generate more secure encryption keys, they turned to lava lamps. While lava lamps are deterministic—they follow an exact set of rules in a particular order—they are mathematically chaotic, meaning that approximate initial conditions won’t tell you the final outcome. If you are even slightly off when trying to simulate a lava lamp, your results will be almost entirely inaccurate.</p>
-<p>Additionally, Cloudflare uses a double pendulum and uranium decay to generate chaos, but that’s beyond the scope of this archive.</p>
-<p>Using lava lamps to generate random numbers isn’t a new idea. Back in 1996, Lavarand began using lava lamps to generate random numbers. They took the data from images of lava lamp arrays, and used them as seeds for pseudorandom number generators. Naturally, the use of a pseudorandom number generator makes the process a bit less safe, but it’s nice to see they were taking precautions.</p>
-<p>Pseudorandom number generation is too well understood to be used in cryptography, so Cloudflare imposes two additional rules on their random number generation to keep your data secure. First, their numbers should pass statistical tests that prove unpredictability. If you can find patterns in your data, it’s hard to call it random (I have another archive on the way about this topic). Second, if someone knows how part—not all—of the program works, they still shouldn’t be able to predict the random numbers. </p>
-<p>So, the next time you’re shopping on Etsy or Walmart.com, remember that you’re safe. You have lava lamps protecting you. </p>
-<p><em>Disclaimer: I am not affiliated with Cloudflare in any way, and these statements are entirely my own.</em></p>
-<hr>
-<h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ol>
-<li><a href="https://www.cloudflare.com/learning/ssl/lava-lamp-encryption/">Cloudflare Uses Lava Lamps</a></li>
-<li><a href="https://web.archive.org/web/19971210213248/http://lavarand.sgi.com/">Lavarand Web Archive</a></li>
 </ol>
 ]]></content>
   </entry>
@@ -563,14 +564,6 @@
 <!-- *Add to the [dialogue](/chat), and become part of my story.* -->]]></content>
   </entry>
   <entry>
-    <title>Publications</title>
-    <url>/publications/index.html</url>
-    <content><![CDATA[<p>Also see my: <a href="https://scholar.google.com/citations?user=dqTwtegAAAAJ&hl=en&oi=ao">Google Scholar</a></p>
-<h3 id="Refereed"><a href="#Refereed" class="headerlink" title="Refereed"></a>Refereed</h3><p>Zhuolin Yang, Zain Sarwar, Iris Hwang, <strong>Ronik Bhaskar</strong>, Ben Y. Zhao, Haitao Zheng (2024). Can Virtual Reality Protect Users from Keystroke Inference Attacks? USENIX Security, Philadelphia PA. <a href="https://www.usenix.org/system/files/sec23winter-prepub-116-yang-zhuolin.pdf">PDF</a> <a href="https://www.newscientist.com/article/2401929-ai-can-steal-passwords-in-virtual-reality-from-avatar-hand-motions/">Media Coverage</a></p>
-<h3 id="Recreational"><a href="#Recreational" class="headerlink" title="Recreational"></a>Recreational</h3><p><strong>Ronik Bhaskar</strong>, Dawson Ren (2023). PizzaLang: A Language for Hungry Developers. SIGBOVIK, Pittsburgh PA. <a href="/projects/PizzaLang.pdf">PDF</a> </p>
-]]></content>
-  </entry>
-  <entry>
     <title>Full Stack Chat App</title>
     <url>/projects/chat.html</url>
     <content><![CDATA[<p>Chat with me <a href="/chat">here</a>. (You’ll know it’s me because my name is <strong>bold</strong>.)</p>
@@ -615,6 +608,16 @@
 <p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
   </entry>
   <entry>
+    <title>Discord Scraper</title>
+    <url>/projects/discord_scraper.html</url>
+    <content><![CDATA[<p>Access the source files <a href="https://github.com/ronikbhaskar/discord_scraper">here</a>. </p>
+<h2 id="Disclaimer"><a href="#Disclaimer" class="headerlink" title="Disclaimer"></a>Disclaimer</h2><p>Botting your Discord account violates their Terms of Service. I do not use this scraper, nor will I, and I recommend you never use it either. This is solely for educational purposes.</p>
+<h2 id="Theoretical-Use-Cases"><a href="#Theoretical-Use-Cases" class="headerlink" title="Theoretical Use Cases"></a>Theoretical Use Cases</h2><p>Hypothetically speaking, wouldn’t it be cool to go through your server’s chat history, run the text through a Markov Chain generator, and spit out some nonsense for you all to laugh at? Just a thought. It would be tedious, copying every message by hand, but it’s definitely doable, so that’s how you should do it. By hand.</p>
+<h2 id="Getting-your-Access-Token"><a href="#Getting-your-Access-Token" class="headerlink" title="Getting your Access Token"></a>Getting your Access Token</h2><p>Now, having access to the Discord API requires an Access Token, and no one would know how to get their access token. I mean, who is going to open Discord in Chrome, open the inspector, switch to mobile&#x2F;tablet display, go to the Application tab, find the sidebar section labeled Storage, select <a href="https://discord.com/">https://discord.com</a> from the Local Storage dropdown, search token, and copy the value from the Key-Value pair? That’s a ridiculous number of hoops to jump through, and I can’t imagine anyone figuring that out on their own. </p>
+<hr>
+<p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
+  </entry>
+  <entry>
     <title>Inventing a Game, Then Building a Bot to Play It Perfectly</title>
     <url>/projects/forest-algorithm.html</url>
     <content><![CDATA[<p>It’s easier to learn how the game works by playing it, so I’ll create a playable version soon (hopefully).</p>
@@ -634,16 +637,6 @@
 <p>I made a few similar changes, removing redundant data structures and fancy sorting and simplifying to basic arithmetic operations. All of a sudden, my basic minimax implementation was flying, and the program generated a table with all of the optimal moves in 22 seconds.</p>
 <h2 id="Reinforcement-Learning-Dawson’s-Strategy"><a href="#Reinforcement-Learning-Dawson’s-Strategy" class="headerlink" title="Reinforcement Learning (Dawson’s Strategy)"></a>Reinforcement Learning (Dawson’s Strategy)</h2><p>While I was working on this, Dawson took a different approach. Rather than using massive lookup space reductions, he turned to Reinforcement Learning with Monte-Carlo Tree Search. I’ll leave him to give an explanation of his process and how he approached this problem.</p>
 <h2 id="Two-Will-Enter-Only-One-Will-Leave"><a href="#Two-Will-Enter-Only-One-Will-Leave" class="headerlink" title="Two Will Enter, Only One Will Leave"></a>Two Will Enter, Only One Will Leave</h2><p>Now that we have our working Forest bots, we need to pit them against each other and see how they compare.</p>
-<hr>
-<p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>Discord Scraper</title>
-    <url>/projects/discord_scraper.html</url>
-    <content><![CDATA[<p>Access the source files <a href="https://github.com/ronikbhaskar/discord_scraper">here</a>. </p>
-<h2 id="Disclaimer"><a href="#Disclaimer" class="headerlink" title="Disclaimer"></a>Disclaimer</h2><p>Botting your Discord account violates their Terms of Service. I do not use this scraper, nor will I, and I recommend you never use it either. This is solely for educational purposes.</p>
-<h2 id="Theoretical-Use-Cases"><a href="#Theoretical-Use-Cases" class="headerlink" title="Theoretical Use Cases"></a>Theoretical Use Cases</h2><p>Hypothetically speaking, wouldn’t it be cool to go through your server’s chat history, run the text through a Markov Chain generator, and spit out some nonsense for you all to laugh at? Just a thought. It would be tedious, copying every message by hand, but it’s definitely doable, so that’s how you should do it. By hand.</p>
-<h2 id="Getting-your-Access-Token"><a href="#Getting-your-Access-Token" class="headerlink" title="Getting your Access Token"></a>Getting your Access Token</h2><p>Now, having access to the Discord API requires an Access Token, and no one would know how to get their access token. I mean, who is going to open Discord in Chrome, open the inspector, switch to mobile&#x2F;tablet display, go to the Application tab, find the sidebar section labeled Storage, select <a href="https://discord.com/">https://discord.com</a> from the Local Storage dropdown, search token, and copy the value from the Key-Value pair? That’s a ridiculous number of hoops to jump through, and I can’t imagine anyone figuring that out on their own. </p>
 <hr>
 <p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
   </entry>
@@ -851,6 +844,21 @@
 <br />]]></content>
   </entry>
   <entry>
+    <title>Linear Transformation Visualizer</title>
+    <url>/projects/linear_transformation_visualizer.html</url>
+    <content><![CDATA[<p>Learn a thing or two about linear algebra <a href="/linear_transformation_visualizer">here</a> (or just play with numbers).</p>
+<h2 id="Purpose"><a href="#Purpose" class="headerlink" title="Purpose"></a>Purpose</h2><p>For part of my abstract linear algebra class, we were allowed to build a piece of software related to the course material. We spent so much time looking at grids of numbers and analyzing proofs, but I wanted to <em>see</em> how it all worked. So, I took it upon myself to learn vanilla JavaScript and write a web app capable of letting me see what was happening to the space as I transformed it.</p>
+<p>Shoutout to Prof. Lanier.</p>
+<h2 id="Engineering-the-App"><a href="#Engineering-the-App" class="headerlink" title="Engineering the App"></a>Engineering the App</h2><p>I followed one tutorial on html and css and just stuck with the color scheme in the tutorial, which is why the screen is a mess of orange and blue.</p>
+<p><strong>For the frontend, I used math.js and Plotly.</strong> I wanted to make the project source lightweight, so I looked for libraries with CDNs. Plotly, while used for statistical visualizations, had a 3D mode, and vectors can be plotted as points, so translating the vectors to points &#x2F; segments to plot was not difficult. Math.js gave me access to matrix multiplication and mathematical expression interpretation, which solved the majority of my logic problems immediately.</p>
+<p><strong>The linear algebra was simple. The UI wasn’t.</strong> Coming up with pseudo-random methods of generating random matrices with certain constraints was not difficult. The matrix multiplication was already given to me by math.js. Even in my aspirations to embody one-tenth of Desmos’ quality-of-life features, the variable with the slider took little time to get working. </p>
+<p>The big issue was responsiveness. The user shouldn’t have to hit “Run” every time they make a change, because you shouldn’t be slowed down by the speed of this tool. As a result, each text area and button and checkbox has a listener to make sure that the visualizer always keeps up with what you write. </p>
+<p>And if you write an invalid state, like a matrix with empty fields, the whole visual shouldn’t shut down or change from what you had originally. Maybe you’re just making a quick edit, and that change would distract you. For this reason, if you go from a valid to invalid input state, the visualizer stays at the previous valid state. Intuitively, it makes the most sense, and keeps everything looking clean.</p>
+<p>The code is a mess, but it’s there if you want to see it: <a href="https://github.com/ronikbhaskar/linear_transformation_visualizer">https://github.com/ronikbhaskar/linear_transformation_visualizer</a></p>
+<hr>
+<p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
+  </entry>
+  <entry>
     <title>Math Art</title>
     <url>/projects/math-art.html</url>
     <content><![CDATA[<p>I discuss this project in my <a href="/about">about page</a>. The source code, along with an explanation of the project, can be found <a href="https://github.com/ronikbhaskar/math-art">here</a>.</p>
@@ -885,17 +893,24 @@
 <p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
   </entry>
   <entry>
-    <title>Linear Transformation Visualizer</title>
-    <url>/projects/linear_transformation_visualizer.html</url>
-    <content><![CDATA[<p>Learn a thing or two about linear algebra <a href="/linear_transformation_visualizer">here</a> (or just play with numbers).</p>
-<h2 id="Purpose"><a href="#Purpose" class="headerlink" title="Purpose"></a>Purpose</h2><p>For part of my abstract linear algebra class, we were allowed to build a piece of software related to the course material. We spent so much time looking at grids of numbers and analyzing proofs, but I wanted to <em>see</em> how it all worked. So, I took it upon myself to learn vanilla JavaScript and write a web app capable of letting me see what was happening to the space as I transformed it.</p>
-<p>Shoutout to Prof. Lanier.</p>
-<h2 id="Engineering-the-App"><a href="#Engineering-the-App" class="headerlink" title="Engineering the App"></a>Engineering the App</h2><p>I followed one tutorial on html and css and just stuck with the color scheme in the tutorial, which is why the screen is a mess of orange and blue.</p>
-<p><strong>For the frontend, I used math.js and Plotly.</strong> I wanted to make the project source lightweight, so I looked for libraries with CDNs. Plotly, while used for statistical visualizations, had a 3D mode, and vectors can be plotted as points, so translating the vectors to points &#x2F; segments to plot was not difficult. Math.js gave me access to matrix multiplication and mathematical expression interpretation, which solved the majority of my logic problems immediately.</p>
-<p><strong>The linear algebra was simple. The UI wasn’t.</strong> Coming up with pseudo-random methods of generating random matrices with certain constraints was not difficult. The matrix multiplication was already given to me by math.js. Even in my aspirations to embody one-tenth of Desmos’ quality-of-life features, the variable with the slider took little time to get working. </p>
-<p>The big issue was responsiveness. The user shouldn’t have to hit “Run” every time they make a change, because you shouldn’t be slowed down by the speed of this tool. As a result, each text area and button and checkbox has a listener to make sure that the visualizer always keeps up with what you write. </p>
-<p>And if you write an invalid state, like a matrix with empty fields, the whole visual shouldn’t shut down or change from what you had originally. Maybe you’re just making a quick edit, and that change would distract you. For this reason, if you go from a valid to invalid input state, the visualizer stays at the previous valid state. Intuitively, it makes the most sense, and keeps everything looking clean.</p>
-<p>The code is a mess, but it’s there if you want to see it: <a href="https://github.com/ronikbhaskar/linear_transformation_visualizer">https://github.com/ronikbhaskar/linear_transformation_visualizer</a></p>
+    <title>The Oracle Society</title>
+    <url>/projects/oracle_society.html</url>
+    <content><![CDATA[<p>CW: violence, kidnapping, murder.</p>
+<p>Play the game <a href="/oracle_society/">here</a>.</p>
+<h2 id="Background"><a href="#Background" class="headerlink" title="Background"></a>Background</h2><p>Our final project for introductory quantum computing had us create an educational artifact to teach a quantum concept. I chose oracles, which I had the pleasure of studying in complexity theory. Oracles function as a sort of answer machine. They know things that you want to know, but you don’t know how they know them. By asking well-formed questions, you can extract relevant information from an oracle. In general, you want to use as few questions as possible. </p>
+<h2 id="Gameplay"><a href="#Gameplay" class="headerlink" title="Gameplay"></a>Gameplay</h2><p>Please note that I constructed this narrative very late at night during finals week. It is not cohesive.</p>
+<p>You are a detective&#x2F;hostage negotiator that has discovered a method of communication to a serial kidnapper. Your job is to free the hostages, but doing so requires you to play a twisted game devised by the kidnapper. There are a select number of questions you can use to play the game, and each one will be answered truthfully. Beat the kidnapper’s riddle, and they will release the hostages. If your guessing strategy isn’t efficient enough, hostages will start dying. Try not to let too many die. Good luck!</p>
+<h2 id="Issues"><a href="#Issues" class="headerlink" title="Issues"></a>Issues</h2><p>Note: I will not resolve these issues, but keep them in mind if you decide to play.</p>
+<ol>
+<li><p>This game is not mobile compatible.</p>
+</li>
+<li><p>Skipping text too fast can cause buttons to appear before they should.</p>
+</li>
+<li><p>The transitions between deaths don’t allow you to pause the text.</p>
+</li>
+<li><p>I didn’t playtest the final version of the game enough.</p>
+</li>
+</ol>
 <hr>
 <p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
   </entry>
@@ -930,28 +945,6 @@ table, th {
 
 <p>For this code, you will have to redirect the output to a file using the <code>&gt;</code> operator.</p>
 <p>Happy sleuthing!</p>
-<hr>
-<p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>The Oracle Society</title>
-    <url>/projects/oracle_society.html</url>
-    <content><![CDATA[<p>CW: violence, kidnapping, murder.</p>
-<p>Play the game <a href="/oracle_society/">here</a>.</p>
-<h2 id="Background"><a href="#Background" class="headerlink" title="Background"></a>Background</h2><p>Our final project for introductory quantum computing had us create an educational artifact to teach a quantum concept. I chose oracles, which I had the pleasure of studying in complexity theory. Oracles function as a sort of answer machine. They know things that you want to know, but you don’t know how they know them. By asking well-formed questions, you can extract relevant information from an oracle. In general, you want to use as few questions as possible. </p>
-<h2 id="Gameplay"><a href="#Gameplay" class="headerlink" title="Gameplay"></a>Gameplay</h2><p>Please note that I constructed this narrative very late at night during finals week. It is not cohesive.</p>
-<p>You are a detective&#x2F;hostage negotiator that has discovered a method of communication to a serial kidnapper. Your job is to free the hostages, but doing so requires you to play a twisted game devised by the kidnapper. There are a select number of questions you can use to play the game, and each one will be answered truthfully. Beat the kidnapper’s riddle, and they will release the hostages. If your guessing strategy isn’t efficient enough, hostages will start dying. Try not to let too many die. Good luck!</p>
-<h2 id="Issues"><a href="#Issues" class="headerlink" title="Issues"></a>Issues</h2><p>Note: I will not resolve these issues, but keep them in mind if you decide to play.</p>
-<ol>
-<li><p>This game is not mobile compatible.</p>
-</li>
-<li><p>Skipping text too fast can cause buttons to appear before they should.</p>
-</li>
-<li><p>The transitions between deaths don’t allow you to pause the text.</p>
-</li>
-<li><p>I didn’t playtest the final version of the game enough.</p>
-</li>
-</ol>
 <hr>
 <p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
   </entry>
@@ -1036,5 +1029,13 @@ table, th {
 </ul>
 <hr>
 <p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>Publications</title>
+    <url>/publications/index.html</url>
+    <content><![CDATA[<p>Also see my: <a href="https://scholar.google.com/citations?user=dqTwtegAAAAJ&hl=en&oi=ao">Google Scholar</a></p>
+<h3 id="Refereed"><a href="#Refereed" class="headerlink" title="Refereed"></a>Refereed</h3><p>Zhuolin Yang, Zain Sarwar, Iris Hwang, <strong>Ronik Bhaskar</strong>, Ben Y. Zhao, Haitao Zheng (2024). Can Virtual Reality Protect Users from Keystroke Inference Attacks? USENIX Security, Philadelphia PA. <a href="https://www.usenix.org/system/files/sec23winter-prepub-116-yang-zhuolin.pdf">PDF</a> <a href="https://www.newscientist.com/article/2401929-ai-can-steal-passwords-in-virtual-reality-from-avatar-hand-motions/">Media Coverage</a></p>
+<h3 id="Recreational"><a href="#Recreational" class="headerlink" title="Recreational"></a>Recreational</h3><p><strong>Ronik Bhaskar</strong>, Dawson Ren (2023). PizzaLang: A Language for Hungry Developers. SIGBOVIK, Pittsburgh PA. <a href="/projects/PizzaLang.pdf">PDF</a> </p>
+]]></content>
   </entry>
 </search>
