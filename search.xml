@@ -1,6 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>AM</title>
+    <url>/am/</url>
+    <content><![CDATA[<p>What does AM stand for? Maybe Ante Meridiem, before noon. Or maybe the element Americium (Am). Maybe it’s Artium Magister, a Master of Arts degree. Whatever the case, if you compound masters of the arts over time, you get Arctic Monkeys. </p>
+<p>In 2013, Arctic Monkeys released their fifth studio album, AM. While the title references the band’s name, the cover art says otherwise. Taking inspiration from Velvet Underground’s cover art of volume units (VU), AM’s cover art is a wave with changing heights—amplitude modulation (AM). </p>
+<p>As a recreational mathematician, I looked around the internet, trying to find a decent recreation of the AM cover as a graph, but none of them were good enough. Most stopped at just modulating a sine wave with a broader sine wave, but this method misses one crucial detail: the AM in the middle. Job Bouwman inserts the AM in the middle, but the heights and widths of the letters don’t quite match the cover.</p>
+<p>The Arctic Monkeys weren’t just monkeying around with amplitude modulation. They figured out a clever way to seamlessly insert their initials into the graph. Mark my words, I will do the same. I will recreate the AM cover.</p>
+<p>Rather than spending lots of time setting up a Jupyter Notebook and writing lots of Python code to establish a working development environment, I’m using Desmos. I believe the initial concept art began with a standard modulation of a sine wave inside a sine wave, so I am starting the same way.</p>
+<p><img src="/images/initial_am.png"></p>
+<p>Aha! See? In the center? There is a segment of the graph that can be used for the AM. I’ll mark it in green. This will require removing that purple part, which I see as a bonus. The A and M in the cover have longer wavelengths than the rest of the graph, so stretching the green segment should recreate this well.</p>
+<p><img src="/images/am_annotated.png"></p>
+<p>After stretching the green segment of the graph, the height of each portion will need to be adjusted. Maybe I’m just throwing a hammer at a screw, but a sigmoid function looks like it will do the trick. A few adjustments later, and we have this:</p>
+<p><img src="/images/am_final.png"></p>
+<p>A few minutes ago, I was perfectly happy with this result, but that is no longer the case. Yes, I completed what I set out to do, but the closer I get, the farther I feel. The M needs to be more rectangular. My approximation isn’t actually a continuous function, much less a differentiable one. Looking at the two side-by-side, I can no longer see their similarities, only their differences. Recreating this cover art was supposed to be about a quick recreational math project, but now I feel obliged to honor this album. If imitation is the sincerest form of flattery, are better imitations more flattering?</p>
+<p>After this project, I suppose not. By acknowledging the distance between my imitation and the original, I can do justice to the beauty it holds. I may have not recreated the cover perfectly, but I can certainly appreciate it much more now than I could when I first saw it. This is no Absent Minded Advanced Math. This is AM. </p>
+<hr>
+<ol>
+<li><p><a href="https://www.nme.com/news/music/arctic-monkeys-178-1266582">Influence of VU on AM</a></p>
+</li>
+<li><p><a href="https://www.quora.com/What-function-is-Arctic-Monkeys-album-cover">Job Bouwman’s approximation</a></p>
+</li>
+<li><p><a href="https://www.desmos.com/calculator/v37m6icmwg">My recreation</a></p>
+</li>
+</ol>
+]]></content>
+  </entry>
+  <entry>
     <title>Ex Libris: Cat&#39;s Cradle</title>
     <url>/ex-libris-cats-cradle/</url>
     <content><![CDATA[<p>On Christmas this year, I read one of the most famous Christmas novels of all time: <em>Cat’s Cradle</em>, by Kurt Vonnegut. This book is so powerful, it constituted a master’s thesis in anthropology in the eyes of the University of Chicago. Countless experts have analyzed this book throughout the past 59 years. Following behind 59 years of thorough analysis, I do not believe I can meaningfully contribute to the discussion of this novel’s themes.</p>
@@ -44,32 +70,6 @@
 ]]></content>
   </entry>
   <entry>
-    <title>AM</title>
-    <url>/am/</url>
-    <content><![CDATA[<p>What does AM stand for? Maybe Ante Meridiem, before noon. Or maybe the element Americium (Am). Maybe it’s Artium Magister, a Master of Arts degree. Whatever the case, if you compound masters of the arts over time, you get Arctic Monkeys. </p>
-<p>In 2013, Arctic Monkeys released their fifth studio album, AM. While the title references the band’s name, the cover art says otherwise. Taking inspiration from Velvet Underground’s cover art of volume units (VU), AM’s cover art is a wave with changing heights—amplitude modulation (AM). </p>
-<p>As a recreational mathematician, I looked around the internet, trying to find a decent recreation of the AM cover as a graph, but none of them were good enough. Most stopped at just modulating a sine wave with a broader sine wave, but this method misses one crucial detail: the AM in the middle. Job Bouwman inserts the AM in the middle, but the heights and widths of the letters don’t quite match the cover.</p>
-<p>The Arctic Monkeys weren’t just monkeying around with amplitude modulation. They figured out a clever way to seamlessly insert their initials into the graph. Mark my words, I will do the same. I will recreate the AM cover.</p>
-<p>Rather than spending lots of time setting up a Jupyter Notebook and writing lots of Python code to establish a working development environment, I’m using Desmos. I believe the initial concept art began with a standard modulation of a sine wave inside a sine wave, so I am starting the same way.</p>
-<p><img src="/images/initial_am.png"></p>
-<p>Aha! See? In the center? There is a segment of the graph that can be used for the AM. I’ll mark it in green. This will require removing that purple part, which I see as a bonus. The A and M in the cover have longer wavelengths than the rest of the graph, so stretching the green segment should recreate this well.</p>
-<p><img src="/images/am_annotated.png"></p>
-<p>After stretching the green segment of the graph, the height of each portion will need to be adjusted. Maybe I’m just throwing a hammer at a screw, but a sigmoid function looks like it will do the trick. A few adjustments later, and we have this:</p>
-<p><img src="/images/am_final.png"></p>
-<p>A few minutes ago, I was perfectly happy with this result, but that is no longer the case. Yes, I completed what I set out to do, but the closer I get, the farther I feel. The M needs to be more rectangular. My approximation isn’t actually a continuous function, much less a differentiable one. Looking at the two side-by-side, I can no longer see their similarities, only their differences. Recreating this cover art was supposed to be about a quick recreational math project, but now I feel obliged to honor this album. If imitation is the sincerest form of flattery, are better imitations more flattering?</p>
-<p>After this project, I suppose not. By acknowledging the distance between my imitation and the original, I can do justice to the beauty it holds. I may have not recreated the cover perfectly, but I can certainly appreciate it much more now than I could when I first saw it. This is no Absent Minded Advanced Math. This is AM. </p>
-<hr>
-<ol>
-<li><p><a href="https://www.nme.com/news/music/arctic-monkeys-178-1266582">Influence of VU on AM</a></p>
-</li>
-<li><p><a href="https://www.quora.com/What-function-is-Arctic-Monkeys-album-cover">Job Bouwman’s approximation</a></p>
-</li>
-<li><p><a href="https://www.desmos.com/calculator/v37m6icmwg">My recreation</a></p>
-</li>
-</ol>
-]]></content>
-  </entry>
-  <entry>
     <title>Ex Libris: Kafka on the Shore</title>
     <url>/ex-libris-kafka-on-the-shore/</url>
     <content><![CDATA[<!-- https://www.btsgtheories.com/wp-content/uploads/2020/07/kafka-24grammata.com-free-e-book.-pdf-1.pdf -->
@@ -89,17 +89,6 @@
 <h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ol>
 <li><a href="https://www.bookbrowse.com/author_interviews/full/index.cfm?author_number=1103">Interview with Haruki Murakami</a></li>
 </ol>
-]]></content>
-  </entry>
-  <entry>
-    <title>Ex Libris: Sleepy</title>
-    <url>/ex-libris-sleepy/</url>
-    <content><![CDATA[<p>Known for incredibly concise storytelling, Anton Chekhov leaves no detail unresolved in his stories. Everything serves a purpose. The principle has been titled Chekhov’s Gun: if you introduce a gun, the audience expects it to be fired at some point. These details—these promises—build and interweave, and by the end of the story, every promise has reached a payoff that serves the ending. Mind you, these payoffs are rarely happily-ever-afters or neat, little bows wrapping up the story. They often include tragedy and death, but that doesn’t make them any less satisfying. </p>
-<p>In <em>Sleepy</em>, a story written in one day, Chekhov introduces a baby, a 13-year-old girl working as a servant, and a horrible family that fuels the young girl’s ongoing suffering. With a payoff of the servant killing the baby, the story resolves as the reader expects. Writing this masterful story in one day is already an incredible feat, but the more impressive feat is how Chekhov wove a secondary set of promises into the plot, all centered around a lamp, a pair of trousers, and a cricket.</p>
-<p>In the introduction, Chekhov introduces a lamp emitting green light, a pair of trousers on a clothesline, and a cricket in the stove. At first glance, these items only exist to enhance the setting, but he brings them up again and again and again. As I was doing my first reading, the purpose of these three items seemed quite unclear. No one wears the pants. No one puts out the lamp. No one complains about the cricket. They just sit there, doing nothing.</p>
-<p>The young girl, Varka, enters a few dreams throughout the short story, and each time she does, she first looks at the green light on the wall and the shadows. The flickering light and moving shadows and chirping cricket appear more and more hypnotic until eventually, the light and shadows wink at her. Chekhov builds on the personification until the end of the story. The three items laugh, and she laughs with them as she kills the baby.</p>
-<p>In the span of six pages, Chekhov created an entirely new character out of thin air and gave it a personality. This tricky, evil spirit laughing and dancing on the wall is made of no more than some green light, the shadow of a pair of trousers, and the chirp of a cricket. Its development represents Varka’s descent into madness, an integral component of the story. Chekhov promised to do something with these three items, and he overdelivered on the payoff. Without it, we wouldn’t see Varka lose her mind, just her frustration.</p>
-<p>Creating payoff is about more than finally using the promise. It’s about giving it a broader significance—a life of its own—in the story, one that serves the ending. Once you have that, the payoff can reflect its symbolism, even if you use the promise in an unconventional way. Just because you’ve introduced Chekhov’s Gun doesn’t mean you need to fire it.</p>
 ]]></content>
   </entry>
   <entry>
@@ -149,24 +138,6 @@
 ]]></content>
   </entry>
   <entry>
-    <title>Square One</title>
-    <url>/square-one/</url>
-    <content><![CDATA[<p>After another set of fruitless experiments and abandoned ideas, my mentor told me we were back to square one.</p>
-<p>“Quick question,” I interjected, “Where exactly <em>is</em> square one?”</p>
-<p>Some sources claim square one is on the football pitch. In the 1930s, BBC radio sports commentators divided the pitch into eight sections, with square one at the bottom right corner. Others claim square one comes from hopscotch or snakes and ladders. Regardless of the game, being at square one puts you at the beginning with no progress. </p>
-<p>Square-1 is also the name of a puzzle derived from the Rubik’s Cube. For practiced cubers, solving a Square-1 can become incredibly straightforward. </p>
-<p>My mentor and I didn’t feel like we were at square one. Sure, we were at the beginning, but being at square one implies square two is just ahead. Every time we returned to the beginning, we were too disoriented to know where to look first. Much of our progress felt sideways or backwards. </p>
-<p>On a lesser note, computer scientists don’t begin counting with one; they begin counting with zero. </p>
-<p>In that meeting, in front of the drawing board, we made a decision. We were not at square one. We were at circle zero. Eventually, circle zero became familiar. Sure, it was mischievous, and at times confusing, but it no longer felt new. Whenever we left, we never worried about saying goodbye; we would be back eventually.</p>
-<p>For most people, today is square one. Today’s square on the Gregorian calendar is the first day of first month. As such, I wish you all a happy circle zero.</p>
-<hr>
-<h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ol>
-<li><a href="https://en.wikipedia.org/wiki/Square-1_(puzzle)">Square-1 Puzzle</a></li>
-<li>The discourse surrounding the etymology of “square one” lacks enough rigor to warrant any particular links. Instead, a Google search for “origin of square one” will provide plenty of questionable sources offering one of the three explanations listed above.</li>
-</ol>
-]]></content>
-  </entry>
-  <entry>
     <title>First Time for Everything</title>
     <url>/first-time-for-everything/</url>
     <content><![CDATA[<p>On July 21, 2023, that weekend when the Barbie and Oppenheimer movies came out, I invited my old mentor to watch Oppenheimer at the local theater. I did this partly to spend time with him, partly to push myself out of my social comfort zone, and I thought this might kill two birds with one stone. On the days we have long, rambling conversations, he eventually turns the topic to nuclear physics and the history of the atomic bomb. Occasionally, I sprinkle in details related to our university, given its position in the history of the Manhattan project, but for the most part, I listen. How he knows so much about the field, I’m not sure, but it’s one of our few conversation topics unrelated to research and our lab. </p>
@@ -186,6 +157,17 @@
 <p>“No, ever.”</p>
 <p>His Lyft pulls up, so he waves goodbye. I probably mumble something about seeing him in lab as I wave back. The sound of the rain cuts out as the gears whir in my head. I don’t know if it was a few seconds or a few minutes, but eventually, I put on my jacket and step out into the rain.</p>
 <p>I guess there’s a first time for everything.</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>Ex Libris: Sleepy</title>
+    <url>/ex-libris-sleepy/</url>
+    <content><![CDATA[<p>Known for incredibly concise storytelling, Anton Chekhov leaves no detail unresolved in his stories. Everything serves a purpose. The principle has been titled Chekhov’s Gun: if you introduce a gun, the audience expects it to be fired at some point. These details—these promises—build and interweave, and by the end of the story, every promise has reached a payoff that serves the ending. Mind you, these payoffs are rarely happily-ever-afters or neat, little bows wrapping up the story. They often include tragedy and death, but that doesn’t make them any less satisfying. </p>
+<p>In <em>Sleepy</em>, a story written in one day, Chekhov introduces a baby, a 13-year-old girl working as a servant, and a horrible family that fuels the young girl’s ongoing suffering. With a payoff of the servant killing the baby, the story resolves as the reader expects. Writing this masterful story in one day is already an incredible feat, but the more impressive feat is how Chekhov wove a secondary set of promises into the plot, all centered around a lamp, a pair of trousers, and a cricket.</p>
+<p>In the introduction, Chekhov introduces a lamp emitting green light, a pair of trousers on a clothesline, and a cricket in the stove. At first glance, these items only exist to enhance the setting, but he brings them up again and again and again. As I was doing my first reading, the purpose of these three items seemed quite unclear. No one wears the pants. No one puts out the lamp. No one complains about the cricket. They just sit there, doing nothing.</p>
+<p>The young girl, Varka, enters a few dreams throughout the short story, and each time she does, she first looks at the green light on the wall and the shadows. The flickering light and moving shadows and chirping cricket appear more and more hypnotic until eventually, the light and shadows wink at her. Chekhov builds on the personification until the end of the story. The three items laugh, and she laughs with them as she kills the baby.</p>
+<p>In the span of six pages, Chekhov created an entirely new character out of thin air and gave it a personality. This tricky, evil spirit laughing and dancing on the wall is made of no more than some green light, the shadow of a pair of trousers, and the chirp of a cricket. Its development represents Varka’s descent into madness, an integral component of the story. Chekhov promised to do something with these three items, and he overdelivered on the payoff. Without it, we wouldn’t see Varka lose her mind, just her frustration.</p>
+<p>Creating payoff is about more than finally using the promise. It’s about giving it a broader significance—a life of its own—in the story, one that serves the ending. Once you have that, the payoff can reflect its symbolism, even if you use the promise in an unconventional way. Just because you’ve introduced Chekhov’s Gun doesn’t mean you need to fire it.</p>
 ]]></content>
   </entry>
   <entry>
@@ -291,6 +273,41 @@
 ]]></content>
   </entry>
   <entry>
+    <title>Square One</title>
+    <url>/square-one/</url>
+    <content><![CDATA[<p>After another set of fruitless experiments and abandoned ideas, my mentor told me we were back to square one.</p>
+<p>“Quick question,” I interjected, “Where exactly <em>is</em> square one?”</p>
+<p>Some sources claim square one is on the football pitch. In the 1930s, BBC radio sports commentators divided the pitch into eight sections, with square one at the bottom right corner. Others claim square one comes from hopscotch or snakes and ladders. Regardless of the game, being at square one puts you at the beginning with no progress. </p>
+<p>Square-1 is also the name of a puzzle derived from the Rubik’s Cube. For practiced cubers, solving a Square-1 can become incredibly straightforward. </p>
+<p>My mentor and I didn’t feel like we were at square one. Sure, we were at the beginning, but being at square one implies square two is just ahead. Every time we returned to the beginning, we were too disoriented to know where to look first. Much of our progress felt sideways or backwards. </p>
+<p>On a lesser note, computer scientists don’t begin counting with one; they begin counting with zero. </p>
+<p>In that meeting, in front of the drawing board, we made a decision. We were not at square one. We were at circle zero. Eventually, circle zero became familiar. Sure, it was mischievous, and at times confusing, but it no longer felt new. Whenever we left, we never worried about saying goodbye; we would be back eventually.</p>
+<p>For most people, today is square one. Today’s square on the Gregorian calendar is the first day of first month. As such, I wish you all a happy circle zero.</p>
+<hr>
+<h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ol>
+<li><a href="https://en.wikipedia.org/wiki/Square-1_(puzzle)">Square-1 Puzzle</a></li>
+<li>The discourse surrounding the etymology of “square one” lacks enough rigor to warrant any particular links. Instead, a Google search for “origin of square one” will provide plenty of questionable sources offering one of the three explanations listed above.</li>
+</ol>
+]]></content>
+  </entry>
+  <entry>
+    <title>Student of Life: Celestial Navigation Part 1</title>
+    <url>/student-of-life-celestial-navigation-part-1/</url>
+    <content><![CDATA[<p>Back in August of 2023, I grabbed my telescope, told my parents not to wait for me, and drove into the middle of nowhere. Stargazing has become essential to my life, and I hadn’t been in a few months, so I was ready to go. The nights I go stargazing, I feel free, spending a few hours alone with the universe. I’m no astronomer by any means, but I enjoy studying the night sky. I’ll usually pick one celestial body to focus on, whether that be Jupiter and its moons or some distant nebula I can barely see. That night, I decided to study Polaris.</p>
+<p>As I get out of the car, I pause to let my eyes adjust to the darkness. Carrying my telescope to the middle of the clearing, I’m careful not to trip on any rocks or step on any fireflies. I set my telescope down, close my eyes, and take a deep breath. As I open my eyes, I look up at the glittery sky above me.</p>
+<p>I could spend hours just aimlessly looking up at the sky, but I have a mission, so I get to work. First, I search for the Big Dipper. Once I find the Big Dipper, I follow it to the Little Dipper. As I trace along its handle, my eyes finally settle on Polaris, the last star in the Little Dipper.</p>
+<p>Apparently, Polaris is not one star, but three stars, all very close together. Hoping to see that for myself, I carefully aim and focus my telescope. Looking through the eyepiece, I find one bright point. My eyes dart around, desperately seeking a second and third point of light, but I find nothing. A younger version of me would have been discouraged, but I understand the limits of my telescope. I decide to wait for the moon to set, hoping the other stars will be easier to see without so much ambient light. </p>
+<p>Looking up at the sky, I think about the other facts I know about Polaris. I recall someone once telling me it’s called the North Star, so I pull out the compass app on my phone and point it in the direction of the star. The screen reads 0°, perfectly north. <em>That must be a coincidence,</em> I think to myself. <em>Once it moves, it won’t be perfectly north anymore.</em></p>
+<p>Over the next hour, I watch the stars move across the sky, occasionally pointing my telescope at whatever seems interesting. Every once in a while, I check on Polaris, which is still perfectly north. In fact, it hasn’t moved at all. <em>How has it not moved? Everything else is moving. Even the Little Dipper is moving, what’s going on with Polaris?</em></p>
+<p>I sit there confused for a while before I try a new approach to understand what’s going on. Rather than consider myself a stationary observer on Earth, I pretend I’m an observer from space, looking at the Earth. From my new perspective, I see the Earth rotate. Its axis of rotation goes through the North and South Poles. The rest of the Earth keeps spinning while that line stays still.</p>
+<p>And that’s when it hits me.</p>
+<p>If Polaris is a fixed point in the sky, then it lies along the Earth’s axis of rotation. That means, if you went to the North Pole and looked straight up, you would see Polaris. Anywhere else on Earth, Polaris acts like a beacon to the North Pole. That’s why Polaris never moves. That’s why it always points north.</p>
+<p>Satisfied, I lay down, enjoying my small victory. This peace lasts for approximately one minute before my brain starts asking questions again. This fixed point in the sky must have some interesting properties, so I close my eyes and think about Polaris geometrically. I can’t fully fathom how far away Polaris is, so I just pretend it’s infinitely far away. Under this assumption, if I draw a line from myself to Polaris, it’s parallel to the Earth’s axis of rotation. In this mental model, I draw a plane tangent to the Earth from where I am. The Earth may not be flat, but I can pretend it is locally for the sake of mathematics. With this little diagram in my head, I realize just how important the North Star is for navigation. If you can find the angle between Polaris and the horizon, that angle is your latitude. </p>
+<p>I pull out my notebook and a flashlight to make sure I did that calculation correctly. Yep, the angle between Polaris and the horizon is your latitude. <em>I can’t believe I just figured that out. Is this how astronomers figured out celestial navigation centuries ago?</em> I doubt I’ll have any more revelations for the rest of the night, so I relax on the ground, watching the other stars journey across the sky. As my watch passes midnight, I pack up my telescope, wave goodbye to the stars, and start heading home.</p>
+<p>I never did see the three stars that form Polaris, but it is a fixed point in the sky, so I’ll always know where to find it.</p>
+]]></content>
+  </entry>
+  <entry>
     <title>Student of Life: FM Radio Frequencies are Lying to You</title>
     <url>/student-of-life-fm-radio-frequencies-are-lying-to-you/</url>
     <content><![CDATA[<p>I was driving when suddenly my radio started playing. I don’t typically listen to the radio, but the music was nice, so I let it keep playing. After the song finished, the radio announcer said, “You’re listening to 98.9* FM radio.”</p>
@@ -376,6 +393,26 @@
 ]]></content>
   </entry>
   <entry>
+    <title>The Connoisseur of Random: Before Computers</title>
+    <url>/the-connoisseur-of-random-before-computers/</url>
+    <content><![CDATA[<p>As we discussed last time, computers aren’t great at generating truly random numbers. Can you do any better? You have plenty of practice generating random numbers, I can promise you that, as long as you’ve played a few board games.</p>
+<p>Dice. Roll one to get a random number. Roll a few and add them together to get bigger numbers. So many board games rely on you generating random numbers to make the game enjoyable. Will you pass Go or will you go bankrupt on Boardwalk? Will you climb a ladder or slide down a snake? It all depends on how the dice roll.</p>
+<p>In 1890 Francis Galton saw the power of using dice in statistics, creating a special set of dice for statistical experiments. He argued that shaking dice in a bag and taking them out with your eyes closed was sufficiently random for this random sampling technique.</p>
+<p>Dice are great, but no one has time to sit around, rolling dice hundreds of times to get random numbers. In the early-mid 1900s, scientists at Project RAND began developing better mechanical techniques, like using electronic “roulette wheels.” They generated some binary digits (0s and 1s) and converted the number to decimal. Using this technique, Project RAND turned into the RAND Corporation, selling books of one million random digits. The book still sells for roughly 70 USD. While their analyses of random digits looked usable for the most part, there were some issues with the odd-even distribution, and they made some strong assumptions about overcoming bias.</p>
+<p>While I respect the RAND Corporation for pioneering modern techniques, on my quest to finding the best truly random numbers, their method doesn’t meet the mark. You all deserve better. To understand the nature of writing a book of random numbers, I borrowed techniques from Galton and RAND, and <a href="https://github.com/ronikbhaskar/book-of-random-numbers/blob/main/volumes/Volume%20I.md">I wrote my own</a>.</p>
+<p>Rather than creating custom dice, I used existing six-sided dice. After rolling over 1000 dice, I converted from base 6 to base 10, and recorded my results. After thinking for a moment, I realized that one of the few things we need high volumes of random numbers of is dice rolls, so I saved those separately. Random coin flips would be nice too, so I did a bit more math to convert the dice rolls into coin flips. While I was at it, I converted the rolls into hexadecimal digits for the programmers out there. As of writing this, I’m only at the first volume, but if this proves useful, I will gladly create more handcrafted random numbers just for you.</p>
+<p>Unfortunately, these random numbers aren’t truly random. Humans are notoriously bad at being random, and I am human, so I likely introduced a non-random bias into the system. I don’t know how to cheat with dice, nor did I try. While I made a good effort, it’s hard to call these artisan “random” numbers truly random.</p>
+<p>We’ll have to push further next time.</p>
+<hr>
+<h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ol>
+<li><a href="https://doi.org/10.1038/042013a0">Dice for Statistical Experiments</a></li>
+<li><a href="https://www.rand.org/content/dam/rand/pubs/papers/2008/P113.pdf">RAND Corporation’s History of Random Digits</a></li>
+<li><a href="https://www.amazon.com/Million-Random-Digits-Normal-Deviates/dp/0833030477">Book of A Million Random Digits</a></li>
+<li><a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjwx8Pt08D6AhU2lIkEHf8jAqcQFnoECAgQAQ&url=https://www.mdpi.com/2079-9292/10/13/1517/pdf&usg=AOvVaw1PiU7pbgXdIviYWLFI4TgC">Random Number Circuit Using Frequencies</a></li>
+</ol>
+]]></content>
+  </entry>
+  <entry>
     <title>The Beginning of Tau</title>
     <url>/the-beginning-of-tau/</url>
     <content><![CDATA[<p>Happy Tau Day, the day when you’re supposed to eat two pies. As an avid Pi Day enthusiast, June 28th provides the perfect opportunity to celebrate twice! All the major festivities you see on Pi Day, from memorizing digits to making music to baking fruit manifolds with crust boundaries, it’s all there on Tau Day. Ultimate Tau Day (6&#x2F;28&#x2F;31) is only eight years away, so start preparing before it’s too late.</p>
@@ -413,26 +450,6 @@
 <h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ol>
 <li><a href="https://www.cloudflare.com/learning/ssl/lava-lamp-encryption/">Cloudflare Uses Lava Lamps</a></li>
 <li><a href="https://web.archive.org/web/19971210213248/http://lavarand.sgi.com/">Lavarand Web Archive</a></li>
-</ol>
-]]></content>
-  </entry>
-  <entry>
-    <title>The Connoisseur of Random: Before Computers</title>
-    <url>/the-connoisseur-of-random-before-computers/</url>
-    <content><![CDATA[<p>As we discussed last time, computers aren’t great at generating truly random numbers. Can you do any better? You have plenty of practice generating random numbers, I can promise you that, as long as you’ve played a few board games.</p>
-<p>Dice. Roll one to get a random number. Roll a few and add them together to get bigger numbers. So many board games rely on you generating random numbers to make the game enjoyable. Will you pass Go or will you go bankrupt on Boardwalk? Will you climb a ladder or slide down a snake? It all depends on how the dice roll.</p>
-<p>In 1890 Francis Galton saw the power of using dice in statistics, creating a special set of dice for statistical experiments. He argued that shaking dice in a bag and taking them out with your eyes closed was sufficiently random for this random sampling technique.</p>
-<p>Dice are great, but no one has time to sit around, rolling dice hundreds of times to get random numbers. In the early-mid 1900s, scientists at Project RAND began developing better mechanical techniques, like using electronic “roulette wheels.” They generated some binary digits (0s and 1s) and converted the number to decimal. Using this technique, Project RAND turned into the RAND Corporation, selling books of one million random digits. The book still sells for roughly 70 USD. While their analyses of random digits looked usable for the most part, there were some issues with the odd-even distribution, and they made some strong assumptions about overcoming bias.</p>
-<p>While I respect the RAND Corporation for pioneering modern techniques, on my quest to finding the best truly random numbers, their method doesn’t meet the mark. You all deserve better. To understand the nature of writing a book of random numbers, I borrowed techniques from Galton and RAND, and <a href="https://github.com/ronikbhaskar/book-of-random-numbers/blob/main/volumes/Volume%20I.md">I wrote my own</a>.</p>
-<p>Rather than creating custom dice, I used existing six-sided dice. After rolling over 1000 dice, I converted from base 6 to base 10, and recorded my results. After thinking for a moment, I realized that one of the few things we need high volumes of random numbers of is dice rolls, so I saved those separately. Random coin flips would be nice too, so I did a bit more math to convert the dice rolls into coin flips. While I was at it, I converted the rolls into hexadecimal digits for the programmers out there. As of writing this, I’m only at the first volume, but if this proves useful, I will gladly create more handcrafted random numbers just for you.</p>
-<p>Unfortunately, these random numbers aren’t truly random. Humans are notoriously bad at being random, and I am human, so I likely introduced a non-random bias into the system. I don’t know how to cheat with dice, nor did I try. While I made a good effort, it’s hard to call these artisan “random” numbers truly random.</p>
-<p>We’ll have to push further next time.</p>
-<hr>
-<h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ol>
-<li><a href="https://doi.org/10.1038/042013a0">Dice for Statistical Experiments</a></li>
-<li><a href="https://www.rand.org/content/dam/rand/pubs/papers/2008/P113.pdf">RAND Corporation’s History of Random Digits</a></li>
-<li><a href="https://www.amazon.com/Million-Random-Digits-Normal-Deviates/dp/0833030477">Book of A Million Random Digits</a></li>
-<li><a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjwx8Pt08D6AhU2lIkEHf8jAqcQFnoECAgQAQ&url=https://www.mdpi.com/2079-9292/10/13/1517/pdf&usg=AOvVaw1PiU7pbgXdIviYWLFI4TgC">Random Number Circuit Using Frequencies</a></li>
 </ol>
 ]]></content>
   </entry>
