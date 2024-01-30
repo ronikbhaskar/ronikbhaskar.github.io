@@ -56,7 +56,7 @@ Looking back, weaponizing an equation against a calculator seems incredibly stra
 
 Now that I have my attack, how will the calculator respond? Remember, the correct answer is 1. I entered each instruction into my phone one at a time, watching the intermediate results grow and shrink until I was left with this: 0.998743.
 
-Yes! It's wrong. To be fair, it's only wrong by about 0.1%, but wrong is wrong. This calculator has its limits, and I have surpassed them. The attack works on my phone, so I tested it on a few other systems. I was able to use the same attack for my laptop, but I did need to translate it slightly for the other platforms. See the Appendix for the syntax of each attack.
+Yes! It's wrong. To be fair, it's only wrong by about 0.1%, but that's quite a bit. If I iterate this attack a second time, the error compounds exponentially, resulting in -1.3 billion, which is far from the expected answer of 1. This calculator has its limits, and I have surpassed them. The attack works on my phone, so I tested it on a few other systems. I was able to use the same attack for my laptop, but I did need to translate it slightly for the other platforms. See the Appendix for the syntax of each attack.
 
  - Laptop calculator: 0.998743475069388
  - Python: 0.9999333609006387
