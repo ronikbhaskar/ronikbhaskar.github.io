@@ -1,7 +1,7 @@
+https://ronikbhaskar.github.io/student-of-life-fm-radio-frequencies-are-lying-to-you/
 https://ronikbhaskar.github.io/student-of-life-the-flaw-in-every-calculator/
 https://ronikbhaskar.github.io/student-of-life-celestial-navigation-part-1/
 https://ronikbhaskar.github.io/ex-libris-kafka-on-the-shore/
-https://ronikbhaskar.github.io/student-of-life-fm-radio-frequencies-are-lying-to-you/
 https://ronikbhaskar.github.io/projects/
 https://ronikbhaskar.github.io/projects/linear_transformation_visualizer
 https://ronikbhaskar.github.io/publications/
@@ -32,6 +32,6 @@ https://ronikbhaskar.github.io/projects/obsidian-editor
 https://ronikbhaskar.github.io/projects/steganography
 https://ronikbhaskar.github.io/projects/tomato_timer
 https://ronikbhaskar.github.io/projects/math-art
-https://ronikbhaskar.github.io/projects/discord_scraper
 https://ronikbhaskar.github.io/projects/discord_bot
+https://ronikbhaskar.github.io/projects/discord_scraper
 https://ronikbhaskar.github.io/

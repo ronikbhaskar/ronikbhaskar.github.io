@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://ronikbhaskar.github.io/student-of-life-fm-radio-frequencies-are-lying-to-you/</loc>
+    
+    <lastmod>2024-02-01</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://ronikbhaskar.github.io/student-of-life-the-flaw-in-every-calculator/</loc>
     
     <lastmod>2024-01-30</lastmod>
@@ -21,15 +30,6 @@
   
   <url>
     <loc>https://ronikbhaskar.github.io/ex-libris-kafka-on-the-shore/</loc>
-    
-    <lastmod>2024-01-16</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://ronikbhaskar.github.io/student-of-life-fm-radio-frequencies-are-lying-to-you/</loc>
     
     <lastmod>2024-01-16</lastmod>
     
@@ -308,7 +308,7 @@
   </url>
   
   <url>
-    <loc>https://ronikbhaskar.github.io/projects/discord_scraper</loc>
+    <loc>https://ronikbhaskar.github.io/projects/discord_bot</loc>
     
     <lastmod>2023-07-01</lastmod>
     
@@ -317,7 +317,7 @@
   </url>
   
   <url>
-    <loc>https://ronikbhaskar.github.io/projects/discord_bot</loc>
+    <loc>https://ronikbhaskar.github.io/projects/discord_scraper</loc>
     
     <lastmod>2023-07-01</lastmod>
     
@@ -328,7 +328,7 @@
 
   <url>
     <loc>https://ronikbhaskar.github.io/</loc>
-    <lastmod>2024-01-30</lastmod>
+    <lastmod>2024-02-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
