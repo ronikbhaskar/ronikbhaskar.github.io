@@ -1,6 +1,8 @@
+https://ronikbhaskar.github.io/the-connoisseur-of-random-quantum-randomness/
+https://ronikbhaskar.github.io/student-of-life-celestial-navigation-part-1/
+https://ronikbhaskar.github.io/the-connoisseur-of-random-lava-lamps-are-protecting-your-data/
 https://ronikbhaskar.github.io/student-of-life-fm-radio-frequencies-are-lying-to-you/
 https://ronikbhaskar.github.io/student-of-life-the-flaw-in-every-calculator/
-https://ronikbhaskar.github.io/student-of-life-celestial-navigation-part-1/
 https://ronikbhaskar.github.io/ex-libris-kafka-on-the-shore/
 https://ronikbhaskar.github.io/projects/
 https://ronikbhaskar.github.io/projects/linear_transformation_visualizer
@@ -21,7 +23,6 @@ https://ronikbhaskar.github.io/square-one/
 https://ronikbhaskar.github.io/the-ai-summer-part-1/
 https://ronikbhaskar.github.io/the-end-of-pi/
 https://ronikbhaskar.github.io/the-connoisseur-of-random-predicting-the-future/
-https://ronikbhaskar.github.io/the-connoisseur-of-random-lava-lamps-are-protecting-your-data/
 https://ronikbhaskar.github.io/the-connoisseur-of-random-before-computers/
 https://ronikbhaskar.github.io/the-beginning-of-tau/
 https://ronikbhaskar.github.io/no-one-should-own-this-building/
@@ -32,6 +33,6 @@ https://ronikbhaskar.github.io/projects/obsidian-editor
 https://ronikbhaskar.github.io/projects/steganography
 https://ronikbhaskar.github.io/projects/tomato_timer
 https://ronikbhaskar.github.io/projects/math-art
-https://ronikbhaskar.github.io/projects/discord_bot
 https://ronikbhaskar.github.io/projects/discord_scraper
+https://ronikbhaskar.github.io/projects/discord_bot
 https://ronikbhaskar.github.io/
