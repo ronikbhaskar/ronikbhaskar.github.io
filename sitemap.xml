@@ -4,7 +4,16 @@
   <url>
     <loc>https://ronikbhaskar.github.io/the-connoisseur-of-random-quantum-randomness/</loc>
     
-    <lastmod>2024-02-05</lastmod>
+    <lastmod>2024-02-07</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://ronikbhaskar.github.io/publications/</loc>
+    
+    <lastmod>2024-02-07</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -68,15 +77,6 @@
     <loc>https://ronikbhaskar.github.io/projects/linear_transformation_visualizer</loc>
     
     <lastmod>2024-01-08</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://ronikbhaskar.github.io/publications/</loc>
-    
-    <lastmod>2024-01-05</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -317,7 +317,7 @@
   </url>
   
   <url>
-    <loc>https://ronikbhaskar.github.io/projects/discord_scraper</loc>
+    <loc>https://ronikbhaskar.github.io/projects/discord_bot</loc>
     
     <lastmod>2023-07-01</lastmod>
     
@@ -326,7 +326,7 @@
   </url>
   
   <url>
-    <loc>https://ronikbhaskar.github.io/projects/discord_bot</loc>
+    <loc>https://ronikbhaskar.github.io/projects/discord_scraper</loc>
     
     <lastmod>2023-07-01</lastmod>
     
@@ -337,7 +337,7 @@
 
   <url>
     <loc>https://ronikbhaskar.github.io/</loc>
-    <lastmod>2024-02-05</lastmod>
+    <lastmod>2024-02-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
