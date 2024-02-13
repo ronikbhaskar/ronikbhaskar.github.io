@@ -1,5 +1,7 @@
 ---
 title: About Me
+description: >-
+    I am a 4th year undergraduate studying math and CS at the University of Chicago. I am a research assistant in the SAND Lab where I'm fortunate to be co-advised by Prof. Heather Zheng and Prof. Ben Y. Zhao. I'm currently in the terrifying process of applying to CS PhD programs.
 ---
 
 <style>

@@ -1,5 +1,7 @@
 ---
 title: Projects
+description: >-
+    From an optimal bread slicing formula to topological variants of tic-tac-toe, I build a lot of stuff. Some of the projects have interactive websites, so you can experience the final product without digging through code or reading proofs. Play a game, learn about linear algebra, violate ToS, there are plenty of options from which to choose. 
 ---
 
 ## Lab Projects
