@@ -1,9 +1,10 @@
 ---
-title: 'Student of Life: Celestial Navigation Part 1'
+title: 'Student of Life: Celestial Navigation, Part 1'
 date: 2024-01-22 11:27:21
 tags:
 description: >-
-    Back in August of 2023, I grabbed my telescope, told my parents not to wait for me, and drove into the middle of nowhere. Stargazing has become essential to my life, and I hadn't been in a few months, so I was ready to go. The nights I go stargazing, I feel free, spending a few hours alone with the universe. I'm no astronomer by any means, but I enjoy studying the night sky. I'll usually pick one celestial body to focus on, whether that be Jupiter and its moons or some distant nebula I can barely see. That night, I decided to study Polaris. As I get out of the car, I pause to let my eyes adjust to the darkness. Carrying my telescope to the middle of the clearing, I'm careful not to trip on any rocks or step on any fireflies. I set my telescope down, close my eyes, and take a deep breath. As I open my eyes, I look up at the glittery sky above me.
+    Back in August of 2023, I grabbed my telescope, told my parents not to wait for me, and drove into the middle of nowhere. Stargazing has become essential to my life, and I hadn't been in a few months, so I was ready to go. The nights I go stargazing, I feel free, spending a few hours alone with the universe. I'm no astronomer by any means, but I enjoy studying the night sky. I'll usually pick one celestial body to focus on, whether that be Jupiter and its moons or some distant nebula I can barely see. That night, I decided to study Polaris. As I get out of the car, I pause to let my eyes adjust to the darkness. Carrying my telescope to the middle of the clearing, I'm careful not to trip on any rocks or step on any fireflies. I set my telescope down, close my eyes, and take a deep breath. As I open my eyes, I look up at the glittery sky above me.'
+keywords: "celestial navigation, north star, polaris, finding north, astronomy, student of life, fixed point, student of life"
 ---
 
 
