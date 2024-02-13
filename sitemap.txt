@@ -1,3 +1,5 @@
+https://ronikbhaskar.github.io/about/
+https://ronikbhaskar.github.io/projects/
 https://ronikbhaskar.github.io/student-of-life-celestial-navigation-part-2/
 https://ronikbhaskar.github.io/student-of-life-celestial-navigation-part-1/
 https://ronikbhaskar.github.io/the-connoisseur-of-random-quantum-randomness/
@@ -6,11 +8,9 @@ https://ronikbhaskar.github.io/the-connoisseur-of-random-lava-lamps-are-protecti
 https://ronikbhaskar.github.io/student-of-life-fm-radio-frequencies-are-lying-to-you/
 https://ronikbhaskar.github.io/student-of-life-the-flaw-in-every-calculator/
 https://ronikbhaskar.github.io/ex-libris-kafka-on-the-shore/
-https://ronikbhaskar.github.io/projects/
 https://ronikbhaskar.github.io/projects/linear_transformation_visualizer
 https://ronikbhaskar.github.io/taking-silly-ideas-seriously/
 https://ronikbhaskar.github.io/ex-libris-sleepy/
-https://ronikbhaskar.github.io/about/
 https://ronikbhaskar.github.io/projects/ultimate_tic_tac_toe
 https://ronikbhaskar.github.io/projects/text_generator
 https://ronikbhaskar.github.io/projects/oracle_society
