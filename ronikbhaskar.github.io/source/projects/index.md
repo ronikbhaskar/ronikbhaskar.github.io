@@ -4,7 +4,7 @@ description: >-
     From an optimal bread slicing formula to topological variants of tic-tac-toe, I build a lot of stuff. Some of the projects have interactive websites, so you can experience the final product without digging through code or reading proofs. Play a game, learn about linear algebra, violate ToS, there are plenty of options from which to choose. 
 ---
 
-## Lab Projects
+## Research Projects
 
 <details>
 <summary>
@@ -14,6 +14,16 @@ description: >-
     <li><a href="https://glaze.cs.uchicago.edu">Overview</a></li>
     <li><a href="https://glaze.cs.uchicago.edu/downloads.html">Download</a></li>
     <li><a href="https://glaze.cs.uchicago.edu/webglaze.html">Most Excited About This</a></li>
+</ul>
+</details>
+<br />
+
+<details>
+<summary>
+<b>LLM Testbed</b>
+</summary>
+<ul>
+    <li><a href="https://github.com/zainsarwar865/LLMTestBed">GitHub</a></li>
 </ul>
 </details>
 <br />
