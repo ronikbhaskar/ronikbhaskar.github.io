@@ -1,29 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>AM</title>
-    <url>/am/</url>
-    <content><![CDATA[<p>What does AM stand for? Maybe Ante Meridiem, before noon. Or maybe the element Americium (Am). Maybe it’s Artium Magister, a Master of Arts degree. Whatever the case, if you compound masters of the arts over time, you get Arctic Monkeys. </p>
-<p>In 2013, Arctic Monkeys released their fifth studio album, AM. While the title references the band’s name, the cover art says otherwise. Taking inspiration from Velvet Underground’s cover art of volume units (VU), AM’s cover art is a wave with changing heights—amplitude modulation (AM). </p>
-<p>As a recreational mathematician, I looked around the internet, trying to find a decent recreation of the AM cover as a graph, but none of them were good enough. Most stopped at just modulating a sine wave with a broader sine wave, but this method misses one crucial detail: the AM in the middle. Job Bouwman inserts the AM in the middle, but the heights and widths of the letters don’t quite match the cover.</p>
-<p>The Arctic Monkeys weren’t just monkeying around with amplitude modulation. They figured out a clever way to seamlessly insert their initials into the graph. Mark my words, I will do the same. I will recreate the AM cover.</p>
-<p>Rather than spending lots of time setting up a Jupyter Notebook and writing lots of Python code to establish a working development environment, I’m using Desmos. I believe the initial concept art began with a standard modulation of a sine wave inside a sine wave, so I am starting the same way.</p>
-<p><img src="/images/initial_am.png"></p>
-<p>Aha! See? In the center? There is a segment of the graph that can be used for the AM. I’ll mark it in green. This will require removing that purple part, which I see as a bonus. The A and M in the cover have longer wavelengths than the rest of the graph, so stretching the green segment should recreate this well.</p>
-<p><img src="/images/am_annotated.png"></p>
-<p>After stretching the green segment of the graph, the height of each portion will need to be adjusted. Maybe I’m just throwing a hammer at a screw, but a sigmoid function looks like it will do the trick. A few adjustments later, and we have this:</p>
-<p><img src="/images/am_final.png"></p>
-<p>A few minutes ago, I was perfectly happy with this result, but that is no longer the case. Yes, I completed what I set out to do, but the closer I get, the farther I feel. The M needs to be more rectangular. My approximation isn’t actually a continuous function, much less a differentiable one. Looking at the two side-by-side, I can no longer see their similarities, only their differences. Recreating this cover art was supposed to be about a quick recreational math project, but now I feel obliged to honor this album. If imitation is the sincerest form of flattery, are better imitations more flattering?</p>
-<p>After this project, I suppose not. By acknowledging the distance between my imitation and the original, I can do justice to the beauty it holds. I may have not recreated the cover perfectly, but I can certainly appreciate it much more now than I could when I first saw it. This is no Absent Minded Advanced Math. This is AM. </p>
-<hr>
-<ol>
-<li><p><a href="https://www.nme.com/news/music/arctic-monkeys-178-1266582">Influence of VU on AM</a></p>
-</li>
-<li><p><a href="https://www.quora.com/What-function-is-Arctic-Monkeys-album-cover">Job Bouwman’s approximation</a></p>
-</li>
-<li><p><a href="https://www.desmos.com/calculator/v37m6icmwg">My recreation</a></p>
-</li>
-</ol>
+    <title>A Heart, a Plane, and a Seahorse | Designs from the Last Two Months</title>
+    <url>/a-heart-a-plane-and-a-seahorse-designs-from-the-last-two-months/</url>
+    <content><![CDATA[<p>Learning origami is a strange process. Unlike other forms of visual art, many origami artists will never create a piece without following explicit sets of instructions. In fact, you can become an exceptional origamist without ever designing a single piece yourself. In many ways, origami parallels music, in which great musicians don’t need to be composers, but through their technical mastery and musicality, they can create beauty from the notes on the page. Origamists do the same, combining precise control of the paper with tactfully applied sculpting techniques to create art. The ability to design origami is neither necessary nor sufficient to be a great origamist. </p>
+<p>I mostly design for fun, though there are a few practical benefits. Designing origami can help you connect with other art forms. So many visual artists learn to study anatomy and draw from references, and I did much of the same when designing this seahorse. As I iterated through different approaches, I had my computer open with pictures of seahorses in various poses to better understand the most important features of a seahorse. While I like to think I studied my references well, I took some artistic liberties in my design. First, in my mind, seahorses are rather regal, so when approaching the coronet of the seahorse, I gave it two spikes instead of one lump. This way, the coronet looks a bit more like a crown. Technically, a coronet is already a crown, just for a lesser position, and I wanted a higher-ranking crown for my design. Second, I turned the large dorsal fin into two pectoral fins. This was a massive departure from actual seahorse anatomy, but for people who haven’t looked at many pictures of seahorses, they expect pectoral fins, and this was my attempt at combining perception with reality.</p>
+<img src="/images/origami_seahorse.png" alt="An origami seahorse, designed by Ronik Bhaskar.">
+
+<p>I didn’t use any references when I designed a plane, but I did have some anti-references. I had paper planes—the kind you throw—sitting in front of me so I knew what not to make. Obviously, this is a plane made of paper, but it is not a paper plane. It doesn’t look like one of those planes you can throw that flies; it looks like an actual, commercial airplane. I tried making the end result look as simple as possible, but in doing so, I spent lots of time grappling with the unfortunate reality of origami: paper is thick. As you continue to fold paper, the thickness accumulates, making it harder to continue without causing the paper to shift in ways you never intended. The body of this plane has one segment that is incredibly thick, but using some techniques to counteract this, I was able to manage the thickness without greatly impacting the rest of the model.</p>
+<img src="/images/origami_plane.png" alt="An origami airplane, designed by Ronik Bhaskar.">
+
+<p>Designing a heart was a rather strange undertaking. Every Valentine’s Day, someone always makes a comment about folding an anatomical heart, but no one I know ever tries to fold one. I’ve tried folding a heart before, though it looked more like a blob. This Valentine’s Day, I tried again, this time focusing on getting more tubes in the right place. From the vena cava to the pulmonary vein, it’s a decent attempt. This is actually my first draft; I didn’t have time to make multiple. I do have a few nitpicks for my next attempt. First, I had enough paper to add more features, I was just a bit reserved, but next time I should add more tubes. Second, I spend a lot of effort on an aortic arch that is just too low to see, so I’ll revisit that next time. That being said, it is much better than my first attempt a few years ago, and I’m still quite pleased with how it turned out.</p>
+<img src="/images/origami_heart.png" alt="An origami anatomical heart, designed by Ronik Bhaskar.">
+
+<p>To be clear, not all of my design attempts work this well. For example, I also tried designing an Oreo, but it looks more like an exploding macaron right now. I still have a ways to go before I start designing technically advanced origami, but these past few months have been good. I have the benefit of a community of folders around me, but that need not be the case. Ultimately, I just needed to get back into designing origami. <a href="/ex-libris-kafka-on-the-shore/">My recent exhibit</a> also helped me realize that. I don’t know how many more inspiring opportunities I’ll have, but I do hope I keep designing. Maybe in a few months, I’ll have better designs; maybe I’ll have nothing. Either way, I’ll still be folding.</p>
 ]]></content>
   </entry>
   <entry>
@@ -57,16 +47,29 @@
 ]]></content>
   </entry>
   <entry>
-    <title>Ex Libris: Gadsby (not The Great Gatsby)</title>
-    <url>/ex-libris-gadsby/</url>
-    <content><![CDATA[<p>IMPORTANT: This is about the book <em>Gadsby</em> By Ernest Vincent Wright, not <em>The Great Gatsby</em> by F. Scott Fitzgerald. </p>
-<p>Legend says a man once ripped a piece of twine, tied down the E key on his typewriter, and proceeded to write a 50,000 word novel without the letter E. Original copies of his literary masterpiece now sell for thousands of dollars. He assured his own rise to fame, and everything went smoothly until someone opened his book.</p>
-<h2 id="Gimmicks-Can’t-Save-Bad-Writing"><a href="#Gimmicks-Can’t-Save-Bad-Writing" class="headerlink" title="Gimmicks Can’t Save Bad Writing"></a>Gimmicks Can’t Save Bad Writing</h2><p>Lipograms are a form of constrained writing where the author avoids using one or more particular letters in the piece. While the gimmick entertains audiences, the piece must still be worth reading. The author can get away with less meaningful work, since purpose is contained in the style, but no amount of dropping letters alone makes literature worth reading.</p>
-<p>Typically, a story resolves near the end. Instead, Wright wrote <em>Gadsby</em> like a drawn-out sitcom. After resolving the issue in roughly 10 chapters, he proceeds with 30 more chapters that all revolve around everyone being happy, with no major conflicts ever presented afterwards. Kids grow up and get married. A man that has never worked in politics becomes the mayor with little hassle. A zoo magically opens. Almost every chapter presents a neat and tidy event ending with celebrations from everyone, and Wright could easily end the story there, but he doesn’t, so the book drags on, and the only reason you’re still reading is because you want it to end.</p>
-<p>Applying any amount of critical theory, feminists will have an absolute field day exploring the infinite ways Wright seems to bring up gender norms. Every other chapter finds a way to assert the backwards notions of women necessarily being small and weak and good at cooking and taking care of children while the men are big and strong and good at building. Some may argue Wright’s use of gender roles is expected, since this book was written in the 1930s. With historical context and the advent of World War II, attributing women’s value to having small statures and delicate hands and homemaking was incredibly backwards, with countless women working industrial jobs during the period of wartime economy.</p>
-<p>As if that wasn’t enough, Wright’s inflated ego shows through in his writing. Naturally, Wright is the first-person narrator, depicted as a historian describing the town. Despite separating himself from the events of the story as this all-seeing onlooker, his frequent interjections make you wonder if he’s too convinced of his own story. For example, in chapter VII, he makes a disturbing quip about passing up kissing a snake to instead kiss Lucy, a fictitious child, while he is still the adult historian describing the story.</p>
-<h2 id="The-Failed-Lipogram"><a href="#The-Failed-Lipogram" class="headerlink" title="The Failed Lipogram"></a>The Failed Lipogram</h2><p>I pushed through the book, hoping to gain some linguistic insights. While I give Wright mild credit for calling flowers “blossoming plants” and turkey “Thanksgiving National Bird,” I cannot forgive his egregious errors. Despite Wright’s claims of not using the letter E, the original publication contains three instances of the word “the” and one instance of the word “officers,” totaling 4 E’s in the body of the text.</p>
-<p>Historical records describe Wright’s attempts at publishing all failing, and he had to turn to self-publishing through Wetzel Publishing Co. After reading this book, I finally understand why. Gimmicks won’t save your story, and twine won’t hold down your typewriter’s E key.</p>
+    <title>AM</title>
+    <url>/am/</url>
+    <content><![CDATA[<p>What does AM stand for? Maybe Ante Meridiem, before noon. Or maybe the element Americium (Am). Maybe it’s Artium Magister, a Master of Arts degree. Whatever the case, if you compound masters of the arts over time, you get Arctic Monkeys. </p>
+<p>In 2013, Arctic Monkeys released their fifth studio album, AM. While the title references the band’s name, the cover art says otherwise. Taking inspiration from Velvet Underground’s cover art of volume units (VU), AM’s cover art is a wave with changing heights—amplitude modulation (AM). </p>
+<p>As a recreational mathematician, I looked around the internet, trying to find a decent recreation of the AM cover as a graph, but none of them were good enough. Most stopped at just modulating a sine wave with a broader sine wave, but this method misses one crucial detail: the AM in the middle. Job Bouwman inserts the AM in the middle, but the heights and widths of the letters don’t quite match the cover.</p>
+<p>The Arctic Monkeys weren’t just monkeying around with amplitude modulation. They figured out a clever way to seamlessly insert their initials into the graph. Mark my words, I will do the same. I will recreate the AM cover.</p>
+<p>Rather than spending lots of time setting up a Jupyter Notebook and writing lots of Python code to establish a working development environment, I’m using Desmos. I believe the initial concept art began with a standard modulation of a sine wave inside a sine wave, so I am starting the same way.</p>
+<p><img src="/images/initial_am.png"></p>
+<p>Aha! See? In the center? There is a segment of the graph that can be used for the AM. I’ll mark it in green. This will require removing that purple part, which I see as a bonus. The A and M in the cover have longer wavelengths than the rest of the graph, so stretching the green segment should recreate this well.</p>
+<p><img src="/images/am_annotated.png"></p>
+<p>After stretching the green segment of the graph, the height of each portion will need to be adjusted. Maybe I’m just throwing a hammer at a screw, but a sigmoid function looks like it will do the trick. A few adjustments later, and we have this:</p>
+<p><img src="/images/am_final.png"></p>
+<p>A few minutes ago, I was perfectly happy with this result, but that is no longer the case. Yes, I completed what I set out to do, but the closer I get, the farther I feel. The M needs to be more rectangular. My approximation isn’t actually a continuous function, much less a differentiable one. Looking at the two side-by-side, I can no longer see their similarities, only their differences. Recreating this cover art was supposed to be about a quick recreational math project, but now I feel obliged to honor this album. If imitation is the sincerest form of flattery, are better imitations more flattering?</p>
+<p>After this project, I suppose not. By acknowledging the distance between my imitation and the original, I can do justice to the beauty it holds. I may have not recreated the cover perfectly, but I can certainly appreciate it much more now than I could when I first saw it. This is no Absent Minded Advanced Math. This is AM. </p>
+<hr>
+<ol>
+<li><p><a href="https://www.nme.com/news/music/arctic-monkeys-178-1266582">Influence of VU on AM</a></p>
+</li>
+<li><p><a href="https://www.quora.com/What-function-is-Arctic-Monkeys-album-cover">Job Bouwman’s approximation</a></p>
+</li>
+<li><p><a href="https://www.desmos.com/calculator/v37m6icmwg">My recreation</a></p>
+</li>
+</ol>
 ]]></content>
   </entry>
   <entry>
@@ -273,6 +276,19 @@
 ]]></content>
   </entry>
   <entry>
+    <title>Ex Libris: Gadsby (not The Great Gatsby)</title>
+    <url>/ex-libris-gadsby/</url>
+    <content><![CDATA[<p>IMPORTANT: This is about the book <em>Gadsby</em> By Ernest Vincent Wright, not <em>The Great Gatsby</em> by F. Scott Fitzgerald. </p>
+<p>Legend says a man once ripped a piece of twine, tied down the E key on his typewriter, and proceeded to write a 50,000 word novel without the letter E. Original copies of his literary masterpiece now sell for thousands of dollars. He assured his own rise to fame, and everything went smoothly until someone opened his book.</p>
+<h2 id="Gimmicks-Can’t-Save-Bad-Writing"><a href="#Gimmicks-Can’t-Save-Bad-Writing" class="headerlink" title="Gimmicks Can’t Save Bad Writing"></a>Gimmicks Can’t Save Bad Writing</h2><p>Lipograms are a form of constrained writing where the author avoids using one or more particular letters in the piece. While the gimmick entertains audiences, the piece must still be worth reading. The author can get away with less meaningful work, since purpose is contained in the style, but no amount of dropping letters alone makes literature worth reading.</p>
+<p>Typically, a story resolves near the end. Instead, Wright wrote <em>Gadsby</em> like a drawn-out sitcom. After resolving the issue in roughly 10 chapters, he proceeds with 30 more chapters that all revolve around everyone being happy, with no major conflicts ever presented afterwards. Kids grow up and get married. A man that has never worked in politics becomes the mayor with little hassle. A zoo magically opens. Almost every chapter presents a neat and tidy event ending with celebrations from everyone, and Wright could easily end the story there, but he doesn’t, so the book drags on, and the only reason you’re still reading is because you want it to end.</p>
+<p>Applying any amount of critical theory, feminists will have an absolute field day exploring the infinite ways Wright seems to bring up gender norms. Every other chapter finds a way to assert the backwards notions of women necessarily being small and weak and good at cooking and taking care of children while the men are big and strong and good at building. Some may argue Wright’s use of gender roles is expected, since this book was written in the 1930s. With historical context and the advent of World War II, attributing women’s value to having small statures and delicate hands and homemaking was incredibly backwards, with countless women working industrial jobs during the period of wartime economy.</p>
+<p>As if that wasn’t enough, Wright’s inflated ego shows through in his writing. Naturally, Wright is the first-person narrator, depicted as a historian describing the town. Despite separating himself from the events of the story as this all-seeing onlooker, his frequent interjections make you wonder if he’s too convinced of his own story. For example, in chapter VII, he makes a disturbing quip about passing up kissing a snake to instead kiss Lucy, a fictitious child, while he is still the adult historian describing the story.</p>
+<h2 id="The-Failed-Lipogram"><a href="#The-Failed-Lipogram" class="headerlink" title="The Failed Lipogram"></a>The Failed Lipogram</h2><p>I pushed through the book, hoping to gain some linguistic insights. While I give Wright mild credit for calling flowers “blossoming plants” and turkey “Thanksgiving National Bird,” I cannot forgive his egregious errors. Despite Wright’s claims of not using the letter E, the original publication contains three instances of the word “the” and one instance of the word “officers,” totaling 4 E’s in the body of the text.</p>
+<p>Historical records describe Wright’s attempts at publishing all failing, and he had to turn to self-publishing through Wetzel Publishing Co. After reading this book, I finally understand why. Gimmicks won’t save your story, and twine won’t hold down your typewriter’s E key.</p>
+]]></content>
+  </entry>
+  <entry>
     <title>Square One</title>
     <url>/square-one/</url>
     <content><![CDATA[<p>After another set of fruitless experiments and abandoned ideas, my mentor told me we were back to square one.</p>
@@ -314,28 +330,6 @@
 <p>After a while, the scouts started working on an activity that didn’t require us to do much, so the president and I chatted for a bit. I had no reason to pretend like I knew anything about space, so I let myself ask very stupid questions. I probably could’ve googled how many constellations there were, but it ended up being a good way to start the conversation. As a bonus, I still remember there are 88 constellations, and I still remember a little about how the brightest stars in each constellation are named. The president also cracked a few jokes about Orion’s Sword which I thought were hilarious. If the old president ever sees this, thanks for being awesome.</p>
 <p>A few years later, I was in the middle of nowhere with my telescope, when I remembered those jokes about Orion’s Sword. Given the clear conditions, I decided to observe the three stars that make up the sword. Throughout the night, I watched as the sword moved across the sky when I noticed something strange. At its zenith, the sword appeared to be pointing straight down. By this point, I had already made my <a href="/student-of-life-celestial-navigation-part-1/">revelations about the north star</a>, so I quickly realized the sword was pointing south. When I pulled out my compass, the sword was a little off, but not by much, less than a degree. Living in the northern hemisphere, I wasn’t sure how this would hold for the rest of the night, so I waited a bit to observe it again. I followed the direction of the sword until I hit the horizon, and I checked the direction. This time, it was off by even more. As I expected, the Earth was getting in the way of being able to use Orion’s Sword to find south, but it still worked pretty well. With a bit of latitude correction, finding south using Orion’s Sword seemed absolutely possible, it would just require a bit of math. A project for another night, perhaps.</p>
 <p>It’s hard to believe that because of a joke I heard a few years ago, I learned about celestial navigation, but I suppose that’s what the student of life is about. A few years ago, I volunteered at an event for which I was extremely unqualified. I don’t quite know why I was given the opportunity, but I am extremely grateful. That opportunity, like so many others, has given me more than I could ever give. Even today, I’m still learning and growing from everything I have been given. Eventually, the day will come when I can offer more than I receive, but even then, I will still keep learning. I will still be a student of life.</p>
-]]></content>
-  </entry>
-  <entry>
-    <title>Student of Life: FM Radio Frequencies are Lying to You</title>
-    <url>/student-of-life-fm-radio-frequencies-are-lying-to-you/</url>
-    <content><![CDATA[<p>The other day, I was driving to work when suddenly my radio started playing. I don’t typically listen to the radio, but the music was nice, so I let it keep playing. After the song finished, the radio announcer said, “You’re listening to 98.9* FM radio.”</p>
-<p>And that’s when my brain broke a little.</p>
-<p>Up until this point, I knew very little about how radio worked. All I knew was that somehow, sound waves turned into electromagnetic waves and back into sound waves, and my brain was okay with this limited understanding because it seemed intuitive. The whole process was just waves becoming waves becoming waves. All waves have frequency and amplitude, so taking that information from one wave and putting it on another wave didn’t seem so strange.</p>
-<p>The only problem is that my intuition was wrong. When you read a radio station number, that station number is the frequency of the radio station. Hearing the announcer’s voice, I realized that if the radio station number is fixed, then the station has a fixed electromagnetic frequency, so the station has to encode sound frequency and amplitude without changing their electromagnetic frequency. </p>
-<p>AM radio uses a very elegant process for encoding sound. They do this through amplitude modulation. Amplitude modulation imposes the shape of one wave onto the amplitude of a carrier wave. Ideally, the carrier wave has a much higher frequency than the broadcast wave. The slowest AM carrier waves oscillate over 540 thousand times per second, which is roughly 30 times faster than the highest frequencies audible to adult humans, so AM carrier waves are definitely going fast enough. By imposing the broadcast wave over the carrier wave, AM radio stations can broadcast full audio waves without changing frequency. </p>
-<p>AM radio is great, but for the vast majority of people, the last time they listened to music on the radio, it was FM radio. Unlike AM radio, FM radio uses a fixed amplitude. This is where I really got confused. If the amplitude and frequency are constant, then how do you convey any information? It turns out, the frequency is not constant. FM—frequency modulation—radio stations vary the frequency of the carrier wave to encode information. A higher frequency corresponds to a peak, and a lower frequency corresponds to a trough. When you listen to 98.9, you’re not actually receiving 98.9 MHz radio waves. Instead, your radio is listening to all frequencies between 98.8 MHz and 90.0 MHz. The vast majority of the time that your screen says 98.9, you’re not actually listening to 98.9. You could be listening to 98.89 or 98.91, but 98.9 is incredibly rare. Radio stations are lying about their station number. They almost never send you radio waves at their channel’s frequency.</p>
-<p>Realizing this, I felt betrayed. I didn’t listen to FM radio to begin with, but I certainly wasn’t going to start. Why number your station off a frequency you almost never broadcast? Radio is an incredible medium, but this burden is too much to bear. Listen to anything else, even a <a href="https://jonikpodcast.github.io/">podcast exploring life through etymology</a>, but beware the lies of FM radio.</p>
-<!-- After realizing this bitter truth about FM radio, I have stopped listening to it altogether. I am not the only one. Countless people have stopped listening to FM radio, and each one realized the same truth I did. Retract your radio antennas. Shut off your receivers. Stop listening to the radio, because they stopped listening to you a long time ago. -->
-
-<hr>
-<p>*<em>not a real radio station</em></p>
-<h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ol>
-<li><a href="https://www.fcc.gov/media/radio/fm-frequencies-end-odd-decimal">AM and FM Radio Frequency Details</a></li>
-<li><a href="https://en.wikipedia.org/wiki/AM_broadcasting">AM Broadcasting</a></li>
-<li><a href="https://en.wikipedia.org/wiki/FM_broadcasting">FM Broadcasting</a></li>
-<li><a href="/am/">AM (short piece I wrote)</a></li>
-</ol>
 ]]></content>
   </entry>
   <entry>
@@ -393,6 +387,28 @@
 <figure class="highlight c"><table><tr><td class="code"><pre><span class="line">(<span class="number">1.0</span>/<span class="number">7.0</span> * <span class="number">1000000000000000000</span> - <span class="number">142857000000000000</span> - <span class="number">142857000000</span>) * <span class="number">7.0</span> / <span class="number">1000000</span></span><br></pre></td></tr></table></figure>
 
 <h3 id="ChatGPT"><a href="#ChatGPT" class="headerlink" title="ChatGPT"></a>ChatGPT</h3><p>Prompt: What is ((1 &#x2F; 7) * 10^100 - 1.42857 * 10^99 - 1.42857 * 10^93) * 7 &#x2F; (10^88)?</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>Student of Life: FM Radio Frequencies are Lying to You</title>
+    <url>/student-of-life-fm-radio-frequencies-are-lying-to-you/</url>
+    <content><![CDATA[<p>The other day, I was driving to work when suddenly my radio started playing. I don’t typically listen to the radio, but the music was nice, so I let it keep playing. After the song finished, the radio announcer said, “You’re listening to 98.9* FM radio.”</p>
+<p>And that’s when my brain broke a little.</p>
+<p>Up until this point, I knew very little about how radio worked. All I knew was that somehow, sound waves turned into electromagnetic waves and back into sound waves, and my brain was okay with this limited understanding because it seemed intuitive. The whole process was just waves becoming waves becoming waves. All waves have frequency and amplitude, so taking that information from one wave and putting it on another wave didn’t seem so strange.</p>
+<p>The only problem is that my intuition was wrong. When you read a radio station number, that station number is the frequency of the radio station. Hearing the announcer’s voice, I realized that if the radio station number is fixed, then the station has a fixed electromagnetic frequency, so the station has to encode sound frequency and amplitude without changing their electromagnetic frequency. </p>
+<p>AM radio uses a very elegant process for encoding sound. They do this through amplitude modulation. Amplitude modulation imposes the shape of one wave onto the amplitude of a carrier wave. Ideally, the carrier wave has a much higher frequency than the broadcast wave. The slowest AM carrier waves oscillate over 540 thousand times per second, which is roughly 30 times faster than the highest frequencies audible to adult humans, so AM carrier waves are definitely going fast enough. By imposing the broadcast wave over the carrier wave, AM radio stations can broadcast full audio waves without changing frequency. </p>
+<p>AM radio is great, but for the vast majority of people, the last time they listened to music on the radio, it was FM radio. Unlike AM radio, FM radio uses a fixed amplitude. This is where I really got confused. If the amplitude and frequency are constant, then how do you convey any information? It turns out, the frequency is not constant. FM—frequency modulation—radio stations vary the frequency of the carrier wave to encode information. A higher frequency corresponds to a peak, and a lower frequency corresponds to a trough. When you listen to 98.9, you’re not actually receiving 98.9 MHz radio waves. Instead, your radio is listening to all frequencies between 98.8 MHz and 90.0 MHz. The vast majority of the time that your screen says 98.9, you’re not actually listening to 98.9. You could be listening to 98.89 or 98.91, but 98.9 is incredibly rare. Radio stations are lying about their station number. They almost never send you radio waves at their channel’s frequency.</p>
+<p>Realizing this, I felt betrayed. I didn’t listen to FM radio to begin with, but I certainly wasn’t going to start. Why number your station off a frequency you almost never broadcast? Radio is an incredible medium, but this burden is too much to bear. Listen to anything else, even a <a href="https://jonikpodcast.github.io/">podcast exploring life through etymology</a>, but beware the lies of FM radio.</p>
+<!-- After realizing this bitter truth about FM radio, I have stopped listening to it altogether. I am not the only one. Countless people have stopped listening to FM radio, and each one realized the same truth I did. Retract your radio antennas. Shut off your receivers. Stop listening to the radio, because they stopped listening to you a long time ago. -->
+
+<hr>
+<p>*<em>not a real radio station</em></p>
+<h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ol>
+<li><a href="https://www.fcc.gov/media/radio/fm-frequencies-end-odd-decimal">AM and FM Radio Frequency Details</a></li>
+<li><a href="https://en.wikipedia.org/wiki/AM_broadcasting">AM Broadcasting</a></li>
+<li><a href="https://en.wikipedia.org/wiki/FM_broadcasting">FM Broadcasting</a></li>
+<li><a href="/am/">AM (short piece I wrote)</a></li>
+</ol>
 ]]></content>
   </entry>
   <entry>
@@ -673,20 +689,6 @@
 <!-- *Add to the [dialogue](/chat), and become part of my story.* -->]]></content>
   </entry>
   <entry>
-    <title>Full Stack Chat App</title>
-    <url>/projects/chat.html</url>
-    <content><![CDATA[<p>Chat with me <a href="/chat">here</a>. (You’ll know it’s me because my name is <strong>bold</strong>.)</p>
-<h2 id="Designing-the-UI"><a href="#Designing-the-UI" class="headerlink" title="Designing the UI"></a>Designing the UI</h2><p>I don’t create in a vacuum. The people around me drastically influence my creations. Our conversations feel like dialogue in a script. There’s a purpose to everything being said. It’s driving the plot somewhere, and I would never reach the end without their help. </p>
-<p>My chat app doesn’t look like Messages or WhatsApp or Slack or Discord because I don’t see it as a chat app. It’s a continuation of the dialogue happening all around me, which is why <strong>I built the chat app to look like a movie script.</strong> The header has an act number, the location is specified, we get a general description, and the rest that follows is the dialogue.</p>
-<h2 id="Engineering-the-App"><a href="#Engineering-the-App" class="headerlink" title="Engineering the App"></a>Engineering the App</h2><p>I’m incredibly grateful for the power and flexibility of GitHub pages (as you can tell by the URL). That being said, the documentation says they only support static sites, or so they claim. Depending on how much functionality you want from the site, you can do user authentication and even have hooks checking for database updates, updating the UI in real-time. </p>
-<p><strong>For the backend, I used Google Firebase.</strong> Their free tier, the Spark plan, is incredibly powerful, and if you’re getting enough traffic to exceed its limits, you have the demand to monetize your product. I don’t expect heavy traffic, so the Spark plan is enough for me.</p>
-<p>Firebase allows for for Google Authentication, along with plenty of other auth providers. This makes it mildly more difficult to spam the site with fake accounts, and the authentication redirect keeps auth traffic away from GitHub. It’s a win-win.</p>
-<p><strong>For the frontend, I used React.</strong> This isn’t an incredibly intense, so vanilla JS was an option, but React’s libraries wrapping Firebase query snapshots made development much easier. </p>
-<p>There are tutorials and articles out there for building apps with React and Firebase, but relevant ones used Firebase v8 instead of v9, which transitions away from the namespacing. Luckily, Firebase’s documentation covers translating v8 into v9.</p>
-<hr>
-<p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
-  </entry>
-  <entry>
     <title>Discord Bot</title>
     <url>/projects/discord_bot.html</url>
     <content><![CDATA[<p>Access the source files <a href="https://github.com/ronikbhaskar/discord_bot">here</a>. </p>
@@ -717,12 +719,16 @@
 <p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
   </entry>
   <entry>
-    <title>Discord Scraper</title>
-    <url>/projects/discord_scraper.html</url>
-    <content><![CDATA[<p>Access the source files <a href="https://github.com/ronikbhaskar/discord_scraper">here</a>. </p>
-<h2 id="Disclaimer"><a href="#Disclaimer" class="headerlink" title="Disclaimer"></a>Disclaimer</h2><p>Botting your Discord account violates their Terms of Service. I do not use this scraper, nor will I, and I recommend you never use it either. This is solely for educational purposes.</p>
-<h2 id="Theoretical-Use-Cases"><a href="#Theoretical-Use-Cases" class="headerlink" title="Theoretical Use Cases"></a>Theoretical Use Cases</h2><p>Hypothetically speaking, wouldn’t it be cool to go through your server’s chat history, run the text through a Markov Chain generator, and spit out some nonsense for you all to laugh at? Just a thought. It would be tedious, copying every message by hand, but it’s definitely doable, so that’s how you should do it. By hand.</p>
-<h2 id="Getting-your-Access-Token"><a href="#Getting-your-Access-Token" class="headerlink" title="Getting your Access Token"></a>Getting your Access Token</h2><p>Now, having access to the Discord API requires an Access Token, and no one would know how to get their access token. I mean, who is going to open Discord in Chrome, open the inspector, switch to mobile&#x2F;tablet display, go to the Application tab, find the sidebar section labeled Storage, select <a href="https://discord.com/">https://discord.com</a> from the Local Storage dropdown, search token, and copy the value from the Key-Value pair? That’s a ridiculous number of hoops to jump through, and I can’t imagine anyone figuring that out on their own. </p>
+    <title>Full Stack Chat App</title>
+    <url>/projects/chat.html</url>
+    <content><![CDATA[<p>Chat with me <a href="/chat">here</a>. (You’ll know it’s me because my name is <strong>bold</strong>.)</p>
+<h2 id="Designing-the-UI"><a href="#Designing-the-UI" class="headerlink" title="Designing the UI"></a>Designing the UI</h2><p>I don’t create in a vacuum. The people around me drastically influence my creations. Our conversations feel like dialogue in a script. There’s a purpose to everything being said. It’s driving the plot somewhere, and I would never reach the end without their help. </p>
+<p>My chat app doesn’t look like Messages or WhatsApp or Slack or Discord because I don’t see it as a chat app. It’s a continuation of the dialogue happening all around me, which is why <strong>I built the chat app to look like a movie script.</strong> The header has an act number, the location is specified, we get a general description, and the rest that follows is the dialogue.</p>
+<h2 id="Engineering-the-App"><a href="#Engineering-the-App" class="headerlink" title="Engineering the App"></a>Engineering the App</h2><p>I’m incredibly grateful for the power and flexibility of GitHub pages (as you can tell by the URL). That being said, the documentation says they only support static sites, or so they claim. Depending on how much functionality you want from the site, you can do user authentication and even have hooks checking for database updates, updating the UI in real-time. </p>
+<p><strong>For the backend, I used Google Firebase.</strong> Their free tier, the Spark plan, is incredibly powerful, and if you’re getting enough traffic to exceed its limits, you have the demand to monetize your product. I don’t expect heavy traffic, so the Spark plan is enough for me.</p>
+<p>Firebase allows for for Google Authentication, along with plenty of other auth providers. This makes it mildly more difficult to spam the site with fake accounts, and the authentication redirect keeps auth traffic away from GitHub. It’s a win-win.</p>
+<p><strong>For the frontend, I used React.</strong> This isn’t an incredibly intense, so vanilla JS was an option, but React’s libraries wrapping Firebase query snapshots made development much easier. </p>
+<p>There are tutorials and articles out there for building apps with React and Firebase, but relevant ones used Firebase v8 instead of v9, which transitions away from the namespacing. Luckily, Firebase’s documentation covers translating v8 into v9.</p>
 <hr>
 <p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
   </entry>
@@ -746,6 +752,16 @@
 <p>I made a few similar changes, removing redundant data structures and fancy sorting and simplifying to basic arithmetic operations. All of a sudden, my basic minimax implementation was flying, and the program generated a table with all of the optimal moves in 22 seconds.</p>
 <h2 id="Reinforcement-Learning-Dawson’s-Strategy"><a href="#Reinforcement-Learning-Dawson’s-Strategy" class="headerlink" title="Reinforcement Learning (Dawson’s Strategy)"></a>Reinforcement Learning (Dawson’s Strategy)</h2><p>While I was working on this, Dawson took a different approach. Rather than using massive lookup space reductions, he turned to Reinforcement Learning with Monte-Carlo Tree Search. I’ll leave him to give an explanation of his process and how he approached this problem.</p>
 <h2 id="Two-Will-Enter-Only-One-Will-Leave"><a href="#Two-Will-Enter-Only-One-Will-Leave" class="headerlink" title="Two Will Enter, Only One Will Leave"></a>Two Will Enter, Only One Will Leave</h2><p>Now that we have our working Forest bots, we need to pit them against each other and see how they compare.</p>
+<hr>
+<p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>Discord Scraper</title>
+    <url>/projects/discord_scraper.html</url>
+    <content><![CDATA[<p>Access the source files <a href="https://github.com/ronikbhaskar/discord_scraper">here</a>. </p>
+<h2 id="Disclaimer"><a href="#Disclaimer" class="headerlink" title="Disclaimer"></a>Disclaimer</h2><p>Botting your Discord account violates their Terms of Service. I do not use this scraper, nor will I, and I recommend you never use it either. This is solely for educational purposes.</p>
+<h2 id="Theoretical-Use-Cases"><a href="#Theoretical-Use-Cases" class="headerlink" title="Theoretical Use Cases"></a>Theoretical Use Cases</h2><p>Hypothetically speaking, wouldn’t it be cool to go through your server’s chat history, run the text through a Markov Chain generator, and spit out some nonsense for you all to laugh at? Just a thought. It would be tedious, copying every message by hand, but it’s definitely doable, so that’s how you should do it. By hand.</p>
+<h2 id="Getting-your-Access-Token"><a href="#Getting-your-Access-Token" class="headerlink" title="Getting your Access Token"></a>Getting your Access Token</h2><p>Now, having access to the Discord API requires an Access Token, and no one would know how to get their access token. I mean, who is going to open Discord in Chrome, open the inspector, switch to mobile&#x2F;tablet display, go to the Application tab, find the sidebar section labeled Storage, select <a href="https://discord.com/">https://discord.com</a> from the Local Storage dropdown, search token, and copy the value from the Key-Value pair? That’s a ridiculous number of hoops to jump through, and I can’t imagine anyone figuring that out on their own. </p>
 <hr>
 <p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
   </entry>
@@ -1119,6 +1135,15 @@ table, th {
 <p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
   </entry>
   <entry>
+    <title>Publications</title>
+    <url>/publications/index.html</url>
+    <content><![CDATA[<p>Also see my: <a href="https://scholar.google.com/citations?user=dqTwtegAAAAJ&hl=en&oi=ao">Google Scholar</a></p>
+<h3 id="Refereed"><a href="#Refereed" class="headerlink" title="Refereed"></a>Refereed</h3><p>Anna Yoo Jeong Ha*, Josephine Passananti*, <strong>Ronik Bhaskar</strong>, Shawn Shan, Reid Southen, Haitao Zheng, Ben Y. Zhao (2024). Organic or Diffused: Can We Distinguish Human Art from AI-generated Images? <a href="https://arxiv.org/abs/2402.03214">arXiv</a></p>
+<p>Zhuolin Yang, Zain Sarwar, Iris Hwang, <strong>Ronik Bhaskar</strong>, Ben Y. Zhao, Haitao Zheng (2024). Can Virtual Reality Protect Users from Keystroke Inference Attacks? USENIX Security, Philadelphia PA. <a href="https://www.usenix.org/system/files/sec23winter-prepub-116-yang-zhuolin.pdf">PDF</a> <a href="https://www.newscientist.com/article/2401929-ai-can-steal-passwords-in-virtual-reality-from-avatar-hand-motions/">Media Coverage</a></p>
+<h3 id="Recreational"><a href="#Recreational" class="headerlink" title="Recreational"></a>Recreational</h3><p><strong>Ronik Bhaskar</strong>, Dawson Ren (2023). PizzaLang: A Language for Hungry Developers. Proc. of SIGBOVIK, Pittsburgh PA. <a href="/projects/PizzaLang.pdf">PDF</a> </p>
+]]></content>
+  </entry>
+  <entry>
     <title>Ultimate Tic Tac Toe</title>
     <url>/projects/ultimate_tic_tac_toe.html</url>
     <content><![CDATA[<p>Play the game <a href="/ultimate_tic_tac_toe">here</a>. Grab a friend (or enemy) because this game requires two people.</p>
@@ -1148,14 +1173,5 @@ table, th {
 </ul>
 <hr>
 <p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>Publications</title>
-    <url>/publications/index.html</url>
-    <content><![CDATA[<p>Also see my: <a href="https://scholar.google.com/citations?user=dqTwtegAAAAJ&hl=en&oi=ao">Google Scholar</a></p>
-<h3 id="Refereed"><a href="#Refereed" class="headerlink" title="Refereed"></a>Refereed</h3><p>Anna Yoo Jeong Ha*, Josephine Passananti*, <strong>Ronik Bhaskar</strong>, Shawn Shan, Reid Southen, Haitao Zheng, Ben Y. Zhao (2024). Organic or Diffused: Can We Distinguish Human Art from AI-generated Images? <a href="https://arxiv.org/abs/2402.03214">arXiv</a></p>
-<p>Zhuolin Yang, Zain Sarwar, Iris Hwang, <strong>Ronik Bhaskar</strong>, Ben Y. Zhao, Haitao Zheng (2024). Can Virtual Reality Protect Users from Keystroke Inference Attacks? USENIX Security, Philadelphia PA. <a href="https://www.usenix.org/system/files/sec23winter-prepub-116-yang-zhuolin.pdf">PDF</a> <a href="https://www.newscientist.com/article/2401929-ai-can-steal-passwords-in-virtual-reality-from-avatar-hand-motions/">Media Coverage</a></p>
-<h3 id="Recreational"><a href="#Recreational" class="headerlink" title="Recreational"></a>Recreational</h3><p><strong>Ronik Bhaskar</strong>, Dawson Ren (2023). PizzaLang: A Language for Hungry Developers. Proc. of SIGBOVIK, Pittsburgh PA. <a href="/projects/PizzaLang.pdf">PDF</a> </p>
-]]></content>
   </entry>
 </search>
