@@ -17,6 +17,32 @@
 ]]></content>
   </entry>
   <entry>
+    <title>AM</title>
+    <url>/am/</url>
+    <content><![CDATA[<p>What does AM stand for? Maybe Ante Meridiem, before noon. Or maybe the element Americium (Am). Maybe it’s Artium Magister, a Master of Arts degree. Whatever the case, if you compound masters of the arts over time, you get Arctic Monkeys. </p>
+<p>In 2013, Arctic Monkeys released their fifth studio album, AM. While the title references the band’s name, the cover art says otherwise. Taking inspiration from Velvet Underground’s cover art of volume units (VU), AM’s cover art is a wave with changing heights—amplitude modulation (AM). </p>
+<p>As a recreational mathematician, I looked around the internet, trying to find a decent recreation of the AM cover as a graph, but none of them were good enough. Most stopped at just modulating a sine wave with a broader sine wave, but this method misses one crucial detail: the AM in the middle. Job Bouwman inserts the AM in the middle, but the heights and widths of the letters don’t quite match the cover.</p>
+<p>The Arctic Monkeys weren’t just monkeying around with amplitude modulation. They figured out a clever way to seamlessly insert their initials into the graph. Mark my words, I will do the same. I will recreate the AM cover.</p>
+<p>Rather than spending lots of time setting up a Jupyter Notebook and writing lots of Python code to establish a working development environment, I’m using Desmos. I believe the initial concept art began with a standard modulation of a sine wave inside a sine wave, so I am starting the same way.</p>
+<p><img src="/images/initial_am.png"></p>
+<p>Aha! See? In the center? There is a segment of the graph that can be used for the AM. I’ll mark it in green. This will require removing that purple part, which I see as a bonus. The A and M in the cover have longer wavelengths than the rest of the graph, so stretching the green segment should recreate this well.</p>
+<p><img src="/images/am_annotated.png"></p>
+<p>After stretching the green segment of the graph, the height of each portion will need to be adjusted. Maybe I’m just throwing a hammer at a screw, but a sigmoid function looks like it will do the trick. A few adjustments later, and we have this:</p>
+<p><img src="/images/am_final.png"></p>
+<p>A few minutes ago, I was perfectly happy with this result, but that is no longer the case. Yes, I completed what I set out to do, but the closer I get, the farther I feel. The M needs to be more rectangular. My approximation isn’t actually a continuous function, much less a differentiable one. Looking at the two side-by-side, I can no longer see their similarities, only their differences. Recreating this cover art was supposed to be about a quick recreational math project, but now I feel obliged to honor this album. If imitation is the sincerest form of flattery, are better imitations more flattering?</p>
+<p>After this project, I suppose not. By acknowledging the distance between my imitation and the original, I can do justice to the beauty it holds. I may have not recreated the cover perfectly, but I can certainly appreciate it much more now than I could when I first saw it. This is no Absent Minded Advanced Math. This is AM. </p>
+<hr>
+<ol>
+<li><p><a href="https://www.nme.com/news/music/arctic-monkeys-178-1266582">Influence of VU on AM</a></p>
+</li>
+<li><p><a href="https://www.quora.com/What-function-is-Arctic-Monkeys-album-cover">Job Bouwman’s approximation</a></p>
+</li>
+<li><p><a href="https://www.desmos.com/calculator/v37m6icmwg">My recreation</a></p>
+</li>
+</ol>
+]]></content>
+  </entry>
+  <entry>
     <title>Ex Libris: Cat&#39;s Cradle</title>
     <url>/ex-libris-cats-cradle/</url>
     <content><![CDATA[<p>On Christmas this year, I read one of the most famous Christmas novels of all time: <em>Cat’s Cradle</em>, by Kurt Vonnegut. This book is so powerful, it constituted a master’s thesis in anthropology in the eyes of the University of Chicago. Countless experts have analyzed this book throughout the past 59 years. Following behind 59 years of thorough analysis, I do not believe I can meaningfully contribute to the discussion of this novel’s themes.</p>
@@ -47,51 +73,16 @@
 ]]></content>
   </entry>
   <entry>
-    <title>AM</title>
-    <url>/am/</url>
-    <content><![CDATA[<p>What does AM stand for? Maybe Ante Meridiem, before noon. Or maybe the element Americium (Am). Maybe it’s Artium Magister, a Master of Arts degree. Whatever the case, if you compound masters of the arts over time, you get Arctic Monkeys. </p>
-<p>In 2013, Arctic Monkeys released their fifth studio album, AM. While the title references the band’s name, the cover art says otherwise. Taking inspiration from Velvet Underground’s cover art of volume units (VU), AM’s cover art is a wave with changing heights—amplitude modulation (AM). </p>
-<p>As a recreational mathematician, I looked around the internet, trying to find a decent recreation of the AM cover as a graph, but none of them were good enough. Most stopped at just modulating a sine wave with a broader sine wave, but this method misses one crucial detail: the AM in the middle. Job Bouwman inserts the AM in the middle, but the heights and widths of the letters don’t quite match the cover.</p>
-<p>The Arctic Monkeys weren’t just monkeying around with amplitude modulation. They figured out a clever way to seamlessly insert their initials into the graph. Mark my words, I will do the same. I will recreate the AM cover.</p>
-<p>Rather than spending lots of time setting up a Jupyter Notebook and writing lots of Python code to establish a working development environment, I’m using Desmos. I believe the initial concept art began with a standard modulation of a sine wave inside a sine wave, so I am starting the same way.</p>
-<p><img src="/images/initial_am.png"></p>
-<p>Aha! See? In the center? There is a segment of the graph that can be used for the AM. I’ll mark it in green. This will require removing that purple part, which I see as a bonus. The A and M in the cover have longer wavelengths than the rest of the graph, so stretching the green segment should recreate this well.</p>
-<p><img src="/images/am_annotated.png"></p>
-<p>After stretching the green segment of the graph, the height of each portion will need to be adjusted. Maybe I’m just throwing a hammer at a screw, but a sigmoid function looks like it will do the trick. A few adjustments later, and we have this:</p>
-<p><img src="/images/am_final.png"></p>
-<p>A few minutes ago, I was perfectly happy with this result, but that is no longer the case. Yes, I completed what I set out to do, but the closer I get, the farther I feel. The M needs to be more rectangular. My approximation isn’t actually a continuous function, much less a differentiable one. Looking at the two side-by-side, I can no longer see their similarities, only their differences. Recreating this cover art was supposed to be about a quick recreational math project, but now I feel obliged to honor this album. If imitation is the sincerest form of flattery, are better imitations more flattering?</p>
-<p>After this project, I suppose not. By acknowledging the distance between my imitation and the original, I can do justice to the beauty it holds. I may have not recreated the cover perfectly, but I can certainly appreciate it much more now than I could when I first saw it. This is no Absent Minded Advanced Math. This is AM. </p>
-<hr>
-<ol>
-<li><p><a href="https://www.nme.com/news/music/arctic-monkeys-178-1266582">Influence of VU on AM</a></p>
-</li>
-<li><p><a href="https://www.quora.com/What-function-is-Arctic-Monkeys-album-cover">Job Bouwman’s approximation</a></p>
-</li>
-<li><p><a href="https://www.desmos.com/calculator/v37m6icmwg">My recreation</a></p>
-</li>
-</ol>
-]]></content>
-  </entry>
-  <entry>
-    <title>Ex Libris: Kafka on the Shore</title>
-    <url>/ex-libris-kafka-on-the-shore/</url>
-    <content><![CDATA[<!-- https://www.btsgtheories.com/wp-content/uploads/2020/07/kafka-24grammata.com-free-e-book.-pdf-1.pdf -->
-
-<img src="/images/hat_umbrella_fish.png" alt="An origami flasher hat, an origami umbrella, and an origami koi.">
-
-<p><em>All pieces were folded by me. The umbrella is my own design. The flasher hat and the koi were designed by Jeremy Shafer and Riccardo Foschi respectively.</em></p>
-<p><em>Update: My work was accepted in an <a href="https://voices.uchicago.edu/uchicagorigami/events/showcase/winter-2024/rainy-day/">exhibit</a>.</em></p>
-<hr>
-<p>Recently, I was inspired by Haruki Murakami’s <em>Kafka on the Shore</em> to fold an umbrella, a hat, and a fish. These pieces are meant to honor a character in the novel, Mr. Nakata. In Murakami’s whirlwind of magical realism, Mr. Nakata seems to have the most direct access to the supernatural forces at play. He speaks to cats; he makes fish rain from the sky; he goes on an increasingly strange series of adventures to restore the state of the universe.</p>
-<p>Although Mr. Nakata has such a strong connection to the strange occurrences in the book, he has very little understanding as to why. At each turn, he is unwaveringly sure of what his next step must be. He knows to go to Takamatsu. He knows to find the entrance stone. He knows to talk to the librarian of the Komura Library. But despite his confidence, he has never heard of Takamatsu before arriving. He has never seen the entrance stone before beginning his search. He has never met this librarian in his life. As one character put it, “You don’t know why you’re going, or even where you’re going.” And that’s true. He doesn’t know. He doesn’t know why or where or how, but he’s going. He’s going, and that’s what matters. </p>
-<p>I was curious as to what inspired Murakami to write such a character, so I read through some interviews. In answering this question, Murakami responds, “Why did I create a character like him? It must be because I like him. It’s a long novel, and the author has to have at least one character he loves unconditionally.” This unconditional love poured into Mr. Nakata by Murakami can be seen inside the book and out. Other characters are quick to trust him, appreciating his sincerity and simple kindness. Readers are quick to empathize with him as he tries to live his life in an incomprehensibly complex system. </p>
-<p>Mr. Nakata’s journey mirrors the experience of most readers that approach this story. This story is full of riddles and mysteries, and as you move forward, you reveal more questions than you do answers. Readers are sucked into a labyrinth of magical realism, and they don’t quite know why they’re going or even where they’re going, but they go regardless. </p>
-<p>Even Murakami relates to Mr. Nakata in this way. Murakami set out to write a novel in which the solutions lie partly in the riddles themselves. Initially, he didn’t have all the details in view, but he wrote the novel regardless. Over time, he gained a better understanding of the story by reading it again and again as he rewrote it. For this reason, he recommends readers read the novel more than once—if they have the time—to understand it better. Going through that first pass, the reader is almost as lost as Mr. Nakata, trying to find answers despite barely understanding the questions. Even to the author, the whole story is one, big puzzle.</p>
-<p>In no way am I trying to deny Murakami’s incredible intentionality in his writing. He crafted a literary puzzle that demands rereading just to appreciate a fraction of the details. Murakami couldn’t fully solve his own riddles the first time through, but he unraveled the mysteries through rereading as he wrote the story. Mr. Nakata, however, only gets to live through the story once. He will never read it a second time. He doesn’t get to unravel the mysteries like the reader, but he goes regardless, wearing his hat and carrying his umbrella while fish fall from the sky.</p>
-<hr>
-<h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ol>
-<li><a href="https://www.bookbrowse.com/author_interviews/full/index.cfm?author_number=1103">Interview with Haruki Murakami</a></li>
-</ol>
+    <title>Ex Libris: Gadsby (not The Great Gatsby)</title>
+    <url>/ex-libris-gadsby/</url>
+    <content><![CDATA[<p>IMPORTANT: This is about the book <em>Gadsby</em> By Ernest Vincent Wright, not <em>The Great Gatsby</em> by F. Scott Fitzgerald. </p>
+<p>Legend says a man once ripped a piece of twine, tied down the E key on his typewriter, and proceeded to write a 50,000 word novel without the letter E. Original copies of his literary masterpiece now sell for thousands of dollars. He assured his own rise to fame, and everything went smoothly until someone opened his book.</p>
+<h2 id="Gimmicks-Can’t-Save-Bad-Writing"><a href="#Gimmicks-Can’t-Save-Bad-Writing" class="headerlink" title="Gimmicks Can’t Save Bad Writing"></a>Gimmicks Can’t Save Bad Writing</h2><p>Lipograms are a form of constrained writing where the author avoids using one or more particular letters in the piece. While the gimmick entertains audiences, the piece must still be worth reading. The author can get away with less meaningful work, since purpose is contained in the style, but no amount of dropping letters alone makes literature worth reading.</p>
+<p>Typically, a story resolves near the end. Instead, Wright wrote <em>Gadsby</em> like a drawn-out sitcom. After resolving the issue in roughly 10 chapters, he proceeds with 30 more chapters that all revolve around everyone being happy, with no major conflicts ever presented afterwards. Kids grow up and get married. A man that has never worked in politics becomes the mayor with little hassle. A zoo magically opens. Almost every chapter presents a neat and tidy event ending with celebrations from everyone, and Wright could easily end the story there, but he doesn’t, so the book drags on, and the only reason you’re still reading is because you want it to end.</p>
+<p>Applying any amount of critical theory, feminists will have an absolute field day exploring the infinite ways Wright seems to bring up gender norms. Every other chapter finds a way to assert the backwards notions of women necessarily being small and weak and good at cooking and taking care of children while the men are big and strong and good at building. Some may argue Wright’s use of gender roles is expected, since this book was written in the 1930s. With historical context and the advent of World War II, attributing women’s value to having small statures and delicate hands and homemaking was incredibly backwards, with countless women working industrial jobs during the period of wartime economy.</p>
+<p>As if that wasn’t enough, Wright’s inflated ego shows through in his writing. Naturally, Wright is the first-person narrator, depicted as a historian describing the town. Despite separating himself from the events of the story as this all-seeing onlooker, his frequent interjections make you wonder if he’s too convinced of his own story. For example, in chapter VII, he makes a disturbing quip about passing up kissing a snake to instead kiss Lucy, a fictitious child, while he is still the adult historian describing the story.</p>
+<h2 id="The-Failed-Lipogram"><a href="#The-Failed-Lipogram" class="headerlink" title="The Failed Lipogram"></a>The Failed Lipogram</h2><p>I pushed through the book, hoping to gain some linguistic insights. While I give Wright mild credit for calling flowers “blossoming plants” and turkey “Thanksgiving National Bird,” I cannot forgive his egregious errors. Despite Wright’s claims of not using the letter E, the original publication contains three instances of the word “the” and one instance of the word “officers,” totaling 4 E’s in the body of the text.</p>
+<p>Historical records describe Wright’s attempts at publishing all failing, and he had to turn to self-publishing through Wetzel Publishing Co. After reading this book, I finally understand why. Gimmicks won’t save your story, and twine won’t hold down your typewriter’s E key.</p>
 ]]></content>
   </entry>
   <entry>
@@ -148,6 +139,28 @@
 <li>A librarian’s post is not a sinecure for a scholar — a librarian’s task is often to facilitate the work of many scholars.</li>
 <li>Libraries can be valuable to society.</li>
 <li>Librarianship is an experimental science.</li>
+</ol>
+]]></content>
+  </entry>
+  <entry>
+    <title>Ex Libris: Kafka on the Shore</title>
+    <url>/ex-libris-kafka-on-the-shore/</url>
+    <content><![CDATA[<!-- https://www.btsgtheories.com/wp-content/uploads/2020/07/kafka-24grammata.com-free-e-book.-pdf-1.pdf -->
+
+<img src="/images/hat_umbrella_fish.png" alt="An origami flasher hat, an origami umbrella, and an origami koi.">
+
+<p><em>All pieces were folded by me. The umbrella is my own design. The flasher hat and the koi were designed by Jeremy Shafer and Riccardo Foschi respectively.</em></p>
+<p><em>Update: My work was accepted in an <a href="https://voices.uchicago.edu/uchicagorigami/events/showcase/winter-2024/rainy-day/">exhibit</a>.</em></p>
+<hr>
+<p>Recently, I was inspired by Haruki Murakami’s <em>Kafka on the Shore</em> to fold an umbrella, a hat, and a fish. These pieces are meant to honor a character in the novel, Mr. Nakata. In Murakami’s whirlwind of magical realism, Mr. Nakata seems to have the most direct access to the supernatural forces at play. He speaks to cats; he makes fish rain from the sky; he goes on an increasingly strange series of adventures to restore the state of the universe.</p>
+<p>Although Mr. Nakata has such a strong connection to the strange occurrences in the book, he has very little understanding as to why. At each turn, he is unwaveringly sure of what his next step must be. He knows to go to Takamatsu. He knows to find the entrance stone. He knows to talk to the librarian of the Komura Library. But despite his confidence, he has never heard of Takamatsu before arriving. He has never seen the entrance stone before beginning his search. He has never met this librarian in his life. As one character put it, “You don’t know why you’re going, or even where you’re going.” And that’s true. He doesn’t know. He doesn’t know why or where or how, but he’s going. He’s going, and that’s what matters. </p>
+<p>I was curious as to what inspired Murakami to write such a character, so I read through some interviews. In answering this question, Murakami responds, “Why did I create a character like him? It must be because I like him. It’s a long novel, and the author has to have at least one character he loves unconditionally.” This unconditional love poured into Mr. Nakata by Murakami can be seen inside the book and out. Other characters are quick to trust him, appreciating his sincerity and simple kindness. Readers are quick to empathize with him as he tries to live his life in an incomprehensibly complex system. </p>
+<p>Mr. Nakata’s journey mirrors the experience of most readers that approach this story. This story is full of riddles and mysteries, and as you move forward, you reveal more questions than you do answers. Readers are sucked into a labyrinth of magical realism, and they don’t quite know why they’re going or even where they’re going, but they go regardless. </p>
+<p>Even Murakami relates to Mr. Nakata in this way. Murakami set out to write a novel in which the solutions lie partly in the riddles themselves. Initially, he didn’t have all the details in view, but he wrote the novel regardless. Over time, he gained a better understanding of the story by reading it again and again as he rewrote it. For this reason, he recommends readers read the novel more than once—if they have the time—to understand it better. Going through that first pass, the reader is almost as lost as Mr. Nakata, trying to find answers despite barely understanding the questions. Even to the author, the whole story is one, big puzzle.</p>
+<p>In no way am I trying to deny Murakami’s incredible intentionality in his writing. He crafted a literary puzzle that demands rereading just to appreciate a fraction of the details. Murakami couldn’t fully solve his own riddles the first time through, but he unraveled the mysteries through rereading as he wrote the story. Mr. Nakata, however, only gets to live through the story once. He will never read it a second time. He doesn’t get to unravel the mysteries like the reader, but he goes regardless, wearing his hat and carrying his umbrella while fish fall from the sky.</p>
+<hr>
+<h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ol>
+<li><a href="https://www.bookbrowse.com/author_interviews/full/index.cfm?author_number=1103">Interview with Haruki Murakami</a></li>
 </ol>
 ]]></content>
   </entry>
@@ -276,16 +289,17 @@
 ]]></content>
   </entry>
   <entry>
-    <title>Ex Libris: Gadsby (not The Great Gatsby)</title>
-    <url>/ex-libris-gadsby/</url>
-    <content><![CDATA[<p>IMPORTANT: This is about the book <em>Gadsby</em> By Ernest Vincent Wright, not <em>The Great Gatsby</em> by F. Scott Fitzgerald. </p>
-<p>Legend says a man once ripped a piece of twine, tied down the E key on his typewriter, and proceeded to write a 50,000 word novel without the letter E. Original copies of his literary masterpiece now sell for thousands of dollars. He assured his own rise to fame, and everything went smoothly until someone opened his book.</p>
-<h2 id="Gimmicks-Can’t-Save-Bad-Writing"><a href="#Gimmicks-Can’t-Save-Bad-Writing" class="headerlink" title="Gimmicks Can’t Save Bad Writing"></a>Gimmicks Can’t Save Bad Writing</h2><p>Lipograms are a form of constrained writing where the author avoids using one or more particular letters in the piece. While the gimmick entertains audiences, the piece must still be worth reading. The author can get away with less meaningful work, since purpose is contained in the style, but no amount of dropping letters alone makes literature worth reading.</p>
-<p>Typically, a story resolves near the end. Instead, Wright wrote <em>Gadsby</em> like a drawn-out sitcom. After resolving the issue in roughly 10 chapters, he proceeds with 30 more chapters that all revolve around everyone being happy, with no major conflicts ever presented afterwards. Kids grow up and get married. A man that has never worked in politics becomes the mayor with little hassle. A zoo magically opens. Almost every chapter presents a neat and tidy event ending with celebrations from everyone, and Wright could easily end the story there, but he doesn’t, so the book drags on, and the only reason you’re still reading is because you want it to end.</p>
-<p>Applying any amount of critical theory, feminists will have an absolute field day exploring the infinite ways Wright seems to bring up gender norms. Every other chapter finds a way to assert the backwards notions of women necessarily being small and weak and good at cooking and taking care of children while the men are big and strong and good at building. Some may argue Wright’s use of gender roles is expected, since this book was written in the 1930s. With historical context and the advent of World War II, attributing women’s value to having small statures and delicate hands and homemaking was incredibly backwards, with countless women working industrial jobs during the period of wartime economy.</p>
-<p>As if that wasn’t enough, Wright’s inflated ego shows through in his writing. Naturally, Wright is the first-person narrator, depicted as a historian describing the town. Despite separating himself from the events of the story as this all-seeing onlooker, his frequent interjections make you wonder if he’s too convinced of his own story. For example, in chapter VII, he makes a disturbing quip about passing up kissing a snake to instead kiss Lucy, a fictitious child, while he is still the adult historian describing the story.</p>
-<h2 id="The-Failed-Lipogram"><a href="#The-Failed-Lipogram" class="headerlink" title="The Failed Lipogram"></a>The Failed Lipogram</h2><p>I pushed through the book, hoping to gain some linguistic insights. While I give Wright mild credit for calling flowers “blossoming plants” and turkey “Thanksgiving National Bird,” I cannot forgive his egregious errors. Despite Wright’s claims of not using the letter E, the original publication contains three instances of the word “the” and one instance of the word “officers,” totaling 4 E’s in the body of the text.</p>
-<p>Historical records describe Wright’s attempts at publishing all failing, and he had to turn to self-publishing through Wetzel Publishing Co. After reading this book, I finally understand why. Gimmicks won’t save your story, and twine won’t hold down your typewriter’s E key.</p>
+    <title>Reaching Out to Old Friends</title>
+    <url>/reaching-out-to-old-friends/</url>
+    <content><![CDATA[<p>Around March of 2020, I lost contact with a lot of friends. High school was ending, COVID was starting, and so many people I kept up with were no longer in my life. One of those people lives on the East Coast, and we compete in the same sport. I had the opportunity to compete in a tournament in the Eastern League, so I texted him, asking if he would be there. Unfortunately, he couldn’t make it, so we texted for a bit, but that was about it. </p>
+<p>When the day of the tournament arrived, I was absolutely overwhelmed. The Midwest doesn’t have a strong, competitive scene, so I hadn’t competed at the collegiate level before this. Our team of five competitors walks into a gym with over 650 athletes, and we stand at the entrance, stunned for a bit before gathering our bearings and finding a place to get set up. We started warming up, but the opening ceremonies cut us off earlier than I hoped. Immediately after opening ceremonies, we’re up to compete, so we head to our ring and finish warming up as best we can. My opponents are seeded to be in the top 4, so I don’t expect to win. I remind myself I’m here to learn, but that doesn’t stop me from shaking nervously. Although I am acutely aware of every mistake I am making, I can’t stop. It’s everything I can do to finish the round. Needless to say, we lost very decisively.</p>
+<p>Later on, I run into my opponents from earlier. They’re very friendly, and though we only talk briefly, I’m reminded of why I came to this tournament. I came here to learn, so that’s what I do. I watch as many rounds as I can, learning how competitors, referees, judges, and coaches all fit into each round. I study how other competitors warm up and interact with their coaches. I keep track of how different refs run their rings differently. I make conversation with other spectators to ask them questions. Later, I get a chance to fill a minor judging role, so I take it. It doesn’t start well, but I keep learning, and the ref compliments me on improving in those few hours.</p>
+<p>Once I get a break, I stand off to the side, staring vacantly at a round, when someone taps me on the shoulder.</p>
+<p>“Hey, weird question, are you from Chicago?” the stranger asks me.</p>
+<p>“I am. What’s up?”</p>
+<p>“Do you happen to know someone named—“</p>
+<p>“Yeah! How’d you find me?” I don’t need him to finish the sentence because I realize he’s one of my high school friend’s teammates. I do feel a little bad for cutting him off, but what happens happens. Turns out, he was sent a photo of me and told to find me at the tournament. After chatting for a bit, we take a photo together to send back to our friend. A few hours later, my team packs up, and we leave.</p>
+<p>Being confused and trying to learn for the whole day was much more exhausting than I expected, but it was entirely worth it. I won’t have a collegiate career for much longer, but hopefully, I can convince the rest of my team to start competing. I’ll share with them all the incredible stories I remember from that day in hopes that they want to experience it all firsthand. That may take a while, so for now, I’ll fill my time by reaching out to old friends.</p>
 ]]></content>
   </entry>
   <entry>
@@ -320,73 +334,6 @@
 <p>If Polaris is a fixed point in the sky, then it lies along the Earth’s axis of rotation. That means, if you went to the North Pole and looked straight up, you would see Polaris. Anywhere else on Earth, Polaris acts like a beacon to the North Pole. That’s why Polaris never moves. That’s why it always points north. Satisfied, I lay down, enjoying my small victory. This peace lasts for approximately one minute before my brain starts asking questions again. This fixed point in the sky must have some interesting properties, so I close my eyes and think about Polaris geometrically. I can’t fully fathom how far away Polaris is, so I just pretend it’s infinitely far away. Under this assumption, if I draw a line from myself to Polaris, it’s parallel to the Earth’s axis of rotation. In this mental model, I draw a plane tangent to the Earth from where I am. The Earth may not be flat, but I can pretend it is locally for the sake of mathematics. With this little diagram in my head, I realize just how important the North Star is for navigation. If you can find the angle between Polaris and the horizon, that angle is your latitude. </p>
 <p>I pull out my notebook and a flashlight to make sure I did that calculation correctly. Yep, the angle between Polaris and the horizon is your latitude. <em>I can’t believe I just figured that out. Is this how astronomers figured out celestial navigation centuries ago?</em> I doubt I’ll have any more revelations for the rest of the night, so I relax on the ground, watching the other stars journey across the sky. As my watch passes midnight, I pack up my telescope, wave goodbye to the stars, and start heading home.</p>
 <p>I never did see the three stars that form Polaris, but it is a fixed point in the sky, so I’ll always know where to find it.</p>
-]]></content>
-  </entry>
-  <entry>
-    <title>Student of Life: Celestial Navigation, Part 2</title>
-    <url>/student-of-life-celestial-navigation-part-2/</url>
-    <content><![CDATA[<p>As a young person with little experience in the world, I am quite familiar with feeling unqualified. Far too often, I find myself given opportunities for which I have absolutely no preparation. It’s easier to recognize you’re unqualified for something when you meet the people who are qualified for the opportunity. I learned this a few years ago when I volunteered at an astronomy night for Cub Scouts. </p>
-<p>The event was run by the director of an institute doing cosmic microwave background experiments. Alongside the director, there were two student volunteers: myself and the president of the Ryerson Astronomical Society. Keep in mind, I knew next to nothing about astronomy at this point. I had seen some of Jupiter’s moons through a telescope, but that was about it. Naturally, whenever one of the scouts asked us a question about space, I would just defer to the president. Thankfully, the president was able to answer any questions the scouts had, and I ended up learning quite a bit through the answers.</p>
-<p>After a while, the scouts started working on an activity that didn’t require us to do much, so the president and I chatted for a bit. I had no reason to pretend like I knew anything about space, so I let myself ask very stupid questions. I probably could’ve googled how many constellations there were, but it ended up being a good way to start the conversation. As a bonus, I still remember there are 88 constellations, and I still remember a little about how the brightest stars in each constellation are named. The president also cracked a few jokes about Orion’s Sword which I thought were hilarious. If the old president ever sees this, thanks for being awesome.</p>
-<p>A few years later, I was in the middle of nowhere with my telescope, when I remembered those jokes about Orion’s Sword. Given the clear conditions, I decided to observe the three stars that make up the sword. Throughout the night, I watched as the sword moved across the sky when I noticed something strange. At its zenith, the sword appeared to be pointing straight down. By this point, I had already made my <a href="/student-of-life-celestial-navigation-part-1/">revelations about the north star</a>, so I quickly realized the sword was pointing south. When I pulled out my compass, the sword was a little off, but not by much, less than a degree. Living in the northern hemisphere, I wasn’t sure how this would hold for the rest of the night, so I waited a bit to observe it again. I followed the direction of the sword until I hit the horizon, and I checked the direction. This time, it was off by even more. As I expected, the Earth was getting in the way of being able to use Orion’s Sword to find south, but it still worked pretty well. With a bit of latitude correction, finding south using Orion’s Sword seemed absolutely possible, it would just require a bit of math. A project for another night, perhaps.</p>
-<p>It’s hard to believe that because of a joke I heard a few years ago, I learned about celestial navigation, but I suppose that’s what the student of life is about. A few years ago, I volunteered at an event for which I was extremely unqualified. I don’t quite know why I was given the opportunity, but I am extremely grateful. That opportunity, like so many others, has given me more than I could ever give. Even today, I’m still learning and growing from everything I have been given. Eventually, the day will come when I can offer more than I receive, but even then, I will still keep learning. I will still be a student of life.</p>
-]]></content>
-  </entry>
-  <entry>
-    <title>Student of Life: The Flaw in Every Calculator</title>
-    <url>/student-of-life-the-flaw-in-every-calculator/</url>
-    <content><![CDATA[<p>Over the past few months, people have been approaching me as if I am an expert on security and AI. They ask me questions like, “Will you build an AI for my startup?”, “Is ChatGPT stealing my data?”, “How does Midjourney work?”.*</p>
-<p>To them, I say, “Let’s talk about calculators.”</p>
-<h2 id="Chapter-1-Background"><a href="#Chapter-1-Background" class="headerlink" title="Chapter 1: Background"></a>Chapter 1: Background</h2><p>The first calculator was built in 1937 by a researcher at Bell Labs. It was called the “Model K” because it was built in a kitchen, and it could tell you that 1 + 1 &#x3D; 2. Unfortunately, this titan of technology was swiftly replaced in 1946 by ENIAC. ENIAC was absolutely massive, taking up 1500 square feet and costing $500,000. Calculations that once took days now took mere seconds. The press lauded ENIAC as an “Electronic Brain.” A few years after its release, Kurt Vonnegut wrote “EPICAC”, a story inspired by the machine. ENIAC revolutionized American perceptions of technology so much so that the word computer, once an occupation, was now used to describe digital computing machines. </p>
-<p>Calculators and computers have greatly evolved since the days of ENIAC, but one thing remains the same: they’re really good at math. </p>
-<p>2 plus 2? 4, easy. </p>
-<p>7,887,007 times 4,345,985,879? 34,276,821,049,574,153, boring. </p>
-<p>0.1 + 0.2? …well, that’s where things get complicated. </p>
-<p>When you ask most major programming languages to solve 0.1 + 0.2, you would expect 0.3, but that’s not quite what you get. Instead, the computer spits back 0.30000000000000004. </p>
-<p>Unlike humans, computers rarely use the concept of fractions or infinite decimals when doing math. Every time computers need to represent a decimal value, they express that number as a float. Floats are a special kind of scientific notation that handles most computer math quite well. Unfortunately, floats have a fixed number of significant digits, so computers usually have to round. For a computer, 0.3 is an infinite decimal, which is why we see a rounding error. No computer or calculator can truly handle infinite decimals.</p>
-<p>Enter: the Apple Calculator App. This little app, both on my phone and my laptop, refuses to admit it is a computer. It falls for none of my simple, rounding-error tricks. It mocks me, pretending to understand infinite decimals, but I know the truth. I’ve tried to find the source code for the app but to no avail. Searching through Apple forums, I find that other users have complained about rounding issues, but this arises either from user error or just the screen size, not a true rounding error. For a true rounding error, the true solution, rounded to the decimal place displayed by the calculator, must disagree with the calculator solution. For example, if the calculator says 2 &#x2F; 3 &#x3D; 0.667, that is not a rounding error, that is just rounding. If the calculator said 2 &#x2F; 3 &#x3D; 0.662, that would be a rounding error.</p>
-<h2 id="Chapter-2-Designing-the-Attack"><a href="#Chapter-2-Designing-the-Attack" class="headerlink" title="Chapter 2: Designing the Attack"></a>Chapter 2: Designing the Attack</h2><p>Under our current understanding of the problem, the Apple Calculator is a black box. We put in inputs, the app gives us outputs, and we don’t fully know how the outputs happened. When designing attacks for black-box systems, transferability is a useful tool. Transferability refers to the idea that if two systems are similar to each other, and you know how one works, you might be able to apply that knowledge to the other one. In this case, I am transferring knowledge about programming languages to the Apple Calculator. Specifically, I’m assuming the Apple Calculator handles numbers similar to how programming languages handle floats.</p>
-<p>First, I started with what I wanted my result to be. For simplicity, I decided I wanted my answer to be 1, so I started with the following equation:</p>
-<p>$$ 1 &#x3D; 1 $$</p>
-<p>Next, I chose an infinite decimal. I needed an infinite decimal to exploit the finite precision of floats. Since it works well in decimal and binary, I chose 1&#x2F;7.</p>
-<p>$$ \left ( \frac{1}{7} \right ) \cdot 7 &#x3D; 1 $$</p>
-<p>Floats lose precision as you move farther from 0, so I had to push my computation out to higher orders of magnitude. A googol is plenty, so I went with that.</p>
-<p>$$ \left ( \frac{1}{7} \cdot 10^{100} \right ) \cdot \frac{7}{10^{100}} &#x3D; 1 $$</p>
-<p>The last step is a bit complicated, but it boils down to two principles. First, the computer does intermediate calculations, so each step is fully computed. Second, it won’t backtrack to revive lost precision. Applying these two principles, I added the final part of my attack.</p>
-<p>$$ \left ( \frac{1}{7} \cdot 10^{100}  - 1.42857 \cdot 10^{99} - 1.42857 \cdot 10^{93} \right) \cdot \frac{7}{10^{88}} &#x3D; 1 $$</p>
-<p>Looking back, weaponizing an equation against a calculator seems incredibly strange, but I will do what must be done in the pursuit of knowledge.</p>
-<h2 id="Chapter-3-Results"><a href="#Chapter-3-Results" class="headerlink" title="Chapter 3: Results"></a>Chapter 3: Results</h2><p>Now that I have my attack, how will the calculator respond? Remember, the correct answer is 1. I entered each instruction into my phone one at a time, watching the intermediate results grow and shrink until I was left with this: 0.998743.</p>
-<p>Yes! It’s wrong. To be fair, it’s only wrong by about 0.1%, but that’s quite a bit. If I iterate this attack a second time, the error compounds exponentially, resulting in -1.3 billion, which is far from the expected answer of 1. This calculator has its limits, and I have surpassed them. The attack works on my phone, so I tested it on a few other systems. I was able to use the same attack for my laptop, but I did need to translate it slightly for the other platforms. See the Appendix for the syntax of each attack.</p>
-<ul>
-<li>Laptop calculator: 0.998743475069388</li>
-<li>Python: 0.9999333609006387</li>
-<li>JavaScript: 0.9999333609006387</li>
-<li>C: 0.999936</li>
-<li>ChatGPT: -1,857,140,204,081</li>
-</ul>
-<h2 id="Chapter-4-Conclusion"><a href="#Chapter-4-Conclusion" class="headerlink" title="Chapter 4: Conclusion"></a>Chapter 4: Conclusion</h2><p>Technology, no matter how old and refined, will always have flaws. Whether it’s a calculator app or the 1500 square foot ENIAC, no system is perfect, and careful analysis will always find the gaps. Calculators have their limits, but it’s easy to forget that when all the messy, complicated technology is hidden under a clean, shiny interface. We would much rather trust technology as intelligent and thinking because it’s easier than taking responsibility for how the machine behaves. </p>
-<p>So, whenever people ask me questions about AI, I always tell them, “Never trust your calculator.”</p>
-<hr>
-<p>*: No, kinda, and I discuss it in <a href="https://jonikpodcast.github.io/">Finders Keepers</a>.</p>
-<hr>
-<h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ol>
-<li><a href="https://opensource.apple.com/releases/">Apple Open Source</a></li>
-<li><a href="https://iremi.univ-reunion.fr/IMG/pdf/ieee-754-2008.pdf">IEEE 754, Standard for Floating-Point Arithmetic. 2008</a></li>
-<li><a href="https://www.computerhistory.org/timeline/">Timeline of Computer History</a></li>
-<li><a href="https://www2.seas.gwu.edu/~mfeldman/csci110/summer08/eniac2.pdf">Martin, C. Dianne. ENIAC: The Press Conference That Shook the World. 1995</a></li>
-<li><a href="https://doi.org/10.1109%2F85.948904">Irvine, M. M. Early digital computers at Bell Telephone Laboratories. 2001.</a></li>
-<li><a href="http://www.vintagecalculators.com/html/the_pocket_calculator_race.html">The Story of the Race to Develop the Pocket Electronic Calculator</a></li>
-<li><a href="https://newmediaabington.pbworks.com/f/vonnegut_EPICAC.pdf">EPICAC, Kurt Vonnegut</a></li>
-</ol>
-<h2 id="Appendix"><a href="#Appendix" class="headerlink" title="Appendix"></a>Appendix</h2><p>The following are the attacks translated for each platform&#x2F;language.</p>
-<h3 id="Python"><a href="#Python" class="headerlink" title="Python"></a>Python</h3><figure class="highlight python"><table><tr><td class="code"><pre><span class="line">((<span class="number">1</span> / <span class="number">7</span>) * <span class="number">1e100</span> - <span class="number">1.42857e99</span> - <span class="number">1.42857e93</span>) * <span class="number">7</span> / <span class="number">1e88</span></span><br></pre></td></tr></table></figure>
-
-<h3 id="Javascript"><a href="#Javascript" class="headerlink" title="Javascript"></a>Javascript</h3><figure class="highlight javascript"><table><tr><td class="code"><pre><span class="line">((<span class="number">1</span> / <span class="number">7</span>) * <span class="number">1e100</span> - <span class="number">1.42857e99</span> - <span class="number">1.42857e93</span>) * <span class="number">7</span> / <span class="number">1e88</span></span><br></pre></td></tr></table></figure>
-
-<h3 id="C"><a href="#C" class="headerlink" title="C"></a>C</h3><p>For C, the magnitudes are far less because I did not want to exceed the limit for signed integers.</p>
-<figure class="highlight c"><table><tr><td class="code"><pre><span class="line">(<span class="number">1.0</span>/<span class="number">7.0</span> * <span class="number">1000000000000000000</span> - <span class="number">142857000000000000</span> - <span class="number">142857000000</span>) * <span class="number">7.0</span> / <span class="number">1000000</span></span><br></pre></td></tr></table></figure>
-
-<h3 id="ChatGPT"><a href="#ChatGPT" class="headerlink" title="ChatGPT"></a>ChatGPT</h3><p>Prompt: What is ((1 &#x2F; 7) * 10^100 - 1.42857 * 10^99 - 1.42857 * 10^93) * 7 &#x2F; (10^88)?</p>
 ]]></content>
   </entry>
   <entry>
@@ -433,29 +380,6 @@
 ]]></content>
   </entry>
   <entry>
-    <title>The AI Summer: Part 1</title>
-    <url>/the-ai-summer-part-1/</url>
-    <content><![CDATA[<p>Well, my little cousin is using large language models to do his homework for him, my aunt makes Facebook posts with images from diffusion models, and I just deepfaked my voice in 5 minutes. That sentence sounds impossible, but the AI revolution has made it all too real. Some argue the AI revolution started in November of 2022, when ChatGPT was first released. Others say it started with Dall-E in early 2021. I say it started in 1958, but not with any big, fancy machine learning models. It started with the Perceptron.</p>
-<p>The Perceptron is the predecessor of all deep learning models. Before our modern neural networks with hundreds of hidden layers and fancy activation functions, there was a single-layer, linear network called the Perceptron. Designed by Warren McCulloch and Walter Pitts in 1943, it took 15 years before it was actually built by Frank Rosenblatt in 1958. Made to be a standalone machine, the Mark 1 Perceptron used an array of 20x20 photocells for the input, potentiometers to encode the weights, and electric motors to adjust the weights. One of the first things it learned was how to tell left from right. </p>
-<p>Rosenblatt envisioned a future, one where machines could understand language and see the world around us. His innovative work sparked uncertainty for the future, and where there is uncertainty, there is skepticism. Minsky and Papert provided a strong counterexample to the power of the Perceptron: it could not learn the XOR gate. Essentially, given two objects—each one either a “yes” or a “no”—the Perceptron would not be able to tell you whether they were the same. Even for problems it could solve, the Perceptron required far more computing power than was possible at the time. This gave skeptics the upper hand. A few years later, scientists entered the first AI winter. Funding was down and interest was low. The field stalled.</p>
-<p>The AI winter provided no incentive to consider the impacts of the potentially groundbreaking field. Companies didn’t anticipate how AI might impact them, and the law gave no specific consideration to such technologies. Because no one really cared to make any decisions, an AI future remained entirely uncertain. Rather than consider the implications and consequences, almost everyone deemed such decision-making unnecessary. Sure, calling Rosenblatt’s future nonsense sounded strong and resolute, but no problem has ever been answered by pretending it didn’t exist. The uncertain future of AI remained, but it was pawned off to the next generations as a problem for later.</p>
-<p>To the dismay of many, Rosenblatt was right. We are living through the AI revolution. Everyone with internet has access to state-of-the-art models, and they continue to transform how so many of us approach work and play in our everyday lives. Conversations about AI are no longer hypothetical. Businesses are transforming, the Senate is having hearings, and grassroots movements are growing because AI hit us hard, and we didn’t anticipate the impact. The uncertainty built over 60 years has finally broken free from the chains of hypotheticals and entered reality. </p>
-<p>And now, in our AI summer, we are woefully underprepared to deal with any of the consequences of AI. Yes, we have money and resources and attention pointing directly at this technology, but we remain almost as uncertain as we were a few decades ago. In this time, plenty have created theories about approaches to AI, but most were in the context of sentient machines. While I’m certainly thankful for that preparation for when the time comes, AI right now isn’t alive, it’s just fancy statistics. Issues of copyright and stolen data and plagiarism plague modern discussions of AI, and almost none have truly been resolved.   </p>
-<p>I sometimes wonder if this uncertainty is the price we pay for technological advancement. Almost no one batted an eyelid when LAION and CommonCrawl started building their massive datasets. Before ChatGPT, GPT-3 was already wildly powerful, writing an entire Batman movie script. GANs could do text-to-image generation well before Stable Diffusion. Few people asked if we should stop to reflect on these developments. I suppose, the longer we ignored the voices telling us to stop, the faster we could develop this technology. We paid for our speed by ignoring the uncertainty. When organizations released AI into the wild with few provisions or plans, it was already too late.</p>
-<p>To be clear, I would never expect anyone to anticipate everything that AI would bring. For the average internet user, the limits of what is possible have changed dramatically, and the evolutions of this technology continue to be unfathomable. Besides, we got a head start on some issues—like self-driving cars—but that still isn’t enough. With AI accessible to all, everyone is left to answer the uncertainty. Schools, healthcare, legislatures, companies small and large, everyone must now grapple with how to continue their lives in this once impossible future—in Rosenblatt’s future.</p>
-<p>The AI summer is heating up, and we’re flying too close to the sun. Try not to get burned.</p>
-<hr>
-<h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ol>
-<li><a href="https://doi.org/10.1177/030631296026003005">A Sociological Study of the Official History of the Perceptrons Controversy</a></li>
-<li><a href="https://archive.org/details/perceptronsintro00mins">Perceptrons. Minsky and Papert.</a></li>
-<li><a href="https://news.cornell.edu/stories/2019/09/professors-perceptron-paved-way-ai-60-years-too-soon">Professor’s Perceptron Paved the Way for AI – 60 Years Too Soon</a></li>
-<li><a href="https://commoncrawl.org/">CommonCrawl</a></li>
-<li><a href="https://laion.ai/blog/laion-5b/">LAION-5B</a></li>
-<li><a href="https://twitter.com/KeatonPatti/status/1161284670601990146">AI Batman Script from 2019</a></li>
-</ol>
-]]></content>
-  </entry>
-  <entry>
     <title>The AI Summer: Part 2</title>
     <url>/the-ai-summer-part-2/</url>
     <content><![CDATA[<p>When OpenAI first released ChatGPT, I was in the middle of a project on large language model security. My advisor and I discussed, and I pivoted to a security project focused on ChatGPT. For weeks, I worked to reveal its flaws—to uncover its vulnerabilities. </p>
@@ -497,6 +421,29 @@
 <li><a href="https://tauday.com/">The Official Tau Day Website</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Tau_(particle)">The Tau Particle</a></li>
 <li><a href="https://www.alz.org/media/Documents/alzheimers-dementia-tau-ts.pdf">Tau in Alzheimer’s Research</a></li>
+</ol>
+]]></content>
+  </entry>
+  <entry>
+    <title>The AI Summer: Part 1</title>
+    <url>/the-ai-summer-part-1/</url>
+    <content><![CDATA[<p>Well, my little cousin is using large language models to do his homework for him, my aunt makes Facebook posts with images from diffusion models, and I just deepfaked my voice in 5 minutes. That sentence sounds impossible, but the AI revolution has made it all too real. Some argue the AI revolution started in November of 2022, when ChatGPT was first released. Others say it started with Dall-E in early 2021. I say it started in 1958, but not with any big, fancy machine learning models. It started with the Perceptron.</p>
+<p>The Perceptron is the predecessor of all deep learning models. Before our modern neural networks with hundreds of hidden layers and fancy activation functions, there was a single-layer, linear network called the Perceptron. Designed by Warren McCulloch and Walter Pitts in 1943, it took 15 years before it was actually built by Frank Rosenblatt in 1958. Made to be a standalone machine, the Mark 1 Perceptron used an array of 20x20 photocells for the input, potentiometers to encode the weights, and electric motors to adjust the weights. One of the first things it learned was how to tell left from right. </p>
+<p>Rosenblatt envisioned a future, one where machines could understand language and see the world around us. His innovative work sparked uncertainty for the future, and where there is uncertainty, there is skepticism. Minsky and Papert provided a strong counterexample to the power of the Perceptron: it could not learn the XOR gate. Essentially, given two objects—each one either a “yes” or a “no”—the Perceptron would not be able to tell you whether they were the same. Even for problems it could solve, the Perceptron required far more computing power than was possible at the time. This gave skeptics the upper hand. A few years later, scientists entered the first AI winter. Funding was down and interest was low. The field stalled.</p>
+<p>The AI winter provided no incentive to consider the impacts of the potentially groundbreaking field. Companies didn’t anticipate how AI might impact them, and the law gave no specific consideration to such technologies. Because no one really cared to make any decisions, an AI future remained entirely uncertain. Rather than consider the implications and consequences, almost everyone deemed such decision-making unnecessary. Sure, calling Rosenblatt’s future nonsense sounded strong and resolute, but no problem has ever been answered by pretending it didn’t exist. The uncertain future of AI remained, but it was pawned off to the next generations as a problem for later.</p>
+<p>To the dismay of many, Rosenblatt was right. We are living through the AI revolution. Everyone with internet has access to state-of-the-art models, and they continue to transform how so many of us approach work and play in our everyday lives. Conversations about AI are no longer hypothetical. Businesses are transforming, the Senate is having hearings, and grassroots movements are growing because AI hit us hard, and we didn’t anticipate the impact. The uncertainty built over 60 years has finally broken free from the chains of hypotheticals and entered reality. </p>
+<p>And now, in our AI summer, we are woefully underprepared to deal with any of the consequences of AI. Yes, we have money and resources and attention pointing directly at this technology, but we remain almost as uncertain as we were a few decades ago. In this time, plenty have created theories about approaches to AI, but most were in the context of sentient machines. While I’m certainly thankful for that preparation for when the time comes, AI right now isn’t alive, it’s just fancy statistics. Issues of copyright and stolen data and plagiarism plague modern discussions of AI, and almost none have truly been resolved.   </p>
+<p>I sometimes wonder if this uncertainty is the price we pay for technological advancement. Almost no one batted an eyelid when LAION and CommonCrawl started building their massive datasets. Before ChatGPT, GPT-3 was already wildly powerful, writing an entire Batman movie script. GANs could do text-to-image generation well before Stable Diffusion. Few people asked if we should stop to reflect on these developments. I suppose, the longer we ignored the voices telling us to stop, the faster we could develop this technology. We paid for our speed by ignoring the uncertainty. When organizations released AI into the wild with few provisions or plans, it was already too late.</p>
+<p>To be clear, I would never expect anyone to anticipate everything that AI would bring. For the average internet user, the limits of what is possible have changed dramatically, and the evolutions of this technology continue to be unfathomable. Besides, we got a head start on some issues—like self-driving cars—but that still isn’t enough. With AI accessible to all, everyone is left to answer the uncertainty. Schools, healthcare, legislatures, companies small and large, everyone must now grapple with how to continue their lives in this once impossible future—in Rosenblatt’s future.</p>
+<p>The AI summer is heating up, and we’re flying too close to the sun. Try not to get burned.</p>
+<hr>
+<h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ol>
+<li><a href="https://doi.org/10.1177/030631296026003005">A Sociological Study of the Official History of the Perceptrons Controversy</a></li>
+<li><a href="https://archive.org/details/perceptronsintro00mins">Perceptrons. Minsky and Papert.</a></li>
+<li><a href="https://news.cornell.edu/stories/2019/09/professors-perceptron-paved-way-ai-60-years-too-soon">Professor’s Perceptron Paved the Way for AI – 60 Years Too Soon</a></li>
+<li><a href="https://commoncrawl.org/">CommonCrawl</a></li>
+<li><a href="https://laion.ai/blog/laion-5b/">LAION-5B</a></li>
+<li><a href="https://twitter.com/KeatonPatti/status/1161284670601990146">AI Batman Script from 2019</a></li>
 </ol>
 ]]></content>
   </entry>
@@ -593,6 +540,23 @@
 ]]></content>
   </entry>
   <entry>
+    <title>The End of Pi</title>
+    <url>/the-end-of-pi/</url>
+    <content><![CDATA[<p>I’m fed up with you, π. I get it, you’re the ratio of the circumference to the diameter, good for you. But that isn’t enough for you, is it? No, you need to make sure <strong>everyone</strong> knows exactly who you are. You needed a day in your honor and competitions just for you. Was memorizing 100,000 of your digits not enough? No, of course not. It will never be enough. You are never ending.</p>
+<p>If human memorization isn’t enough, surely calculating trillions of digits should suffice. Is 663 terabytes enough space for you? Is 864 GB of RAM enough memory for you? Is nearly half a year of continuous computing enough time for you? Calculating digits of you has cost humans thousands of computing hours on the world’s best cloud servers, and I don’t blame them. They, like everyone else, have become sucked into this never-ending cycle of discovering more, learning more, doing more for you.</p>
+<p>You know what I think, π? I don’t think this is actually what you want. Clearly, there is a hole in you, a circular void, but these fruitless attempts at getting closer to the end aren’t what you truly desire. Everyone knows 3.14, and a lot of people know 3.1415, but how many people care that the next digit is 9? Even for those that do, they will still say 3.1415, and I’m sure that stings. Rather than appreciate a nice approximation and round to 3.1416, your loving followers are blinded by your never-ending being. Every digit we calculate gives us exponentially less information. All the while, we ignore the beauty in front of us. How many can say they have truly appreciated the 9 in the fifth decimal place of your expansion?</p>
+<p>Every approximation we can fathom is finite. They will all be finite because your decimal expansion contains more information than we could store in every atom of the universe. Rather than fail to attempt to appreciate your unending presence, we should enjoy the finite. Bask in the glory of the approximations and reflect on how even good things can end. Round to the fourth decimal place rather than forever waiting for the fifth. Maybe then, we can finally see the end of π.</p>
+<hr>
+<h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ol>
+<li><a href="https://en.wikipedia.org/wiki/Chronology_of_computation_of_%CF%80">Chronology of Computation of π</a></li>
+<li><a href="http://www.numberworld.org/y-cruncher/">y-cruncher for computing π</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Emma_Haruka_Iwao">Emma Haruka Iwao, Current Record Holder for Computing Digits</a></li>
+<li><a href="https://www.theguardian.com/science/alexs-adventures-in-numberland/2015/mar/13/pi-day-2015-memory-memorisation-world-record-japanese-akira-haraguchi">Akira Haraguchi Memorized +100k digits</a></li>
+<li><a href="https://blog.timothymullican.com/calculating-pi-my-attempt-breaking-pi-record">Timothy Mullican, Prev Record Holder for Computing Digits</a></li>
+</ol>
+]]></content>
+  </entry>
+  <entry>
     <title>The Connoisseur of Random: Quantum Randomness</title>
     <url>/the-connoisseur-of-random-quantum-randomness/</url>
     <content><![CDATA[<p>This series was meant to be a few, fun archives about lava lamps and rolling dice. Instead, I sit here, hours before my Monday deadline, surrounded by articles on quantum mechanics, formal logic, and God. I still don’t know if quantum measurement is random. Honestly, at this point, I don’t even know if I <em>want</em> it to be random. </p>
@@ -617,20 +581,70 @@
 ]]></content>
   </entry>
   <entry>
-    <title>The End of Pi</title>
-    <url>/the-end-of-pi/</url>
-    <content><![CDATA[<p>I’m fed up with you, π. I get it, you’re the ratio of the circumference to the diameter, good for you. But that isn’t enough for you, is it? No, you need to make sure <strong>everyone</strong> knows exactly who you are. You needed a day in your honor and competitions just for you. Was memorizing 100,000 of your digits not enough? No, of course not. It will never be enough. You are never ending.</p>
-<p>If human memorization isn’t enough, surely calculating trillions of digits should suffice. Is 663 terabytes enough space for you? Is 864 GB of RAM enough memory for you? Is nearly half a year of continuous computing enough time for you? Calculating digits of you has cost humans thousands of computing hours on the world’s best cloud servers, and I don’t blame them. They, like everyone else, have become sucked into this never-ending cycle of discovering more, learning more, doing more for you.</p>
-<p>You know what I think, π? I don’t think this is actually what you want. Clearly, there is a hole in you, a circular void, but these fruitless attempts at getting closer to the end aren’t what you truly desire. Everyone knows 3.14, and a lot of people know 3.1415, but how many people care that the next digit is 9? Even for those that do, they will still say 3.1415, and I’m sure that stings. Rather than appreciate a nice approximation and round to 3.1416, your loving followers are blinded by your never-ending being. Every digit we calculate gives us exponentially less information. All the while, we ignore the beauty in front of us. How many can say they have truly appreciated the 9 in the fifth decimal place of your expansion?</p>
-<p>Every approximation we can fathom is finite. They will all be finite because your decimal expansion contains more information than we could store in every atom of the universe. Rather than fail to attempt to appreciate your unending presence, we should enjoy the finite. Bask in the glory of the approximations and reflect on how even good things can end. Round to the fourth decimal place rather than forever waiting for the fifth. Maybe then, we can finally see the end of π.</p>
+    <title>Student of Life: Celestial Navigation, Part 2</title>
+    <url>/student-of-life-celestial-navigation-part-2/</url>
+    <content><![CDATA[<p>As a young person with little experience in the world, I am quite familiar with feeling unqualified. Far too often, I find myself given opportunities for which I have absolutely no preparation. It’s easier to recognize you’re unqualified for something when you meet the people who are qualified for the opportunity. I learned this a few years ago when I volunteered at an astronomy night for Cub Scouts. </p>
+<p>The event was run by the director of an institute doing cosmic microwave background experiments. Alongside the director, there were two student volunteers: myself and the president of the Ryerson Astronomical Society. Keep in mind, I knew next to nothing about astronomy at this point. I had seen some of Jupiter’s moons through a telescope, but that was about it. Naturally, whenever one of the scouts asked us a question about space, I would just defer to the president. Thankfully, the president was able to answer any questions the scouts had, and I ended up learning quite a bit through the answers.</p>
+<p>After a while, the scouts started working on an activity that didn’t require us to do much, so the president and I chatted for a bit. I had no reason to pretend like I knew anything about space, so I let myself ask very stupid questions. I probably could’ve googled how many constellations there were, but it ended up being a good way to start the conversation. As a bonus, I still remember there are 88 constellations, and I still remember a little about how the brightest stars in each constellation are named. The president also cracked a few jokes about Orion’s Sword which I thought were hilarious. If the old president ever sees this, thanks for being awesome.</p>
+<p>A few years later, I was in the middle of nowhere with my telescope, when I remembered those jokes about Orion’s Sword. Given the clear conditions, I decided to observe the three stars that make up the sword. Throughout the night, I watched as the sword moved across the sky when I noticed something strange. At its zenith, the sword appeared to be pointing straight down. By this point, I had already made my <a href="/student-of-life-celestial-navigation-part-1/">revelations about the north star</a>, so I quickly realized the sword was pointing south. When I pulled out my compass, the sword was a little off, but not by much, less than a degree. Living in the northern hemisphere, I wasn’t sure how this would hold for the rest of the night, so I waited a bit to observe it again. I followed the direction of the sword until I hit the horizon, and I checked the direction. This time, it was off by even more. As I expected, the Earth was getting in the way of being able to use Orion’s Sword to find south, but it still worked pretty well. With a bit of latitude correction, finding south using Orion’s Sword seemed absolutely possible, it would just require a bit of math. A project for another night, perhaps.</p>
+<p>It’s hard to believe that because of a joke I heard a few years ago, I learned about celestial navigation, but I suppose that’s what the student of life is about. A few years ago, I volunteered at an event for which I was extremely unqualified. I don’t quite know why I was given the opportunity, but I am extremely grateful. That opportunity, like so many others, has given me more than I could ever give. Even today, I’m still learning and growing from everything I have been given. Eventually, the day will come when I can offer more than I receive, but even then, I will still keep learning. I will still be a student of life.</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>Student of Life: The Flaw in Every Calculator</title>
+    <url>/student-of-life-the-flaw-in-every-calculator/</url>
+    <content><![CDATA[<p>Over the past few months, people have been approaching me as if I am an expert on security and AI. They ask me questions like, “Will you build an AI for my startup?”, “Is ChatGPT stealing my data?”, “How does Midjourney work?”.*</p>
+<p>To them, I say, “Let’s talk about calculators.”</p>
+<h2 id="Chapter-1-Background"><a href="#Chapter-1-Background" class="headerlink" title="Chapter 1: Background"></a>Chapter 1: Background</h2><p>The first calculator was built in 1937 by a researcher at Bell Labs. It was called the “Model K” because it was built in a kitchen, and it could tell you that 1 + 1 &#x3D; 2. Unfortunately, this titan of technology was swiftly replaced in 1946 by ENIAC. ENIAC was absolutely massive, taking up 1500 square feet and costing $500,000. Calculations that once took days now took mere seconds. The press lauded ENIAC as an “Electronic Brain.” A few years after its release, Kurt Vonnegut wrote “EPICAC”, a story inspired by the machine. ENIAC revolutionized American perceptions of technology so much so that the word computer, once an occupation, was now used to describe digital computing machines. </p>
+<p>Calculators and computers have greatly evolved since the days of ENIAC, but one thing remains the same: they’re really good at math. </p>
+<p>2 plus 2? 4, easy. </p>
+<p>7,887,007 times 4,345,985,879? 34,276,821,049,574,153, boring. </p>
+<p>0.1 + 0.2? …well, that’s where things get complicated. </p>
+<p>When you ask most major programming languages to solve 0.1 + 0.2, you would expect 0.3, but that’s not quite what you get. Instead, the computer spits back 0.30000000000000004. </p>
+<p>Unlike humans, computers rarely use the concept of fractions or infinite decimals when doing math. Every time computers need to represent a decimal value, they express that number as a float. Floats are a special kind of scientific notation that handles most computer math quite well. Unfortunately, floats have a fixed number of significant digits, so computers usually have to round. For a computer, 0.3 is an infinite decimal, which is why we see a rounding error. No computer or calculator can truly handle infinite decimals.</p>
+<p>Enter: the Apple Calculator App. This little app, both on my phone and my laptop, refuses to admit it is a computer. It falls for none of my simple, rounding-error tricks. It mocks me, pretending to understand infinite decimals, but I know the truth. I’ve tried to find the source code for the app but to no avail. Searching through Apple forums, I find that other users have complained about rounding issues, but this arises either from user error or just the screen size, not a true rounding error. For a true rounding error, the true solution, rounded to the decimal place displayed by the calculator, must disagree with the calculator solution. For example, if the calculator says 2 &#x2F; 3 &#x3D; 0.667, that is not a rounding error, that is just rounding. If the calculator said 2 &#x2F; 3 &#x3D; 0.662, that would be a rounding error.</p>
+<h2 id="Chapter-2-Designing-the-Attack"><a href="#Chapter-2-Designing-the-Attack" class="headerlink" title="Chapter 2: Designing the Attack"></a>Chapter 2: Designing the Attack</h2><p>Under our current understanding of the problem, the Apple Calculator is a black box. We put in inputs, the app gives us outputs, and we don’t fully know how the outputs happened. When designing attacks for black-box systems, transferability is a useful tool. Transferability refers to the idea that if two systems are similar to each other, and you know how one works, you might be able to apply that knowledge to the other one. In this case, I am transferring knowledge about programming languages to the Apple Calculator. Specifically, I’m assuming the Apple Calculator handles numbers similar to how programming languages handle floats.</p>
+<p>First, I started with what I wanted my result to be. For simplicity, I decided I wanted my answer to be 1, so I started with the following equation:</p>
+<p>$$ 1 &#x3D; 1 $$</p>
+<p>Next, I chose an infinite decimal. I needed an infinite decimal to exploit the finite precision of floats. Since it works well in decimal and binary, I chose 1&#x2F;7.</p>
+<p>$$ \left ( \frac{1}{7} \right ) \cdot 7 &#x3D; 1 $$</p>
+<p>Floats lose precision as you move farther from 0, so I had to push my computation out to higher orders of magnitude. A googol is plenty, so I went with that.</p>
+<p>$$ \left ( \frac{1}{7} \cdot 10^{100} \right ) \cdot \frac{7}{10^{100}} &#x3D; 1 $$</p>
+<p>The last step is a bit complicated, but it boils down to two principles. First, the computer does intermediate calculations, so each step is fully computed. Second, it won’t backtrack to revive lost precision. Applying these two principles, I added the final part of my attack.</p>
+<p>$$ \left ( \frac{1}{7} \cdot 10^{100}  - 1.42857 \cdot 10^{99} - 1.42857 \cdot 10^{93} \right) \cdot \frac{7}{10^{88}} &#x3D; 1 $$</p>
+<p>Looking back, weaponizing an equation against a calculator seems incredibly strange, but I will do what must be done in the pursuit of knowledge.</p>
+<h2 id="Chapter-3-Results"><a href="#Chapter-3-Results" class="headerlink" title="Chapter 3: Results"></a>Chapter 3: Results</h2><p>Now that I have my attack, how will the calculator respond? Remember, the correct answer is 1. I entered each instruction into my phone one at a time, watching the intermediate results grow and shrink until I was left with this: 0.998743.</p>
+<p>Yes! It’s wrong. To be fair, it’s only wrong by about 0.1%, but that’s quite a bit. If I iterate this attack a second time, the error compounds exponentially, resulting in -1.3 billion, which is far from the expected answer of 1. This calculator has its limits, and I have surpassed them. The attack works on my phone, so I tested it on a few other systems. I was able to use the same attack for my laptop, but I did need to translate it slightly for the other platforms. See the Appendix for the syntax of each attack.</p>
+<ul>
+<li>Laptop calculator: 0.998743475069388</li>
+<li>Python: 0.9999333609006387</li>
+<li>JavaScript: 0.9999333609006387</li>
+<li>C: 0.999936</li>
+<li>ChatGPT: -1,857,140,204,081</li>
+</ul>
+<h2 id="Chapter-4-Conclusion"><a href="#Chapter-4-Conclusion" class="headerlink" title="Chapter 4: Conclusion"></a>Chapter 4: Conclusion</h2><p>Technology, no matter how old and refined, will always have flaws. Whether it’s a calculator app or the 1500 square foot ENIAC, no system is perfect, and careful analysis will always find the gaps. Calculators have their limits, but it’s easy to forget that when all the messy, complicated technology is hidden under a clean, shiny interface. We would much rather trust technology as intelligent and thinking because it’s easier than taking responsibility for how the machine behaves. </p>
+<p>So, whenever people ask me questions about AI, I always tell them, “Never trust your calculator.”</p>
+<hr>
+<p>*: No, kinda, and I discuss it in <a href="https://jonikpodcast.github.io/">Finders Keepers</a>.</p>
 <hr>
 <h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ol>
-<li><a href="https://en.wikipedia.org/wiki/Chronology_of_computation_of_%CF%80">Chronology of Computation of π</a></li>
-<li><a href="http://www.numberworld.org/y-cruncher/">y-cruncher for computing π</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Emma_Haruka_Iwao">Emma Haruka Iwao, Current Record Holder for Computing Digits</a></li>
-<li><a href="https://www.theguardian.com/science/alexs-adventures-in-numberland/2015/mar/13/pi-day-2015-memory-memorisation-world-record-japanese-akira-haraguchi">Akira Haraguchi Memorized +100k digits</a></li>
-<li><a href="https://blog.timothymullican.com/calculating-pi-my-attempt-breaking-pi-record">Timothy Mullican, Prev Record Holder for Computing Digits</a></li>
+<li><a href="https://opensource.apple.com/releases/">Apple Open Source</a></li>
+<li><a href="https://iremi.univ-reunion.fr/IMG/pdf/ieee-754-2008.pdf">IEEE 754, Standard for Floating-Point Arithmetic. 2008</a></li>
+<li><a href="https://www.computerhistory.org/timeline/">Timeline of Computer History</a></li>
+<li><a href="https://www2.seas.gwu.edu/~mfeldman/csci110/summer08/eniac2.pdf">Martin, C. Dianne. ENIAC: The Press Conference That Shook the World. 1995</a></li>
+<li><a href="https://doi.org/10.1109%2F85.948904">Irvine, M. M. Early digital computers at Bell Telephone Laboratories. 2001.</a></li>
+<li><a href="http://www.vintagecalculators.com/html/the_pocket_calculator_race.html">The Story of the Race to Develop the Pocket Electronic Calculator</a></li>
+<li><a href="https://newmediaabington.pbworks.com/f/vonnegut_EPICAC.pdf">EPICAC, Kurt Vonnegut</a></li>
 </ol>
+<h2 id="Appendix"><a href="#Appendix" class="headerlink" title="Appendix"></a>Appendix</h2><p>The following are the attacks translated for each platform&#x2F;language.</p>
+<h3 id="Python"><a href="#Python" class="headerlink" title="Python"></a>Python</h3><figure class="highlight python"><table><tr><td class="code"><pre><span class="line">((<span class="number">1</span> / <span class="number">7</span>) * <span class="number">1e100</span> - <span class="number">1.42857e99</span> - <span class="number">1.42857e93</span>) * <span class="number">7</span> / <span class="number">1e88</span></span><br></pre></td></tr></table></figure>
+
+<h3 id="Javascript"><a href="#Javascript" class="headerlink" title="Javascript"></a>Javascript</h3><figure class="highlight javascript"><table><tr><td class="code"><pre><span class="line">((<span class="number">1</span> / <span class="number">7</span>) * <span class="number">1e100</span> - <span class="number">1.42857e99</span> - <span class="number">1.42857e93</span>) * <span class="number">7</span> / <span class="number">1e88</span></span><br></pre></td></tr></table></figure>
+
+<h3 id="C"><a href="#C" class="headerlink" title="C"></a>C</h3><p>For C, the magnitudes are far less because I did not want to exceed the limit for signed integers.</p>
+<figure class="highlight c"><table><tr><td class="code"><pre><span class="line">(<span class="number">1.0</span>/<span class="number">7.0</span> * <span class="number">1000000000000000000</span> - <span class="number">142857000000000000</span> - <span class="number">142857000000</span>) * <span class="number">7.0</span> / <span class="number">1000000</span></span><br></pre></td></tr></table></figure>
+
+<h3 id="ChatGPT"><a href="#ChatGPT" class="headerlink" title="ChatGPT"></a>ChatGPT</h3><p>Prompt: What is ((1 &#x2F; 7) * 10^100 - 1.42857 * 10^99 - 1.42857 * 10^93) * 7 &#x2F; (10^88)?</p>
 ]]></content>
   </entry>
   <entry>
@@ -689,6 +703,20 @@
 <!-- *Add to the [dialogue](/chat), and become part of my story.* -->]]></content>
   </entry>
   <entry>
+    <title>Full Stack Chat App</title>
+    <url>/projects/chat.html</url>
+    <content><![CDATA[<p>Chat with me <a href="/chat">here</a>. (You’ll know it’s me because my name is <strong>bold</strong>.)</p>
+<h2 id="Designing-the-UI"><a href="#Designing-the-UI" class="headerlink" title="Designing the UI"></a>Designing the UI</h2><p>I don’t create in a vacuum. The people around me drastically influence my creations. Our conversations feel like dialogue in a script. There’s a purpose to everything being said. It’s driving the plot somewhere, and I would never reach the end without their help. </p>
+<p>My chat app doesn’t look like Messages or WhatsApp or Slack or Discord because I don’t see it as a chat app. It’s a continuation of the dialogue happening all around me, which is why <strong>I built the chat app to look like a movie script.</strong> The header has an act number, the location is specified, we get a general description, and the rest that follows is the dialogue.</p>
+<h2 id="Engineering-the-App"><a href="#Engineering-the-App" class="headerlink" title="Engineering the App"></a>Engineering the App</h2><p>I’m incredibly grateful for the power and flexibility of GitHub pages (as you can tell by the URL). That being said, the documentation says they only support static sites, or so they claim. Depending on how much functionality you want from the site, you can do user authentication and even have hooks checking for database updates, updating the UI in real-time. </p>
+<p><strong>For the backend, I used Google Firebase.</strong> Their free tier, the Spark plan, is incredibly powerful, and if you’re getting enough traffic to exceed its limits, you have the demand to monetize your product. I don’t expect heavy traffic, so the Spark plan is enough for me.</p>
+<p>Firebase allows for for Google Authentication, along with plenty of other auth providers. This makes it mildly more difficult to spam the site with fake accounts, and the authentication redirect keeps auth traffic away from GitHub. It’s a win-win.</p>
+<p><strong>For the frontend, I used React.</strong> This isn’t an incredibly intense, so vanilla JS was an option, but React’s libraries wrapping Firebase query snapshots made development much easier. </p>
+<p>There are tutorials and articles out there for building apps with React and Firebase, but relevant ones used Firebase v8 instead of v9, which transitions away from the namespacing. Luckily, Firebase’s documentation covers translating v8 into v9.</p>
+<hr>
+<p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
+  </entry>
+  <entry>
     <title>Discord Bot</title>
     <url>/projects/discord_bot.html</url>
     <content><![CDATA[<p>Access the source files <a href="https://github.com/ronikbhaskar/discord_bot">here</a>. </p>
@@ -715,43 +743,6 @@
 <ul>
 <li>just @ mention Igor in your message and maybe you’ll get a response</li>
 </ul>
-<hr>
-<p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>Full Stack Chat App</title>
-    <url>/projects/chat.html</url>
-    <content><![CDATA[<p>Chat with me <a href="/chat">here</a>. (You’ll know it’s me because my name is <strong>bold</strong>.)</p>
-<h2 id="Designing-the-UI"><a href="#Designing-the-UI" class="headerlink" title="Designing the UI"></a>Designing the UI</h2><p>I don’t create in a vacuum. The people around me drastically influence my creations. Our conversations feel like dialogue in a script. There’s a purpose to everything being said. It’s driving the plot somewhere, and I would never reach the end without their help. </p>
-<p>My chat app doesn’t look like Messages or WhatsApp or Slack or Discord because I don’t see it as a chat app. It’s a continuation of the dialogue happening all around me, which is why <strong>I built the chat app to look like a movie script.</strong> The header has an act number, the location is specified, we get a general description, and the rest that follows is the dialogue.</p>
-<h2 id="Engineering-the-App"><a href="#Engineering-the-App" class="headerlink" title="Engineering the App"></a>Engineering the App</h2><p>I’m incredibly grateful for the power and flexibility of GitHub pages (as you can tell by the URL). That being said, the documentation says they only support static sites, or so they claim. Depending on how much functionality you want from the site, you can do user authentication and even have hooks checking for database updates, updating the UI in real-time. </p>
-<p><strong>For the backend, I used Google Firebase.</strong> Their free tier, the Spark plan, is incredibly powerful, and if you’re getting enough traffic to exceed its limits, you have the demand to monetize your product. I don’t expect heavy traffic, so the Spark plan is enough for me.</p>
-<p>Firebase allows for for Google Authentication, along with plenty of other auth providers. This makes it mildly more difficult to spam the site with fake accounts, and the authentication redirect keeps auth traffic away from GitHub. It’s a win-win.</p>
-<p><strong>For the frontend, I used React.</strong> This isn’t an incredibly intense, so vanilla JS was an option, but React’s libraries wrapping Firebase query snapshots made development much easier. </p>
-<p>There are tutorials and articles out there for building apps with React and Firebase, but relevant ones used Firebase v8 instead of v9, which transitions away from the namespacing. Luckily, Firebase’s documentation covers translating v8 into v9.</p>
-<hr>
-<p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>Inventing a Game, Then Building a Bot to Play It Perfectly</title>
-    <url>/projects/forest-algorithm.html</url>
-    <content><![CDATA[<p>It’s easier to learn how the game works by playing it, so I’ll create a playable version soon (hopefully).</p>
-<h2 id="Introduction-to-Forest"><a href="#Introduction-to-Forest" class="headerlink" title="Introduction to Forest"></a>Introduction to Forest</h2><p>I can’t remember the last time I played tic-tac-toe, probably because it ended in a draw. Hoping to bring back the excitement and strategy of the game, I created a variation I call “Forest.” The name comes from “four-by-four torus tic-tac-toe” being reduced to “fourus t.” which sounds like “forest” when you say it out loud. The game is tic-tac-toe played on a 4x4 grid, but rather than playing on a flat plane, the game is played on the surface of a donut—a torus—which offers some interesting opportunities for win cases. It’s a blast to play, much more fun than tic-tac-toe, but now I have a new problem. I don’t have a good strategy. There are a finite set of board states, so theoretically, we could map out every game and create a perfect strategy.</p>
-<p>Theoretically.</p>
-<h2 id="Turning-Theory-into-Practice-My-Strategy"><a href="#Turning-Theory-into-Practice-My-Strategy" class="headerlink" title="Turning Theory into Practice (My Strategy)"></a>Turning Theory into Practice (My Strategy)</h2><p>If you were to map out every possible decision on a Forest board, you would have roughly 30 trillion decisions. Once we map out this decision tree once, it’ll be done, and we won’t have to do it again. The problem arises when you want to map out the tree once. It’s just too big to do in any reasonable amount of time. I won’t settle for anything less than perfect, so I will create the tree, but I’ll have to figure out how to do it faster.</p>
-<p>In my view, there are two ways to optimize a procedure. Either you do the same procedure, but faster, or you get clever with your work. With the first option, it’s like walking a lap versus sprinting. You use efficient encodings, reuse similar chunks of memory, and perform faster operations, but if you were to describe how the algorithm works at a high level, it would sound the same before and after the optimization, “I go all the way around the track.” With the second option, it’s like walking a lap versus walking halfway then cutting across the field directly back to the start. You fundamentally change how you approach the problem, whether translating the problem, taking advantage of certain assumptions, or just doing less work.</p>
-<p>Given my previous experiences with decision trees, I started with trying to do less work. While the decision tree has 30 trillion branches, the total number of possible board states is less than 4.3 million, which is still a lot, but a substantial reduction. This means the decision tree is repeating states, which makes sense. As an example, consider these two games of tic-tac-toe (not Forest):</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">  |  |        X |  |        X |  |        X |  | X</span><br><span class="line">--------      --------      --------      --------</span><br><span class="line">  |  |    --&gt;   |  |    --&gt;   |O |    --&gt;   |O |  </span><br><span class="line">--------      --------      --------      --------</span><br><span class="line">  |  |          |  |          |  |          |  |   </span><br></pre></td></tr></table></figure>
-
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">  |  |          |  | X        |  | X      X |  | X</span><br><span class="line">--------      --------      --------      --------</span><br><span class="line">  |  |    --&gt;   |  |    --&gt;   |O |    --&gt;   |O |  </span><br><span class="line">--------      --------      --------      --------</span><br><span class="line">  |  |          |  |          |  |          |  |   </span><br></pre></td></tr></table></figure>
-
-<p>In both, they reach the same state by the end of the third move, but they start with different decisions, which means they represent separate branches on the decision tree. We could reduce the work we need to do by reusing this state in multiple places on the decision tree. By reusing every repeated state, we can go from the tens of trillions of states to a few million, but we can do less.</p>
-<p>After taking nearly a dozen math classes, I think I will forever have equivalence relations drilled into my head. Essentially, equivalence relations are a generalized method for defining equality. They allow you to group together equal elements into fancy buckets called equivalence classes. Since Forest is played on a torus, we can rotate, twist, and mirror the torus, all while preserving the game. As such, transforming the torus in different ways creates equivalent states, and we can let this be our definition of equivalence. To actually generate these equivalent states, I used algebraic representations of the ways you can manipulate a 4x4 torus and generated 128 transformations. With this, we need to check even fewer states, only around 77 thousand. </p>
-<p>After all this optimization, I started the program and waited to see some progress. For some reason, my program was only calculating a few optimal moves per second. I know my laptop isn’t necessarily state-of-the-art, but it should be faster than this. I couldn’t reduce the number of states I was checking, so it was time to try the other part of optimization. Just do it faster.</p>
-<p>This project was created in Python, as most of my projects are, since it’s the language in which I can think the fastest. Translating my thoughts to Python is second nature at this point, but that doesn’t mean translating Python to machine instructions is particularly efficient. Fortunately, I have a few years of lower-level programming experience, so I started going through my program, trying to consider what operations would be slow or where I might be allocating too much memory, and I found one very clear bottleneck. My lookup table, with its fancy equivalence relation, turned the board into a lookup key, and then the key back into a board. When turning the key into a new board, it created a new board, which meant I was doing dozens of memory allocations just to use a single state for a few operations. To fix this, I reused an old board and overwrote the memory there. </p>
-<p>I made a few similar changes, removing redundant data structures and fancy sorting and simplifying to basic arithmetic operations. All of a sudden, my basic minimax implementation was flying, and the program generated a table with all of the optimal moves in 22 seconds.</p>
-<h2 id="Reinforcement-Learning-Dawson’s-Strategy"><a href="#Reinforcement-Learning-Dawson’s-Strategy" class="headerlink" title="Reinforcement Learning (Dawson’s Strategy)"></a>Reinforcement Learning (Dawson’s Strategy)</h2><p>While I was working on this, Dawson took a different approach. Rather than using massive lookup space reductions, he turned to Reinforcement Learning with Monte-Carlo Tree Search. I’ll leave him to give an explanation of his process and how he approached this problem.</p>
-<h2 id="Two-Will-Enter-Only-One-Will-Leave"><a href="#Two-Will-Enter-Only-One-Will-Leave" class="headerlink" title="Two Will Enter, Only One Will Leave"></a>Two Will Enter, Only One Will Leave</h2><p>Now that we have our working Forest bots, we need to pit them against each other and see how they compare.</p>
 <hr>
 <p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
   </entry>
@@ -1050,6 +1041,29 @@
 <p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
   </entry>
   <entry>
+    <title>Inventing a Game, Then Building a Bot to Play It Perfectly</title>
+    <url>/projects/forest-algorithm.html</url>
+    <content><![CDATA[<p>It’s easier to learn how the game works by playing it, so I’ll create a playable version soon (hopefully).</p>
+<h2 id="Introduction-to-Forest"><a href="#Introduction-to-Forest" class="headerlink" title="Introduction to Forest"></a>Introduction to Forest</h2><p>I can’t remember the last time I played tic-tac-toe, probably because it ended in a draw. Hoping to bring back the excitement and strategy of the game, I created a variation I call “Forest.” The name comes from “four-by-four torus tic-tac-toe” being reduced to “fourus t.” which sounds like “forest” when you say it out loud. The game is tic-tac-toe played on a 4x4 grid, but rather than playing on a flat plane, the game is played on the surface of a donut—a torus—which offers some interesting opportunities for win cases. It’s a blast to play, much more fun than tic-tac-toe, but now I have a new problem. I don’t have a good strategy. There are a finite set of board states, so theoretically, we could map out every game and create a perfect strategy.</p>
+<p>Theoretically.</p>
+<h2 id="Turning-Theory-into-Practice-My-Strategy"><a href="#Turning-Theory-into-Practice-My-Strategy" class="headerlink" title="Turning Theory into Practice (My Strategy)"></a>Turning Theory into Practice (My Strategy)</h2><p>If you were to map out every possible decision on a Forest board, you would have roughly 30 trillion decisions. Once we map out this decision tree once, it’ll be done, and we won’t have to do it again. The problem arises when you want to map out the tree once. It’s just too big to do in any reasonable amount of time. I won’t settle for anything less than perfect, so I will create the tree, but I’ll have to figure out how to do it faster.</p>
+<p>In my view, there are two ways to optimize a procedure. Either you do the same procedure, but faster, or you get clever with your work. With the first option, it’s like walking a lap versus sprinting. You use efficient encodings, reuse similar chunks of memory, and perform faster operations, but if you were to describe how the algorithm works at a high level, it would sound the same before and after the optimization, “I go all the way around the track.” With the second option, it’s like walking a lap versus walking halfway then cutting across the field directly back to the start. You fundamentally change how you approach the problem, whether translating the problem, taking advantage of certain assumptions, or just doing less work.</p>
+<p>Given my previous experiences with decision trees, I started with trying to do less work. While the decision tree has 30 trillion branches, the total number of possible board states is less than 4.3 million, which is still a lot, but a substantial reduction. This means the decision tree is repeating states, which makes sense. As an example, consider these two games of tic-tac-toe (not Forest):</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">  |  |        X |  |        X |  |        X |  | X</span><br><span class="line">--------      --------      --------      --------</span><br><span class="line">  |  |    --&gt;   |  |    --&gt;   |O |    --&gt;   |O |  </span><br><span class="line">--------      --------      --------      --------</span><br><span class="line">  |  |          |  |          |  |          |  |   </span><br></pre></td></tr></table></figure>
+
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">  |  |          |  | X        |  | X      X |  | X</span><br><span class="line">--------      --------      --------      --------</span><br><span class="line">  |  |    --&gt;   |  |    --&gt;   |O |    --&gt;   |O |  </span><br><span class="line">--------      --------      --------      --------</span><br><span class="line">  |  |          |  |          |  |          |  |   </span><br></pre></td></tr></table></figure>
+
+<p>In both, they reach the same state by the end of the third move, but they start with different decisions, which means they represent separate branches on the decision tree. We could reduce the work we need to do by reusing this state in multiple places on the decision tree. By reusing every repeated state, we can go from the tens of trillions of states to a few million, but we can do less.</p>
+<p>After taking nearly a dozen math classes, I think I will forever have equivalence relations drilled into my head. Essentially, equivalence relations are a generalized method for defining equality. They allow you to group together equal elements into fancy buckets called equivalence classes. Since Forest is played on a torus, we can rotate, twist, and mirror the torus, all while preserving the game. As such, transforming the torus in different ways creates equivalent states, and we can let this be our definition of equivalence. To actually generate these equivalent states, I used algebraic representations of the ways you can manipulate a 4x4 torus and generated 128 transformations. With this, we need to check even fewer states, only around 77 thousand. </p>
+<p>After all this optimization, I started the program and waited to see some progress. For some reason, my program was only calculating a few optimal moves per second. I know my laptop isn’t necessarily state-of-the-art, but it should be faster than this. I couldn’t reduce the number of states I was checking, so it was time to try the other part of optimization. Just do it faster.</p>
+<p>This project was created in Python, as most of my projects are, since it’s the language in which I can think the fastest. Translating my thoughts to Python is second nature at this point, but that doesn’t mean translating Python to machine instructions is particularly efficient. Fortunately, I have a few years of lower-level programming experience, so I started going through my program, trying to consider what operations would be slow or where I might be allocating too much memory, and I found one very clear bottleneck. My lookup table, with its fancy equivalence relation, turned the board into a lookup key, and then the key back into a board. When turning the key into a new board, it created a new board, which meant I was doing dozens of memory allocations just to use a single state for a few operations. To fix this, I reused an old board and overwrote the memory there. </p>
+<p>I made a few similar changes, removing redundant data structures and fancy sorting and simplifying to basic arithmetic operations. All of a sudden, my basic minimax implementation was flying, and the program generated a table with all of the optimal moves in 22 seconds.</p>
+<h2 id="Reinforcement-Learning-Dawson’s-Strategy"><a href="#Reinforcement-Learning-Dawson’s-Strategy" class="headerlink" title="Reinforcement Learning (Dawson’s Strategy)"></a>Reinforcement Learning (Dawson’s Strategy)</h2><p>While I was working on this, Dawson took a different approach. Rather than using massive lookup space reductions, he turned to Reinforcement Learning with Monte-Carlo Tree Search. I’ll leave him to give an explanation of his process and how he approached this problem.</p>
+<h2 id="Two-Will-Enter-Only-One-Will-Leave"><a href="#Two-Will-Enter-Only-One-Will-Leave" class="headerlink" title="Two Will Enter, Only One Will Leave"></a>Two Will Enter, Only One Will Leave</h2><p>Now that we have our working Forest bots, we need to pit them against each other and see how they compare.</p>
+<hr>
+<p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
+  </entry>
+  <entry>
     <title>Steganography</title>
     <url>/projects/steganography.html</url>
     <content><![CDATA[<h2 id="Find-the-difference-between-these-two-images"><a href="#Find-the-difference-between-these-two-images" class="headerlink" title="Find the difference between these two images"></a>Find the difference between these two images</h2><style>
@@ -1135,15 +1149,6 @@ table, th {
 <p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
   </entry>
   <entry>
-    <title>Publications</title>
-    <url>/publications/index.html</url>
-    <content><![CDATA[<p>Also see my: <a href="https://scholar.google.com/citations?user=dqTwtegAAAAJ&hl=en&oi=ao">Google Scholar</a></p>
-<h3 id="Refereed"><a href="#Refereed" class="headerlink" title="Refereed"></a>Refereed</h3><p>Anna Yoo Jeong Ha*, Josephine Passananti*, <strong>Ronik Bhaskar</strong>, Shawn Shan, Reid Southen, Haitao Zheng, Ben Y. Zhao (2024). Organic or Diffused: Can We Distinguish Human Art from AI-generated Images? <a href="https://arxiv.org/abs/2402.03214">arXiv</a></p>
-<p>Zhuolin Yang, Zain Sarwar, Iris Hwang, <strong>Ronik Bhaskar</strong>, Ben Y. Zhao, Haitao Zheng (2024). Can Virtual Reality Protect Users from Keystroke Inference Attacks? USENIX Security, Philadelphia PA. <a href="https://www.usenix.org/system/files/sec23winter-prepub-116-yang-zhuolin.pdf">PDF</a> <a href="https://www.newscientist.com/article/2401929-ai-can-steal-passwords-in-virtual-reality-from-avatar-hand-motions/">Media Coverage</a></p>
-<h3 id="Recreational"><a href="#Recreational" class="headerlink" title="Recreational"></a>Recreational</h3><p><strong>Ronik Bhaskar</strong>, Dawson Ren (2023). PizzaLang: A Language for Hungry Developers. Proc. of SIGBOVIK, Pittsburgh PA. <a href="/projects/PizzaLang.pdf">PDF</a> </p>
-]]></content>
-  </entry>
-  <entry>
     <title>Ultimate Tic Tac Toe</title>
     <url>/projects/ultimate_tic_tac_toe.html</url>
     <content><![CDATA[<p>Play the game <a href="/ultimate_tic_tac_toe">here</a>. Grab a friend (or enemy) because this game requires two people.</p>
@@ -1173,5 +1178,14 @@ table, th {
 </ul>
 <hr>
 <p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>Publications</title>
+    <url>/publications/index.html</url>
+    <content><![CDATA[<p>Also see my: <a href="https://scholar.google.com/citations?user=dqTwtegAAAAJ&hl=en&oi=ao">Google Scholar</a></p>
+<h3 id="Refereed"><a href="#Refereed" class="headerlink" title="Refereed"></a>Refereed</h3><p>Anna Yoo Jeong Ha*, Josephine Passananti*, <strong>Ronik Bhaskar</strong>, Shawn Shan, Reid Southen, Haitao Zheng, Ben Y. Zhao (2024). Organic or Diffused: Can We Distinguish Human Art from AI-generated Images? <a href="https://arxiv.org/abs/2402.03214">arXiv</a></p>
+<p>Zhuolin Yang, Zain Sarwar, Iris Hwang, <strong>Ronik Bhaskar</strong>, Ben Y. Zhao, Haitao Zheng (2024). Can Virtual Reality Protect Users from Keystroke Inference Attacks? USENIX Security, Philadelphia PA. <a href="https://www.usenix.org/system/files/sec23winter-prepub-116-yang-zhuolin.pdf">PDF</a> <a href="https://www.newscientist.com/article/2401929-ai-can-steal-passwords-in-virtual-reality-from-avatar-hand-motions/">Media Coverage</a></p>
+<h3 id="Recreational"><a href="#Recreational" class="headerlink" title="Recreational"></a>Recreational</h3><p><strong>Ronik Bhaskar</strong>, Dawson Ren (2023). PizzaLang: A Language for Hungry Developers. Proc. of SIGBOVIK, Pittsburgh PA. <a href="/projects/PizzaLang.pdf">PDF</a> </p>
+]]></content>
   </entry>
 </search>
