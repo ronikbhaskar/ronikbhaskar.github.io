@@ -142,6 +142,18 @@ description: >-
 
 <details>
 <summary>
+<b>A Personal Database for Literature</b>
+</summary>
+<ul>
+    <li><a href="/projects/literature-db">Summary</a></li>
+    <li><a href="/ex-libris-select-poems-by-emily-dickinson">Archive Entry</a></li>
+    <li><a href="https://github.com/ronikbhaskar/literature-db">GitHub</a></li>
+</ul>
+</details>
+<br />
+
+<details>
+<summary>
 <b>Inventing a Game, Then Building a Bot to Play It Perfectly</b>
 </summary>
 <ul>
