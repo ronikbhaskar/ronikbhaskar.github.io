@@ -2,6 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://ronikbhaskar.github.io/projects/literature-db</loc>
+    
+    <lastmod>2024-03-05</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://ronikbhaskar.github.io/ex-libris-select-poems-by-emily-dickinson/</loc>
+    
+    <lastmod>2024-03-05</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://ronikbhaskar.github.io/projects/</loc>
+    
+    <lastmod>2024-03-05</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://ronikbhaskar.github.io/reaching-out-to-old-friends/</loc>
     
     <lastmod>2024-02-27</lastmod>
@@ -14,15 +41,6 @@
     <loc>https://ronikbhaskar.github.io/a-heart-a-plane-and-a-seahorse-designs-from-the-last-two-months/</loc>
     
     <lastmod>2024-02-20</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://ronikbhaskar.github.io/projects/</loc>
-    
-    <lastmod>2024-02-16</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -364,7 +382,7 @@
 
   <url>
     <loc>https://ronikbhaskar.github.io/</loc>
-    <lastmod>2024-02-27</lastmod>
+    <lastmod>2024-03-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>

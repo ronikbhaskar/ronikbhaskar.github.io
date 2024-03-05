@@ -23,7 +23,7 @@
 
 
 
-<title>Archive: 2024 | Ronik Bhaskar</title>
+<title>Literature DB (WIP) | Ronik Bhaskar</title>
 
 
 
@@ -146,196 +146,60 @@
 
       <div class="main">
         <div class="flex-container">
-          <div class="post-list">
-    
-    
+          <article id="post">
 
-        
-
-        
-            <div class="year-title">2024</div>
-        
-
-        <div class="post-list-item">
-            <div class="post-title">
-            <a href="/ex-libris-select-poems-by-emily-dickinson/">
-                
-                    Ex Libris: Select Poems by Emily Dickinson
-                
-                </a> 
-            </div>
+  
+    <div class="post-head">
+    <div class="post-info">
+        <div class="post-title">
             
-            <span class="post-date">March 5th, 2024</span>
-        </div>
-
-    
-
-        
-
-        
-
-        <div class="post-list-item">
-            <div class="post-title">
-            <a href="/reaching-out-to-old-friends/">
-                
-                    Reaching Out to Old Friends
-                
-                </a> 
-            </div>
             
-            <span class="post-date">February 26th, 2024</span>
-        </div>
-
-    
-
-        
-
-        
-
-        <div class="post-list-item">
-            <div class="post-title">
-            <a href="/a-heart-a-plane-and-a-seahorse-designs-from-the-last-two-months/">
-                
-                    A Heart, a Plane, and a Seahorse | Designs from the Last Two Months
-                
-                </a> 
-            </div>
+                Literature DB (WIP)
             
-            <span class="post-date">February 19th, 2024</span>
-        </div>
-
-    
-
-        
-
-        
-
-        <div class="post-list-item">
-            <div class="post-title">
-            <a href="/student-of-life-celestial-navigation-part-2/">
-                
-                    Student of Life: Celestial Navigation, Part 2
-                
-                </a> 
-            </div>
             
-            <span class="post-date">February 12th, 2024</span>
         </div>
-
-    
-
-        
-
-        
-
-        <div class="post-list-item">
-            <div class="post-title">
-            <a href="/the-connoisseur-of-random-quantum-randomness/">
-                
-                    The Connoisseur of Random: Quantum Randomness
-                
-                </a> 
-            </div>
-            
-            <span class="post-date">February 5th, 2024</span>
-        </div>
-
-    
-
-        
-
-        
-
-        <div class="post-list-item">
-            <div class="post-title">
-            <a href="/student-of-life-the-flaw-in-every-calculator/">
-                
-                    Student of Life: The Flaw in Every Calculator
-                
-                </a> 
-            </div>
-            
-            <span class="post-date">January 29th, 2024</span>
-        </div>
-
-    
-
-        
-
-        
-
-        <div class="post-list-item">
-            <div class="post-title">
-            <a href="/student-of-life-celestial-navigation-part-1/">
-                
-                    Student of Life: Celestial Navigation, Part 1
-                
-                </a> 
-            </div>
-            
-            <span class="post-date">January 22nd, 2024</span>
-        </div>
-
-    
-
-        
-
-        
-
-        <div class="post-list-item">
-            <div class="post-title">
-            <a href="/student-of-life-fm-radio-frequencies-are-lying-to-you/">
-                
-                    Student of Life: FM Radio Frequencies are Lying to You
-                
-                </a> 
-            </div>
-            
-            <span class="post-date">January 15th, 2024</span>
-        </div>
-
-    
-
-        
-
-        
-
-        <div class="post-list-item">
-            <div class="post-title">
-            <a href="/ex-libris-kafka-on-the-shore/">
-                
-                    Ex Libris: Kafka on the Shore
-                
-                </a> 
-            </div>
-            
-            <span class="post-date">January 8th, 2024</span>
-        </div>
-
-    
-
-        
-
-        
-
-        <div class="post-list-item">
-            <div class="post-title">
-            <a href="/taking-silly-ideas-seriously/">
-                
-                    Taking Silly Ideas Seriously
-                
-                </a> 
-            </div>
-            
-            <span class="post-date">January 1st, 2024</span>
-        </div>
-
-    
-    <div id="paginator">
-        
     </div>
+    <div class="h-line-primary"></div>
 </div>
+    <div class="post-content">
+    <p>The code can be found <a target="_blank" rel="noopener" href="https://github.com/ronikbhaskar/literature-db">here</a>.</p>
+<h2 id="Overview"><a href="#Overview" class="headerlink" title="Overview"></a>Overview</h2><p>Literature DB (LitDB) is a lightweight literature database that allows users to store and manage texts. Entries can be added manually or by scraping websites. Each entry maintains simple, bibliographic data. Separate text files are used for storing the contents of the text and an associated Markdown file for notes. Texts can be rendered as HTML for easy reading, and texts can be quickly searched using a multithreaded search for both substrings and regex.</p>
+<h2 id="Installation"><a href="#Installation" class="headerlink" title="Installation"></a>Installation</h2><p>Clone the project and install the requirements.</p>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">git <span class="built_in">clone</span> https://github.com/ronikbhaskar/literature-db</span><br><span class="line"><span class="built_in">cd</span> literature-db</span><br><span class="line"><span class="comment"># create an environment if you so choose</span></span><br><span class="line">pip install -r requirements.txt</span><br></pre></td></tr></table></figure>
 
+<h2 id="Usage"><a href="#Usage" class="headerlink" title="Usage"></a>Usage</h2><p>Currently, there is no user interface, but the functions have been simplified enough for Python itself to be the interface. Begin by running the main script with the REPL flag.</p>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">python3 -i main.py</span><br></pre></td></tr></table></figure>
+
+<p>The database can be accessed as the variable <code>litdb</code>. </p>
+<h3 id="Adding-Entries"><a href="#Adding-Entries" class="headerlink" title="Adding Entries"></a>Adding Entries</h3><p>To add an entry from a URL, use:</p>
+<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta">&gt;&gt;&gt; </span>litdb.scrape(url)</span><br></pre></td></tr></table></figure>
+
+<p>This will autopopulate as many fields as possible. It also generates a notes template.</p>
+<h3 id="Searching-for-Entries"><a href="#Searching-for-Entries" class="headerlink" title="Searching for Entries"></a>Searching for Entries</h3><p>To search for entries, use:</p>
+<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta">&gt;&gt;&gt; </span>search(term)</span><br></pre></td></tr></table></figure>
+
+<p>where <code>term</code> is either a substring or a regex. <code>re</code> is already imported, so you can run <code>search(re.compile(...))</code> with no additional code.</p>
+<h3 id="Removing-Entries"><a href="#Removing-Entries" class="headerlink" title="Removing Entries"></a>Removing Entries</h3><p>To remove an entry, use:</p>
+<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta">&gt;&gt;&gt; </span>litdb.remove_cascade(doc_id)</span><br></pre></td></tr></table></figure>
+
+<p>where <code>doc_id</code> is the numeric id of the entry. This is also the name of the directory in which the text is stored. Use <code>remove_cascade</code> instead of <code>remove</code> to get rid of the associated text files.</p>
+<h3 id="Rendering-Entries"><a href="#Rendering-Entries" class="headerlink" title="Rendering Entries"></a>Rendering Entries</h3><p>To render an entry as HTML, use either of the following:</p>
+<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta">&gt;&gt;&gt; </span>render_doc_id(doc_id)</span><br><span class="line"><span class="meta">&gt;&gt;&gt; </span>render(entry) <span class="comment"># entry must be of the Entry class, not Document</span></span><br></pre></td></tr></table></figure>
+
+<p>The function will print the location of the saved <code>index.html</code>, though it can also be found in the <code>litdb</code> directory.</p>
+
+</div> 
+<link rel="icon" href="favicon.ico">
+<script>
+    try {
+        window.onload = detectors();
+    } catch (error) { // doesn't seem to pose an issue when nothing happens
+        console.log(error);
+    }
+    
+</script>
+  
+</article>
         </div>
       </div>
       
