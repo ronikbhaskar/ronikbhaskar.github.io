@@ -2,6 +2,9 @@
 title: 'Ex Libris: Select Poems by Emily Dickinson'
 date: 2024-03-04 11:05:51
 tags:
+description: >-
+    When searching for a copy of "I'm Nobody! Who are you?", I found multiple versions of the poem. The first published version followed standard capitalization and punctuation conventions, but the corrected version had additional capitalization, more dashes, and different wordings. The corrected version is supposed to be more faithful to the original, and after reading both, I can say the corrected version is far better. Dickinson's use of capitalization constructs the characters in really clever ways. For example, using "Nobody" instead of "nobody" gives the speaker an identity as a Nobody rather than just being nobody. This contrasts well with the "Somebody" in line 5. Dickinson's use of punctuation also drastically enhances the meaning of the poem. This was particularly notable in "I felt a Funeral, in my Brain". The poem ends with a dash, as if the speaker is about to continue their thought, but is abruptly cut off.
+keywords: "emily dickinson, amherst, hope is the thing with feathers, i'm nobody, poetry, literature database"
 ---
 
 
