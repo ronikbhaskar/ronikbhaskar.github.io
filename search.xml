@@ -17,6 +17,27 @@
 ]]></content>
   </entry>
   <entry>
+    <title>A Line is Defined by Exactly Two Points</title>
+    <url>/a-line-is-defined-by-exactly-two-points/</url>
+    <content><![CDATA[<img src="/images/poison_dragon.png" alt="Origami Poison Dragon. Folded by Ronik Bhaskar. Designed by Reza Nagree.">
+
+
+<p><em>Poison Dragon. Folded by Ronik Bhaskar. Designed by Reza Nagree.</em></p>
+<hr>
+<p>The first postulate of Euclid’s Elements states that two points determine a line. No more, just two. It may so happen that your third, fourth, or even fifth points also fall along the line, but ultimately, it is defined by two points.</p>
+<p>I think young origamists often forget that we are bound by the laws of Euclidean geometry when we make art. Every crease is a line on a Euclidean plane. The creases can bisect angles, meet reference points, create parallel lines, but not necessarily at the same time. Take, for example, a diagonal fold through a square of paper. In theory, that fold can bisect two angles, create a line through opposite corners, and place the remaining corners on top of each other. Unfortunately, this isn’t always the case. If your paper is not perfectly square, you cannot do all of those at once. Even if your square is off by a fraction of a millimeter, you can only reach one objective with your crease.</p>
+<p>Imperfect folding can come from anywhere, whether that be paper thickness or warping or just human inaccuracy. As errors accumulate in the model, it becomes harder to fix them. Your model diverges further and further from the diagrams until you simply cannot continue folding anymore. As I see it, there are two major methods to improve folding to reduce error accumulation.</p>
+<p>The first—rather obvious—method is just to become more accurate. If your errors are smaller, then your accumulated errors will be smaller too. Ultimately, this comes down to practice. Practice simple models, intricate models, on big paper, on small paper. Expose yourself to more types of folds in various scenarios, and over time, you will develop a better control of the paper and a stronger understanding of accuracy. After years of folding, I have the accuracy to fold that dragon in the beginning, but I can also point out countless moments throughout the folding process during which I could feel my folds were off by a fraction of a millimeter. I’m not accurate enough to fix everything, but I do my best.</p>
+<p>Sometimes my inaccuracies caused issues, but other times they didn’t, which brings me to the second method: understand which errors the model can tolerate. Depending on the situation, an angle bisector that misses a reference may be better than the alternative. Other times, you may prefer the reference over the angle bisector. Learning which errors are preferable in which scenarios can allow you to make errors without greatly impacting the final model. This intuition takes time to build, but you can also just ask experienced folders when you get stuck. At the Chicago Origami Convention, a kid had an issue where one of his folds could only hit one of two references, so he asked me what to do, and I told him which reference to follow and which to ignore. </p>
+<p>I constantly think about which references matter most. Even when I was cutting the paper to fold the dragon, I had to decide which properties of the square were most important. I am quite bad at cutting squares, so I knew it wasn’t going to be perfect. In the end, I decided I wanted the diagonals to line up with the corners properly, so I prioritized that, and my decision helped as I folded the dragon the next day. </p>
+<p>Inaccuracy is inevitable. Either you or your paper will succumb to imperfection, and you must figure out how to move forward. Every decision has its merits, and understanding which errors matter can help you make that decision. Choose the two most important points for your fold, and don’t worry about the rest. You can’t control whether the third, fourth, or fifth point will lie along your crease, but you can choose two, so make the choice. We may be bound by the fundamental laws of geometry, but you still decide where your crease goes.</p>
+<hr>
+<h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ol>
+<li><a href="https://farside.ph.utexas.edu/books/Euclid/Elements.pdf">Euclid’s Elements</a></li>
+</ol>
+]]></content>
+  </entry>
+  <entry>
     <title>AM</title>
     <url>/am/</url>
     <content><![CDATA[<p>What does AM stand for? Maybe Ante Meridiem, before noon. Or maybe the element Americium (Am). Maybe it’s Artium Magister, a Master of Arts degree. Whatever the case, if you compound masters of the arts over time, you get Arctic Monkeys. </p>
@@ -39,27 +60,6 @@
 </li>
 <li><p><a href="https://www.desmos.com/calculator/v37m6icmwg">My recreation</a></p>
 </li>
-</ol>
-]]></content>
-  </entry>
-  <entry>
-    <title>A Line is Defined by Exactly Two Points</title>
-    <url>/a-line-is-defined-by-exactly-two-points/</url>
-    <content><![CDATA[<img src="/images/poison_dragon.png" alt="Origami Poison Dragon. Folded by Ronik Bhaskar. Designed by Reza Nagree.">
-
-
-<p><em>Poison Dragon. Folded by Ronik Bhaskar. Designed by Reza Nagree.</em></p>
-<hr>
-<p>The first postulate of Euclid’s Elements states that two points determine a line. No more, just two. It may so happen that your third, fourth, or even fifth points also fall along the line, but ultimately, it is defined by two points.</p>
-<p>I think young origamists often forget that we are bound by the laws of Euclidean geometry when we make art. Every crease is a line on a Euclidean plane. The creases can bisect angles, meet reference points, create parallel lines, but not necessarily at the same time. Take, for example, a diagonal fold through a square of paper. In theory, that fold can bisect two angles, create a line through opposite corners, and place the remaining corners on top of each other. Unfortunately, this isn’t always the case. If your paper is not perfectly square, you cannot do all of those at once. Even if your square is off by a fraction of a millimeter, you can only reach one objective with your crease.</p>
-<p>Imperfect folding can come from anywhere, whether that be paper thickness or warping or just human inaccuracy. As errors accumulate in the model, it becomes harder to fix them. Your model diverges further and further from the diagrams until you simply cannot continue folding anymore. As I see it, there are two major methods to improve folding to reduce error accumulation.</p>
-<p>The first—rather obvious—method is just to become more accurate. If your errors are smaller, then your accumulated errors will be smaller too. Ultimately, this comes down to practice. Practice simple models, intricate models, on big paper, on small paper. Expose yourself to more types of folds in various scenarios, and over time, you will develop a better control of the paper and a stronger understanding of accuracy. After years of folding, I have the accuracy to fold that dragon in the beginning, but I can also point out countless moments throughout the folding process during which I could feel my folds were off by a fraction of a millimeter. I’m not accurate enough to fix everything, but I do my best.</p>
-<p>Sometimes my inaccuracies caused issues, but other times they didn’t, which brings me to the second method: understand which errors the model can tolerate. Depending on the situation, an angle bisector that misses a reference may be better than the alternative. Other times, you may prefer the reference over the angle bisector. Learning which errors are preferable in which scenarios can allow you to make errors without greatly impacting the final model. This intuition takes time to build, but you can also just ask experienced folders when you get stuck. At the Chicago Origami Convention, a kid had an issue where one of his folds could only hit one of two references, so he asked me what to do, and I told him which reference to follow and which to ignore. </p>
-<p>I constantly think about which references matter most. Even when I was cutting the paper to fold the dragon, I had to decide which properties of the square were most important. I am quite bad at cutting squares, so I knew it wasn’t going to be perfect. In the end, I decided I wanted the diagonals to line up with the corners properly, so I prioritized that, and my decision helped as I folded the dragon the next day. </p>
-<p>Inaccuracy is inevitable. Either you or your paper will succumb to imperfection, and you must figure out how to move forward. Every decision has its merits, and understanding which errors matter can help you make that decision. Choose the two most important points for your fold, and don’t worry about the rest. You can’t control whether the third, fourth, or fifth point will lie along your crease, but you can choose two, so make the choice. We may be bound by the fundamental laws of geometry, but you still decide where your crease goes.</p>
-<hr>
-<h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ol>
-<li><a href="https://farside.ph.utexas.edu/books/Euclid/Elements.pdf">Euclid’s Elements</a></li>
 </ol>
 ]]></content>
   </entry>
@@ -225,64 +225,6 @@
 ]]></content>
   </entry>
   <entry>
-    <title>Reaching Out to Old Friends</title>
-    <url>/reaching-out-to-old-friends/</url>
-    <content><![CDATA[<p>Around March of 2020, I lost contact with a lot of friends. High school was ending, COVID was starting, and so many people I kept up with were no longer in my life. One of those people lives on the East Coast, and we compete in the same sport. I had the opportunity to compete in a tournament in the Eastern League, so I texted him, asking if he would be there. Unfortunately, he couldn’t make it, so we texted for a bit, but that was about it. </p>
-<p>When the day of the tournament arrived, I was absolutely overwhelmed. The Midwest doesn’t have a strong, competitive scene, so I hadn’t competed at the collegiate level before this. Our team of five competitors walks into a gym with over 650 athletes, and we stand at the entrance, stunned for a bit before gathering our bearings and finding a place to get set up. We started warming up, but the opening ceremonies cut us off earlier than I hoped. Immediately after opening ceremonies, we’re up to compete, so we head to our ring and finish warming up as best we can. My opponents are seeded to be in the top 4, so I don’t expect to win. I remind myself I’m here to learn, but that doesn’t stop me from shaking nervously. Although I am acutely aware of every mistake I am making, I can’t stop. It’s everything I can do to finish the round. Needless to say, we lost very decisively.</p>
-<p>Later on, I run into my opponents from earlier. They’re very friendly, and though we only talk briefly, I’m reminded of why I came to this tournament. I came here to learn, so that’s what I do. I watch as many rounds as I can, learning how competitors, referees, judges, and coaches all fit into each round. I study how other competitors warm up and interact with their coaches. I keep track of how different refs run their rings differently. I make conversation with other spectators to ask them questions. Later, I get a chance to fill a minor judging role, so I take it. It doesn’t start well, but I keep learning, and the ref compliments me on improving in those few hours.</p>
-<p>Once I get a break, I stand off to the side, staring vacantly at a round, when someone taps me on the shoulder.</p>
-<p>“Hey, weird question, are you from Chicago?” the stranger asks me.</p>
-<p>“I am. What’s up?”</p>
-<p>“Do you happen to know someone named—“</p>
-<p>“Yeah! How’d you find me?” I don’t need him to finish the sentence because I realize he’s one of my high school friend’s teammates. I do feel a little bad for cutting him off, but what happens happens. Turns out, he was sent a photo of me and told to find me at the tournament. After chatting for a bit, we take a photo together to send back to our friend. A few hours later, my team packs up, and we leave.</p>
-<p>Being confused and trying to learn for the whole day was much more exhausting than I expected, but it was entirely worth it. I won’t have a collegiate career for much longer, but hopefully, I can convince the rest of my team to start competing. I’ll share with them all the incredible stories I remember from that day in hopes that they want to experience it all firsthand. That may take a while, so for now, I’ll fill my time by reaching out to old friends.</p>
-]]></content>
-  </entry>
-  <entry>
-    <title>Square One</title>
-    <url>/square-one/</url>
-    <content><![CDATA[<p>After another set of fruitless experiments and abandoned ideas, my mentor told me we were back to square one.</p>
-<p>“Quick question,” I interjected, “Where exactly <em>is</em> square one?”</p>
-<p>Some sources claim square one is on the football pitch. In the 1930s, BBC radio sports commentators divided the pitch into eight sections, with square one at the bottom right corner. Others claim square one comes from hopscotch or snakes and ladders. Regardless of the game, being at square one puts you at the beginning with no progress. </p>
-<p>Square-1 is also the name of a puzzle derived from the Rubik’s Cube. For practiced cubers, solving a Square-1 can become incredibly straightforward. </p>
-<p>My mentor and I didn’t feel like we were at square one. Sure, we were at the beginning, but being at square one implies square two is just ahead. Every time we returned to the beginning, we were too disoriented to know where to look first. Much of our progress felt sideways or backwards. </p>
-<p>On a lesser note, computer scientists don’t begin counting with one; they begin counting with zero. </p>
-<p>In that meeting, in front of the drawing board, we made a decision. We were not at square one. We were at circle zero. Eventually, circle zero became familiar. Sure, it was mischievous, and at times confusing, but it no longer felt new. Whenever we left, we never worried about saying goodbye; we would be back eventually.</p>
-<p>For most people, today is square one. Today’s square on the Gregorian calendar is the first day of first month. As such, I wish you all a happy circle zero.</p>
-<hr>
-<h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ol>
-<li><a href="https://en.wikipedia.org/wiki/Square-1_(puzzle)">Square-1 Puzzle</a></li>
-<li>The discourse surrounding the etymology of “square one” lacks enough rigor to warrant any particular links. Instead, a Google search for “origin of square one” will provide plenty of questionable sources offering one of the three explanations listed above.</li>
-</ol>
-]]></content>
-  </entry>
-  <entry>
-    <title>Student of Life: Celestial Navigation, Part 1</title>
-    <url>/student-of-life-celestial-navigation-part-1/</url>
-    <content><![CDATA[<p>Back in August of 2023, I grabbed my telescope, told my parents not to wait for me, and drove into the middle of nowhere. Stargazing has become essential to my life, and I hadn’t been in a few months, so I was ready to go. The nights I go stargazing, I feel free, spending a few hours alone with the universe. I’m no astronomer by any means, but I enjoy studying the night sky. I’ll usually pick one celestial body to focus on, whether that be Jupiter and its moons or some distant nebula I can barely see. That night, I decided to study Polaris.</p>
-<p>As I get out of the car, I pause to let my eyes adjust to the darkness. Carrying my telescope to the middle of the clearing, I’m careful not to trip on any rocks or step on any fireflies. I set my telescope down, close my eyes, and take a deep breath. As I open my eyes, I look up at the glittery sky above me.</p>
-<p>I could spend hours just aimlessly looking up at the sky, but I have a mission, so I get to work. First, I search for the Big Dipper. Once I find the Big Dipper, I follow it to the Little Dipper. As I trace along its handle, my eyes finally settle on Polaris, the last star in the Little Dipper.</p>
-<p>Apparently, Polaris is not one star, but three stars, all very close together. Hoping to see that for myself, I carefully aim and focus my telescope. Looking through the eyepiece, I find one bright point. My eyes dart around, desperately seeking a second and third point of light, but I find nothing. A younger version of me would have been discouraged, but I understand the limits of my telescope. I decide to wait for the moon to set, hoping the other stars will be easier to see without so much ambient light. </p>
-<p>Looking up at the sky, I think about the other facts I know about Polaris. I recall someone once telling me it’s called the North Star, so I pull out the compass app on my phone and point it in the direction of the star. The screen reads 0°, perfectly north. <em>That must be a coincidence,</em> I think to myself. <em>Once it moves, it won’t be perfectly north anymore.</em></p>
-<p>Over the next hour, I watch the stars move across the sky, occasionally pointing my telescope at whatever seems interesting. Every once in a while, I check on Polaris, which is still perfectly north. In fact, it hasn’t moved at all. <em>How has it not moved? Everything else is moving. Even the Little Dipper is moving, what’s going on with Polaris?</em></p>
-<p>I sit there confused for a while before I try a new approach to understand what’s going on. Rather than consider myself a stationary observer on Earth, I pretend I’m an observer from space, looking at the Earth. From my new perspective, I see the Earth rotate. Its axis of rotation goes through the North and South Poles. The rest of the Earth keeps spinning while that line stays still.</p>
-<p>And that’s when it hits me.</p>
-<p>If Polaris is a fixed point in the sky, then it lies along the Earth’s axis of rotation. That means, if you went to the North Pole and looked straight up, you would see Polaris. Anywhere else on Earth, Polaris acts like a beacon to the North Pole. That’s why Polaris never moves. That’s why it always points north. Satisfied, I lay down, enjoying my small victory. This peace lasts for approximately one minute before my brain starts asking questions again. This fixed point in the sky must have some interesting properties, so I close my eyes and think about Polaris geometrically. I can’t fully fathom how far away Polaris is, so I just pretend it’s infinitely far away. Under this assumption, if I draw a line from myself to Polaris, it’s parallel to the Earth’s axis of rotation. In this mental model, I draw a plane tangent to the Earth from where I am. The Earth may not be flat, but I can pretend it is locally for the sake of mathematics. With this little diagram in my head, I realize just how important the North Star is for navigation. If you can find the angle between Polaris and the horizon, that angle is your latitude. </p>
-<p>I pull out my notebook and a flashlight to make sure I did that calculation correctly. Yep, the angle between Polaris and the horizon is your latitude. <em>I can’t believe I just figured that out. Is this how astronomers figured out celestial navigation centuries ago?</em> I doubt I’ll have any more revelations for the rest of the night, so I relax on the ground, watching the other stars journey across the sky. As my watch passes midnight, I pack up my telescope, wave goodbye to the stars, and start heading home.</p>
-<p>I never did see the three stars that form Polaris, but it is a fixed point in the sky, so I’ll always know where to find it.</p>
-]]></content>
-  </entry>
-  <entry>
-    <title>Student of Life: Celestial Navigation, Part 2</title>
-    <url>/student-of-life-celestial-navigation-part-2/</url>
-    <content><![CDATA[<p>As a young person with little experience in the world, I am quite familiar with feeling unqualified. Far too often, I find myself given opportunities for which I have absolutely no preparation. It’s easier to recognize you’re unqualified for something when you meet the people who are qualified for the opportunity. I learned this a few years ago when I volunteered at an astronomy night for Cub Scouts. </p>
-<p>The event was run by the director of an institute doing cosmic microwave background experiments. Alongside the director, there were two student volunteers: myself and the president of the Ryerson Astronomical Society. Keep in mind, I knew next to nothing about astronomy at this point. I had seen some of Jupiter’s moons through a telescope, but that was about it. Naturally, whenever one of the scouts asked us a question about space, I would just defer to the president. Thankfully, the president was able to answer any questions the scouts had, and I ended up learning quite a bit through the answers.</p>
-<p>After a while, the scouts started working on an activity that didn’t require us to do much, so the president and I chatted for a bit. I had no reason to pretend like I knew anything about space, so I let myself ask very stupid questions. I probably could’ve googled how many constellations there were, but it ended up being a good way to start the conversation. As a bonus, I still remember there are 88 constellations, and I still remember a little about how the brightest stars in each constellation are named. The president also cracked a few jokes about Orion’s Sword which I thought were hilarious. If the old president ever sees this, thanks for being awesome.</p>
-<p>A few years later, I was in the middle of nowhere with my telescope, when I remembered those jokes about Orion’s Sword. Given the clear conditions, I decided to observe the three stars that make up the sword. Throughout the night, I watched as the sword moved across the sky when I noticed something strange. At its zenith, the sword appeared to be pointing straight down. By this point, I had already made my <a href="/student-of-life-celestial-navigation-part-1/">revelations about the north star</a>, so I quickly realized the sword was pointing south. When I pulled out my compass, the sword was a little off, but not by much, less than a degree. Living in the northern hemisphere, I wasn’t sure how this would hold for the rest of the night, so I waited a bit to observe it again. I followed the direction of the sword until I hit the horizon, and I checked the direction. This time, it was off by even more. As I expected, the Earth was getting in the way of being able to use Orion’s Sword to find south, but it still worked pretty well. With a bit of latitude correction, finding south using Orion’s Sword seemed absolutely possible, it would just require a bit of math. A project for another night, perhaps.</p>
-<p>It’s hard to believe that because of a joke I heard a few years ago, I learned about celestial navigation, but I suppose that’s what the student of life is about. A few years ago, I volunteered at an event for which I was extremely unqualified. I don’t quite know why I was given the opportunity, but I am extremely grateful. That opportunity, like so many others, has given me more than I could ever give. Even today, I’m still learning and growing from everything I have been given. Eventually, the day will come when I can offer more than I receive, but even then, I will still keep learning. I will still be a student of life.</p>
-]]></content>
-  </entry>
-  <entry>
     <title>No One Should Own This Building</title>
     <url>/no-one-should-own-this-building/</url>
     <content><![CDATA[<img src="/images/cleaned_ai_generated_church.png" alt="AI rendering of a domed church.">
@@ -385,6 +327,74 @@
 ]]></content>
   </entry>
   <entry>
+    <title>Student of Life: Celestial Navigation, Part 1</title>
+    <url>/student-of-life-celestial-navigation-part-1/</url>
+    <content><![CDATA[<p>Back in August of 2023, I grabbed my telescope, told my parents not to wait for me, and drove into the middle of nowhere. Stargazing has become essential to my life, and I hadn’t been in a few months, so I was ready to go. The nights I go stargazing, I feel free, spending a few hours alone with the universe. I’m no astronomer by any means, but I enjoy studying the night sky. I’ll usually pick one celestial body to focus on, whether that be Jupiter and its moons or some distant nebula I can barely see. That night, I decided to study Polaris.</p>
+<p>As I get out of the car, I pause to let my eyes adjust to the darkness. Carrying my telescope to the middle of the clearing, I’m careful not to trip on any rocks or step on any fireflies. I set my telescope down, close my eyes, and take a deep breath. As I open my eyes, I look up at the glittery sky above me.</p>
+<p>I could spend hours just aimlessly looking up at the sky, but I have a mission, so I get to work. First, I search for the Big Dipper. Once I find the Big Dipper, I follow it to the Little Dipper. As I trace along its handle, my eyes finally settle on Polaris, the last star in the Little Dipper.</p>
+<p>Apparently, Polaris is not one star, but three stars, all very close together. Hoping to see that for myself, I carefully aim and focus my telescope. Looking through the eyepiece, I find one bright point. My eyes dart around, desperately seeking a second and third point of light, but I find nothing. A younger version of me would have been discouraged, but I understand the limits of my telescope. I decide to wait for the moon to set, hoping the other stars will be easier to see without so much ambient light. </p>
+<p>Looking up at the sky, I think about the other facts I know about Polaris. I recall someone once telling me it’s called the North Star, so I pull out the compass app on my phone and point it in the direction of the star. The screen reads 0°, perfectly north. <em>That must be a coincidence,</em> I think to myself. <em>Once it moves, it won’t be perfectly north anymore.</em></p>
+<p>Over the next hour, I watch the stars move across the sky, occasionally pointing my telescope at whatever seems interesting. Every once in a while, I check on Polaris, which is still perfectly north. In fact, it hasn’t moved at all. <em>How has it not moved? Everything else is moving. Even the Little Dipper is moving, what’s going on with Polaris?</em></p>
+<p>I sit there confused for a while before I try a new approach to understand what’s going on. Rather than consider myself a stationary observer on Earth, I pretend I’m an observer from space, looking at the Earth. From my new perspective, I see the Earth rotate. Its axis of rotation goes through the North and South Poles. The rest of the Earth keeps spinning while that line stays still.</p>
+<p>And that’s when it hits me.</p>
+<p>If Polaris is a fixed point in the sky, then it lies along the Earth’s axis of rotation. That means, if you went to the North Pole and looked straight up, you would see Polaris. Anywhere else on Earth, Polaris acts like a beacon to the North Pole. That’s why Polaris never moves. That’s why it always points north. Satisfied, I lay down, enjoying my small victory. This peace lasts for approximately one minute before my brain starts asking questions again. This fixed point in the sky must have some interesting properties, so I close my eyes and think about Polaris geometrically. I can’t fully fathom how far away Polaris is, so I just pretend it’s infinitely far away. Under this assumption, if I draw a line from myself to Polaris, it’s parallel to the Earth’s axis of rotation. In this mental model, I draw a plane tangent to the Earth from where I am. The Earth may not be flat, but I can pretend it is locally for the sake of mathematics. With this little diagram in my head, I realize just how important the North Star is for navigation. If you can find the angle between Polaris and the horizon, that angle is your latitude. </p>
+<p>I pull out my notebook and a flashlight to make sure I did that calculation correctly. Yep, the angle between Polaris and the horizon is your latitude. <em>I can’t believe I just figured that out. Is this how astronomers figured out celestial navigation centuries ago?</em> I doubt I’ll have any more revelations for the rest of the night, so I relax on the ground, watching the other stars journey across the sky. As my watch passes midnight, I pack up my telescope, wave goodbye to the stars, and start heading home.</p>
+<p>I never did see the three stars that form Polaris, but it is a fixed point in the sky, so I’ll always know where to find it.</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>Student of Life: Celestial Navigation, Part 2</title>
+    <url>/student-of-life-celestial-navigation-part-2/</url>
+    <content><![CDATA[<p>As a young person with little experience in the world, I am quite familiar with feeling unqualified. Far too often, I find myself given opportunities for which I have absolutely no preparation. It’s easier to recognize you’re unqualified for something when you meet the people who are qualified for the opportunity. I learned this a few years ago when I volunteered at an astronomy night for Cub Scouts. </p>
+<p>The event was run by the director of an institute doing cosmic microwave background experiments. Alongside the director, there were two student volunteers: myself and the president of the Ryerson Astronomical Society. Keep in mind, I knew next to nothing about astronomy at this point. I had seen some of Jupiter’s moons through a telescope, but that was about it. Naturally, whenever one of the scouts asked us a question about space, I would just defer to the president. Thankfully, the president was able to answer any questions the scouts had, and I ended up learning quite a bit through the answers.</p>
+<p>After a while, the scouts started working on an activity that didn’t require us to do much, so the president and I chatted for a bit. I had no reason to pretend like I knew anything about space, so I let myself ask very stupid questions. I probably could’ve googled how many constellations there were, but it ended up being a good way to start the conversation. As a bonus, I still remember there are 88 constellations, and I still remember a little about how the brightest stars in each constellation are named. The president also cracked a few jokes about Orion’s Sword which I thought were hilarious. If the old president ever sees this, thanks for being awesome.</p>
+<p>A few years later, I was in the middle of nowhere with my telescope, when I remembered those jokes about Orion’s Sword. Given the clear conditions, I decided to observe the three stars that make up the sword. Throughout the night, I watched as the sword moved across the sky when I noticed something strange. At its zenith, the sword appeared to be pointing straight down. By this point, I had already made my <a href="/student-of-life-celestial-navigation-part-1/">revelations about the north star</a>, so I quickly realized the sword was pointing south. When I pulled out my compass, the sword was a little off, but not by much, less than a degree. Living in the northern hemisphere, I wasn’t sure how this would hold for the rest of the night, so I waited a bit to observe it again. I followed the direction of the sword until I hit the horizon, and I checked the direction. This time, it was off by even more. As I expected, the Earth was getting in the way of being able to use Orion’s Sword to find south, but it still worked pretty well. With a bit of latitude correction, finding south using Orion’s Sword seemed absolutely possible, it would just require a bit of math. A project for another night, perhaps.</p>
+<p>It’s hard to believe that because of a joke I heard a few years ago, I learned about celestial navigation, but I suppose that’s what the student of life is about. A few years ago, I volunteered at an event for which I was extremely unqualified. I don’t quite know why I was given the opportunity, but I am extremely grateful. That opportunity, like so many others, has given me more than I could ever give. Even today, I’m still learning and growing from everything I have been given. Eventually, the day will come when I can offer more than I receive, but even then, I will still keep learning. I will still be a student of life.</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>On Repetition</title>
+    <url>/on-repetition/</url>
+    <content><![CDATA[<p>I can recall quite clearly a moment from five years ago. The blinding summer sun beamed through my open bedroom window. The smell of fresh flowers filled the air as the humidity clung tight around my body. I closed my eyes, breathed in the sweet, heavy air, and opened my laptop to study Python programming. I could have spent my summer an infinite number of ways, and I chose to learn Python through a practical course: Automate the Boring Stuff with Python. Python and automation were the future, so I had to be prepared. Automate the Boring Stuff began my five-year journey of automation. As I progressed through projects, internships, and a degree in computer science, automation became a sort of faith. Anything that felt remotely repetitive was automated, even if it didn’t need to be. For me, automation became… automatic.</p>
+<p>Over the past week, I worked on a project full of nonstop repetition, much to the dismay of my former self. Over the span of about 4 days, an artist and I cut 125 ft of fabric and stitched over 200 ft of seams. Those cuts and seams were all straight lines too: no variation. I worked long days for no pay on a project I will never see or be credited with. I carried around heavy rolls of material, got poked by pins, and performed the same, repetitive tasks over and over and over.</p>
+<p>And I loved it.</p>
+<p>To be clear, I didn’t enjoy the process because of the final product, nor did I gain anything I could put on my resume. I didn’t learn any skills or improve the ones I already had. If those hours I spent on the project did not exist, my life would not be at all different from what it is now. The process wasn’t particularly enjoyable, and while I care about my friend—the artist—I could still help him out without enjoying the process, but I didn’t.</p>
+<p>It doesn’t seem like I should have enjoyed such a repetitive project, yet I did because repetition did something five years of automation could never do. Repetition gave my mind a break. When you’re constantly automating systems, you trade mental energy for physical energy and time. Automation requires a lot of planning at the onset, but once it’s running, you’re free to spend your newfound free time however you please. For me, that meant more work. More work means more automation. This constant cycle of automation leaves only the most mentally demanding tasks left to complete—the ones with no repetition. Five years of automation meant that I spent the vast majority of my working time intensely using my brain while giving my body a break.</p>
+<p>This system works for a while, but eventually, your mind gets fatigued, and you can’t make progress without giving yourself a break. At first, I thought the only way to give my mind a break was to stop working, but I now realize that doesn’t have to be the case. While spending hours on repetitive tasks, my body went on autopilot. My hands learned the process, and my mind was left untethered. I felt like I was taking a break, yet I was still working.</p>
+<p>This feeling isn’t particularly uncommon in daily life. It’s the same feeling you get when you take a shower or drive your daily commute. In 2001, Dr. Marcus Raichle coined the term “default mode” for this resting-state brain function. To me, “default mode” feels like a misnomer because there is nothing default about this mode, my brain is rarely there. The default mode network has been shown to have countless functions in reflective thought and creative idea generation, invaluable processes for anyone. There are treasure troves of research on the default mode network and its countless functions, from moral reasoning to theory of mind. I highly recommend reading the literature if you’re interested.</p>
+<p>I have spent five years trying to give myself more time in default mode, to reflect and process ideas, to think without a fixed goal. I always thought the answer was automation. The more I automate, the more time I save, and the more time I have to do the things I want to do. In this endless pursuit of automation, I never stopped to wonder if there was a way to work while thinking about the things I wanted. Five years later, I finally have the solution. I’ll still take plenty of actual breaks, and I won’t stop automating, but I don’t need to fear repetition anymore. There’s a beautiful simplicity in repetition, one that I am ready to learn.</p>
+<hr>
+<h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ol>
+<li><a href="https://trends.google.com/trends/explore?date=today%205-y&geo=US&q=automate&hl=en">Google Trend for “automate” (it’s going up)</a></li>
+<li><a href="https://automatetheboringstuff.com/">Automate the Boring Stuff with Python</a></li>
+<li><a href="https://www.nationalgeographic.co.uk/history-and-civilisation/2022/08/the-science-of-why-you-have-great-ideas-in-the-shower">Nat Geo piece on Default Mode Network</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Default_mode_network">Default Mode Network</a></li>
+</ol>
+]]></content>
+  </entry>
+  <entry>
+    <title>Student of Life: FM Radio Frequencies are Lying to You</title>
+    <url>/student-of-life-fm-radio-frequencies-are-lying-to-you/</url>
+    <content><![CDATA[<p>The other day, I was driving to work when suddenly my radio started playing. I don’t typically listen to the radio, but the music was nice, so I let it keep playing. After the song finished, the radio announcer said, “You’re listening to 98.9* FM radio.”</p>
+<p>And that’s when my brain broke a little.</p>
+<p>Up until this point, I knew very little about how radio worked. All I knew was that somehow, sound waves turned into electromagnetic waves and back into sound waves, and my brain was okay with this limited understanding because it seemed intuitive. The whole process was just waves becoming waves becoming waves. All waves have frequency and amplitude, so taking that information from one wave and putting it on another wave didn’t seem so strange.</p>
+<p>The only problem is that my intuition was wrong. When you read a radio station number, that station number is the frequency of the radio station. Hearing the announcer’s voice, I realized that if the radio station number is fixed, then the station has a fixed electromagnetic frequency, so the station has to encode sound frequency and amplitude without changing their electromagnetic frequency. </p>
+<p>AM radio uses a very elegant process for encoding sound. They do this through amplitude modulation. Amplitude modulation imposes the shape of one wave onto the amplitude of a carrier wave. Ideally, the carrier wave has a much higher frequency than the broadcast wave. The slowest AM carrier waves oscillate over 540 thousand times per second, which is roughly 30 times faster than the highest frequencies audible to adult humans, so AM carrier waves are definitely going fast enough. By imposing the broadcast wave over the carrier wave, AM radio stations can broadcast full audio waves without changing frequency. </p>
+<p>AM radio is great, but for the vast majority of people, the last time they listened to music on the radio, it was FM radio. Unlike AM radio, FM radio uses a fixed amplitude. This is where I really got confused. If the amplitude and frequency are constant, then how do you convey any information? It turns out, the frequency is not constant. FM—frequency modulation—radio stations vary the frequency of the carrier wave to encode information. A higher frequency corresponds to a peak, and a lower frequency corresponds to a trough. When you listen to 98.9, you’re not actually receiving 98.9 MHz radio waves. Instead, your radio is listening to all frequencies between 98.8 MHz and 90.0 MHz. The vast majority of the time that your screen says 98.9, you’re not actually listening to 98.9. You could be listening to 98.89 or 98.91, but 98.9 is incredibly rare. Radio stations are lying about their station number. They almost never send you radio waves at their channel’s frequency.</p>
+<p>Realizing this, I felt betrayed. I didn’t listen to FM radio to begin with, but I certainly wasn’t going to start. Why number your station off a frequency you almost never broadcast? Radio is an incredible medium, but this burden is too much to bear. Listen to anything else, even a <a href="https://jonikpodcast.github.io/">podcast exploring life through etymology</a>, but beware the lies of FM radio.</p>
+<!-- After realizing this bitter truth about FM radio, I have stopped listening to it altogether. I am not the only one. Countless people have stopped listening to FM radio, and each one realized the same truth I did. Retract your radio antennas. Shut off your receivers. Stop listening to the radio, because they stopped listening to you a long time ago. -->
+
+<hr>
+<p>*<em>not a real radio station</em></p>
+<h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ol>
+<li><a href="https://www.fcc.gov/media/radio/fm-frequencies-end-odd-decimal">AM and FM Radio Frequency Details</a></li>
+<li><a href="https://en.wikipedia.org/wiki/AM_broadcasting">AM Broadcasting</a></li>
+<li><a href="https://en.wikipedia.org/wiki/FM_broadcasting">FM Broadcasting</a></li>
+<li><a href="/am/">AM (short piece I wrote)</a></li>
+</ol>
+]]></content>
+  </entry>
+  <entry>
     <title>Student of Life: The Flaw in Every Calculator</title>
     <url>/student-of-life-the-flaw-in-every-calculator/</url>
     <content><![CDATA[<p>Over the past few months, people have been approaching me as if I am an expert on security and AI. They ask me questions like, “Will you build an AI for my startup?”, “Is ChatGPT stealing my data?”, “How does Midjourney work?”.*</p>
@@ -442,25 +452,17 @@
 ]]></content>
   </entry>
   <entry>
-    <title>Student of Life: FM Radio Frequencies are Lying to You</title>
-    <url>/student-of-life-fm-radio-frequencies-are-lying-to-you/</url>
-    <content><![CDATA[<p>The other day, I was driving to work when suddenly my radio started playing. I don’t typically listen to the radio, but the music was nice, so I let it keep playing. After the song finished, the radio announcer said, “You’re listening to 98.9* FM radio.”</p>
-<p>And that’s when my brain broke a little.</p>
-<p>Up until this point, I knew very little about how radio worked. All I knew was that somehow, sound waves turned into electromagnetic waves and back into sound waves, and my brain was okay with this limited understanding because it seemed intuitive. The whole process was just waves becoming waves becoming waves. All waves have frequency and amplitude, so taking that information from one wave and putting it on another wave didn’t seem so strange.</p>
-<p>The only problem is that my intuition was wrong. When you read a radio station number, that station number is the frequency of the radio station. Hearing the announcer’s voice, I realized that if the radio station number is fixed, then the station has a fixed electromagnetic frequency, so the station has to encode sound frequency and amplitude without changing their electromagnetic frequency. </p>
-<p>AM radio uses a very elegant process for encoding sound. They do this through amplitude modulation. Amplitude modulation imposes the shape of one wave onto the amplitude of a carrier wave. Ideally, the carrier wave has a much higher frequency than the broadcast wave. The slowest AM carrier waves oscillate over 540 thousand times per second, which is roughly 30 times faster than the highest frequencies audible to adult humans, so AM carrier waves are definitely going fast enough. By imposing the broadcast wave over the carrier wave, AM radio stations can broadcast full audio waves without changing frequency. </p>
-<p>AM radio is great, but for the vast majority of people, the last time they listened to music on the radio, it was FM radio. Unlike AM radio, FM radio uses a fixed amplitude. This is where I really got confused. If the amplitude and frequency are constant, then how do you convey any information? It turns out, the frequency is not constant. FM—frequency modulation—radio stations vary the frequency of the carrier wave to encode information. A higher frequency corresponds to a peak, and a lower frequency corresponds to a trough. When you listen to 98.9, you’re not actually receiving 98.9 MHz radio waves. Instead, your radio is listening to all frequencies between 98.8 MHz and 90.0 MHz. The vast majority of the time that your screen says 98.9, you’re not actually listening to 98.9. You could be listening to 98.89 or 98.91, but 98.9 is incredibly rare. Radio stations are lying about their station number. They almost never send you radio waves at their channel’s frequency.</p>
-<p>Realizing this, I felt betrayed. I didn’t listen to FM radio to begin with, but I certainly wasn’t going to start. Why number your station off a frequency you almost never broadcast? Radio is an incredible medium, but this burden is too much to bear. Listen to anything else, even a <a href="https://jonikpodcast.github.io/">podcast exploring life through etymology</a>, but beware the lies of FM radio.</p>
-<!-- After realizing this bitter truth about FM radio, I have stopped listening to it altogether. I am not the only one. Countless people have stopped listening to FM radio, and each one realized the same truth I did. Retract your radio antennas. Shut off your receivers. Stop listening to the radio, because they stopped listening to you a long time ago. -->
-
-<hr>
-<p>*<em>not a real radio station</em></p>
-<h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ol>
-<li><a href="https://www.fcc.gov/media/radio/fm-frequencies-end-odd-decimal">AM and FM Radio Frequency Details</a></li>
-<li><a href="https://en.wikipedia.org/wiki/AM_broadcasting">AM Broadcasting</a></li>
-<li><a href="https://en.wikipedia.org/wiki/FM_broadcasting">FM Broadcasting</a></li>
-<li><a href="/am/">AM (short piece I wrote)</a></li>
-</ol>
+    <title>Reaching Out to Old Friends</title>
+    <url>/reaching-out-to-old-friends/</url>
+    <content><![CDATA[<p>Around March of 2020, I lost contact with a lot of friends. High school was ending, COVID was starting, and so many people I kept up with were no longer in my life. One of those people lives on the East Coast, and we compete in the same sport. I had the opportunity to compete in a tournament in the Eastern League, so I texted him, asking if he would be there. Unfortunately, he couldn’t make it, so we texted for a bit, but that was about it. </p>
+<p>When the day of the tournament arrived, I was absolutely overwhelmed. The Midwest doesn’t have a strong, competitive scene, so I hadn’t competed at the collegiate level before this. Our team of five competitors walks into a gym with over 650 athletes, and we stand at the entrance, stunned for a bit before gathering our bearings and finding a place to get set up. We started warming up, but the opening ceremonies cut us off earlier than I hoped. Immediately after opening ceremonies, we’re up to compete, so we head to our ring and finish warming up as best we can. My opponents are seeded to be in the top 4, so I don’t expect to win. I remind myself I’m here to learn, but that doesn’t stop me from shaking nervously. Although I am acutely aware of every mistake I am making, I can’t stop. It’s everything I can do to finish the round. Needless to say, we lost very decisively.</p>
+<p>Later on, I run into my opponents from earlier. They’re very friendly, and though we only talk briefly, I’m reminded of why I came to this tournament. I came here to learn, so that’s what I do. I watch as many rounds as I can, learning how competitors, referees, judges, and coaches all fit into each round. I study how other competitors warm up and interact with their coaches. I keep track of how different refs run their rings differently. I make conversation with other spectators to ask them questions. Later, I get a chance to fill a minor judging role, so I take it. It doesn’t start well, but I keep learning, and the ref compliments me on improving in those few hours.</p>
+<p>Once I get a break, I stand off to the side, staring vacantly at a round, when someone taps me on the shoulder.</p>
+<p>“Hey, weird question, are you from Chicago?” the stranger asks me.</p>
+<p>“I am. What’s up?”</p>
+<p>“Do you happen to know someone named—“</p>
+<p>“Yeah! How’d you find me?” I don’t need him to finish the sentence because I realize he’s one of my high school friend’s teammates. I do feel a little bad for cutting him off, but what happens happens. Turns out, he was sent a photo of me and told to find me at the tournament. After chatting for a bit, we take a photo together to send back to our friend. A few hours later, my team packs up, and we leave.</p>
+<p>Being confused and trying to learn for the whole day was much more exhausting than I expected, but it was entirely worth it. I won’t have a collegiate career for much longer, but hopefully, I can convince the rest of my team to start competing. I’ll share with them all the incredible stories I remember from that day in hopes that they want to experience it all firsthand. That may take a while, so for now, I’ll fill my time by reaching out to old friends.</p>
 ]]></content>
   </entry>
   <entry>
@@ -508,23 +510,20 @@
 ]]></content>
   </entry>
   <entry>
-    <title>The AI Summer: Part 2</title>
-    <url>/the-ai-summer-part-2/</url>
-    <content><![CDATA[<p>When OpenAI first released ChatGPT, I was in the middle of a project on large language model security. My advisor and I discussed, and I pivoted to a security project focused on ChatGPT. For weeks, I worked to reveal its flaws—to uncover its vulnerabilities. </p>
-<p>I’m glad I finally stopped.</p>
-<p>Back in early 2022, I built a <a href="/projects/text_generator">toy language model</a> from scratch. It didn’t do anything fancy—it could barely put together coherent sentences—but I saw potential. I taught it <em>The Art of War</em> and watched it ramble about spies and morale. I fed it Discord transcripts and laughed as it tried to imitate my friends. The night that I finished it, I stayed up until 2:00am just playing around with everything it could do.</p>
-<p>When I showed it to the people around me, they fell in love almost as fast as I did, giving me plenty of suggestions on what to do with it. Jon—now the co-host of <a href="https://jonikpodcast.github.io/">Jonik</a>—sent me the best ideas by far. Together, we watched this little language model review the anthropocene and explain how it met your mother. I felt bad making him and others wait for me to run the model whenever they sent new training data, so I translated the entire project into JavaScript—the language of the web—and built a <a href="/text_generator/">website</a> around it. This way, everyone could use it whenever they wanted.</p>
-<p>A short while after, I started working in a security lab, and my first project was on how the predecessors of ChatGPT could be actively tricked into saying incorrect statements. My attention turned away from the little language model, and my perspective on language models shifted from embracing strengths to discovering weaknesses. Over the next six months, this was my primary focus, reviewing literature, brainstorming better attack methods, and running experiments, all to demonstrate vulnerability in LLMs. My mentor taught me so much, and on the off chance I had a good idea, we used it. Even if we did end up back at <a href="/square-one/">square one</a>, I wouldn’t trade that time for the world.</p>
-<p>So when OpenAI released ChatGPT to the world, I wasn’t in the right headspace to appreciate it. Before I even touched it, I pulled up the related literature and started comparing it to the other language models I had studied. The first time I tried ChatGPT, I didn’t ask it anything fun or interesting. I just started feeding it attack prompts, trying to make it mess up. </p>
-<p>A few months later, when I was no longer working on the project, I sat down and had a conversation with ChatGPT. I had fun, and part of me remembered the little toy language model I made over a year prior. Hoping to give my language model a chat interface, I asked ChatGPT to help me design the layout. It wrote a beautiful piece of HTML and CSS, and once I added the logic, I had my own little AI chatbot, <a href="/chatgpt-mini-projects/chatumm/">ChatUMM</a>. </p>
-<p>Suddenly, if I dreamed an idea, ChatGPT could help me make it a reality. Furiously flipping through my notebook, I searched for a few ideas for which I had concrete plans. I started explaining them to ChatGPT, copying the web design, and adding my own functionality. In just one day, I had created <a href="/chatgpt-mini-projects/daylight/">a clock that tells you how much daylight you have left</a>, <a href="/chatgpt-mini-projects/ukulelify/">a chord converter for ukulelists that can’t transpose</a>, and <a href="/chatgpt-mini-projects/the_daily_pi/">an infinite monkey typewriter using pi instead of a real monkey</a>. When it was all over, I had ChatGPT design <a href="/chatgpt-mini-projects/">a homepage for all the projects</a>.</p>
-<p>That day, ChatGPT became my sunlit forge. If I could figure out what to make and how to share it with the world, ChatGPT gave me the tools to build faster than I ever could have imagined. Unlike an actual person, ChatGPT rarely gave me any good ideas. Instead, I provided the ideas, and ChatGPT offered me a way to realize them. Once I finally let a little light in, my vision cleared, and I did what I do best—I created. </p>
-<p>From there, whenever I needed to create a quick website, I would turn back to the sunlit forge. From <a href="https://jonikpodcast.github.io/">a podcast website</a> to my own <a href="/chatgpt-mini-projects/small-e/">mini image generator</a>, I built it all there. For higher-consequence projects, or ones where I risk violating licenses, I’ll build everything by hand, but so long as this works, I will keep coming back to the sunlit forge. </p>
-<p>None of the ChatGPT-assisted websites are perfect. They’re all prototypes, nothing more. On some devices, they don’t work. At some scales, the user interface looks garbled. I have no plans on improving them, because they were never meant to be perfect. All I want is to share my ideas with the world, and doing just that has never been easier. </p>
-<p>This AI summer has just begun, so let a little light into your forge.</p>
+    <title>Square One</title>
+    <url>/square-one/</url>
+    <content><![CDATA[<p>After another set of fruitless experiments and abandoned ideas, my mentor told me we were back to square one.</p>
+<p>“Quick question,” I interjected, “Where exactly <em>is</em> square one?”</p>
+<p>Some sources claim square one is on the football pitch. In the 1930s, BBC radio sports commentators divided the pitch into eight sections, with square one at the bottom right corner. Others claim square one comes from hopscotch or snakes and ladders. Regardless of the game, being at square one puts you at the beginning with no progress. </p>
+<p>Square-1 is also the name of a puzzle derived from the Rubik’s Cube. For practiced cubers, solving a Square-1 can become incredibly straightforward. </p>
+<p>My mentor and I didn’t feel like we were at square one. Sure, we were at the beginning, but being at square one implies square two is just ahead. Every time we returned to the beginning, we were too disoriented to know where to look first. Much of our progress felt sideways or backwards. </p>
+<p>On a lesser note, computer scientists don’t begin counting with one; they begin counting with zero. </p>
+<p>In that meeting, in front of the drawing board, we made a decision. We were not at square one. We were at circle zero. Eventually, circle zero became familiar. Sure, it was mischievous, and at times confusing, but it no longer felt new. Whenever we left, we never worried about saying goodbye; we would be back eventually.</p>
+<p>For most people, today is square one. Today’s square on the Gregorian calendar is the first day of first month. As such, I wish you all a happy circle zero.</p>
 <hr>
 <h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ol>
-<li><a href="/">Me</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Square-1_(puzzle)">Square-1 Puzzle</a></li>
+<li>The discourse surrounding the etymology of “square one” lacks enough rigor to warrant any particular links. Instead, a Google search for “origin of square one” will provide plenty of questionable sources offering one of the three explanations listed above.</li>
 </ol>
 ]]></content>
   </entry>
@@ -549,6 +548,27 @@
 <li><a href="https://tauday.com/">The Official Tau Day Website</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Tau_(particle)">The Tau Particle</a></li>
 <li><a href="https://www.alz.org/media/Documents/alzheimers-dementia-tau-ts.pdf">Tau in Alzheimer’s Research</a></li>
+</ol>
+]]></content>
+  </entry>
+  <entry>
+    <title>The AI Summer: Part 2</title>
+    <url>/the-ai-summer-part-2/</url>
+    <content><![CDATA[<p>When OpenAI first released ChatGPT, I was in the middle of a project on large language model security. My advisor and I discussed, and I pivoted to a security project focused on ChatGPT. For weeks, I worked to reveal its flaws—to uncover its vulnerabilities. </p>
+<p>I’m glad I finally stopped.</p>
+<p>Back in early 2022, I built a <a href="/projects/text_generator">toy language model</a> from scratch. It didn’t do anything fancy—it could barely put together coherent sentences—but I saw potential. I taught it <em>The Art of War</em> and watched it ramble about spies and morale. I fed it Discord transcripts and laughed as it tried to imitate my friends. The night that I finished it, I stayed up until 2:00am just playing around with everything it could do.</p>
+<p>When I showed it to the people around me, they fell in love almost as fast as I did, giving me plenty of suggestions on what to do with it. Jon—now the co-host of <a href="https://jonikpodcast.github.io/">Jonik</a>—sent me the best ideas by far. Together, we watched this little language model review the anthropocene and explain how it met your mother. I felt bad making him and others wait for me to run the model whenever they sent new training data, so I translated the entire project into JavaScript—the language of the web—and built a <a href="/text_generator/">website</a> around it. This way, everyone could use it whenever they wanted.</p>
+<p>A short while after, I started working in a security lab, and my first project was on how the predecessors of ChatGPT could be actively tricked into saying incorrect statements. My attention turned away from the little language model, and my perspective on language models shifted from embracing strengths to discovering weaknesses. Over the next six months, this was my primary focus, reviewing literature, brainstorming better attack methods, and running experiments, all to demonstrate vulnerability in LLMs. My mentor taught me so much, and on the off chance I had a good idea, we used it. Even if we did end up back at <a href="/square-one/">square one</a>, I wouldn’t trade that time for the world.</p>
+<p>So when OpenAI released ChatGPT to the world, I wasn’t in the right headspace to appreciate it. Before I even touched it, I pulled up the related literature and started comparing it to the other language models I had studied. The first time I tried ChatGPT, I didn’t ask it anything fun or interesting. I just started feeding it attack prompts, trying to make it mess up. </p>
+<p>A few months later, when I was no longer working on the project, I sat down and had a conversation with ChatGPT. I had fun, and part of me remembered the little toy language model I made over a year prior. Hoping to give my language model a chat interface, I asked ChatGPT to help me design the layout. It wrote a beautiful piece of HTML and CSS, and once I added the logic, I had my own little AI chatbot, <a href="/chatgpt-mini-projects/chatumm/">ChatUMM</a>. </p>
+<p>Suddenly, if I dreamed an idea, ChatGPT could help me make it a reality. Furiously flipping through my notebook, I searched for a few ideas for which I had concrete plans. I started explaining them to ChatGPT, copying the web design, and adding my own functionality. In just one day, I had created <a href="/chatgpt-mini-projects/daylight/">a clock that tells you how much daylight you have left</a>, <a href="/chatgpt-mini-projects/ukulelify/">a chord converter for ukulelists that can’t transpose</a>, and <a href="/chatgpt-mini-projects/the_daily_pi/">an infinite monkey typewriter using pi instead of a real monkey</a>. When it was all over, I had ChatGPT design <a href="/chatgpt-mini-projects/">a homepage for all the projects</a>.</p>
+<p>That day, ChatGPT became my sunlit forge. If I could figure out what to make and how to share it with the world, ChatGPT gave me the tools to build faster than I ever could have imagined. Unlike an actual person, ChatGPT rarely gave me any good ideas. Instead, I provided the ideas, and ChatGPT offered me a way to realize them. Once I finally let a little light in, my vision cleared, and I did what I do best—I created. </p>
+<p>From there, whenever I needed to create a quick website, I would turn back to the sunlit forge. From <a href="https://jonikpodcast.github.io/">a podcast website</a> to my own <a href="/chatgpt-mini-projects/small-e/">mini image generator</a>, I built it all there. For higher-consequence projects, or ones where I risk violating licenses, I’ll build everything by hand, but so long as this works, I will keep coming back to the sunlit forge. </p>
+<p>None of the ChatGPT-assisted websites are perfect. They’re all prototypes, nothing more. On some devices, they don’t work. At some scales, the user interface looks garbled. I have no plans on improving them, because they were never meant to be perfect. All I want is to share my ideas with the world, and doing just that has never been easier. </p>
+<p>This AI summer has just begun, so let a little light into your forge.</p>
+<hr>
+<h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ol>
+<li><a href="/">Me</a></li>
 </ol>
 ]]></content>
   </entry>
@@ -741,18 +761,13 @@
 <!-- *Add to the [dialogue](/chat), and become part of my story.* -->]]></content>
   </entry>
   <entry>
-    <title>Full Stack Chat App</title>
-    <url>/projects/chat.html</url>
-    <content><![CDATA[<p>Chat with me <a href="/chat">here</a>. (You’ll know it’s me because my name is <strong>bold</strong>.)</p>
-<h2 id="Designing-the-UI"><a href="#Designing-the-UI" class="headerlink" title="Designing the UI"></a>Designing the UI</h2><p>I don’t create in a vacuum. The people around me drastically influence my creations. Our conversations feel like dialogue in a script. There’s a purpose to everything being said. It’s driving the plot somewhere, and I would never reach the end without their help. </p>
-<p>My chat app doesn’t look like Messages or WhatsApp or Slack or Discord because I don’t see it as a chat app. It’s a continuation of the dialogue happening all around me, which is why <strong>I built the chat app to look like a movie script.</strong> The header has an act number, the location is specified, we get a general description, and the rest that follows is the dialogue.</p>
-<h2 id="Engineering-the-App"><a href="#Engineering-the-App" class="headerlink" title="Engineering the App"></a>Engineering the App</h2><p>I’m incredibly grateful for the power and flexibility of GitHub pages (as you can tell by the URL). That being said, the documentation says they only support static sites, or so they claim. Depending on how much functionality you want from the site, you can do user authentication and even have hooks checking for database updates, updating the UI in real-time. </p>
-<p><strong>For the backend, I used Google Firebase.</strong> Their free tier, the Spark plan, is incredibly powerful, and if you’re getting enough traffic to exceed its limits, you have the demand to monetize your product. I don’t expect heavy traffic, so the Spark plan is enough for me.</p>
-<p>Firebase allows for for Google Authentication, along with plenty of other auth providers. This makes it mildly more difficult to spam the site with fake accounts, and the authentication redirect keeps auth traffic away from GitHub. It’s a win-win.</p>
-<p><strong>For the frontend, I used React.</strong> This isn’t an incredibly intense, so vanilla JS was an option, but React’s libraries wrapping Firebase query snapshots made development much easier. </p>
-<p>There are tutorials and articles out there for building apps with React and Firebase, but relevant ones used Firebase v8 instead of v9, which transitions away from the namespacing. Luckily, Firebase’s documentation covers translating v8 into v9.</p>
-<hr>
-<p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
+    <title>Publications</title>
+    <url>/publications/index.html</url>
+    <content><![CDATA[<p>Also see my: <a href="https://scholar.google.com/citations?user=dqTwtegAAAAJ&hl=en&oi=ao">Google Scholar</a></p>
+<h3 id="Refereed"><a href="#Refereed" class="headerlink" title="Refereed"></a>Refereed</h3><p>Anna Yoo Jeong Ha*, Josephine Passananti*, <strong>Ronik Bhaskar</strong>, Shawn Shan, Reid Southen, Haitao Zheng, Ben Y. Zhao (2024). Organic or Diffused: Can We Distinguish Human Art from AI-generated Images? <a href="https://arxiv.org/abs/2402.03214">arXiv</a></p>
+<p>Zhuolin Yang, Zain Sarwar, Iris Hwang, <strong>Ronik Bhaskar</strong>, Ben Y. Zhao, Haitao Zheng (2024). Can Virtual Reality Protect Users from Keystroke Inference Attacks? USENIX Security, Philadelphia PA. <a href="https://www.usenix.org/system/files/sec23winter-prepub-116-yang-zhuolin.pdf">PDF</a> <a href="https://www.newscientist.com/article/2401929-ai-can-steal-passwords-in-virtual-reality-from-avatar-hand-motions/">Media Coverage</a></p>
+<h3 id="Recreational"><a href="#Recreational" class="headerlink" title="Recreational"></a>Recreational</h3><p><strong>Ronik Bhaskar</strong>, Dawson Ren (2023). PizzaLang: A Language for Hungry Developers. Proc. of SIGBOVIK, Pittsburgh PA. <a href="/projects/PizzaLang.pdf">PDF</a> </p>
+]]></content>
   </entry>
   <entry>
     <title>Discord Bot</title>
@@ -785,12 +800,16 @@
 <p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
   </entry>
   <entry>
-    <title>Discord Scraper</title>
-    <url>/projects/discord_scraper.html</url>
-    <content><![CDATA[<p>Access the source files <a href="https://github.com/ronikbhaskar/discord_scraper">here</a>. </p>
-<h2 id="Disclaimer"><a href="#Disclaimer" class="headerlink" title="Disclaimer"></a>Disclaimer</h2><p>Botting your Discord account violates their Terms of Service. I do not use this scraper, nor will I, and I recommend you never use it either. This is solely for educational purposes.</p>
-<h2 id="Theoretical-Use-Cases"><a href="#Theoretical-Use-Cases" class="headerlink" title="Theoretical Use Cases"></a>Theoretical Use Cases</h2><p>Hypothetically speaking, wouldn’t it be cool to go through your server’s chat history, run the text through a Markov Chain generator, and spit out some nonsense for you all to laugh at? Just a thought. It would be tedious, copying every message by hand, but it’s definitely doable, so that’s how you should do it. By hand.</p>
-<h2 id="Getting-your-Access-Token"><a href="#Getting-your-Access-Token" class="headerlink" title="Getting your Access Token"></a>Getting your Access Token</h2><p>Now, having access to the Discord API requires an Access Token, and no one would know how to get their access token. I mean, who is going to open Discord in Chrome, open the inspector, switch to mobile&#x2F;tablet display, go to the Application tab, find the sidebar section labeled Storage, select <a href="https://discord.com/">https://discord.com</a> from the Local Storage dropdown, search token, and copy the value from the Key-Value pair? That’s a ridiculous number of hoops to jump through, and I can’t imagine anyone figuring that out on their own. </p>
+    <title>Full Stack Chat App</title>
+    <url>/projects/chat.html</url>
+    <content><![CDATA[<p>Chat with me <a href="/chat">here</a>. (You’ll know it’s me because my name is <strong>bold</strong>.)</p>
+<h2 id="Designing-the-UI"><a href="#Designing-the-UI" class="headerlink" title="Designing the UI"></a>Designing the UI</h2><p>I don’t create in a vacuum. The people around me drastically influence my creations. Our conversations feel like dialogue in a script. There’s a purpose to everything being said. It’s driving the plot somewhere, and I would never reach the end without their help. </p>
+<p>My chat app doesn’t look like Messages or WhatsApp or Slack or Discord because I don’t see it as a chat app. It’s a continuation of the dialogue happening all around me, which is why <strong>I built the chat app to look like a movie script.</strong> The header has an act number, the location is specified, we get a general description, and the rest that follows is the dialogue.</p>
+<h2 id="Engineering-the-App"><a href="#Engineering-the-App" class="headerlink" title="Engineering the App"></a>Engineering the App</h2><p>I’m incredibly grateful for the power and flexibility of GitHub pages (as you can tell by the URL). That being said, the documentation says they only support static sites, or so they claim. Depending on how much functionality you want from the site, you can do user authentication and even have hooks checking for database updates, updating the UI in real-time. </p>
+<p><strong>For the backend, I used Google Firebase.</strong> Their free tier, the Spark plan, is incredibly powerful, and if you’re getting enough traffic to exceed its limits, you have the demand to monetize your product. I don’t expect heavy traffic, so the Spark plan is enough for me.</p>
+<p>Firebase allows for for Google Authentication, along with plenty of other auth providers. This makes it mildly more difficult to spam the site with fake accounts, and the authentication redirect keeps auth traffic away from GitHub. It’s a win-win.</p>
+<p><strong>For the frontend, I used React.</strong> This isn’t an incredibly intense, so vanilla JS was an option, but React’s libraries wrapping Firebase query snapshots made development much easier. </p>
+<p>There are tutorials and articles out there for building apps with React and Firebase, but relevant ones used Firebase v8 instead of v9, which transitions away from the namespacing. Luckily, Firebase’s documentation covers translating v8 into v9.</p>
 <hr>
 <p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
   </entry>
@@ -1088,6 +1107,16 @@
 ]]></content>
   </entry>
   <entry>
+    <title>Discord Scraper</title>
+    <url>/projects/discord_scraper.html</url>
+    <content><![CDATA[<p>Access the source files <a href="https://github.com/ronikbhaskar/discord_scraper">here</a>. </p>
+<h2 id="Disclaimer"><a href="#Disclaimer" class="headerlink" title="Disclaimer"></a>Disclaimer</h2><p>Botting your Discord account violates their Terms of Service. I do not use this scraper, nor will I, and I recommend you never use it either. This is solely for educational purposes.</p>
+<h2 id="Theoretical-Use-Cases"><a href="#Theoretical-Use-Cases" class="headerlink" title="Theoretical Use Cases"></a>Theoretical Use Cases</h2><p>Hypothetically speaking, wouldn’t it be cool to go through your server’s chat history, run the text through a Markov Chain generator, and spit out some nonsense for you all to laugh at? Just a thought. It would be tedious, copying every message by hand, but it’s definitely doable, so that’s how you should do it. By hand.</p>
+<h2 id="Getting-your-Access-Token"><a href="#Getting-your-Access-Token" class="headerlink" title="Getting your Access Token"></a>Getting your Access Token</h2><p>Now, having access to the Discord API requires an Access Token, and no one would know how to get their access token. I mean, who is going to open Discord in Chrome, open the inspector, switch to mobile&#x2F;tablet display, go to the Application tab, find the sidebar section labeled Storage, select <a href="https://discord.com/">https://discord.com</a> from the Local Storage dropdown, search token, and copy the value from the Key-Value pair? That’s a ridiculous number of hoops to jump through, and I can’t imagine anyone figuring that out on their own. </p>
+<hr>
+<p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
+  </entry>
+  <entry>
     <title>Math Art</title>
     <url>/projects/math-art.html</url>
     <content><![CDATA[<p>I discuss this project in my <a href="/about">about page</a>. The source code, along with an explanation of the project, can be found <a href="https://github.com/ronikbhaskar/math-art">here</a>.</p>
@@ -1192,6 +1221,37 @@ table, th {
 <p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
   </entry>
   <entry>
+    <title>Ultimate Tic Tac Toe</title>
+    <url>/projects/ultimate_tic_tac_toe.html</url>
+    <content><![CDATA[<p>Play the game <a href="/ultimate_tic_tac_toe">here</a>. Grab a friend (or enemy) because this game requires two people.</p>
+<img src="misc_images/ultimate_tic_tac_toe_game.png" class="display-image" alt="A game of ultimate tic tac toe."> 
+
+<h2 id="Background"><a href="#Background" class="headerlink" title="Background"></a>Background</h2><p>Tic Tac Toe is incredibly boring. For most people, the game is synonymous with “draw” or “tie” or “cat’s game.” At some point in middle school, I was introduced to Ultimate Tic Tac Toe, a game of Tic Tac Toe with nine smaller games of Tic Tac Toe happening inside of it. </p>
+<p>I didn’t play it much because keeping track of the last moves and legal actions was a bit tedious, but it was a really fun way to pass the time. Rather than manage all the boring stuff on my own, I decided to let a computer do it for me.</p>
+<h2 id="Rules"><a href="#Rules" class="headerlink" title="Rules"></a>Rules</h2><p>I explain the rules on the README for the project, but I’ve also included them below. You can access the source for the project <a href="https://github.com/ronikbhaskar/ultimate_tic_tac_toe">here</a>.</p>
+<h4 id="x-goes-first…"><a href="#x-goes-first…" class="headerlink" title="x goes first…"></a><strong>x goes first…</strong></h4><ul>
+<li>On the first move, <strong>x</strong> can play anywhere on the board.</li>
+</ul>
+<h4 id="o-goes-second…"><a href="#o-goes-second…" class="headerlink" title="o goes second…"></a><strong>o goes second…</strong></h4><ul>
+<li><strong>o</strong> can only play in the section of the global board that corresponds to where <strong>x</strong> played in the local board.<ul>
+<li>ex. If <strong>x</strong> plays in the center of the top left board, then <strong>o</strong> can play anywhere in the center board.</li>
+</ul>
+</li>
+</ul>
+<h4 id="the-game-repeats…"><a href="#the-game-repeats…" class="headerlink" title="the game repeats…"></a><strong>the game repeats…</strong></h4><ul>
+<li>Now <strong>x</strong> is restricted to the section that corresponds to <strong>o</strong>‘s last move.</li>
+<li>If the corresponding section has been won (more on that later), or it is full, the player can play anywhere.</li>
+</ul>
+<h4 id="until-someone-wins"><a href="#until-someone-wins" class="headerlink" title="until someone wins."></a><strong>until someone wins.</strong></h4><ul>
+<li>If you get 3 in a row in a local board, you win that board.</li>
+<li>If the local board is a draw, no one gets it.</li>
+<li>Three local boards in a row, and you win the game.</li>
+<li>If the game finishes without anyone getting 3 local boards in a row, it’s a draw.</li>
+</ul>
+<hr>
+<p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
+  </entry>
+  <entry>
     <title>Tomato Timer</title>
     <url>/projects/tomato_timer.html</url>
     <content><![CDATA[<style>
@@ -1227,45 +1287,5 @@ table, th {
 <p><a href="https://iconduck.com/emojis/96851/tomato">Logo Source (not my own design)</a></p>
 <hr>
 <p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>Ultimate Tic Tac Toe</title>
-    <url>/projects/ultimate_tic_tac_toe.html</url>
-    <content><![CDATA[<p>Play the game <a href="/ultimate_tic_tac_toe">here</a>. Grab a friend (or enemy) because this game requires two people.</p>
-<img src="misc_images/ultimate_tic_tac_toe_game.png" class="display-image" alt="A game of ultimate tic tac toe."> 
-
-<h2 id="Background"><a href="#Background" class="headerlink" title="Background"></a>Background</h2><p>Tic Tac Toe is incredibly boring. For most people, the game is synonymous with “draw” or “tie” or “cat’s game.” At some point in middle school, I was introduced to Ultimate Tic Tac Toe, a game of Tic Tac Toe with nine smaller games of Tic Tac Toe happening inside of it. </p>
-<p>I didn’t play it much because keeping track of the last moves and legal actions was a bit tedious, but it was a really fun way to pass the time. Rather than manage all the boring stuff on my own, I decided to let a computer do it for me.</p>
-<h2 id="Rules"><a href="#Rules" class="headerlink" title="Rules"></a>Rules</h2><p>I explain the rules on the README for the project, but I’ve also included them below. You can access the source for the project <a href="https://github.com/ronikbhaskar/ultimate_tic_tac_toe">here</a>.</p>
-<h4 id="x-goes-first…"><a href="#x-goes-first…" class="headerlink" title="x goes first…"></a><strong>x goes first…</strong></h4><ul>
-<li>On the first move, <strong>x</strong> can play anywhere on the board.</li>
-</ul>
-<h4 id="o-goes-second…"><a href="#o-goes-second…" class="headerlink" title="o goes second…"></a><strong>o goes second…</strong></h4><ul>
-<li><strong>o</strong> can only play in the section of the global board that corresponds to where <strong>x</strong> played in the local board.<ul>
-<li>ex. If <strong>x</strong> plays in the center of the top left board, then <strong>o</strong> can play anywhere in the center board.</li>
-</ul>
-</li>
-</ul>
-<h4 id="the-game-repeats…"><a href="#the-game-repeats…" class="headerlink" title="the game repeats…"></a><strong>the game repeats…</strong></h4><ul>
-<li>Now <strong>x</strong> is restricted to the section that corresponds to <strong>o</strong>‘s last move.</li>
-<li>If the corresponding section has been won (more on that later), or it is full, the player can play anywhere.</li>
-</ul>
-<h4 id="until-someone-wins"><a href="#until-someone-wins" class="headerlink" title="until someone wins."></a><strong>until someone wins.</strong></h4><ul>
-<li>If you get 3 in a row in a local board, you win that board.</li>
-<li>If the local board is a draw, no one gets it.</li>
-<li>Three local boards in a row, and you win the game.</li>
-<li>If the game finishes without anyone getting 3 local boards in a row, it’s a draw.</li>
-</ul>
-<hr>
-<p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>Publications</title>
-    <url>/publications/index.html</url>
-    <content><![CDATA[<p>Also see my: <a href="https://scholar.google.com/citations?user=dqTwtegAAAAJ&hl=en&oi=ao">Google Scholar</a></p>
-<h3 id="Refereed"><a href="#Refereed" class="headerlink" title="Refereed"></a>Refereed</h3><p>Anna Yoo Jeong Ha*, Josephine Passananti*, <strong>Ronik Bhaskar</strong>, Shawn Shan, Reid Southen, Haitao Zheng, Ben Y. Zhao (2024). Organic or Diffused: Can We Distinguish Human Art from AI-generated Images? <a href="https://arxiv.org/abs/2402.03214">arXiv</a></p>
-<p>Zhuolin Yang, Zain Sarwar, Iris Hwang, <strong>Ronik Bhaskar</strong>, Ben Y. Zhao, Haitao Zheng (2024). Can Virtual Reality Protect Users from Keystroke Inference Attacks? USENIX Security, Philadelphia PA. <a href="https://www.usenix.org/system/files/sec23winter-prepub-116-yang-zhuolin.pdf">PDF</a> <a href="https://www.newscientist.com/article/2401929-ai-can-steal-passwords-in-virtual-reality-from-avatar-hand-motions/">Media Coverage</a></p>
-<h3 id="Recreational"><a href="#Recreational" class="headerlink" title="Recreational"></a>Recreational</h3><p><strong>Ronik Bhaskar</strong>, Dawson Ren (2023). PizzaLang: A Language for Hungry Developers. Proc. of SIGBOVIK, Pittsburgh PA. <a href="/projects/PizzaLang.pdf">PDF</a> </p>
-]]></content>
   </entry>
 </search>
