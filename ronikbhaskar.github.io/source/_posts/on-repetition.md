@@ -1,0 +1,42 @@
+---
+title: On Repetition
+description: >-
+  I have spent five years trying to give myself more time in default mode, to
+  reflect and process ideas. I always thought the answer was automation. The
+  more I automate, the more time I save, and the more I can have to do the
+  things I want to do. In this endless pursuit of automation, I never stopped to
+  wonder if there was a way to work and think about the things I wanted at the
+  same time. Five years later, I finally have the solution. I'll still take
+  plenty of actual breaks, and I won't stop automating, but I don't need to fear
+  repetition anymore. There's a beautiful simplicity in repetition, and I have
+  so much more to learn.
+keywords: repetition, automation, default mode, mental break, productivity
+date: 2024-03-18 23:14:26
+tags:
+---
+
+
+I can recall quite clearly a moment from five years ago. The blinding summer sun beamed through my open bedroom window. The smell of fresh flowers filled the air as the humidity clung tight around my body. I closed my eyes, breathed in the sweet, heavy air, and opened my laptop to study Python programming. I could have spent my summer an infinite number of ways, and I chose to learn Python through a practical course: Automate the Boring Stuff with Python. Python and automation were the future, so I had to be prepared. Automate the Boring Stuff began my five-year journey of automation. As I progressed through projects, internships, and a degree in computer science, automation became a sort of faith. Anything that felt remotely repetitive was automated, even if it didn't need to be. For me, automation became... automatic.
+
+Over the past week, I worked on a project full of nonstop repetition, much to the dismay of my former self. Over the span of about 4 days, an artist and I cut 125 ft of fabric and stitched over 200 ft of seams. Those cuts and seams were all straight lines too: no variation. I worked long days for no pay on a project I will never see or be credited with. I carried around heavy rolls of material, got poked by pins, and performed the same, repetitive tasks over and over and over.
+
+And I loved it.
+
+To be clear, I didn't enjoy the process because of the final product, nor did I gain anything I could put on my resume. I didn't learn any skills or improve the ones I already had. If those hours I spent on the project did not exist, my life would not be at all different from what it is now. The process wasn't particularly enjoyable, and while I care about my friend—the artist—I could still help him out without enjoying the process, but I didn't.
+
+It doesn't seem like I should have enjoyed such a repetitive project, yet I did because repetition did something five years of automation could never do. Repetition gave my mind a break. When you're constantly automating systems, you trade mental energy for physical energy and time. Automation requires a lot of planning at the onset, but once it's running, you're free to spend your newfound free time however you please. For me, that meant more work. More work means more automation. This constant cycle of automation leaves only the most mentally demanding tasks left to complete—the ones with no repetition. Five years of automation meant that I spent the vast majority of my working time intensely using my brain while giving my body a break.
+
+This system works for a while, but eventually, your mind gets fatigued, and you can't make progress without giving yourself a break. At first, I thought the only way to give my mind a break was to stop working, but I now realize that doesn't have to be the case. While spending hours on repetitive tasks, my body went on autopilot. My hands learned the process, and my mind was left untethered. I felt like I was taking a break, yet I was still working.
+
+This feeling isn't particularly uncommon in daily life. It's the same feeling you get when you take a shower or drive your daily commute. In 2001, Dr. Marcus Raichle coined the term "default mode" for this resting-state brain function. To me, "default mode" feels like a misnomer because there is nothing default about this mode, my brain is rarely there. The default mode network has been shown to have countless functions in reflective thought and creative idea generation, invaluable processes for anyone. There are treasure troves of research on the default mode network and its countless functions, from moral reasoning to theory of mind. I highly recommend reading the literature if you're interested.
+
+I have spent five years trying to give myself more time in default mode, to reflect and process ideas, to think without a fixed goal. I always thought the answer was automation. The more I automate, the more time I save, and the more time I have to do the things I want to do. In this endless pursuit of automation, I never stopped to wonder if there was a way to work while thinking about the things I wanted. Five years later, I finally have the solution. I'll still take plenty of actual breaks, and I won't stop automating, but I don't need to fear repetition anymore. There's a beautiful simplicity in repetition, one that I am ready to learn.
+
+---
+
+## References
+
+1. [Google Trend for "automate" (it's going up)](https://trends.google.com/trends/explore?date=today%205-y&geo=US&q=automate&hl=en)
+2. [Automate the Boring Stuff with Python](https://automatetheboringstuff.com)
+3. [Nat Geo piece on Default Mode Network](https://www.nationalgeographic.co.uk/history-and-civilisation/2022/08/the-science-of-why-you-have-great-ideas-in-the-shower)
+4. [Default Mode Network](https://en.wikipedia.org/wiki/Default_mode_network)
