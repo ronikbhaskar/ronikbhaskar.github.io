@@ -1,5 +1,5 @@
 ---
-title: 'Student of Life: Celestial Navigation, Part 2'
+title: 'Celestial Navigation, Part 2'
 description: >-
   The event was run by the director of an institute doing cosmic microwave
   background experiments. Alongside the director, there were two student

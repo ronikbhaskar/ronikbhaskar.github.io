@@ -1,5 +1,5 @@
 ---
-title: "Student of Life: The Flaw in Every Calculator"
+title: "The Flaw in Every Calculator"
 date: 2024-01-29 19:52:15
 tags:
 description: >-

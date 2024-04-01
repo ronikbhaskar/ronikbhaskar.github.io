@@ -1,5 +1,5 @@
 ---
-title: 'Student of Life: Celestial Navigation, Part 1'
+title: 'Celestial Navigation, Part 1'
 date: 2024-01-22 11:27:21
 tags:
 description: >-

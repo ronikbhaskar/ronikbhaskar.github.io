@@ -1,5 +1,5 @@
 ---
-title: "Student of Life: FM Radio Frequencies are Lying to You"
+title: "FM Radio Frequencies are Lying to You"
 date: 2024-01-15 11:59:20
 tags:
 description: >-
