@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://ronikbhaskar.github.io/publications/</loc>
+    
+    <lastmod>2024-04-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://ronikbhaskar.github.io/celestial-navigation-part-4/</loc>
     
     <lastmod>2024-04-10</lastmod>
@@ -122,15 +131,6 @@
     <loc>https://ronikbhaskar.github.io/a-heart-a-plane-and-a-seahorse-designs-from-the-last-two-months/</loc>
     
     <lastmod>2024-02-20</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://ronikbhaskar.github.io/publications/</loc>
-    
-    <lastmod>2024-02-13</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>

@@ -1,3 +1,4 @@
+https://ronikbhaskar.github.io/publications/
 https://ronikbhaskar.github.io/celestial-navigation-part-4/
 https://ronikbhaskar.github.io/celestial-navigation-part-3/
 https://ronikbhaskar.github.io/celestial-navigation-part-2/
@@ -12,7 +13,6 @@ https://ronikbhaskar.github.io/projects/literature-db
 https://ronikbhaskar.github.io/projects/
 https://ronikbhaskar.github.io/reaching-out-to-old-friends/
 https://ronikbhaskar.github.io/a-heart-a-plane-and-a-seahorse-designs-from-the-last-two-months/
-https://ronikbhaskar.github.io/publications/
 https://ronikbhaskar.github.io/about/
 https://ronikbhaskar.github.io/the-connoisseur-of-random-quantum-randomness/
 https://ronikbhaskar.github.io/the-connoisseur-of-random-lava-lamps-are-protecting-your-data/
