@@ -1,7 +1,7 @@
 ---
 title: About Me
 description: >-
-    I am a 0th year CS PhD student at the University of Chicago. I work in the SAND Lab where I'm fortunate to be co-advised by Prof. Heather Zheng and Prof. Ben Y. Zhao. I am no longer in the terrifying process of applying to CS PhD programs.
+    I am a 0th year PhD student at the University of Chicago. I work in the SAND Lab where I'm fortunate to be co-advised by Prof. Heather Zheng and Prof. Ben Y. Zhao. I am no longer in the terrifying process of applying to CS PhD programs.
 ---
 
 <style>
@@ -18,7 +18,7 @@ description: >-
 
 More details in my [CV](/about/Ronik%20Bhaskar%20CV%20Redacted.pdf).
 
-I am a 0th year CS PhD student at the University of Chicago. I work in the [SAND Lab](https://sandlab.cs.uchicago.edu/index.html) where I'm fortunate to be co-advised by Prof. [Heather Zheng](http://people.cs.uchicago.edu/~htzheng/) and Prof. [Ben Y. Zhao](http://people.cs.uchicago.edu/~ravenben/). I am no longer in the terrifying process of applying to CS PhD programs.
+I am a 0th year PhD student at the University of Chicago. I work in the [SAND Lab](https://sandlab.cs.uchicago.edu/index.html) where I'm fortunate to be co-advised by Prof. [Heather Zheng](http://people.cs.uchicago.edu/~htzheng/) and Prof. [Ben Y. Zhao](http://people.cs.uchicago.edu/~ravenben/). I am no longer in the terrifying process of applying to CS PhD programs.
 
 I'm broadly interested in security and privacy with a recent focus on adversarial machine learning. If you're a digital artist, or you're interested in generative AI, I recommend checking out [Glaze](https://glaze.cs.uchicago.edu). I'm proud to work on this project and hopefully similar ones in the future.
 
