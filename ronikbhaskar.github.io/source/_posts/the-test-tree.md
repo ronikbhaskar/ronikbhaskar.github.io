@@ -1,8 +1,8 @@
 ---
 title: The Test Tree
 description: >-
-I think, to some extent, we are all afraid of tech companies stealing our data. It's most evident when we're talking about something, like needing a new coffee table, and suddenly our feeds are covered in ads for coffee tables. This fear manifests itself in other ways too, from facial recognition working a bit too well to AIs that seem to have read the entire internet. It's a justified fear. Data theft and data abuse pose real, personal risks to almost everyone. For me, however, data theft is not just a personal risk; it's an occupational hazard.
-keywords: test tree, stealing data, testing AI, research narrative, occupational hazard
+  I think, to some extent, we are all afraid of tech companies stealing our data. It's most evident when we're talking about something, like needing a new coffee table, and suddenly our feeds are covered in ads for coffee tables. This fear manifests itself in other ways too, from facial recognition working a bit too well to AIs that seem to have read the entire internet. It's a justified fear. Data theft and data abuse pose real, personal risks to almost everyone. For me, however, data theft is not just a personal risk; it's an occupational hazard.
+keywords: "test tree, stealing data, testing AI, research narrative, occupational hazard"
 date: 2024-04-15 15:32:49
 tags:
 ---
