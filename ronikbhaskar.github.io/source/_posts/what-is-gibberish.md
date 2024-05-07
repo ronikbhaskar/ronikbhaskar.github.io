@@ -11,7 +11,7 @@ description: >-
   will hopefully lead to the completion of GibberishGPT, because the world
   clearly needs more useless LLMs.
 keywords: gibberish, llm, gpt, meaningless speech, jargon
-date: 2024-05-07 23:32:42
+date: 2024-05-06 23:32:42
 tags:
 ---
 
