@@ -160,6 +160,17 @@
 ]]></content>
   </entry>
   <entry>
+    <title>Celestial Navigation, Part 4</title>
+    <url>/celestial-navigation-part-4/</url>
+    <content><![CDATA[<p>Today, I had the pleasure of witnessing the total solar eclipse, a twice-in-a-lifetime opportunity. Yes, I’ve already seen a solar eclipse, and I’ve seen a handful of lunar eclipses, but I had to see this eclipse too. If you’ve met me, you know I get excited when the sun aligns with some buildings, so of course I was going to drive 200 miles to see the sun align with the moon. It was spectacular, but plenty of people will share their life-changing experiences with the eclipse. Instead, here are a few things I learned about eclipses while observing this one.</p>
+<p>You can safely observe a partial eclipse with just your hand and a flat surface. Curl your index finger so as to make a tiny hole, and let sunlight pass through it onto the flat surface. Congrats! You just projected an image of the sun, and with any luck, you’ll see a crescent-shaped sliver of sun instead of the normal circle. This hand projection uses the same principle as a pinhole camera. I was going to make a pinhole camera, but I forgot to bring the materials with me, so I opted for this instead.</p>
+<p>Outdoor lens flares from the sun during an eclipse will be crescents instead of circles. Lens flares are just images of the light source caused by lens imperfections. Turns out, they don’t always have to be circles. Typically, the lens flare is the shape of the light source. Since the light source—the sun—will appear as a crescent, your lens flares will be crescents too.</p>
+<p>Speaking of crescents, a solar crescent from an eclipse will never match the shape of a real crescent moon in the night sky. This is because of how the crescents are formed. For a crescent moon, we’re looking at a half-lit sphere, which is similar to looking at a moon-sized circle partially covered by a larger black circle. Constructing the shape requires two different-sized circles. For a solar crescent, we can use another two circle construction, except the black circle is the same size as the sun, not bigger, so the shape is different. There are more nuances to the full argument, which you can prove mathematically by comparing the distances between the corners of the crescents. Ultimately, solar crescents and crescent moons cannot look the same if the sun and moon are the same size in the sky.</p>
+<p>During a total solar eclipse, you can see celestial bodies you would only see at night. For example, I saw Jupiter and Venus during totality today. Since I’m so used to thinking about when they’ll be above the horizon at night, I really wasn’t expecting to see them during the day. Even in the dark twilight of totality, with no time for my eyes to adjust, the two planets were very easily visible. I should have brought my telescope.</p>
+<p>Typically in Celestial Navigation, I’ll discuss some ways in which we can use the stars to find directions and calculate locations, but so much of that relies on the parallel rays assumption. Light from space hits Earth in the same direction for everyone, no matter where you are. Today, however, that assumption breaks down. Total solar eclipses are focused on small areas. They take advantage of the fact that you are a single observer, looking out, so the rays are radial, not parallel, and you are at the focus. You aren’t meant to find anything during the eclipse. Instead, it’s a brief moment when the sun and the moon find you.</p>
+]]></content>
+  </entry>
+  <entry>
     <title>Ex Libris: Cat&#39;s Cradle</title>
     <url>/ex-libris-cats-cradle/</url>
     <content><![CDATA[<p>On Christmas this year, I read one of the most famous Christmas novels of all time: <em>Cat’s Cradle</em>, by Kurt Vonnegut. This book is so powerful, it constituted a master’s thesis in anthropology in the eyes of the University of Chicago. Countless experts have analyzed this book throughout the past 59 years. Following behind 59 years of thorough analysis, I do not believe I can meaningfully contribute to the discussion of this novel’s themes.</p>
@@ -187,17 +198,6 @@
 <li><a href="https://en.wikipedia.org/wiki/Therefore_sign">Therefore Symbol</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Logic">The Wiki Page for Logic Includes ∴ in the Image on the Right</a></li>
 </ol>
-]]></content>
-  </entry>
-  <entry>
-    <title>Celestial Navigation, Part 4</title>
-    <url>/celestial-navigation-part-4/</url>
-    <content><![CDATA[<p>Today, I had the pleasure of witnessing the total solar eclipse, a twice-in-a-lifetime opportunity. Yes, I’ve already seen a solar eclipse, and I’ve seen a handful of lunar eclipses, but I had to see this eclipse too. If you’ve met me, you know I get excited when the sun aligns with some buildings, so of course I was going to drive 200 miles to see the sun align with the moon. It was spectacular, but plenty of people will share their life-changing experiences with the eclipse. Instead, here are a few things I learned about eclipses while observing this one.</p>
-<p>You can safely observe a partial eclipse with just your hand and a flat surface. Curl your index finger so as to make a tiny hole, and let sunlight pass through it onto the flat surface. Congrats! You just projected an image of the sun, and with any luck, you’ll see a crescent-shaped sliver of sun instead of the normal circle. This hand projection uses the same principle as a pinhole camera. I was going to make a pinhole camera, but I forgot to bring the materials with me, so I opted for this instead.</p>
-<p>Outdoor lens flares from the sun during an eclipse will be crescents instead of circles. Lens flares are just images of the light source caused by lens imperfections. Turns out, they don’t always have to be circles. Typically, the lens flare is the shape of the light source. Since the light source—the sun—will appear as a crescent, your lens flares will be crescents too.</p>
-<p>Speaking of crescents, a solar crescent from an eclipse will never match the shape of a real crescent moon in the night sky. This is because of how the crescents are formed. For a crescent moon, we’re looking at a half-lit sphere, which is similar to looking at a moon-sized circle partially covered by a larger black circle. Constructing the shape requires two different-sized circles. For a solar crescent, we can use another two circle construction, except the black circle is the same size as the sun, not bigger, so the shape is different. There are more nuances to the full argument, which you can prove mathematically by comparing the distances between the corners of the crescents. Ultimately, solar crescents and crescent moons cannot look the same if the sun and moon are the same size in the sky.</p>
-<p>During a total solar eclipse, you can see celestial bodies you would only see at night. For example, I saw Jupiter and Venus during totality today. Since I’m so used to thinking about when they’ll be above the horizon at night, I really wasn’t expecting to see them during the day. Even in the dark twilight of totality, with no time for my eyes to adjust, the two planets were very easily visible. I should have brought my telescope.</p>
-<p>Typically in Celestial Navigation, I’ll discuss some ways in which we can use the stars to find directions and calculate locations, but so much of that relies on the parallel rays assumption. Light from space hits Earth in the same direction for everyone, no matter where you are. Today, however, that assumption breaks down. Total solar eclipses are focused on small areas. They take advantage of the fact that you are a single observer, looking out, so the rays are radial, not parallel, and you are at the focus. You aren’t meant to find anything during the eclipse. Instead, it’s a brief moment when the sun and the moon find you.</p>
 ]]></content>
   </entry>
   <entry>
@@ -264,15 +264,6 @@
 ]]></content>
   </entry>
   <entry>
-    <title>Ex Libris: The Library of Babel</title>
-    <url>/ex-libris-the-library-of-babel/</url>
-    <content><![CDATA[<p>In Jorge Luis Borges’ <em>The Library of Babel</em>, the narrator describes a never-ending world of hexagonal galleries, all filled with books. Each book is 410 pages, 40 lines per page, 80 characters per line, 25 characters in the script. Doing some quick calculations, that number of books is approximately a 1 with 1.8 million zeros behind it. For reference, the number of atoms in the known universe is a 1 with 80 zeros behind it, which is essentially nothing compared to the scale of the library.</p>
-<p>The library is vast, but its volumes are not infinite. The narrator attempts to circumvent this by concluding that the library likely repeats itself. Infinity can be scary, but if the library were looking for new librarians, I have a suggestion for how to make the library truly infinite. If you still want all the books to fit in an infinite library, why limit yourself to 410 page books? For the sake of mathematical clarity, let’s assume that every book is the same thickness, no matter how many pages it has (pretend the pages get super thin). Then, if you allow books to be any finite length, then you will never need to repeat the library because there will always be enough books to fill the shelves without repeating. Assuming the library’s hexagonal galleries do continue forever, then every possible book of finite length will fit perfectly in the library. Finite length books are the way to go.</p>
-<p>Infinite length books, however, pose a huge issue. Let’s again assume that books of infinite length still have the same thickness as all the other books. If you allow every book of infinite length to enter the library, then you will run out of space. It’s hard to believe that an infinite library could run out of space, but it’s true. Cantor’s famous diagonal argument proves this isn’t possible, though his proof was about infinite, binary sequences. Applied here, no matter how you arrange the books, you can prove that at least one book of infinite length has been left out. Surely, the library wouldn’t want to leave any books out of its vast volumes, so I advise caution when tasking a librarian with constructing an infinite library.</p>
-<p>Regardless of how infinite you decide to make the library, the unfortunate problem remains that the Library of Babel is entirely useless as a library. Libraries function best as curators and disseminators of resources, working to best serve their community. Typically, this means the knowledge in the library should be relevant to the readers. At the very least, it should be true. Unfortunately, there is no curatorial process in the Library of Babel. Sure, one book might just so happen to contain the works of Shakespeare, but there will be countless others that look like works of Shakespeare that all get the endings wrong. Most comprehensible books will be wrong, and most books will be incomprehensible. Given how finite human knowledge is, the chances of finding something useful are essentially zero. Even if you do find something potentially useful, you would have to independently verify the source is credible, because no one is curating it for you. The Library of Babel is an interesting thought experiment, but I pity anyone that wastes more than a second in that building trying to find meaning in the empty volumes.</p>
-]]></content>
-  </entry>
-  <entry>
     <title>Ex Libris: The Principles of Librarianship</title>
     <url>/ex-libris-the-principles-of-librarianship/</url>
     <content><![CDATA[<p>If you ever need a list of incredibly British-sounding city names, simply refer to the sentence, “To obtain a more precise location, a study of the postal services suggested that it should be located in Lancashire, the West Riding of Yorkshire, Cheshire, Nottinghamshire, Leicestershire, Derbyshire or Cumberland” (p. 36).</p>
@@ -316,6 +307,15 @@
 <li>Libraries can be valuable to society.</li>
 <li>Librarianship is an experimental science.</li>
 </ol>
+]]></content>
+  </entry>
+  <entry>
+    <title>Ex Libris: The Library of Babel</title>
+    <url>/ex-libris-the-library-of-babel/</url>
+    <content><![CDATA[<p>In Jorge Luis Borges’ <em>The Library of Babel</em>, the narrator describes a never-ending world of hexagonal galleries, all filled with books. Each book is 410 pages, 40 lines per page, 80 characters per line, 25 characters in the script. Doing some quick calculations, that number of books is approximately a 1 with 1.8 million zeros behind it. For reference, the number of atoms in the known universe is a 1 with 80 zeros behind it, which is essentially nothing compared to the scale of the library.</p>
+<p>The library is vast, but its volumes are not infinite. The narrator attempts to circumvent this by concluding that the library likely repeats itself. Infinity can be scary, but if the library were looking for new librarians, I have a suggestion for how to make the library truly infinite. If you still want all the books to fit in an infinite library, why limit yourself to 410 page books? For the sake of mathematical clarity, let’s assume that every book is the same thickness, no matter how many pages it has (pretend the pages get super thin). Then, if you allow books to be any finite length, then you will never need to repeat the library because there will always be enough books to fill the shelves without repeating. Assuming the library’s hexagonal galleries do continue forever, then every possible book of finite length will fit perfectly in the library. Finite length books are the way to go.</p>
+<p>Infinite length books, however, pose a huge issue. Let’s again assume that books of infinite length still have the same thickness as all the other books. If you allow every book of infinite length to enter the library, then you will run out of space. It’s hard to believe that an infinite library could run out of space, but it’s true. Cantor’s famous diagonal argument proves this isn’t possible, though his proof was about infinite, binary sequences. Applied here, no matter how you arrange the books, you can prove that at least one book of infinite length has been left out. Surely, the library wouldn’t want to leave any books out of its vast volumes, so I advise caution when tasking a librarian with constructing an infinite library.</p>
+<p>Regardless of how infinite you decide to make the library, the unfortunate problem remains that the Library of Babel is entirely useless as a library. Libraries function best as curators and disseminators of resources, working to best serve their community. Typically, this means the knowledge in the library should be relevant to the readers. At the very least, it should be true. Unfortunately, there is no curatorial process in the Library of Babel. Sure, one book might just so happen to contain the works of Shakespeare, but there will be countless others that look like works of Shakespeare that all get the endings wrong. Most comprehensible books will be wrong, and most books will be incomprehensible. Given how finite human knowledge is, the chances of finding something useful are essentially zero. Even if you do find something potentially useful, you would have to independently verify the source is credible, because no one is curating it for you. The Library of Babel is an interesting thought experiment, but I pity anyone that wastes more than a second in that building trying to find meaning in the empty volumes.</p>
 ]]></content>
   </entry>
   <entry>
@@ -537,6 +537,43 @@
 ]]></content>
   </entry>
   <entry>
+    <title>Square One</title>
+    <url>/square-one/</url>
+    <content><![CDATA[<p>After another set of fruitless experiments and abandoned ideas, my mentor told me we were back to square one.</p>
+<p>“Quick question,” I interjected, “Where exactly <em>is</em> square one?”</p>
+<p>Some sources claim square one is on the football pitch. In the 1930s, BBC radio sports commentators divided the pitch into eight sections, with square one at the bottom right corner. Others claim square one comes from hopscotch or snakes and ladders. Regardless of the game, being at square one puts you at the beginning with no progress. </p>
+<p>Square-1 is also the name of a puzzle derived from the Rubik’s Cube. For practiced cubers, solving a Square-1 can become incredibly straightforward. </p>
+<p>My mentor and I didn’t feel like we were at square one. Sure, we were at the beginning, but being at square one implies square two is just ahead. Every time we returned to the beginning, we were too disoriented to know where to look first. Much of our progress felt sideways or backwards. </p>
+<p>On a lesser note, computer scientists don’t begin counting with one; they begin counting with zero. </p>
+<p>In that meeting, in front of the drawing board, we made a decision. We were not at square one. We were at circle zero. Eventually, circle zero became familiar. Sure, it was mischievous, and at times confusing, but it no longer felt new. Whenever we left, we never worried about saying goodbye; we would be back eventually.</p>
+<p>For most people, today is square one. Today’s square on the Gregorian calendar is the first day of first month. As such, I wish you all a happy circle zero.</p>
+<hr>
+<h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ol>
+<li><a href="https://en.wikipedia.org/wiki/Square-1_(puzzle)">Square-1 Puzzle</a></li>
+<li>The discourse surrounding the etymology of “square one” lacks enough rigor to warrant any particular links. Instead, a Google search for “origin of square one” will provide plenty of questionable sources offering one of the three explanations listed above.</li>
+</ol>
+]]></content>
+  </entry>
+  <entry>
+    <title>Shortest English Sentence</title>
+    <url>/shortest-english-sentence/</url>
+    <content><![CDATA[<p>In a previous archive, I demonstrated how <a href="/run-on-sentences/">sentences can go on for as long as you want</a>, but today, I want to find out just how short they can get. </p>
+<p>Sentences are hard to define. They carry meaning (typically), contain words (I’m pretty sure), require punctuation (probably), etc. Rather than worrying about a universal definition of sentences, I’ll focus on one definition that is useful for our exploration. Specifically, I am defining sentences as a phrase or phrases, with at least one independent clause.</p>
+<p>I am requiring independent clauses because they constitute what most people imagine when they think of a “complete thought”. For example, “he walked,” an independent clause, is a complete thought, while “bananas” is not. Independent clauses typically consist of a noun phrase and a verb phrase. In Chomsky’s famous sentence, “Colorless green ideas sleep furiously,” “colorless green ideas” is the noun phrase, and “sleep furiously” is the verb phrase. Entirely meaningless, yet structurally sound.</p>
+<p>Obviously, a sentence with one phrase will be shorter than a sentence with more phrases, so I’ll stick to a single independent clause. The clause needs a noun phrase and a verb phrase, and we can get both of those down to a single word each. With just a noun and a verb, we can construct the sentence, “Giraffes abdicate.” </p>
+<p>Personally, I don’t know any giraffes that have abdicated, but a sentence is a sentence. As far as the word count goes, two is quite short, but the sentence requires a lot of characters. When written out, it is physically long. I can’t do much to get rid of the period, but I can find shorter words. There are no one-letter verbs, but there is a one-letter noun, which gave me an even shorter sentence: “I do.”</p>
+<p>I do. This short sentence brings tears to listeners’ eyes. It marks important moments. It speaks volumes, yet it doesn’t require volumes to speak. Saying so much with so little is inspiring.</p>
+<p>For a while, I believed this to be a sufficiently short sentence, but I recently remembered something about English. It is possible to have one-word sentences, but only in the command form. In the command form of English, you drop the subject of the sentence. This is common in recipe books, in instructions like “Mix until thoroughly combined.” The word “mix” starts the verb phrase, but there is no preceding noun. Without the condition at the end, you could have a complete sentence in just one word, “Mix.”</p>
+<p>The command form is special because it compels you to take action. Each instruction is a little shove, something to make you start moving. Commands can have any sentiment, but they don’t exist simply to convey information. They carry expectations. They want you to initiate. I have compiled three contenders for the shortest English sentences, and the weight they carry extends far beyond their few characters.</p>
+<p>Go. Do. Be.</p>
+<hr>
+<h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ol>
+<li><a href="https://www.ling.upenn.edu/courses/ling5700/Chomsky1957.pdf"><em>Syntactic Structures</em>, Noam Chomsky</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Sentence_(linguistics)">Sentence</a></li>
+</ol>
+]]></content>
+  </entry>
+  <entry>
     <title>Taking Silly Ideas Seriously</title>
     <url>/taking-silly-ideas-seriously/</url>
     <content><![CDATA[<p>Since 2007, the Association for Computational Heresy has celebrated the sillier side of academic research through the annual SIGBOVIK conference. As their website states, “SIGBOVIK is an evening of tongue-in-cheek academic presentations, a venue for silly ideas and&#x2F;or executions.” This interdisciplinary computer science conference invites three categories of research: “joke realizations of joke ideas, joke realizations of serious ideas, and serious realizations of joke ideas.” While all three quadrants offer exciting opportunities, I’m particularly intrigued by the last one: serious realizations of joke ideas. Fully understanding this quadrant requires understanding the two parts individually.</p>
@@ -554,24 +591,6 @@
 <li><a href="https://en.wikipedia.org/wiki/Schr%C3%B6dinger%27s_cat">Schrödinger’s Cat</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Fred_Hoyle">Fred Hoyle</a></li>
 <li><a href="/projects/optimal_slicing.pdf">Optimal Bread Slicing</a></li>
-</ol>
-]]></content>
-  </entry>
-  <entry>
-    <title>Square One</title>
-    <url>/square-one/</url>
-    <content><![CDATA[<p>After another set of fruitless experiments and abandoned ideas, my mentor told me we were back to square one.</p>
-<p>“Quick question,” I interjected, “Where exactly <em>is</em> square one?”</p>
-<p>Some sources claim square one is on the football pitch. In the 1930s, BBC radio sports commentators divided the pitch into eight sections, with square one at the bottom right corner. Others claim square one comes from hopscotch or snakes and ladders. Regardless of the game, being at square one puts you at the beginning with no progress. </p>
-<p>Square-1 is also the name of a puzzle derived from the Rubik’s Cube. For practiced cubers, solving a Square-1 can become incredibly straightforward. </p>
-<p>My mentor and I didn’t feel like we were at square one. Sure, we were at the beginning, but being at square one implies square two is just ahead. Every time we returned to the beginning, we were too disoriented to know where to look first. Much of our progress felt sideways or backwards. </p>
-<p>On a lesser note, computer scientists don’t begin counting with one; they begin counting with zero. </p>
-<p>In that meeting, in front of the drawing board, we made a decision. We were not at square one. We were at circle zero. Eventually, circle zero became familiar. Sure, it was mischievous, and at times confusing, but it no longer felt new. Whenever we left, we never worried about saying goodbye; we would be back eventually.</p>
-<p>For most people, today is square one. Today’s square on the Gregorian calendar is the first day of first month. As such, I wish you all a happy circle zero.</p>
-<hr>
-<h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ol>
-<li><a href="https://en.wikipedia.org/wiki/Square-1_(puzzle)">Square-1 Puzzle</a></li>
-<li>The discourse surrounding the etymology of “square one” lacks enough rigor to warrant any particular links. Instead, a Google search for “origin of square one” will provide plenty of questionable sources offering one of the three explanations listed above.</li>
 </ol>
 ]]></content>
   </entry>
@@ -620,26 +639,19 @@
 ]]></content>
   </entry>
   <entry>
-    <title>The Beginning of Tau</title>
-    <url>/the-beginning-of-tau/</url>
-    <content><![CDATA[<p>Happy Tau Day, the day when you’re supposed to eat two pies. As an avid Pi Day enthusiast, June 28th provides the perfect opportunity to celebrate twice! All the major festivities you see on Pi Day, from memorizing digits to making music to baking fruit manifolds with crust boundaries, it’s all there on Tau Day. Ultimate Tau Day (6&#x2F;28&#x2F;31) is only eight years away, so start preparing before it’s too late.</p>
-<p>Part of the beauty of Tau (τ) is that it has a life outside of being the ratio of a circle’s circumference to its radius. π has been featured in too many blockbuster equations and gets recognized everywhere. While τ is a lesser known celebrity, it can explore other fields, like particle physics and neuroscience and programming languages.</p>
-<p>Pi and Tau day are wonderful, but they’re not alone. Mathematically wonderful dates are everywhere. Other than just being Tau Day, the numbers in today’s date (6&#x2F;28&#x2F;23) provide a beautiful equation—</p>
-<p>$$\Gamma(6) &#x3D; (28 - 23)!$$</p>
-<p>—with ! denoting factorial, but also excitement because this is exciting. Tomorrow gives us an even simpler equation:</p>
-<p>$$6 &#x3D; 29 - 23$$</p>
-<p>And yesterday worked out quite nicely as well:</p>
-<p>$$6 &#x3D; \Gamma(27 - 23)$$</p>
-<p>For years, I’ve played this little game with the date, trying to insert non-digit symbols around and between the numbers, creating a valid equation while preserving their order from left to right. I recommend you try it too, it’s a nice way to spend a few minutes. Today, I built a toy programming language (thanks τ) whose programs are valid date equations. Then I wrote a script that searched through a finite space of potential programs to find valid ones for the given date. It generated the solutions for the dates I just listed.</p>
-<p>After playing this game for years, I’ve realized that finding an equation for the date is always possible. In fact, there are universal solutions, though they’re not always very exciting. For example, by taking advantage of properties of the sine function:</p>
-<p>$$ \forall m, d, y \in \mathbb{N}, \sin((m + d)\tau) &#x3D; \sin(y\tau) $$</p>
-<p>Strangely, celebrating τ allows us to celebrate other days of the year rather mathematically. Yes, τ is a superstar, but it allows us to celebrate others through its mere presence. </p>
-<p>The Tau Manifesto was written in 2010, spreading the voices of those who carried τ on their backs for years in relative silence. While the Tau Day community has certainly come a far way since then, τ is far from the spotlight it deserves. Until that moment, celebrate each day mathematically. This is just the beginning.</p>
+    <title>The Connoisseur of Random: Lava Lamps are Protecting your Data</title>
+    <url>/the-connoisseur-of-random-lava-lamps-are-protecting-your-data/</url>
+    <content><![CDATA[<p>Have you ever used the Canva website? How about Etsy, Walmart, or even Best Buy? If so, congrats! Your data is being protected by lava lamps.</p>
+<p>Cloudflare is one of the largest global networks, securely providing you access to many of your favorite websites. In an attempt to generate more secure encryption keys, they turned to lava lamps. More specifically, they take pictures of a massive wall of lava lamps, and the sequence of pixels in the image is used as a random number. While lava lamps are deterministic—they follow an exact set of rules in a particular order—they are mathematically chaotic, meaning that approximate initial conditions won’t tell you the final outcome. If you are even slightly off when trying to simulate a lava lamp, your results will be almost entirely inaccurate.</p>
+<p>Additionally, Cloudflare uses a double pendulum and uranium decay to generate chaos, but that’s beyond the scope of this archive.</p>
+<p>Using lava lamps to generate random numbers isn’t a new idea. Back in 1996, Lavarand began using lava lamps to generate random numbers. They took the data from images of lava lamp arrays, and used them as seeds for pseudorandom number generators. Naturally, the use of a pseudorandom number generator makes the process a bit less safe, but it’s nice to see they were taking precautions.</p>
+<p>Pseudorandom number generation is too well understood to be used in cryptography, so Cloudflare imposes two additional rules on their random number generation to keep your data secure. First, their numbers should pass statistical tests that prove unpredictability. If you can find patterns in your data, it’s hard to call it random (I have another archive on the way about this topic). Second, if someone knows how part—not all—of the program works, they still shouldn’t be able to predict the random numbers. </p>
+<p>So, the next time you’re shopping on Etsy or Walmart.com, remember that you’re safe. You have lava lamps protecting you. </p>
+<p><em>Disclaimer: I am not affiliated with Cloudflare in any way, and these statements are entirely my own.</em></p>
 <hr>
 <h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ol>
-<li><a href="https://tauday.com/">The Official Tau Day Website</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Tau_(particle)">The Tau Particle</a></li>
-<li><a href="https://www.alz.org/media/Documents/alzheimers-dementia-tau-ts.pdf">Tau in Alzheimer’s Research</a></li>
+<li><a href="https://www.cloudflare.com/learning/ssl/lava-lamp-encryption/">Cloudflare Uses Lava Lamps</a></li>
+<li><a href="https://web.archive.org/web/19971210213248/http://lavarand.sgi.com/">Lavarand Web Archive</a></li>
 </ol>
 ]]></content>
   </entry>
@@ -664,19 +676,26 @@
 ]]></content>
   </entry>
   <entry>
-    <title>The Connoisseur of Random: Lava Lamps are Protecting your Data</title>
-    <url>/the-connoisseur-of-random-lava-lamps-are-protecting-your-data/</url>
-    <content><![CDATA[<p>Have you ever used the Canva website? How about Etsy, Walmart, or even Best Buy? If so, congrats! Your data is being protected by lava lamps.</p>
-<p>Cloudflare is one of the largest global networks, securely providing you access to many of your favorite websites. In an attempt to generate more secure encryption keys, they turned to lava lamps. More specifically, they take pictures of a massive wall of lava lamps, and the sequence of pixels in the image is used as a random number. While lava lamps are deterministic—they follow an exact set of rules in a particular order—they are mathematically chaotic, meaning that approximate initial conditions won’t tell you the final outcome. If you are even slightly off when trying to simulate a lava lamp, your results will be almost entirely inaccurate.</p>
-<p>Additionally, Cloudflare uses a double pendulum and uranium decay to generate chaos, but that’s beyond the scope of this archive.</p>
-<p>Using lava lamps to generate random numbers isn’t a new idea. Back in 1996, Lavarand began using lava lamps to generate random numbers. They took the data from images of lava lamp arrays, and used them as seeds for pseudorandom number generators. Naturally, the use of a pseudorandom number generator makes the process a bit less safe, but it’s nice to see they were taking precautions.</p>
-<p>Pseudorandom number generation is too well understood to be used in cryptography, so Cloudflare imposes two additional rules on their random number generation to keep your data secure. First, their numbers should pass statistical tests that prove unpredictability. If you can find patterns in your data, it’s hard to call it random (I have another archive on the way about this topic). Second, if someone knows how part—not all—of the program works, they still shouldn’t be able to predict the random numbers. </p>
-<p>So, the next time you’re shopping on Etsy or Walmart.com, remember that you’re safe. You have lava lamps protecting you. </p>
-<p><em>Disclaimer: I am not affiliated with Cloudflare in any way, and these statements are entirely my own.</em></p>
+    <title>The Beginning of Tau</title>
+    <url>/the-beginning-of-tau/</url>
+    <content><![CDATA[<p>Happy Tau Day, the day when you’re supposed to eat two pies. As an avid Pi Day enthusiast, June 28th provides the perfect opportunity to celebrate twice! All the major festivities you see on Pi Day, from memorizing digits to making music to baking fruit manifolds with crust boundaries, it’s all there on Tau Day. Ultimate Tau Day (6&#x2F;28&#x2F;31) is only eight years away, so start preparing before it’s too late.</p>
+<p>Part of the beauty of Tau (τ) is that it has a life outside of being the ratio of a circle’s circumference to its radius. π has been featured in too many blockbuster equations and gets recognized everywhere. While τ is a lesser known celebrity, it can explore other fields, like particle physics and neuroscience and programming languages.</p>
+<p>Pi and Tau day are wonderful, but they’re not alone. Mathematically wonderful dates are everywhere. Other than just being Tau Day, the numbers in today’s date (6&#x2F;28&#x2F;23) provide a beautiful equation—</p>
+<p>$$\Gamma(6) &#x3D; (28 - 23)!$$</p>
+<p>—with ! denoting factorial, but also excitement because this is exciting. Tomorrow gives us an even simpler equation:</p>
+<p>$$6 &#x3D; 29 - 23$$</p>
+<p>And yesterday worked out quite nicely as well:</p>
+<p>$$6 &#x3D; \Gamma(27 - 23)$$</p>
+<p>For years, I’ve played this little game with the date, trying to insert non-digit symbols around and between the numbers, creating a valid equation while preserving their order from left to right. I recommend you try it too, it’s a nice way to spend a few minutes. Today, I built a toy programming language (thanks τ) whose programs are valid date equations. Then I wrote a script that searched through a finite space of potential programs to find valid ones for the given date. It generated the solutions for the dates I just listed.</p>
+<p>After playing this game for years, I’ve realized that finding an equation for the date is always possible. In fact, there are universal solutions, though they’re not always very exciting. For example, by taking advantage of properties of the sine function:</p>
+<p>$$ \forall m, d, y \in \mathbb{N}, \sin((m + d)\tau) &#x3D; \sin(y\tau) $$</p>
+<p>Strangely, celebrating τ allows us to celebrate other days of the year rather mathematically. Yes, τ is a superstar, but it allows us to celebrate others through its mere presence. </p>
+<p>The Tau Manifesto was written in 2010, spreading the voices of those who carried τ on their backs for years in relative silence. While the Tau Day community has certainly come a far way since then, τ is far from the spotlight it deserves. Until that moment, celebrate each day mathematically. This is just the beginning.</p>
 <hr>
 <h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ol>
-<li><a href="https://www.cloudflare.com/learning/ssl/lava-lamp-encryption/">Cloudflare Uses Lava Lamps</a></li>
-<li><a href="https://web.archive.org/web/19971210213248/http://lavarand.sgi.com/">Lavarand Web Archive</a></li>
+<li><a href="https://tauday.com/">The Official Tau Day Website</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Tau_(particle)">The Tau Particle</a></li>
+<li><a href="https://www.alz.org/media/Documents/alzheimers-dementia-tau-ts.pdf">Tau in Alzheimer’s Research</a></li>
 </ol>
 ]]></content>
   </entry>
@@ -777,6 +796,52 @@
 ]]></content>
   </entry>
   <entry>
+    <title>The Mortifying Ordeal of Being Perceived</title>
+    <url>/the-mortifying-ordeal-of-being-perceived/</url>
+    <content><![CDATA[<p><em>The following is a transcript from a recent episode of the <a href="https://jonikpodcast.github.io/">Jonik Podcast</a>.</em></p>
+<p>Good morning, Jon. At the time of this recording, you are summiting the Half Dome, but given that you just took the MCAT, I’m sure this won’t be much of a challenge for you. In this episode, it’s just me. Like your Jonik episode back in April, I’ll be covering a more recent phrase, one that has its roots in meme culture and attempts to comment on the state of internet culture as a whole. As the title suggests, today, we will discuss the etymology of “being perceived.” </p>
+<p>After co-hosting this podcast for over six months now, my biggest concern isn’t that it’ll go down or that the hosting platform will lose our recordings. I’m not afraid of people breaking the things we’ve built or stealing it for themselves. What truly terrifies me is knowing that people actually listen to what we have to say.</p>
+<p>In 2013, Tim Kreider wrote “I Know What You Think of Me,” an opinion piece on the dread of hearing other people’s uncensored opinions about you. Kreider, who had recently bought a herd of goats, received an email that wasn’t meant for him that included some snyde remarks about his reckless spending. Personally, I can’t think of a better investment, but to each their own. The essay continues to comment on how the Internet Age makes it incredibly easy to overhear conversations you were never meant to know about. Ultimately, Kreider leaves the reader with this incredibly powerful line: “if we want the rewards of being loved, we have to submit to the mortifying ordeal of being known.”</p>
+<p>I never realized how easy it was to hear those uncensored opinions about you until I tried existing online for the first time. About a year ago, I created a website showcasing my projects and a few stories I wanted to share. I had a little visit counter on the page, and I was very proud of my 100 page visits. My sister, being the wonderful person she is, absolutely loved the website and decided more people should see my work. To spread the word, she went to what is historically the warmest, kindest internet platform there is: Reddit. After hitting up a few subreddits promoting my stuff, the comments started rolling in. Hate comment after hate comment, internet troll after internet troll, she just watched in horror. Mind you, I didn’t know any of this was happening. All I saw was in the span of about 15 minutes, my website had 200—300—400 hits. Eventually, the posts were deleted, and her account was banned for self-promotion. She later called me and sent me screenshots of some of the comments, explaining what happened. Reading through the ones she saved, I truly couldn’t fathom how people formed such intense judgements about me so quickly. To the one commenter that said I seemed thoughtful, thanks. I still have that screenshot saved.</p>
+<p>Kreider’s “mortifying ordeal of being known” quickly exploded onto meme pages across platforms. Plenty of the memes took the message seriously, including the duality of the rewards of being loved along with the mortifying ordeal of being known. Others focused solely on the mortification. A brief aside, “mortification” comes from the Latin word that means “death,” and I suppose it’s telling that we use it to describe great embarrassment, because on some level, that shame feels like a form of death. In late 2019, the next iteration of the “mortifying ordeal of being known” took over the Internet: being perceived. While “being perceived” is not a direct predecessor of the mortifying ordeal, they share a similar space in terms of meaning. Both comment on others being aware of you, but they differ in response. Heavily shaped by the mass quarantines at the beginning of the pandemic, “being perceived” led to a re-imagining of the self, one where in order to exist socially, you needed an online presence. That online presence took the form of Zoom meetings, Instagram stories, Tweets about toilet paper shortages, and plenty more. Suddenly, the mortifying ordeal of being known was no longer just the price you paid to enjoy the rewards of being loved, it was prerequisite to not living in total isolation. </p>
+<p>Jon, around the same time in 2019 that the “being perceived” meme became popular, you and I performed an Evolution of Music medley at our school benefit concert. We wore matching blue suits, and our band poster—along with saying Jonik—had a painting of a duck wearing a tuxedo. I remember grabbing dinner right before, I remember doing a practice run in the debate room, and I remember not being able to see during the performance. Just before we performed, we were off to the side of the stage when the MC announced us to the audience. I grabbed a chair for you to sit in because, well, cellists need chairs. As we reached the center of the stage, I handed you the chair, and I looked out at the audience. By that point, we’d stood before plenty of audiences, but that night, I felt seen in a way I hadn’t felt before. My brain decided, <em>Hey, I’m not really a fan of this. I don’t want to know that I’m being seen</em>, so I stopped. My eyes glazed over, and for the entire performance, I could not see a single thing. I couldn’t see you, I couldn’t see the audience, I could barely see my own hands. There was no real fear or embarrassment associated with performing, I just didn’t want to be perceived. I think we played well.</p>
+<p>The memes surrounding “being perceived” characterize it as something that just happens. You have no real control, you just have to be perceived, and that’s how it is. In my experience, that’s not how it actually works. Just like “the mortifying ordeal of being known” is the price you pay for “the rewards of being loved,” “being perceived” is in some ways transactional. Sure, my eyes may have been glazed over, but that night, the Jonik band was still perceived, and in exchange, we had an attentive audience right in front of us. I may have received some hateful comments about my website, but plenty of people actually stopped to read the things I wrote. Even today, as our podcast audience grows, every listener takes time out of their day to listen to what we have to say. Yes, our audience is perceiving us, but more importantly, the people perceiving us have become our audience. Were we never perceived, we wouldn’t have an audience. If you, wonderful listener, didn’t perceive us, this would just be Jonik speaking into the void. </p>
+<p>In an age where attention is the most valuable commodity, “being perceived” is the price you pay for an audience. That audience might be a random coworker or an actual auditorium full of people. Either way, make the most of that opportunity. Play some cool music, explain some interesting etymologies, just share something worth sharing. Sure, it’s terrifying, but most good things are at first. In the end, you’ll be grateful that they stopped to listen. I know I am. </p>
+<p>Jon, congrats on taking the MCAT. I’ll see you when I see you.</p>
+<hr>
+<h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ol>
+<li><a href="https://archive.nytimes.com/opinionator.blogs.nytimes.com/2013/06/15/i-know-what-you-think-of-me/?smid=pl-share">I Know What You Think of Me by Tim Kreider</a></li>
+</ol>
+]]></content>
+  </entry>
+  <entry>
+    <title>The Pencil (Ex Libris: Works of Nikolai Gogol)</title>
+    <url>/the-pencil-ex-libris-works-of-nikolai-gogol/</url>
+    <content><![CDATA[<p><em>A true narrative inspired by my recent reading of the works of Nikolai Gogol. It’s not overtly Gogolian, but I tried to incorporate some elements of his style.</em></p>
+<hr>
+<p>I’ve been using the same pencil for about 500 days now. My sister gave it to me. It’s a green, 0.5mm Twist-Erase, not that the details really matter. The branding is faded, and I replace the graphite and eraser pretty regularly. Still, it’s a good pencil. I use it to take notes in class. I use it on exams. I use it to journal, to diagram, to sketch, to scribble grocery lists, to write letters. Essentially, if I need to mark something with a pencil, I use this one.</p>
+<p>Holding onto this pencil hasn’t been easy. Back in grade school, I would buy packs of 48 pencils at the beginning of every school year because, by the end, I would have lost each and every one. If there were a leaderboard for losing pencils, I would be internationally ranked. Despite my penchant for losing pencils, I never seem to lose notebooks or journals. Knowing this, I fastened my pencil to my journal, and whenever I needed it, I would remove it from the elastic, use it, and return it to its place. When it was time for me to retire that journal, I simply replaced it with another, and I kept the pencil there.</p>
+<p>As of recently, I have discovered that my pencil is slightly shorter than my phone, so it fits in my pocket quite nicely. I like the idea of always having the pencil handy, but I still wanted a notebook for it, so I made one. The cover of the notebook is made from an old poster of Café Terrace at Night, and it fits snugly in my pocket, just between my leg and my phone. The pages of the notebook are covered in diagrams and equations from my observations of the <a href="/celestial-navigation-part-3/">equinox sunset</a> and the <a href="/celestial-navigation-part-4/">solar eclipse</a>, all drawn by the pencil. </p>
+<p>A brief aside, pen and pencil don’t have the same etymology. While pen comes from the Latin <em>penna</em>, meaning feather, pencil comes from the Latin <em>penicillus</em>, meaning brush. <em>Penicillus</em> has its roots in the Latin word for <em>tail</em>, not <em>feather</em>. As it turns out, <em>penicillus</em> is also the origin of the name of the antibiotic, penicillin. I like to imagine that Alexander Fleming was recording his observations with a pencil when he discovered penicillin, though that may just be wishful thinking.</p>
+<p>I don’t think my pencil will ever be used to document anything as monumental as the discovery of penicillin. The pencil is great—don’t get me wrong—but I do sometimes wonder what impact the pencil has had on my discoveries. How would my <a href="/publications/">research</a> be different without that pencil? What about my <a href="/a-heart-a-plane-and-a-seahorse-designs-from-the-last-two-months/">art</a>? I suppose I can’t know for sure, but I doubt much would change. Pencils only mark what you tell them to mark, erase what you tell them to erase. They can’t tell you the answer or finish the story; that’s something you do. Besides some negligible improvements to quality-of-life, the pencil itself doesn’t do much of anything. </p>
+<p>I was hoping that after so many months using the same pencil, I would gain some profound insight, as if the pencil would reveal some previously unknown truth. I waited, diligently recording my thoughts and observations through this single instrument. I’ve carried it in my bag or on my person during every waking moment. Today, I’m writing this story because that day has finally come. I now know the truth. After 500 days, I’ve finally learned that it’s just a pencil.</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>The Test Tree</title>
+    <url>/the-test-tree/</url>
+    <content><![CDATA[<img src="/images/test_tree.png" alt="Test Tree, by Ronik Bhaskar.">
+
+<hr>
+<p>I think, to some extent, we are all afraid of tech companies stealing our data. It’s most evident when we’re talking about something, like needing a new coffee table, and suddenly our feeds are covered in ads for coffee tables. This fear manifests itself in other ways too, from facial recognition working a bit too well to AIs that seem to have read the entire internet. It’s a justified fear. Data theft and data abuse pose real, personal risks to almost everyone. For me, however, data theft is not just a personal risk; it’s an occupational hazard.</p>
+<p>In my work, I spend a lot of time testing AI or AI-related tools. Most of the time, those tools are internal, like <a href="https://glaze.cs.uchicago.edu/webglaze.html">Glaze</a>, so I don’t have to worry about my data being misused. In a recent <a href="https://arxiv.org/abs/2402.03214">project</a>, though, I had to test commercial products, and I had no control over how my data was used. </p>
+<p>Early in the project, as I was doing some initial experiments, I realized I didn’t have any images I could safely feed AI. They were all photos of either people or places in my life, and those seemed a bit too personal. So, I pulled out my phone and used my finger to draw a quick tree. It took about two minutes, and it didn’t look very good, but I had no attachment to it, and I was more than happy to feed it to some monstrous training datasets. </p>
+<p>And so, I did. I ran countless experiments with that tree, testing different tools and making strange modifications. I even began using it when privacy wasn’t a concern. It has become an inside joke with people in the lab just how much I use that tree. Honestly, I can’t help it. That tree has worked with me through long nights and intense debugging sessions. It’s gone through every experimental pipeline I’ve built. My work would not be the same without it.</p>
+<p>The unfortunate reality is that this tree, with so much personal value, is now sitting in some massive training datasets, waiting to be misused by tech companies. All that testing has finally caught up with me. I tried not to use personal data when testing these tools, but the data I was using became personal. And now, it’s not just gone. It’s everywhere. Any tech company that has ever touched this image has full access to it.</p>
+<p>Ultimately, I think this is for the best. The important thing was never the tree being secret. Its presence everywhere means the protection of so many images that could have taken it’s place. Its purpose is to be stolen, to be used, to be a waste of space in a sea of sensitive data. In that way, it was never mine to begin with. It’s meant for everyone, and if you’re looking for your own test image, maybe it can be yours too.</p>
+]]></content>
+  </entry>
+  <entry>
     <title>The Flaw in Every Calculator</title>
     <url>/the-flaw-in-every-calculator/</url>
     <content><![CDATA[<p>Over the past few months, people have been approaching me as if I am an expert on security and AI. They ask me questions like, “Will you build an AI for my startup?”, “Is ChatGPT stealing my data?”, “How does Midjourney work?”.*</p>
@@ -831,52 +896,6 @@
 <figure class="highlight c"><table><tr><td class="code"><pre><span class="line">(<span class="number">1.0</span>/<span class="number">7.0</span> * <span class="number">1000000000000000000</span> - <span class="number">142857000000000000</span> - <span class="number">142857000000</span>) * <span class="number">7.0</span> / <span class="number">1000000</span></span><br></pre></td></tr></table></figure>
 
 <h3 id="ChatGPT"><a href="#ChatGPT" class="headerlink" title="ChatGPT"></a>ChatGPT</h3><p>Prompt: What is ((1 &#x2F; 7) * 10^100 - 1.42857 * 10^99 - 1.42857 * 10^93) * 7 &#x2F; (10^88)?</p>
-]]></content>
-  </entry>
-  <entry>
-    <title>The Mortifying Ordeal of Being Perceived</title>
-    <url>/the-mortifying-ordeal-of-being-perceived/</url>
-    <content><![CDATA[<p><em>The following is a transcript from a recent episode of the <a href="https://jonikpodcast.github.io/">Jonik Podcast</a>.</em></p>
-<p>Good morning, Jon. At the time of this recording, you are summiting the Half Dome, but given that you just took the MCAT, I’m sure this won’t be much of a challenge for you. In this episode, it’s just me. Like your Jonik episode back in April, I’ll be covering a more recent phrase, one that has its roots in meme culture and attempts to comment on the state of internet culture as a whole. As the title suggests, today, we will discuss the etymology of “being perceived.” </p>
-<p>After co-hosting this podcast for over six months now, my biggest concern isn’t that it’ll go down or that the hosting platform will lose our recordings. I’m not afraid of people breaking the things we’ve built or stealing it for themselves. What truly terrifies me is knowing that people actually listen to what we have to say.</p>
-<p>In 2013, Tim Kreider wrote “I Know What You Think of Me,” an opinion piece on the dread of hearing other people’s uncensored opinions about you. Kreider, who had recently bought a herd of goats, received an email that wasn’t meant for him that included some snyde remarks about his reckless spending. Personally, I can’t think of a better investment, but to each their own. The essay continues to comment on how the Internet Age makes it incredibly easy to overhear conversations you were never meant to know about. Ultimately, Kreider leaves the reader with this incredibly powerful line: “if we want the rewards of being loved, we have to submit to the mortifying ordeal of being known.”</p>
-<p>I never realized how easy it was to hear those uncensored opinions about you until I tried existing online for the first time. About a year ago, I created a website showcasing my projects and a few stories I wanted to share. I had a little visit counter on the page, and I was very proud of my 100 page visits. My sister, being the wonderful person she is, absolutely loved the website and decided more people should see my work. To spread the word, she went to what is historically the warmest, kindest internet platform there is: Reddit. After hitting up a few subreddits promoting my stuff, the comments started rolling in. Hate comment after hate comment, internet troll after internet troll, she just watched in horror. Mind you, I didn’t know any of this was happening. All I saw was in the span of about 15 minutes, my website had 200—300—400 hits. Eventually, the posts were deleted, and her account was banned for self-promotion. She later called me and sent me screenshots of some of the comments, explaining what happened. Reading through the ones she saved, I truly couldn’t fathom how people formed such intense judgements about me so quickly. To the one commenter that said I seemed thoughtful, thanks. I still have that screenshot saved.</p>
-<p>Kreider’s “mortifying ordeal of being known” quickly exploded onto meme pages across platforms. Plenty of the memes took the message seriously, including the duality of the rewards of being loved along with the mortifying ordeal of being known. Others focused solely on the mortification. A brief aside, “mortification” comes from the Latin word that means “death,” and I suppose it’s telling that we use it to describe great embarrassment, because on some level, that shame feels like a form of death. In late 2019, the next iteration of the “mortifying ordeal of being known” took over the Internet: being perceived. While “being perceived” is not a direct predecessor of the mortifying ordeal, they share a similar space in terms of meaning. Both comment on others being aware of you, but they differ in response. Heavily shaped by the mass quarantines at the beginning of the pandemic, “being perceived” led to a re-imagining of the self, one where in order to exist socially, you needed an online presence. That online presence took the form of Zoom meetings, Instagram stories, Tweets about toilet paper shortages, and plenty more. Suddenly, the mortifying ordeal of being known was no longer just the price you paid to enjoy the rewards of being loved, it was prerequisite to not living in total isolation. </p>
-<p>Jon, around the same time in 2019 that the “being perceived” meme became popular, you and I performed an Evolution of Music medley at our school benefit concert. We wore matching blue suits, and our band poster—along with saying Jonik—had a painting of a duck wearing a tuxedo. I remember grabbing dinner right before, I remember doing a practice run in the debate room, and I remember not being able to see during the performance. Just before we performed, we were off to the side of the stage when the MC announced us to the audience. I grabbed a chair for you to sit in because, well, cellists need chairs. As we reached the center of the stage, I handed you the chair, and I looked out at the audience. By that point, we’d stood before plenty of audiences, but that night, I felt seen in a way I hadn’t felt before. My brain decided, <em>Hey, I’m not really a fan of this. I don’t want to know that I’m being seen</em>, so I stopped. My eyes glazed over, and for the entire performance, I could not see a single thing. I couldn’t see you, I couldn’t see the audience, I could barely see my own hands. There was no real fear or embarrassment associated with performing, I just didn’t want to be perceived. I think we played well.</p>
-<p>The memes surrounding “being perceived” characterize it as something that just happens. You have no real control, you just have to be perceived, and that’s how it is. In my experience, that’s not how it actually works. Just like “the mortifying ordeal of being known” is the price you pay for “the rewards of being loved,” “being perceived” is in some ways transactional. Sure, my eyes may have been glazed over, but that night, the Jonik band was still perceived, and in exchange, we had an attentive audience right in front of us. I may have received some hateful comments about my website, but plenty of people actually stopped to read the things I wrote. Even today, as our podcast audience grows, every listener takes time out of their day to listen to what we have to say. Yes, our audience is perceiving us, but more importantly, the people perceiving us have become our audience. Were we never perceived, we wouldn’t have an audience. If you, wonderful listener, didn’t perceive us, this would just be Jonik speaking into the void. </p>
-<p>In an age where attention is the most valuable commodity, “being perceived” is the price you pay for an audience. That audience might be a random coworker or an actual auditorium full of people. Either way, make the most of that opportunity. Play some cool music, explain some interesting etymologies, just share something worth sharing. Sure, it’s terrifying, but most good things are at first. In the end, you’ll be grateful that they stopped to listen. I know I am. </p>
-<p>Jon, congrats on taking the MCAT. I’ll see you when I see you.</p>
-<hr>
-<h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ol>
-<li><a href="https://archive.nytimes.com/opinionator.blogs.nytimes.com/2013/06/15/i-know-what-you-think-of-me/?smid=pl-share">I Know What You Think of Me by Tim Kreider</a></li>
-</ol>
-]]></content>
-  </entry>
-  <entry>
-    <title>The Pencil (Ex Libris: Works of Nikolai Gogol)</title>
-    <url>/the-pencil-ex-libris-works-of-nikolai-gogol/</url>
-    <content><![CDATA[<p><em>A true narrative inspired by my recent reading of the works of Nikolai Gogol. It’s not overtly Gogolian, but I tried to incorporate some elements of his style.</em></p>
-<hr>
-<p>I’ve been using the same pencil for about 500 days now. My sister gave it to me. It’s a green, 0.5mm Twist-Erase, not that the details really matter. The branding is faded, and I replace the graphite and eraser pretty regularly. Still, it’s a good pencil. I use it to take notes in class. I use it on exams. I use it to journal, to diagram, to sketch, to scribble grocery lists, to write letters. Essentially, if I need to mark something with a pencil, I use this one.</p>
-<p>Holding onto this pencil hasn’t been easy. Back in grade school, I would buy packs of 48 pencils at the beginning of every school year because, by the end, I would have lost each and every one. If there were a leaderboard for losing pencils, I would be internationally ranked. Despite my penchant for losing pencils, I never seem to lose notebooks or journals. Knowing this, I fastened my pencil to my journal, and whenever I needed it, I would remove it from the elastic, use it, and return it to its place. When it was time for me to retire that journal, I simply replaced it with another, and I kept the pencil there.</p>
-<p>As of recently, I have discovered that my pencil is slightly shorter than my phone, so it fits in my pocket quite nicely. I like the idea of always having the pencil handy, but I still wanted a notebook for it, so I made one. The cover of the notebook is made from an old poster of Café Terrace at Night, and it fits snugly in my pocket, just between my leg and my phone. The pages of the notebook are covered in diagrams and equations from my observations of the <a href="/celestial-navigation-part-3/">equinox sunset</a> and the <a href="/celestial-navigation-part-4/">solar eclipse</a>, all drawn by the pencil. </p>
-<p>A brief aside, pen and pencil don’t have the same etymology. While pen comes from the Latin <em>penna</em>, meaning feather, pencil comes from the Latin <em>penicillus</em>, meaning brush. <em>Penicillus</em> has its roots in the Latin word for <em>tail</em>, not <em>feather</em>. As it turns out, <em>penicillus</em> is also the origin of the name of the antibiotic, penicillin. I like to imagine that Alexander Fleming was recording his observations with a pencil when he discovered penicillin, though that may just be wishful thinking.</p>
-<p>I don’t think my pencil will ever be used to document anything as monumental as the discovery of penicillin. The pencil is great—don’t get me wrong—but I do sometimes wonder what impact the pencil has had on my discoveries. How would my <a href="/publications/">research</a> be different without that pencil? What about my <a href="/a-heart-a-plane-and-a-seahorse-designs-from-the-last-two-months/">art</a>? I suppose I can’t know for sure, but I doubt much would change. Pencils only mark what you tell them to mark, erase what you tell them to erase. They can’t tell you the answer or finish the story; that’s something you do. Besides some negligible improvements to quality-of-life, the pencil itself doesn’t do much of anything. </p>
-<p>I was hoping that after so many months using the same pencil, I would gain some profound insight, as if the pencil would reveal some previously unknown truth. I waited, diligently recording my thoughts and observations through this single instrument. I’ve carried it in my bag or on my person during every waking moment. Today, I’m writing this story because that day has finally come. I now know the truth. After 500 days, I’ve finally learned that it’s just a pencil.</p>
-]]></content>
-  </entry>
-  <entry>
-    <title>The Test Tree</title>
-    <url>/the-test-tree/</url>
-    <content><![CDATA[<img src="/images/test_tree.png" alt="Test Tree, by Ronik Bhaskar.">
-
-<hr>
-<p>I think, to some extent, we are all afraid of tech companies stealing our data. It’s most evident when we’re talking about something, like needing a new coffee table, and suddenly our feeds are covered in ads for coffee tables. This fear manifests itself in other ways too, from facial recognition working a bit too well to AIs that seem to have read the entire internet. It’s a justified fear. Data theft and data abuse pose real, personal risks to almost everyone. For me, however, data theft is not just a personal risk; it’s an occupational hazard.</p>
-<p>In my work, I spend a lot of time testing AI or AI-related tools. Most of the time, those tools are internal, like <a href="https://glaze.cs.uchicago.edu/webglaze.html">Glaze</a>, so I don’t have to worry about my data being misused. In a recent <a href="https://arxiv.org/abs/2402.03214">project</a>, though, I had to test commercial products, and I had no control over how my data was used. </p>
-<p>Early in the project, as I was doing some initial experiments, I realized I didn’t have any images I could safely feed AI. They were all photos of either people or places in my life, and those seemed a bit too personal. So, I pulled out my phone and used my finger to draw a quick tree. It took about two minutes, and it didn’t look very good, but I had no attachment to it, and I was more than happy to feed it to some monstrous training datasets. </p>
-<p>And so, I did. I ran countless experiments with that tree, testing different tools and making strange modifications. I even began using it when privacy wasn’t a concern. It has become an inside joke with people in the lab just how much I use that tree. Honestly, I can’t help it. That tree has worked with me through long nights and intense debugging sessions. It’s gone through every experimental pipeline I’ve built. My work would not be the same without it.</p>
-<p>The unfortunate reality is that this tree, with so much personal value, is now sitting in some massive training datasets, waiting to be misused by tech companies. All that testing has finally caught up with me. I tried not to use personal data when testing these tools, but the data I was using became personal. And now, it’s not just gone. It’s everywhere. Any tech company that has ever touched this image has full access to it.</p>
-<p>Ultimately, I think this is for the best. The important thing was never the tree being secret. Its presence everywhere means the protection of so many images that could have taken it’s place. Its purpose is to be stolen, to be used, to be a waste of space in a sea of sensitive data. In that way, it was never mine to begin with. It’s meant for everyone, and if you’re looking for your own test image, maybe it can be yours too.</p>
 ]]></content>
   </entry>
   <entry>
@@ -942,20 +961,6 @@
 <!-- *Add to the [dialogue](/chat), and become part of my story.* -->]]></content>
   </entry>
   <entry>
-    <title>Full Stack Chat App</title>
-    <url>/projects/chat.html</url>
-    <content><![CDATA[<p>Chat with me <a href="/chat">here</a>. (You’ll know it’s me because my name is <strong>bold</strong>.)</p>
-<h2 id="Designing-the-UI"><a href="#Designing-the-UI" class="headerlink" title="Designing the UI"></a>Designing the UI</h2><p>I don’t create in a vacuum. The people around me drastically influence my creations. Our conversations feel like dialogue in a script. There’s a purpose to everything being said. It’s driving the plot somewhere, and I would never reach the end without their help. </p>
-<p>My chat app doesn’t look like Messages or WhatsApp or Slack or Discord because I don’t see it as a chat app. It’s a continuation of the dialogue happening all around me, which is why <strong>I built the chat app to look like a movie script.</strong> The header has an act number, the location is specified, we get a general description, and the rest that follows is the dialogue.</p>
-<h2 id="Engineering-the-App"><a href="#Engineering-the-App" class="headerlink" title="Engineering the App"></a>Engineering the App</h2><p>I’m incredibly grateful for the power and flexibility of GitHub pages (as you can tell by the URL). That being said, the documentation says they only support static sites, or so they claim. Depending on how much functionality you want from the site, you can do user authentication and even have hooks checking for database updates, updating the UI in real-time. </p>
-<p><strong>For the backend, I used Google Firebase.</strong> Their free tier, the Spark plan, is incredibly powerful, and if you’re getting enough traffic to exceed its limits, you have the demand to monetize your product. I don’t expect heavy traffic, so the Spark plan is enough for me.</p>
-<p>Firebase allows for for Google Authentication, along with plenty of other auth providers. This makes it mildly more difficult to spam the site with fake accounts, and the authentication redirect keeps auth traffic away from GitHub. It’s a win-win.</p>
-<p><strong>For the frontend, I used React.</strong> This isn’t an incredibly intense, so vanilla JS was an option, but React’s libraries wrapping Firebase query snapshots made development much easier. </p>
-<p>There are tutorials and articles out there for building apps with React and Firebase, but relevant ones used Firebase v8 instead of v9, which transitions away from the namespacing. Luckily, Firebase’s documentation covers translating v8 into v9.</p>
-<hr>
-<p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
-  </entry>
-  <entry>
     <title>Discord Bot</title>
     <url>/projects/discord_bot.html</url>
     <content><![CDATA[<p>Access the source files <a href="https://github.com/ronikbhaskar/discord_bot">here</a>. </p>
@@ -986,6 +991,30 @@
 <p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
   </entry>
   <entry>
+    <title>Discord Scraper</title>
+    <url>/projects/discord_scraper.html</url>
+    <content><![CDATA[<p>Access the source files <a href="https://github.com/ronikbhaskar/discord_scraper">here</a>. </p>
+<h2 id="Disclaimer"><a href="#Disclaimer" class="headerlink" title="Disclaimer"></a>Disclaimer</h2><p>Botting your Discord account violates their Terms of Service. I do not use this scraper, nor will I, and I recommend you never use it either. This is solely for educational purposes.</p>
+<h2 id="Theoretical-Use-Cases"><a href="#Theoretical-Use-Cases" class="headerlink" title="Theoretical Use Cases"></a>Theoretical Use Cases</h2><p>Hypothetically speaking, wouldn’t it be cool to go through your server’s chat history, run the text through a Markov Chain generator, and spit out some nonsense for you all to laugh at? Just a thought. It would be tedious, copying every message by hand, but it’s definitely doable, so that’s how you should do it. By hand.</p>
+<h2 id="Getting-your-Access-Token"><a href="#Getting-your-Access-Token" class="headerlink" title="Getting your Access Token"></a>Getting your Access Token</h2><p>Now, having access to the Discord API requires an Access Token, and no one would know how to get their access token. I mean, who is going to open Discord in Chrome, open the inspector, switch to mobile&#x2F;tablet display, go to the Application tab, find the sidebar section labeled Storage, select <a href="https://discord.com/">https://discord.com</a> from the Local Storage dropdown, search token, and copy the value from the Key-Value pair? That’s a ridiculous number of hoops to jump through, and I can’t imagine anyone figuring that out on their own. </p>
+<hr>
+<p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>Full Stack Chat App</title>
+    <url>/projects/chat.html</url>
+    <content><![CDATA[<p>Chat with me <a href="/chat">here</a>. (You’ll know it’s me because my name is <strong>bold</strong>.)</p>
+<h2 id="Designing-the-UI"><a href="#Designing-the-UI" class="headerlink" title="Designing the UI"></a>Designing the UI</h2><p>I don’t create in a vacuum. The people around me drastically influence my creations. Our conversations feel like dialogue in a script. There’s a purpose to everything being said. It’s driving the plot somewhere, and I would never reach the end without their help. </p>
+<p>My chat app doesn’t look like Messages or WhatsApp or Slack or Discord because I don’t see it as a chat app. It’s a continuation of the dialogue happening all around me, which is why <strong>I built the chat app to look like a movie script.</strong> The header has an act number, the location is specified, we get a general description, and the rest that follows is the dialogue.</p>
+<h2 id="Engineering-the-App"><a href="#Engineering-the-App" class="headerlink" title="Engineering the App"></a>Engineering the App</h2><p>I’m incredibly grateful for the power and flexibility of GitHub pages (as you can tell by the URL). That being said, the documentation says they only support static sites, or so they claim. Depending on how much functionality you want from the site, you can do user authentication and even have hooks checking for database updates, updating the UI in real-time. </p>
+<p><strong>For the backend, I used Google Firebase.</strong> Their free tier, the Spark plan, is incredibly powerful, and if you’re getting enough traffic to exceed its limits, you have the demand to monetize your product. I don’t expect heavy traffic, so the Spark plan is enough for me.</p>
+<p>Firebase allows for for Google Authentication, along with plenty of other auth providers. This makes it mildly more difficult to spam the site with fake accounts, and the authentication redirect keeps auth traffic away from GitHub. It’s a win-win.</p>
+<p><strong>For the frontend, I used React.</strong> This isn’t an incredibly intense, so vanilla JS was an option, but React’s libraries wrapping Firebase query snapshots made development much easier. </p>
+<p>There are tutorials and articles out there for building apps with React and Firebase, but relevant ones used Firebase v8 instead of v9, which transitions away from the namespacing. Luckily, Firebase’s documentation covers translating v8 into v9.</p>
+<hr>
+<p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
+  </entry>
+  <entry>
     <title>Inventing a Game, Then Building a Bot to Play It Perfectly</title>
     <url>/projects/forest-algorithm.html</url>
     <content><![CDATA[<p>It’s easier to learn how the game works by playing it, so I’ll create a playable version soon (hopefully).</p>
@@ -1005,16 +1034,6 @@
 <p>I made a few similar changes, removing redundant data structures and fancy sorting and simplifying to basic arithmetic operations. All of a sudden, my basic minimax implementation was flying, and the program generated a table with all of the optimal moves in 22 seconds.</p>
 <h2 id="Reinforcement-Learning-Dawson’s-Strategy"><a href="#Reinforcement-Learning-Dawson’s-Strategy" class="headerlink" title="Reinforcement Learning (Dawson’s Strategy)"></a>Reinforcement Learning (Dawson’s Strategy)</h2><p>While I was working on this, Dawson took a different approach. Rather than using massive lookup space reductions, he turned to Reinforcement Learning with Monte-Carlo Tree Search. I’ll leave him to give an explanation of his process and how he approached this problem.</p>
 <h2 id="Two-Will-Enter-Only-One-Will-Leave"><a href="#Two-Will-Enter-Only-One-Will-Leave" class="headerlink" title="Two Will Enter, Only One Will Leave"></a>Two Will Enter, Only One Will Leave</h2><p>Now that we have our working Forest bots, we need to pit them against each other and see how they compare.</p>
-<hr>
-<p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>Discord Scraper</title>
-    <url>/projects/discord_scraper.html</url>
-    <content><![CDATA[<p>Access the source files <a href="https://github.com/ronikbhaskar/discord_scraper">here</a>. </p>
-<h2 id="Disclaimer"><a href="#Disclaimer" class="headerlink" title="Disclaimer"></a>Disclaimer</h2><p>Botting your Discord account violates their Terms of Service. I do not use this scraper, nor will I, and I recommend you never use it either. This is solely for educational purposes.</p>
-<h2 id="Theoretical-Use-Cases"><a href="#Theoretical-Use-Cases" class="headerlink" title="Theoretical Use Cases"></a>Theoretical Use Cases</h2><p>Hypothetically speaking, wouldn’t it be cool to go through your server’s chat history, run the text through a Markov Chain generator, and spit out some nonsense for you all to laugh at? Just a thought. It would be tedious, copying every message by hand, but it’s definitely doable, so that’s how you should do it. By hand.</p>
-<h2 id="Getting-your-Access-Token"><a href="#Getting-your-Access-Token" class="headerlink" title="Getting your Access Token"></a>Getting your Access Token</h2><p>Now, having access to the Discord API requires an Access Token, and no one would know how to get their access token. I mean, who is going to open Discord in Chrome, open the inspector, switch to mobile&#x2F;tablet display, go to the Application tab, find the sidebar section labeled Storage, select <a href="https://discord.com/">https://discord.com</a> from the Local Storage dropdown, search token, and copy the value from the Key-Value pair? That’s a ridiculous number of hoops to jump through, and I can’t imagine anyone figuring that out on their own. </p>
 <hr>
 <p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
   </entry>
@@ -1307,22 +1326,6 @@
 <p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
   </entry>
   <entry>
-    <title>Turning Obsidian into a Markdown Editor</title>
-    <url>/projects/obsidian-editor.html</url>
-    <content><![CDATA[<p>This file was created using <code>obsidian.py</code>. The source code is available <a href="https://github.com/ronikbhaskar/obsidian-editor">here</a>.</p>
-<h2 id="Background"><a href="#Background" class="headerlink" title="Background"></a>Background</h2><p>I have no issues with what Obsidian is. My only complaint is with what it <em>isn’t</em>: a Markdown editor.</p>
-<p>I know you can edit Markdown in Obsidian, but that’s not what I’m talking about. I mean editing <em>any</em> .md file in Obsidian. Right now, you’re limited to your vault, which makes sense, since Obsidian is a note-taking app–a second brain app. Everything you need is right there in your vault. The thing is, I don’t really care for the whole “second brain” thing. I tried it for a bit, but it really didn’t stick. It’s a nice place to put notes if I don’t know where else to put them, but sometimes I just wanna edit a Markdown file with Obsidian’s QoL. </p>
-<h2 id="The-Hack"><a href="#The-Hack" class="headerlink" title="The Hack"></a>The Hack</h2><p>I don’t call this a hack to be arrogant or even facetious. I just mean I wanted to make technology do something it wasn’t created to do. I wanted to turn Obsidian into an editor. </p>
-<p>There are a few approaches to this method. The first that probably comes to most people’s minds is to edit Obsidian’s view of your file system so it thinks your whole computer is a vault. I didn’t do that, but that would be really cool. Instead, I just wrote a script that copies your .md file into your vault and copies it back when you’re done. Definitely not the most elegant solution, but it works for my purposes.</p>
-<h2 id="Setbacks"><a href="#Setbacks" class="headerlink" title="Setbacks"></a>Setbacks</h2><p>The issues with this project were unrelated to the actual manipulation of the vault. Instead, I realized that in order to take advantage of Obsidian’s features, I would have to engineer changes on top of them to make them compatible with any mainstream Markdown editor. </p>
-<p>In particular, Obsidian’s image linking is fantastic, especially combined with their drag-and-drop feature for images. The problem is that Markdown doesn’t usually support images linked like this: ![[image.img]]</p>
-<p>So, I had to find all the instances of images like those, reformat them, and when copying the Markdown, copy the linked files as well. While I did learn a bit more about regex in the process, the solution is quite messy and works under fairly strong assumptions. Nevertheless, it works.</p>
-<h2 id="Improvements"><a href="#Improvements" class="headerlink" title="Improvements"></a>Improvements</h2><p>Image-linking isn’t the only useful feature in Obsidian. Making more of these QoL standards available through this script means I can take full advantage of the tools Obsidian offers. For example, linking pdfs, better tables, and tags would all be fantastic if I could integrate &#x2F; hide them seamlessly with this script. Or, I could add <code>scp</code> support so I can use this on ssh servers. </p>
-<p>I probably won’t do any of that that, since I don’t really like doing more than making quick prototypes to prove that I can. Who knows? Maybe some day.</p>
-<hr>
-<p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
-  </entry>
-  <entry>
     <title>The Oracle Society</title>
     <url>/projects/oracle_society.html</url>
     <content><![CDATA[<p>CW: violence, kidnapping, murder.</p>
@@ -1379,6 +1382,22 @@ table, th {
 <p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
   </entry>
   <entry>
+    <title>Turning Obsidian into a Markdown Editor</title>
+    <url>/projects/obsidian-editor.html</url>
+    <content><![CDATA[<p>This file was created using <code>obsidian.py</code>. The source code is available <a href="https://github.com/ronikbhaskar/obsidian-editor">here</a>.</p>
+<h2 id="Background"><a href="#Background" class="headerlink" title="Background"></a>Background</h2><p>I have no issues with what Obsidian is. My only complaint is with what it <em>isn’t</em>: a Markdown editor.</p>
+<p>I know you can edit Markdown in Obsidian, but that’s not what I’m talking about. I mean editing <em>any</em> .md file in Obsidian. Right now, you’re limited to your vault, which makes sense, since Obsidian is a note-taking app–a second brain app. Everything you need is right there in your vault. The thing is, I don’t really care for the whole “second brain” thing. I tried it for a bit, but it really didn’t stick. It’s a nice place to put notes if I don’t know where else to put them, but sometimes I just wanna edit a Markdown file with Obsidian’s QoL. </p>
+<h2 id="The-Hack"><a href="#The-Hack" class="headerlink" title="The Hack"></a>The Hack</h2><p>I don’t call this a hack to be arrogant or even facetious. I just mean I wanted to make technology do something it wasn’t created to do. I wanted to turn Obsidian into an editor. </p>
+<p>There are a few approaches to this method. The first that probably comes to most people’s minds is to edit Obsidian’s view of your file system so it thinks your whole computer is a vault. I didn’t do that, but that would be really cool. Instead, I just wrote a script that copies your .md file into your vault and copies it back when you’re done. Definitely not the most elegant solution, but it works for my purposes.</p>
+<h2 id="Setbacks"><a href="#Setbacks" class="headerlink" title="Setbacks"></a>Setbacks</h2><p>The issues with this project were unrelated to the actual manipulation of the vault. Instead, I realized that in order to take advantage of Obsidian’s features, I would have to engineer changes on top of them to make them compatible with any mainstream Markdown editor. </p>
+<p>In particular, Obsidian’s image linking is fantastic, especially combined with their drag-and-drop feature for images. The problem is that Markdown doesn’t usually support images linked like this: ![[image.img]]</p>
+<p>So, I had to find all the instances of images like those, reformat them, and when copying the Markdown, copy the linked files as well. While I did learn a bit more about regex in the process, the solution is quite messy and works under fairly strong assumptions. Nevertheless, it works.</p>
+<h2 id="Improvements"><a href="#Improvements" class="headerlink" title="Improvements"></a>Improvements</h2><p>Image-linking isn’t the only useful feature in Obsidian. Making more of these QoL standards available through this script means I can take full advantage of the tools Obsidian offers. For example, linking pdfs, better tables, and tags would all be fantastic if I could integrate &#x2F; hide them seamlessly with this script. Or, I could add <code>scp</code> support so I can use this on ssh servers. </p>
+<p>I probably won’t do any of that that, since I don’t really like doing more than making quick prototypes to prove that I can. Who knows? Maybe some day.</p>
+<hr>
+<p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
+  </entry>
+  <entry>
     <title>Text Generator</title>
     <url>/projects/text_generator.html</url>
     <content><![CDATA[<p>Try generating some text <a href="/text_generator">here</a>. While I can’t guarantee it’ll be meaningful, it is a lot of fun.</p>
@@ -1430,6 +1449,15 @@ table, th {
 <p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
   </entry>
   <entry>
+    <title>Publications</title>
+    <url>/publications/index.html</url>
+    <content><![CDATA[<p>Also see my: <a href="https://scholar.google.com/citations?user=dqTwtegAAAAJ&hl=en&oi=ao">Google Scholar</a></p>
+<h3 id="Refereed"><a href="#Refereed" class="headerlink" title="Refereed"></a>Refereed</h3><p>Anna Yoo Jeong Ha*, Josephine Passananti*, <strong>Ronik Bhaskar</strong>, Shawn Shan, Reid Southen, Haitao Zheng, Ben Y. Zhao (2024). Organic or Diffused: Can We Distinguish Human Art from AI-generated Images? ACM Conference on Computer and Communications Security, Salt Lake City UT. <a href="https://arxiv.org/abs/2402.03214">arXiv</a></p>
+<p>Zhuolin Yang, Zain Sarwar, Iris Hwang, <strong>Ronik Bhaskar</strong>, Ben Y. Zhao, Haitao Zheng (2024). Can Virtual Reality Protect Users from Keystroke Inference Attacks? USENIX Security, Philadelphia PA. <a href="https://www.usenix.org/system/files/sec23winter-prepub-116-yang-zhuolin.pdf">PDF</a> <a href="https://www.newscientist.com/article/2401929-ai-can-steal-passwords-in-virtual-reality-from-avatar-hand-motions/">Media Coverage</a></p>
+<h3 id="Recreational"><a href="#Recreational" class="headerlink" title="Recreational"></a>Recreational</h3><p><strong>Ronik Bhaskar</strong>, Dawson Ren (2023). PizzaLang: A Language for Hungry Developers. Proc. of SIGBOVIK, Pittsburgh PA. <a href="/projects/PizzaLang.pdf">PDF</a> </p>
+]]></content>
+  </entry>
+  <entry>
     <title>Ultimate Tic Tac Toe</title>
     <url>/projects/ultimate_tic_tac_toe.html</url>
     <content><![CDATA[<p>Play the game <a href="/ultimate_tic_tac_toe">here</a>. Grab a friend (or enemy) because this game requires two people.</p>
@@ -1459,14 +1487,5 @@ table, th {
 </ul>
 <hr>
 <p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>Publications</title>
-    <url>/publications/index.html</url>
-    <content><![CDATA[<p>Also see my: <a href="https://scholar.google.com/citations?user=dqTwtegAAAAJ&hl=en&oi=ao">Google Scholar</a></p>
-<h3 id="Refereed"><a href="#Refereed" class="headerlink" title="Refereed"></a>Refereed</h3><p>Anna Yoo Jeong Ha*, Josephine Passananti*, <strong>Ronik Bhaskar</strong>, Shawn Shan, Reid Southen, Haitao Zheng, Ben Y. Zhao (2024). Organic or Diffused: Can We Distinguish Human Art from AI-generated Images? ACM Conference on Computer and Communications Security, Salt Lake City UT. <a href="https://arxiv.org/abs/2402.03214">arXiv</a></p>
-<p>Zhuolin Yang, Zain Sarwar, Iris Hwang, <strong>Ronik Bhaskar</strong>, Ben Y. Zhao, Haitao Zheng (2024). Can Virtual Reality Protect Users from Keystroke Inference Attacks? USENIX Security, Philadelphia PA. <a href="https://www.usenix.org/system/files/sec23winter-prepub-116-yang-zhuolin.pdf">PDF</a> <a href="https://www.newscientist.com/article/2401929-ai-can-steal-passwords-in-virtual-reality-from-avatar-hand-motions/">Media Coverage</a></p>
-<h3 id="Recreational"><a href="#Recreational" class="headerlink" title="Recreational"></a>Recreational</h3><p><strong>Ronik Bhaskar</strong>, Dawson Ren (2023). PizzaLang: A Language for Hungry Developers. Proc. of SIGBOVIK, Pittsburgh PA. <a href="/projects/PizzaLang.pdf">PDF</a> </p>
-]]></content>
   </entry>
 </search>

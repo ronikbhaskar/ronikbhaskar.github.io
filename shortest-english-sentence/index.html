@@ -15,15 +15,15 @@
     <meta name="subtitle" content="Maker & Student of Life">
 
 
-    <meta name="description" content="A relative of mine often plays this game called Word Connect. Occasionally, they get stuck, so I decided to make a program that would help them out.">
+    <meta name="description" content="Go. Do. Be.">
 
 
-    <meta name="keywords" content="word connect, efficient search algorithm, word encoding, Hamming weight, ronik bhaskar, ronik, bhaskar">
+    <meta name="keywords" content="short sentence, independent clause, noam chomsky, syntactic structures, go do be, ronik bhaskar, ronik, bhaskar">
 
 
 
 
-<title>Using Math to Beat a Video Game | Ronik Bhaskar</title>
+<title>Shortest English Sentence | Ronik Bhaskar</title>
 
 
 
@@ -157,12 +157,12 @@
         <div class="post-title">
             
             
-                Using Math to Beat a Video Game
+                Shortest English Sentence
             
             
         </div>
         <span class="post-date">
-            June 10th, 2024
+            June 17th, 2024
         </span>
     </div>
     <div class="post-img">
@@ -172,15 +172,20 @@
     </div>
 </div>
     <div class="post-content">
-    <p>A relative of mine often plays this game called Word Connect. In Word Connect, you connect tiles with letters to make words, and you have a fixed list of words you create. The challenge arises when you just can’t figure out what word to make. Whenever this happens, my relative will ask me for help. As a native English speaker, I can usually think of some obscure words to solve the puzzle, but not always. Occasionally, I’ll sit with the letters swirling around my head for hours, just trying to come up with something. My relative plays the game mostly to practice English, so they don’t care about their score.</p>
-<p>With this in mind, I decided to start <del>cheating</del> using math. To do this, I established a clearer objective. We start with a set of letters <em>S</em> and the length of the target word <em>len(w)</em>, and using those, we need to reconstruct the target word <em>w</em>. The easiest way to do this is just to iterate through every English word and check if it uses only the letters in <em>S</em>, but that’s too easy. For the sake of the challenge, I wanted to pretend like there were super high volumes of English words, and iterating through strings was slow. Under these conditions, I needed a better method. I needed a smarter method.</p>
-<p>I started by getting rid of unnecessary information that was limiting performance. Words are always spelled in order. You would never write “aegm” when using the word “game” because that’s just incorrect. However, if we’re checking to see whether words can be constructed from a set of letters, order does not matter. Knowing this, I created a simple encoding that only captures the letters in a word. It does not care about position or frequency. The way I did this was through 26-bit binary numbers. Each digit represents a character, and if the character is present in the word, then the corresponding digit is marked as a 1. For example,</p>
-<p>$$\text{“add”} \rightarrow 1001$$</p>
-<p>In this instance, the digit on the right represents “a”, which is a 1. Moving to the left, the digits for “b” and “c” are both 0 because they aren’t present in “add”. Finally, the digit for “d” is a 1. After that, it’s just zeros, so I’m not showing them. As you’ll notice, “d” is marked with a 1 even though there are two “d”s. The encoding doesn’t take frequency into account because it’s not necessary. We can check for frequency after shortlisting words if needed.</p>
-<p>Along with our encoding, we’ll need to use a special property called the Hamming weight. The Hamming weight counts the number of 1’s in a bitstring, so the Hamming weight of 1001 is 2. Armed with our new encodings and Hamming weights, we can very easily check if a given word can be constructed from our list of characters. Our target word <em>w</em> can be constructed from <em>S</em> if and only if the following equation is true.</p>
-<p>$$ H \left (\phi \left ( S \right ) \right ) - H \left (\phi \left ( w \right ) \right ) &#x3D; H \left (\phi \left ( S \right ) \oplus \phi \left ( w \right ) \right ) $$</p>
-<p>Essentially, the difference in Hamming weights between <em>S</em> and <em>w</em> should be the same as their combined Hamming weight if we remove all the characters in common. There are very efficient methods for computing Hamming weights, and given our limited size of 67 million possible encodings, we could simply create a lookup table for each one with little memory impact. Additionally, the encodings <em>ϕ</em> for every English word can be pre-computed, and the encoding for <em>S</em> only needs to be computed once. We still need to iterate through the list of words, but each iteration will be significantly faster.</p>
-<p>Using this method, along with some heuristics to limit the number of generated solutions, I was able to find Word Connect answers almost instantly. To test it out, I asked my relative what they were stuck on, and we solved the level with ease. The demonstration was super fun, so we decided to play another level. As we played, making words with digital scrabble tiles, we never ended up using the search algorithm. The program just stayed open on my laptop, until after a few minutes, it went to sleep.</p>
+    <p>In a previous archive, I demonstrated how <a href="/run-on-sentences/">sentences can go on for as long as you want</a>, but today, I want to find out just how short they can get. </p>
+<p>Sentences are hard to define. They carry meaning (typically), contain words (I’m pretty sure), require punctuation (probably), etc. Rather than worrying about a universal definition of sentences, I’ll focus on one definition that is useful for our exploration. Specifically, I am defining sentences as a phrase or phrases, with at least one independent clause.</p>
+<p>I am requiring independent clauses because they constitute what most people imagine when they think of a “complete thought”. For example, “he walked,” an independent clause, is a complete thought, while “bananas” is not. Independent clauses typically consist of a noun phrase and a verb phrase. In Chomsky’s famous sentence, “Colorless green ideas sleep furiously,” “colorless green ideas” is the noun phrase, and “sleep furiously” is the verb phrase. Entirely meaningless, yet structurally sound.</p>
+<p>Obviously, a sentence with one phrase will be shorter than a sentence with more phrases, so I’ll stick to a single independent clause. The clause needs a noun phrase and a verb phrase, and we can get both of those down to a single word each. With just a noun and a verb, we can construct the sentence, “Giraffes abdicate.” </p>
+<p>Personally, I don’t know any giraffes that have abdicated, but a sentence is a sentence. As far as the word count goes, two is quite short, but the sentence requires a lot of characters. When written out, it is physically long. I can’t do much to get rid of the period, but I can find shorter words. There are no one-letter verbs, but there is a one-letter noun, which gave me an even shorter sentence: “I do.”</p>
+<p>I do. This short sentence brings tears to listeners’ eyes. It marks important moments. It speaks volumes, yet it doesn’t require volumes to speak. Saying so much with so little is inspiring.</p>
+<p>For a while, I believed this to be a sufficiently short sentence, but I recently remembered something about English. It is possible to have one-word sentences, but only in the command form. In the command form of English, you drop the subject of the sentence. This is common in recipe books, in instructions like “Mix until thoroughly combined.” The word “mix” starts the verb phrase, but there is no preceding noun. Without the condition at the end, you could have a complete sentence in just one word, “Mix.”</p>
+<p>The command form is special because it compels you to take action. Each instruction is a little shove, something to make you start moving. Commands can have any sentiment, but they don’t exist simply to convey information. They carry expectations. They want you to initiate. I have compiled three contenders for the shortest English sentences, and the weight they carry extends far beyond their few characters.</p>
+<p>Go. Do. Be.</p>
+<hr>
+<h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ol>
+<li><a target="_blank" rel="noopener" href="https://www.ling.upenn.edu/courses/ling5700/Chomsky1957.pdf"><em>Syntactic Structures</em>, Noam Chomsky</a></li>
+<li><a target="_blank" rel="noopener" href="https://en.wikipedia.org/wiki/Sentence_(linguistics)">Sentence</a></li>
+</ol>
 
 </div> 
 <link rel="icon" href="favicon.ico">
@@ -197,17 +202,12 @@
     <nav class="post-nav">
         <div class="prev-item">
            
-                <div class="icon arrow-left"></div>
-                <div class="post-link">
-                    <a href="/shortest-english-sentence/">Prev</a>
-                </div>
-            
         </div>
         <div class="next-item">
             
                 <div class="icon arrow-right"></div>
                 <div class="post-link">
-                  <a href="/ex-libris-the-library-of-babel/">Next</a>  
+                  <a href="/using-math-to-beat-a-video-game/">Next</a>  
                 </div>  
             
         </div>
