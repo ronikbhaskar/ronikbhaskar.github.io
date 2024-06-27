@@ -1,3 +1,5 @@
+https://ronikbhaskar.github.io/projects/
+https://ronikbhaskar.github.io/projects/anti-eliza
 https://ronikbhaskar.github.io/infinity-in-art/
 https://ronikbhaskar.github.io/shortest-english-sentence/
 https://ronikbhaskar.github.io/using-math-to-beat-a-video-game/
@@ -22,7 +24,6 @@ https://ronikbhaskar.github.io/on-repetition/
 https://ronikbhaskar.github.io/a-line-is-defined-by-exactly-two-points/
 https://ronikbhaskar.github.io/ex-libris-select-poems-by-emily-dickinson/
 https://ronikbhaskar.github.io/projects/literature-db
-https://ronikbhaskar.github.io/projects/
 https://ronikbhaskar.github.io/reaching-out-to-old-friends/
 https://ronikbhaskar.github.io/a-heart-a-plane-and-a-seahorse-designs-from-the-last-two-months/
 https://ronikbhaskar.github.io/the-connoisseur-of-random-quantum-randomness/
@@ -50,8 +51,8 @@ https://ronikbhaskar.github.io/no-one-should-own-this-building/
 https://ronikbhaskar.github.io/ex-libris-gadsby/
 https://ronikbhaskar.github.io/ex-libris-cats-cradle/
 https://ronikbhaskar.github.io/am/
-https://ronikbhaskar.github.io/projects/steganography
 https://ronikbhaskar.github.io/projects/obsidian-editor
+https://ronikbhaskar.github.io/projects/steganography
 https://ronikbhaskar.github.io/projects/tomato_timer
 https://ronikbhaskar.github.io/projects/math-art
 https://ronikbhaskar.github.io/projects/discord_bot
