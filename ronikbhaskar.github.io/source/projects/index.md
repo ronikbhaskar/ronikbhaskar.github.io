@@ -106,9 +106,9 @@ description: >-
 <b>Anti-ELIZA</b>
 </summary>
 <ul>
-    <li><a href="/anti-eliza/">Website</a> (Mobile Compatible)</li>
-    <li><a href="/projects/anti-eliza/">Summary</a></li>
-    <li><a href="https://github.com/ronikbhaskar/anti-eliza/">GitHub</a></li>
+    <li><a href="/anti-eliza">Website</a> (Mobile Compatible)</li>
+    <li><a href="/projects/anti-eliza">Summary</a></li>
+    <li><a href="https://github.com/ronikbhaskar/anti-eliza">GitHub</a></li>
 </ul>
 </details>
 <br />
