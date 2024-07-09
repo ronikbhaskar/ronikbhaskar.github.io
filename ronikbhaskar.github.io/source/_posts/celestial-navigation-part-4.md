@@ -18,7 +18,7 @@ tags:
 ---
 
 
-Today, I had the pleasure of witnessing the total solar eclipse, a twice-in-a-lifetime opportunity. Yes, I've already seen a solar eclipse, and I've seen a handful of lunar eclipses, but I had to see this eclipse too. If you've met me, you know I get excited when the sun aligns with some buildings, so of course I was going to drive 200 miles to see the sun align with the moon. It was spectacular, but plenty of people will share their life-changing experiences with the eclipse. Instead, here are a few things I learned about eclipses while observing this one.
+Today, I had the pleasure of witnessing the total solar eclipse, a twice-in-a-lifetime opportunity. Yes, I've already seen a solar eclipse, and I've seen a handful of lunar eclipses, but I had to see this eclipse too. If you've met me, you know I get excited [when the sun aligns with some buildings](/celestial-navigation-part-3), so of course I was going to drive 200 miles to see the sun align with the moon. It was spectacular, but plenty of people will share their life-changing experiences with the eclipse. Instead, here are a few things I learned about eclipses while observing this one.
 
 You can safely observe a partial eclipse with just your hand and a flat surface. Curl your index finger so as to make a tiny hole, and let sunlight pass through it onto the flat surface. Congrats! You just projected an image of the sun, and with any luck, you'll see a crescent-shaped sliver of sun instead of the normal circle. This hand projection uses the same principle as a pinhole camera. I was going to make a pinhole camera, but I forgot to bring the materials with me, so I opted for this instead.
 

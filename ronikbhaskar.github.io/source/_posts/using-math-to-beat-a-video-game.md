@@ -25,3 +25,10 @@ $$ H \left (\phi \left ( S \right ) \right ) - H \left (\phi \left ( w \right ) 
 Essentially, the difference in Hamming weights between *S* and *w* should be the same as their combined Hamming weight if we remove all the characters in common. There are very efficient methods for computing Hamming weights, and given our limited size of 67 million possible encodings, we could simply create a lookup table for each one with little memory impact. Additionally, the encodings *ϕ* for every English word can be pre-computed, and the encoding for *S* only needs to be computed once. We still need to iterate through the list of words, but each iteration will be significantly faster.
 
 Using this method, along with some heuristics to limit the number of generated solutions, I was able to find Word Connect answers almost instantly. To test it out, I asked my relative what they were stuck on, and we solved the level with ease. The demonstration was super fun, so we decided to play another level. As we played, making words with digital scrabble tiles, we never ended up using the search algorithm. The program just stayed open on my laptop, until after a few minutes, it went to sleep.
+
+---
+
+## References
+
+1. [Hamming weight](https://en.wikipedia.org/wiki/Hamming_weight)
+2. [Hamming distance](https://en.wikipedia.org/wiki/Hamming_distance)
