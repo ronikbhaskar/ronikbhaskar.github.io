@@ -181,6 +181,11 @@
 <p>$$ H \left (\phi \left ( S \right ) \right ) - H \left (\phi \left ( w \right ) \right ) &#x3D; H \left (\phi \left ( S \right ) \oplus \phi \left ( w \right ) \right ) $$</p>
 <p>Essentially, the difference in Hamming weights between <em>S</em> and <em>w</em> should be the same as their combined Hamming weight if we remove all the characters in common. There are very efficient methods for computing Hamming weights, and given our limited size of 67 million possible encodings, we could simply create a lookup table for each one with little memory impact. Additionally, the encodings <em>ϕ</em> for every English word can be pre-computed, and the encoding for <em>S</em> only needs to be computed once. We still need to iterate through the list of words, but each iteration will be significantly faster.</p>
 <p>Using this method, along with some heuristics to limit the number of generated solutions, I was able to find Word Connect answers almost instantly. To test it out, I asked my relative what they were stuck on, and we solved the level with ease. The demonstration was super fun, so we decided to play another level. As we played, making words with digital scrabble tiles, we never ended up using the search algorithm. The program just stayed open on my laptop, until after a few minutes, it went to sleep.</p>
+<hr>
+<h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ol>
+<li><a target="_blank" rel="noopener" href="https://en.wikipedia.org/wiki/Hamming_weight">Hamming weight</a></li>
+<li><a target="_blank" rel="noopener" href="https://en.wikipedia.org/wiki/Hamming_distance">Hamming distance</a></li>
+</ol>
 
 </div> 
 <link rel="icon" href="favicon.ico">
