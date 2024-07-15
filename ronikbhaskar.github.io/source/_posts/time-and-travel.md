@@ -66,3 +66,11 @@ $$P\left(x\right)=a\int_{s}^{x}e^{\frac{1}{\left(s-x\right)\left(d-x\right)}}dt+
 <iframe src="https://www.desmos.com/calculator/mnatrdxki6?embed" width="100%" height="500" style="border: 1px solid #ccc" frameborder=0></iframe>
 
 So, there you have it. Time and travel. Bust out the graphing calculator next time you're on a plane and blow everyone's mind with this. Or maybe don't. Either way, time will continue moving forward with a uniform velocity from the cradle to the grave. 
+
+---
+
+## References
+
+1. [The Time Machine by H. G. Wells](https://www.fourmilab.ch/etexts/www/wells/timemach/timemach.pdf)
+2. [Infinitely Differentiable Function with Compact Support](https://math.stackexchange.com/questions/1283783/an-example-of-an-infinitely-differentiable-function-with-compact-support)
+3. [Desmos](https://www.desmos.com/calculator)
