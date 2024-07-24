@@ -1,3 +1,4 @@
+https://ronikbhaskar.github.io/why-ai-companies-pay-anguilla-32-million-dollars-a-year/
 https://ronikbhaskar.github.io/time-and-travel/
 https://ronikbhaskar.github.io/the-pencil-ex-libris-works-of-nikolai-gogol/
 https://ronikbhaskar.github.io/using-math-to-beat-a-video-game/
@@ -55,8 +56,8 @@ https://ronikbhaskar.github.io/ex-libris-gadsby/
 https://ronikbhaskar.github.io/ex-libris-cats-cradle/
 https://ronikbhaskar.github.io/am/
 https://ronikbhaskar.github.io/projects/obsidian-editor
-https://ronikbhaskar.github.io/projects/steganography
 https://ronikbhaskar.github.io/projects/tomato_timer
+https://ronikbhaskar.github.io/projects/steganography
 https://ronikbhaskar.github.io/projects/math-art
 https://ronikbhaskar.github.io/projects/discord_bot
 https://ronikbhaskar.github.io/projects/discord_scraper
