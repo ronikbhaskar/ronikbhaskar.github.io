@@ -1,0 +1,276 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <link rel="icon" href="favicon.ico"> 
+    <meta charset="UTF-8">
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0, maximum-scale=5.0, minimum-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+<link rel="icon" href="favicon.ico"> 
+<!-- I just can't get this favicon to load -->
+
+    <meta name="author" content="Ronik Bhaskar">
+
+
+    <meta name="subtitle" content="Maker & Student of Life">
+
+
+    <meta name="description" content="If P is not NP, that poses some real challenges for humans. Not only does it make it harder to find your wallet, keys, phone, glasses, earrings, etc, but the problems that were already difficult become even more impossible. Forget finding physical objects, how do you find the important things in your life? How do you find sources of joy?">
+
+
+    <meta name="keywords" content="complexity theory, finding joy, p vs np, human computation, ronik bhaskar, ronik, bhaskar">
+
+
+
+
+<title>Finding Joy is a Mathematically Difficult Problem | Ronik Bhaskar</title>
+
+
+
+    <link rel="icon" href="/base_logo_black_white_circle.ico">
+    <!-- <link rel="icon" href="favicon.ico?" type="image/x-icon"> -->
+
+
+
+<style>
+    @import url('https://fonts.googleapis.com/css2?family=Libre+Caslon+Text&display=swap');
+    @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Noto+Sans+SC:wght@300;400;500;700&family=Roboto+Mono&display=swap');
+</style>
+
+
+
+    <!-- stylesheets list from _config.yml -->
+    
+    <link rel="stylesheet" href="/css/style.css">
+    
+
+
+
+
+
+
+
+    <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+    <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+
+
+
+
+
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-YG0RQTX7GQ"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-YG0RQTX7GQ');
+</script>
+<!-- End Google Analytics -->
+
+
+
+
+  <meta name="generator" content="Hexo 6.3.0"></head>
+  <body>
+    <div class="mask-border">
+    </div>
+
+    <div class="wrapper">
+
+      <div class="header">
+  <div class="flex-container">
+    <div class="header-inner">
+      <div class="site-brand-container">
+        <a href="/">
+          
+            <img class="logo-img" src="/base_logo_black.png" alt="logo_image">
+          
+        </a>
+      </div>
+      <div id="menu-btn" class="menu-btn" onclick="toggleMenu()">
+        <script>
+            function toggleMenu() {
+                var menuList = document.getElementsByClassName("menu-list")[0];
+                var menuButton = document.getElementById("menu-btn");  
+                if(menuList.classList.contains("active")){
+                  menuList.classList.remove("active");
+                  menuButton.innerHTML = "MENU";
+                }else{
+                  menuList.classList.add("active");
+                  menuButton.innerHTML = "<div class=\"icon arrow-up\"> </div>";
+                }
+            }
+        </script>
+        Menu
+      </div>
+      <nav class="site-nav">
+        <ul class="menu-list">
+          
+            
+              <li class="menu-item">
+                <a href="/">Home</a>
+              </li> 
+                   
+          
+            
+              <li class="menu-item">
+                <a href="/publications/">Publications</a>
+              </li> 
+                   
+          
+            
+              <li class="menu-item">
+                <a href="/projects/">Projects</a>
+              </li> 
+                   
+          
+            
+              <li class="menu-item">
+                <a href="/about/">About</a>
+              </li> 
+                   
+          
+          
+            <li class="menu-item search-btn">
+              <a href="#">Search</a>
+            </li>
+          
+        </ul>
+      </nav>
+    </div>
+  </div>
+</div>
+
+
+      <div class="main">
+        <div class="flex-container">
+          <article id="post">
+
+  
+    <div class="post-head">
+    <div class="post-info">
+        <div class="tag-list">
+            
+        </div>
+        <div class="post-title">
+            
+            
+                Finding Joy is a Mathematically Difficult Problem
+            
+            
+        </div>
+        <span class="post-date">
+            July 29th, 2024
+        </span>
+    </div>
+    <div class="post-img">
+        
+            <div class="h-line-primary"></div>
+              
+    </div>
+</div>
+    <div class="post-content">
+    <p>Imagine, for a moment, that you have misplaced your phone somewhere in your home. You might retrace your steps, looking in the most common areas, before resorting to a full sweep of the home. You look under beds, behind drawers, and between couch cushions, and after an hour of searching, you find it in the literal last place you would look: the fridge. </p>
+<p>Now, imagine that same scenario, except before beginning your search, your friend calls your phone, and you follow the sound directly to the fridge in under a minute. In both scenarios, you started with the same question: where is my phone? The difference is that in the first, you had to search through all possible solutions. In the second, you were given a solution and only had to verify it.</p>
+<p>This speed difference in solving the problem versus verifying a solution lies at the heart of an entire branch of mathematics called complexity theory. Complexity theory, simply put, is the study of how fast we can solve problems. Problems such as “how to quickly sort a bookshelf” or “how to best arrange suitcases in a car” have direct analogs to the ones studied in complexity theory, but complexity theory tends to be a bit more abstract, sorting lists and arranging integers. In this abstraction, complexity theory focuses on counting the number of steps it will take to solve a problem rather than the number of seconds, so the fastest solutions are the ones that take the fewest steps.</p>
+<p>For a field dedicated entirely to studying how to solve problems, complexity theory has a staggering number of unanswered questions. Never have I heard a professor say, “We don’t know the answer to this problem,” as many times as in complexity theory. Among these unanswered questions is the problem of solving versus verifying: P vs NP. P stands for all the problems we can solve quickly. NP stands for all the problems for which we can verify solutions quickly. Combined, the question asks: can we solve the problems in NP as quickly as we can verify solutions for them?</p>
+<p>My professor’s response was, “Only if you’re really good at guessing.” Ultimately, that’s the real problem here. When you were searching for your phone, you could have just started with a lucky guess, looked in your fridge first, and immediately found your phone. Unfortunately, lucky guesses aren’t a good way to measure how quickly you can solve a problem, and worst-case scenario, the right answer will be your last guess. NP problems are specifically the ones for which there are no good guessing strategies, which is why they are so hard to solve directly, but if you only have to verify the right answer, the problem is easy. For this reason, most mathematicians believe the answer to P vs NP is “no”.</p>
+<p>If P is not NP, that poses some real challenges for humans. Not only does it make it harder to find your wallet, keys, phone, glasses, earrings, etc, but the problems that were already difficult become even more impossible. Forget finding physical objects, how do you find the important things in your life? How do you find sources of joy? A lifetime might be long enough to keep guessing, but it might not. In my case, it took me 20-odd years to stumble on some rather central aspects of my life, such as astronomy.</p>
+<p>The first time I went stargazing, I had no idea whether I would like it or not. I just went because someone invited me. I expected to look up at some stars and a few planets, but that was it. I never could have imagined that while I was there, in the middle of nowhere, I would leave a piece of myself out on that field. Now, I go back whenever I can, and when I do, I feel whole again. I could have been anywhere or done anything that night, but I had a lucky guess, and I got to verify my solution.</p>
+<p>Looking out onto that vast array of stars reminds me of all the sources of joy in the world. Sure, they’re finite, but there are so many that verifying each one is truly impossible. There will probably only ever be a few that matter to you, and maybe you’ll find them in this lifetime, but maybe you won’t. At first, the math made me feel a little bit hopeless, knowing how much joy could be found across the world in a few good guesses, but then I realized the math was missing something. Complexity theory assumes that the problem never changes, no matter how many solutions you check, but that’s not true in this case. In the problem of “what will bring you joy?”, <em>you</em> are the most important variable, because you literally vary from experience to experience. Every time you try something new, or something old, you change, just a little bit. You don’t need a guessing strategy for what you will like because you are the most optimized guessing strategy you could ask for. Your history, desires, environment, mood—everything about you is slowly guiding this trajectory of solving the problems in your life. Sure, nothing is truly guaranteed, and you may not find what you’re looking for in this life, but there’s a chance that you might, and with everything that makes you <em>you</em>, I’d say your odds are better than random guessing.</p>
+
+</div> 
+<link rel="icon" href="favicon.ico">
+<script>
+    try {
+        window.onload = detectors();
+    } catch (error) { // doesn't seem to pose an issue when nothing happens
+        console.log(error);
+    }
+    
+</script>
+    <div class="post-footer">
+    <div class="h-line-primary"></div>
+    <nav class="post-nav">
+        <div class="prev-item">
+           
+        </div>
+        <div class="next-item">
+            
+                <div class="icon arrow-right"></div>
+                <div class="post-link">
+                  <a href="/why-ai-companies-pay-anguilla-32-million-dollars-a-year/">Next</a>  
+                </div>  
+            
+        </div>
+    </nav>
+</div>
+
+    
+      <div class="post-comment">
+
+     
+
+     
+    
+    
+
+</div>
+     
+  
+</article>
+        </div>
+      </div>
+      
+      <div class="footer">
+    <div class="flex-container">
+        <div class="footer-text">
+            
+            
+                © Ronik Bhaskar, 2022 - 2024  
+            
+                
+        </div>
+    </div>
+</div>
+
+    </div>
+
+    
+      <div class="search-popup">
+    <div class="search-popup-overlay">  
+    </div>
+    <div class="search-popup-window" >
+        <div class="search-header">
+            <div class="search-input-container">
+              <input autocomplete="off" autocapitalize="off" maxlength="80"
+                     placeholder="Search Anything" spellcheck="false"
+                     type="search" class="search-input">
+            </div>
+            <div class="search-close-btn">
+                <div class="icon close-btn"></div>
+            </div>
+        </div>
+        <div class="search-result-container">
+        </div>
+    </div>
+</div>
+
+<script>
+    const searchConfig = {
+        path             : "/search.xml",
+        top_n_per_article: "1",
+        unescape         : "false",
+        trigger: "auto",
+        preload: "false"
+    }
+</script>
+<script src="https://cdn.jsdelivr.net/npm/hexo-generator-searchdb@1.4.0/dist/search.js"></script>
+<script src="/js/search.js"></script>
+    
+    
+
+  </body>
+</html>
