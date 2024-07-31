@@ -1,0 +1,29 @@
+---
+title: Finding Joy is a Mathematically Difficult Problem
+description: >-
+  If P is not NP, that poses some real challenges for humans. Not only does it
+  make it harder to find your wallet, keys, phone, glasses, earrings, etc, but
+  the problems that were already difficult become even more impossible. Forget
+  finding physical objects, how do you find the important things in your life?
+  How do you find sources of joy?
+keywords: complexity theory, finding joy, p vs np, human computation
+date: 2024-07-29 04:05:51
+tags:
+---
+
+
+Imagine, for a moment, that you have misplaced your phone somewhere in your home. You might retrace your steps, looking in the most common areas, before resorting to a full sweep of the home. You look under beds, behind drawers, and between couch cushions, and after an hour of searching, you find it in the literal last place you would look: the fridge. 
+
+Now, imagine that same scenario, except before beginning your search, your friend calls your phone, and you follow the sound directly to the fridge in under a minute. In both scenarios, you started with the same question: where is my phone? The difference is that in the first, you had to search through all possible solutions. In the second, you were given a solution and only had to verify it.
+
+This speed difference in solving the problem versus verifying a solution lies at the heart of an entire branch of mathematics called complexity theory. Complexity theory, simply put, is the study of how fast we can solve problems. Problems such as "how to quickly sort a bookshelf" or "how to best arrange suitcases in a car" have direct analogs to the ones studied in complexity theory, but complexity theory tends to be a bit more abstract, sorting lists and arranging integers. In this abstraction, complexity theory focuses on counting the number of steps it will take to solve a problem rather than the number of seconds, so the fastest solutions are the ones that take the fewest steps.
+
+For a field dedicated entirely to studying how to solve problems, complexity theory has a staggering number of unanswered questions. Never have I heard a professor say, "We don't know the answer to this problem," as many times as in complexity theory. Among these unanswered questions is the problem of solving versus verifying: P vs NP. P stands for all the problems we can solve quickly. NP stands for all the problems for which we can verify solutions quickly. Combined, the question asks: can we solve the problems in NP as quickly as we can verify solutions for them?
+
+My professor's response was, "Only if you're really good at guessing." Ultimately, that's the real problem here. When you were searching for your phone, you could have just started with a lucky guess, looked in your fridge first, and immediately found your phone. Unfortunately, lucky guesses aren't a good way to measure how quickly you can solve a problem, and worst-case scenario, the right answer will be your last guess. NP problems are specifically the ones for which there are no good guessing strategies, which is why they are so hard to solve directly, but if you only have to verify the right answer, the problem is easy. For this reason, most mathematicians believe the answer to P vs NP is "no".
+
+If P is not NP, that poses some real challenges for humans. Not only does it make it harder to find your wallet, keys, phone, glasses, earrings, etc, but the problems that were already difficult become even more impossible. Forget finding physical objects, how do you find the important things in your life? How do you find sources of joy? A lifetime might be long enough to keep guessing, but it might not. In my case, it took me 20-odd years to stumble on some rather central aspects of my life, such as astronomy.
+
+The first time I went stargazing, I had no idea whether I would like it or not. I just went because someone invited me. I expected to look up at some stars and a few planets, but that was it. I never could have imagined that while I was there, in the middle of nowhere, I would leave a piece of myself out on that field. Now, I go back whenever I can, and when I do, I feel whole again. I could have been anywhere or done anything that night, but I had a lucky guess, and I got to verify my solution.
+
+Looking out onto that vast array of stars reminds me of all the sources of joy in the world. Sure, they're finite, but there are so many that verifying each one is truly impossible. There will probably only ever be a few that matter to you, and maybe you'll find them in this lifetime, but maybe you won't. At first, the math made me feel a little bit hopeless, knowing how much joy could be found across the world in a few good guesses, but then I realized the math was missing something. Complexity theory assumes that the problem never changes, no matter how many solutions you check, but that's not true in this case. In the problem of "what will bring you joy?", *you* are the most important variable, because you literally vary from experience to experience. Every time you try something new, or something old, you change, just a little bit. You don't need a guessing strategy for what you will like because you are the most optimized guessing strategy you could ask for. Your history, desires, environment, mood—everything about you is slowly guiding this trajectory of solving the problems in your life. Sure, nothing is truly guaranteed, and you may not find what you're looking for in this life, but there's a chance that you might, and with everything that makes you *you*, I'd say your odds are better than random guessing.
