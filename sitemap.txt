@@ -1,3 +1,4 @@
+https://ronikbhaskar.github.io/the-current-paradigm-of-origami/
 https://ronikbhaskar.github.io/standardized-test-problems-in-real-life/
 https://ronikbhaskar.github.io/finding-joy-is-a-mathematically-difficult-problem/
 https://ronikbhaskar.github.io/why-ai-companies-pay-anguilla-32-million-dollars-a-year/
@@ -57,10 +58,10 @@ https://ronikbhaskar.github.io/no-one-should-own-this-building/
 https://ronikbhaskar.github.io/ex-libris-gadsby/
 https://ronikbhaskar.github.io/ex-libris-cats-cradle/
 https://ronikbhaskar.github.io/am/
-https://ronikbhaskar.github.io/projects/obsidian-editor
 https://ronikbhaskar.github.io/projects/steganography
+https://ronikbhaskar.github.io/projects/obsidian-editor
 https://ronikbhaskar.github.io/projects/tomato_timer
 https://ronikbhaskar.github.io/projects/math-art
-https://ronikbhaskar.github.io/projects/discord_bot
 https://ronikbhaskar.github.io/projects/discord_scraper
+https://ronikbhaskar.github.io/projects/discord_bot
 https://ronikbhaskar.github.io/
