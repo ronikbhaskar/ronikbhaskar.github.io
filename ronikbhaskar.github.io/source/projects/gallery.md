@@ -54,6 +54,7 @@ A gallery of my original origami designs. They are in chronological order by the
 [Mermaid - 16 Grid](#mermaid)
 [Phoenix - Grafted Bird Base](#phoenix)
 [Trophy Hunting - Fish Base](#trophy-hunting)
+[Fairy - 16 Grid](#fairy)
 
 <div class="simple-wrapper">
   <div class="text-wrapper">
@@ -128,7 +129,7 @@ A gallery of my original origami designs. They are in chronological order by the
     <p>Designed: 05/11/24</p>
   </div>
   <div class="image-container">
-  <img src="gallery/sea-serpent.jpg" alt="No good photos at the moment."> 
+  <img src="gallery/sea-serpent.jpg" alt="Origami sea serpent."> 
   <img src="gallery/sea-serpent-cp.png" alt="Crease pattern of origami sea serpent."> 
   </div>
 </div>
@@ -148,7 +149,7 @@ A gallery of my original origami designs. They are in chronological order by the
 
 <div class="simple-wrapper">
   <div class="text-wrapper">
-    <a id="phoenix"></a>
+    <a id="trophy-hunting"></a>
     <h1>Trophy Hunting - Fish Base</h1>
     <p>What started as a sketch of an elephant head turned into something much more. Trophy hunting as a broader concept is a contentious subject with a lot of philosophical nuance. Admittedly, this piece doesn't really engage much of that discourse; it's a paper elephant head.</p>
     <p>Designed: 05/01/24</p>
@@ -167,7 +168,20 @@ A gallery of my original origami designs. They are in chronological order by the
     <p>Designed: 04/28/24</p>
   </div>
   <div class="image-container">
-  <img src="gallery/phoenix.jpg" alt="No good photos at the moment."> 
+  <img src="gallery/phoenix.jpg" alt="Origami phoenix."> 
   <img src="gallery/phoenix-cp.png" alt="Crease pattern of origami phoenix."> 
+  </div>
+</div>
+
+<div class="simple-wrapper">
+  <div class="text-wrapper">
+    <a id="fairy"></a>
+    <h1>Fairy - 16 Grid</h1>
+    <p>I received a lot of negative feedback on this design, which was ultimately for the best. I've used the criticisms to improve subsequent designs. </p>
+    <p>Designed: 04/06/24</p>
+  </div>
+  <div class="image-container">
+  <img src="gallery/fairy.jpg" alt="Origami fairy."> 
+  <img src="gallery/fairy-cp.png" alt="Crease pattern of origami fairy."> 
   </div>
 </div>
