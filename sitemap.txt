@@ -1,3 +1,6 @@
+https://ronikbhaskar.github.io/hanging-by-a-thread-designs-from-the-months-to-come/
+https://ronikbhaskar.github.io/projects/gallery
+https://ronikbhaskar.github.io/projects/
 https://ronikbhaskar.github.io/the-current-paradigm-of-origami/
 https://ronikbhaskar.github.io/standardized-test-problems-in-real-life/
 https://ronikbhaskar.github.io/finding-joy-is-a-mathematically-difficult-problem/
@@ -8,7 +11,6 @@ https://ronikbhaskar.github.io/using-math-to-beat-a-video-game/
 https://ronikbhaskar.github.io/celestial-navigation-part-4/
 https://ronikbhaskar.github.io/conservation-and-the-trolley-problem/
 https://ronikbhaskar.github.io/the-problem-of-anthropomorphization/
-https://ronikbhaskar.github.io/projects/
 https://ronikbhaskar.github.io/projects/anti-eliza
 https://ronikbhaskar.github.io/infinity-in-art/
 https://ronikbhaskar.github.io/shortest-english-sentence/
@@ -58,10 +60,10 @@ https://ronikbhaskar.github.io/no-one-should-own-this-building/
 https://ronikbhaskar.github.io/ex-libris-gadsby/
 https://ronikbhaskar.github.io/ex-libris-cats-cradle/
 https://ronikbhaskar.github.io/am/
-https://ronikbhaskar.github.io/projects/steganography
 https://ronikbhaskar.github.io/projects/obsidian-editor
+https://ronikbhaskar.github.io/projects/steganography
 https://ronikbhaskar.github.io/projects/tomato_timer
 https://ronikbhaskar.github.io/projects/math-art
-https://ronikbhaskar.github.io/projects/discord_scraper
 https://ronikbhaskar.github.io/projects/discord_bot
+https://ronikbhaskar.github.io/projects/discord_scraper
 https://ronikbhaskar.github.io/
