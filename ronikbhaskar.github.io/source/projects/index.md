@@ -43,6 +43,16 @@ description: >-
 
 <details>
 <summary>
+<b>Origami Designs</b>
+</summary>
+<ul>
+    <li><a href="/projects/gallery">Full Gallery</a></li>
+</ul>
+</details>
+<br />
+
+<details>
+<summary>
 <b>Optimal Bread Slicing</b>
 </summary>
 <ul>
