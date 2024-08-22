@@ -49,12 +49,12 @@ A gallery of my original origami designs. They are in chronological order by the
 [Hanging by a Thread - 20 Grid](#hanging-by-a-thread)
 [Even Littler Dragon - 6 Grid](#even-littler-dragon)
 [Mandrake - 16 Grid](#mandrake)
-[Leaf Ring - 8 Grid](#leaf-ring)
 [Sea Serpent - Grafted Fish Base](#sea-serpent)
 [Mermaid - 16 Grid](#mermaid)
 [Phoenix - Grafted Bird Base](#phoenix)
 [Trophy Hunting - Fish Base](#trophy-hunting)
 [Fairy - 16 Grid](#fairy)
+[Wikipedia Sword and Shield - 16 Grid](#wss)
 
 <div class="simple-wrapper">
   <div class="text-wrapper">
@@ -105,19 +105,6 @@ A gallery of my original origami designs. They are in chronological order by the
   <div class="image-container">
   <img src="gallery/mandrake.jpg" alt="Origami mandrake."> 
   <img src="gallery/mandrake-cp.png" alt="Crease pattern of origami mandrake."> 
-  </div>
-</div>
-
-<div class="simple-wrapper">
-  <div class="text-wrapper">
-    <a id="leaf-ring"></a>
-    <h1>Leaf Ring - 8 Grid</h1>
-    <p>A little piece of origami jewellery. To make it wearable, use paper whose side length is slightly longer than the circumference of your finger.</p>
-    <p>Designed: 05/24/24</p>
-  </div>
-  <div class="image-container">
-  <img src="gallery/leaf-ring.jpg" alt="Origami leaf ring."> 
-  <img src="gallery/leaf-ring-cp.png" alt="Crease pattern of origami leaf ring."> 
   </div>
 </div>
 
@@ -183,5 +170,18 @@ A gallery of my original origami designs. They are in chronological order by the
   <div class="image-container">
   <img src="gallery/fairy.jpg" alt="Origami fairy."> 
   <img src="gallery/fairy-cp.png" alt="Crease pattern of origami fairy."> 
+  </div>
+</div>
+
+<div class="simple-wrapper">
+  <div class="text-wrapper">
+    <a id="wss"></a>
+    <h1>Wikipedia Sword and Shield - 16 Grid</h1>
+    <p>I don't claim this design as my own. On the Wikipedia page for Crease Patterns, there's this unfinished CP of a swordman. It was added by the user Nicoguaro, but I couldn't find the original shaping, so I took a crack at finishing the CP and folding it myself.</p>
+    <p>Found: 03/29/24</p>
+  </div>
+  <div class="image-container">
+  <img src="gallery/wikipedia-sword-and-shield.jpg" alt="Origami sword and shield."> 
+  <img src="gallery/fairy-cp.png" alt="Crease pattern of origami sword and shield."> 
   </div>
 </div>
