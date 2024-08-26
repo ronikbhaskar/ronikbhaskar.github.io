@@ -1,5 +1,7 @@
 ---
 title: Gallery
+description: >-
+  A gallery of my original origami designs. Please contact me before distributing or teaching these models.
 ---
 
 <style>
