@@ -47,6 +47,7 @@ A gallery of my original origami designs. They are in chronological order by the
 
 ## Index
 
+[Whitetail Fawn - 22.5](#whitetail-fawn)
 [Fish out of Water - 14 Grid (Partial 28ths)](#fish-out-of-water)
 [Hanging by a Thread - 20 Grid](#hanging-by-a-thread)
 [Even Littler Dragon - 6 Grid](#even-littler-dragon)
@@ -57,6 +58,19 @@ A gallery of my original origami designs. They are in chronological order by the
 [Trophy Hunting - Fish Base](#trophy-hunting)
 [Fairy - 16 Grid](#fairy)
 [Wikipedia Sword and Shield - 16 Grid](#wss)
+
+<div class="simple-wrapper">
+  <div class="text-wrapper">
+    <a id="whitetail-fawn"></a>
+    <h1>Whitetail Fawn - 22.5&deg;</h1>
+    <p>Designed as a celebration of the past summer, I took a slight departure from my previous subjects and paradigms. The result is this simple baby deer.</p>
+    <p>Designed: 08/18/24</p>
+  </div>
+  <div class="image-container">
+  <img src="gallery/fawn.jpg" alt="Origami whitetail fawn."> 
+  <img src="gallery/fawn-cp.png" alt="Crease pattern of origami whitetail fawn."> 
+  </div>
+</div>
 
 <div class="simple-wrapper">
   <div class="text-wrapper">
