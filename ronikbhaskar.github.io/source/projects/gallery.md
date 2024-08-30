@@ -198,6 +198,6 @@ A gallery of my original origami designs. They are in chronological order by the
   </div>
   <div class="image-container">
   <img src="gallery/wikipedia-sword-and-shield.jpg" alt="Origami sword and shield."> 
-  <img src="gallery/fairy-cp.png" alt="Crease pattern of origami sword and shield."> 
+  <img src="gallery/wikipedia-sword-and-shield-cp.png" alt="Crease pattern of origami sword and shield."> 
   </div>
 </div>
