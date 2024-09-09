@@ -194,16 +194,14 @@
 ]]></content>
   </entry>
   <entry>
-    <title>Ex Libris: Gadsby (not The Great Gatsby)</title>
-    <url>/ex-libris-gadsby/</url>
-    <content><![CDATA[<p>IMPORTANT: This is about the book <em>Gadsby</em> By Ernest Vincent Wright, not <em>The Great Gatsby</em> by F. Scott Fitzgerald. </p>
-<p>Legend says a man once ripped a piece of twine, tied down the E key on his typewriter, and proceeded to write a 50,000 word novel without the letter E. Original copies of his literary masterpiece now sell for thousands of dollars. He assured his own rise to fame, and everything went smoothly until someone opened his book.</p>
-<h2 id="Gimmicks-Can’t-Save-Bad-Writing"><a href="#Gimmicks-Can’t-Save-Bad-Writing" class="headerlink" title="Gimmicks Can’t Save Bad Writing"></a>Gimmicks Can’t Save Bad Writing</h2><p>Lipograms are a form of constrained writing where the author avoids using one or more particular letters in the piece. While the gimmick entertains audiences, the piece must still be worth reading. The author can get away with less meaningful work, since purpose is contained in the style, but no amount of dropping letters alone makes literature worth reading.</p>
-<p>Typically, a story resolves near the end. Instead, Wright wrote <em>Gadsby</em> like a drawn-out sitcom. After resolving the issue in roughly 10 chapters, he proceeds with 30 more chapters that all revolve around everyone being happy, with no major conflicts ever presented afterwards. Kids grow up and get married. A man that has never worked in politics becomes the mayor with little hassle. A zoo magically opens. Almost every chapter presents a neat and tidy event ending with celebrations from everyone, and Wright could easily end the story there, but he doesn’t, so the book drags on, and the only reason you’re still reading is because you want it to end.</p>
-<p>Applying any amount of critical theory, feminists will have an absolute field day exploring the infinite ways Wright seems to bring up gender norms. Every other chapter finds a way to assert the backwards notions of women necessarily being small and weak and good at cooking and taking care of children while the men are big and strong and good at building. Some may argue Wright’s use of gender roles is expected, since this book was written in the 1930s. With historical context and the advent of World War II, attributing women’s value to having small statures and delicate hands and homemaking was incredibly backwards, with countless women working industrial jobs during the period of wartime economy.</p>
-<p>As if that wasn’t enough, Wright’s inflated ego shows through in his writing. Naturally, Wright is the first-person narrator, depicted as a historian describing the town. Despite separating himself from the events of the story as this all-seeing onlooker, his frequent interjections make you wonder if he’s too convinced of his own story. For example, in chapter VII, he makes a disturbing quip about passing up kissing a snake to instead kiss Lucy, a fictitious child, while he is still the adult historian describing the story.</p>
-<h2 id="The-Failed-Lipogram"><a href="#The-Failed-Lipogram" class="headerlink" title="The Failed Lipogram"></a>The Failed Lipogram</h2><p>I pushed through the book, hoping to gain some linguistic insights. While I give Wright mild credit for calling flowers “blossoming plants” and turkey “Thanksgiving National Bird,” I cannot forgive his egregious errors. Despite Wright’s claims of not using the letter E, the original publication contains three instances of the word “the” and one instance of the word “officers,” totaling 4 E’s in the body of the text.</p>
-<p>Historical records describe Wright’s attempts at publishing all failing, and he had to turn to self-publishing through Wetzel Publishing Co. After reading this book, I finally understand why. Gimmicks won’t save your story, and twine won’t hold down your typewriter’s E key.</p>
+    <title>Everything Generates Text</title>
+    <url>/everything-generates-text/</url>
+    <content><![CDATA[<p>Most people always assume that making a machine to generate text is a difficult thing, and with the advent of ChatGPT, that assumption has only become stronger. Everyone is amazed at the staggering number of parameters—7 billion, 25 billion, 175 billion. Personally, I think we give too much credit to massive language models. Don’t get me wrong, talented scientists have designed and constructed incredibly powerful language models, but you don’t need millions of dollars worth of time and resources to build a text generator. Honestly, pretty much every machine-learning algorithm can be used to generate text.</p>
+<p>Over the past few months, I’ve been working on-and-off on a project to test this theory. Specifically, I’ve been working through some rather simple machine learning methods and figuring out ways to make them generate text. “Simple machine learning” may sound like any oxymoron, but there are very simple machine learning methods that you already know. One such example is linear regressions. The main idea is very straightforward. If you have a bunch of points scattered on a graph, draw a line that represents those points. In cases like this, you don’t even need any math to find simple trends. Just take your pen and draw a straight line roughly through the points.</p>
+<p>Linear regressions are clearly simple, but using this to generate text is another story. Luckily, linear regressions extends to multiple input variables and output variables. By turning each word into a 0-1 variable, we can predict each subsequent word. For example, starting with the word “once,” your model might predict the word “upon.” From there, you just make “upon” the input, and then you can generate the next word, which might be “a.” Continuing this process, you’ve generated text with just a linear regression.</p>
+<p>Linear regressions weren’t much of a problem for me since I had already built a text generator using Markov chains, so I was already familiar with transition matrices. KNNs however, were a different story. KNN, or k-nearest neighbors, is a method that takes an input, compares it to data points that are very similar to it, and uses their labels to inform the output. In theory, I could just take each word, analyze what typically comes after it, and use that, but that doesn’t make for a particularly interesting text generator. At that point, it’s no different than a Markov chain. </p>
+<p>Since I wanted to embrace the true spirit of kNNs and prove they could generate text, I began looking for a different approach. After exploring various mathematical approaches, I realized I could use character-wise prediction instead of token-wise prediction. Instead of predicting an entire word, I would just predict one letter at a time. This had the potential to fail miserably, but it would be phenomenal if it succeeded. By using character-wise prediction, I could embrace the distance metric at the heart of kNNs, but rather tha using standard Euclidean (straight-line) distance, I could use Hamming distance. By re-centering a binary vector space around the input word, I could position all the other words around it using exclusive-or to assign binary values based on whether or not the characters matched my input. From there, I just needed the vectors with the smallest Hamming norm, and I was good to go. </p>
+<p>If that all sounded like made-up, math word soup, then I’ll just have to ask you to trust me. The project is still ongoing, but once it’s at a point that I feel comfortable abandoning it, I’ll try to make things clearer, probably with a few examples. For now, things seem to be working as expected. Text generation isn’t hard because putting one word after the other has never been hard. The true challenge is in generating meaningful text. Generating meaningful text requires understanding truth, observable reality, intent, and so much more that we can’t properly encode the way we encode language. All of the meaning that comes from large language models is only present because we taught it with meaningful text, and we inject meaning back in when we read the output. Generating text is easy, but that doesn’t bring us any closer to generating meaning.</p>
 ]]></content>
   </entry>
   <entry>
@@ -259,6 +257,19 @@
 ]]></content>
   </entry>
   <entry>
+    <title>Ex Libris: Gadsby (not The Great Gatsby)</title>
+    <url>/ex-libris-gadsby/</url>
+    <content><![CDATA[<p>IMPORTANT: This is about the book <em>Gadsby</em> By Ernest Vincent Wright, not <em>The Great Gatsby</em> by F. Scott Fitzgerald. </p>
+<p>Legend says a man once ripped a piece of twine, tied down the E key on his typewriter, and proceeded to write a 50,000 word novel without the letter E. Original copies of his literary masterpiece now sell for thousands of dollars. He assured his own rise to fame, and everything went smoothly until someone opened his book.</p>
+<h2 id="Gimmicks-Can’t-Save-Bad-Writing"><a href="#Gimmicks-Can’t-Save-Bad-Writing" class="headerlink" title="Gimmicks Can’t Save Bad Writing"></a>Gimmicks Can’t Save Bad Writing</h2><p>Lipograms are a form of constrained writing where the author avoids using one or more particular letters in the piece. While the gimmick entertains audiences, the piece must still be worth reading. The author can get away with less meaningful work, since purpose is contained in the style, but no amount of dropping letters alone makes literature worth reading.</p>
+<p>Typically, a story resolves near the end. Instead, Wright wrote <em>Gadsby</em> like a drawn-out sitcom. After resolving the issue in roughly 10 chapters, he proceeds with 30 more chapters that all revolve around everyone being happy, with no major conflicts ever presented afterwards. Kids grow up and get married. A man that has never worked in politics becomes the mayor with little hassle. A zoo magically opens. Almost every chapter presents a neat and tidy event ending with celebrations from everyone, and Wright could easily end the story there, but he doesn’t, so the book drags on, and the only reason you’re still reading is because you want it to end.</p>
+<p>Applying any amount of critical theory, feminists will have an absolute field day exploring the infinite ways Wright seems to bring up gender norms. Every other chapter finds a way to assert the backwards notions of women necessarily being small and weak and good at cooking and taking care of children while the men are big and strong and good at building. Some may argue Wright’s use of gender roles is expected, since this book was written in the 1930s. With historical context and the advent of World War II, attributing women’s value to having small statures and delicate hands and homemaking was incredibly backwards, with countless women working industrial jobs during the period of wartime economy.</p>
+<p>As if that wasn’t enough, Wright’s inflated ego shows through in his writing. Naturally, Wright is the first-person narrator, depicted as a historian describing the town. Despite separating himself from the events of the story as this all-seeing onlooker, his frequent interjections make you wonder if he’s too convinced of his own story. For example, in chapter VII, he makes a disturbing quip about passing up kissing a snake to instead kiss Lucy, a fictitious child, while he is still the adult historian describing the story.</p>
+<h2 id="The-Failed-Lipogram"><a href="#The-Failed-Lipogram" class="headerlink" title="The Failed Lipogram"></a>The Failed Lipogram</h2><p>I pushed through the book, hoping to gain some linguistic insights. While I give Wright mild credit for calling flowers “blossoming plants” and turkey “Thanksgiving National Bird,” I cannot forgive his egregious errors. Despite Wright’s claims of not using the letter E, the original publication contains three instances of the word “the” and one instance of the word “officers,” totaling 4 E’s in the body of the text.</p>
+<p>Historical records describe Wright’s attempts at publishing all failing, and he had to turn to self-publishing through Wetzel Publishing Co. After reading this book, I finally understand why. Gimmicks won’t save your story, and twine won’t hold down your typewriter’s E key.</p>
+]]></content>
+  </entry>
+  <entry>
     <title>Ex Libris: Select Poems by Emily Dickinson</title>
     <url>/ex-libris-select-poems-by-emily-dickinson/</url>
     <content><![CDATA[<p>I recently had the opportunity to visit Amherst, Massachusetts, USA. Amherst doesn’t have a lot going on; it’s mostly a college town surrounded by more colleges surrounded by rural Massachusetts. Amherst may be a relatively sleepy place, but it does have a notable past. Specifically, Amherst is the home of Emily Dickinson.  One of the most important American poets to ever live, Emily Dickinson spent her whole life in and around Amherst. She went to school at Amherst Academy, college at Mount Holyoke, and much of her adult life was spent in the Dickinson mansion in Amherst.</p>
@@ -276,15 +287,6 @@
 ]]></content>
   </entry>
   <entry>
-    <title>Ex Libris: The Library of Babel</title>
-    <url>/ex-libris-the-library-of-babel/</url>
-    <content><![CDATA[<p>In Jorge Luis Borges’ <em>The Library of Babel</em>, the narrator describes a never-ending world of hexagonal galleries, all filled with books. Each book is 410 pages, 40 lines per page, 80 characters per line, 25 characters in the script. Doing some quick calculations, that number of books is approximately a 1 with 1.8 million zeros behind it. For reference, the number of atoms in the known universe is a 1 with 80 zeros behind it, which is essentially nothing compared to the scale of the library.</p>
-<p>The library is vast, but its volumes are not infinite. The narrator attempts to circumvent this by concluding that the library likely repeats itself. Infinity can be scary, but if the library were looking for new librarians, I have a suggestion for how to make the library truly infinite. If you still want all the books to fit in an infinite library, why limit yourself to 410 page books? For the sake of mathematical clarity, let’s assume that every book is the same thickness, no matter how many pages it has (pretend the pages get super thin). Then, if you allow books to be any finite length, then you will never need to repeat the library because there will always be enough books to fill the shelves without repeating. Assuming the library’s hexagonal galleries do continue forever, then every possible book of finite length will fit perfectly in the library. Finite length books are the way to go.</p>
-<p>Infinite length books, however, pose a huge issue. Let’s again assume that books of infinite length still have the same thickness as all the other books. If you allow every book of infinite length to enter the library, then you will run out of space. It’s hard to believe that an infinite library could run out of space, but it’s true. Cantor’s famous diagonal argument proves this isn’t possible, though his proof was about infinite, binary sequences. Applied here, no matter how you arrange the books, you can prove that at least one book of infinite length has been left out. Surely, the library wouldn’t want to leave any books out of its vast volumes, so I advise caution when tasking a librarian with constructing an infinite library.</p>
-<p>Regardless of how infinite you decide to make the library, the unfortunate problem remains that the Library of Babel is entirely useless as a library. Libraries function best as curators and disseminators of resources, working to best serve their community. Typically, this means the knowledge in the library should be relevant to the readers. At the very least, it should be true. Unfortunately, there is no curatorial process in the Library of Babel. Sure, one book might just so happen to contain the works of Shakespeare, but there will be countless others that look like works of Shakespeare that all get the endings wrong. Most comprehensible books will be wrong, and most books will be incomprehensible. Given how finite human knowledge is, the chances of finding something useful are essentially zero. Even if you do find something potentially useful, you would have to independently verify the source is credible, because no one is curating it for you. The Library of Babel is an interesting thought experiment, but I pity anyone that wastes more than a second in that building trying to find meaning in the empty volumes.</p>
-]]></content>
-  </entry>
-  <entry>
     <title>Ex Libris: Sleepy</title>
     <url>/ex-libris-sleepy/</url>
     <content><![CDATA[<p>Known for incredibly concise storytelling, Anton Chekhov leaves no detail unresolved in his stories. Everything serves a purpose. The principle has been titled Chekhov’s Gun: if you introduce a gun, the audience expects it to be fired at some point. These details—these promises—build and interweave, and by the end of the story, every promise has reached a payoff that serves the ending. Mind you, these payoffs are rarely happily-ever-afters or neat, little bows wrapping up the story. They often include tragedy and death, but that doesn’t make them any less satisfying. </p>
@@ -296,49 +298,12 @@
 ]]></content>
   </entry>
   <entry>
-    <title>Ex Libris: The Principles of Librarianship</title>
-    <url>/ex-libris-the-principles-of-librarianship/</url>
-    <content><![CDATA[<p>If you ever need a list of incredibly British-sounding city names, simply refer to the sentence, “To obtain a more precise location, a study of the postal services suggested that it should be located in Lancashire, the West Riding of Yorkshire, Cheshire, Nottinghamshire, Leicestershire, Derbyshire or Cumberland” (p. 36).</p>
-<hr>
-<p>In the depths of the library basement, among the dusty, hand-crank bookcases, I finally found the section on Library and Information Science. Skimming the shelves, <em>The Principles of Librarianship</em> by Donald Urquhart seemed short and digestible. While I hoped the book would explain how literature was organized, I was excited at how wrong I was.</p>
-<p>In the elementary school library, massive posters signified different parts of the Dewey Decimal System. After years of seeing these posters, organizing books stuck with me as the library’s purpose, and I forgot about the librarian that helped me find origami books for the first time. </p>
-<p>In middle school and high school, my English classes only ever visited the library when we were doing research projects. Sitting in rooms full of students searching online databases, I brushed off the librarian asking students about their projects as a teacher doing their job. </p>
-<p>One afternoon, a librarian asked me about Bertrand Russell. It became painfully obvious I knew nothing about him or his work, so I grabbed one of his books, checked it out, and took a few notes. His comments on historical set theory stuck with me as I began studying mathematics at university. </p>
-<p>My perception of libraries, librarians, and their purpose was skewed, but my memories of them were always positive. While I enjoyed working in the library, I never truly appreciated why they functioned they way they did, and I wish I had.</p>
-<p><em>To my younger self,</em></p>
-<p><em>Libraries are not just rooms full of books. They are the place of practice for librarians.</em> </p>
-<p><em>Librarians study the needs of their users and adjust their libraries accordingly.</em> </p>
-<p><em>Librarians familiarize themselves with countless fields of study to better guide scholars.</em></p>
-<p><em>Librarians recommend materials they think would benefit you, not necessarily ones they enjoy.</em></p>
-<p><em>Librarians connect with others in their field to leverage resources from countless libraries, all to get you access to the information you need.</em></p>
-<p><em>Librarians optimize their services to help the most people as efficiently and effectively as possible.</em> </p>
-<p><em>Librarians convince funding organizations that the service they provide is worth funding, even though you can’t put a price on information.</em></p>
-<p><em>Every conversation you have with a librarian will be fruitful. They will have insights in whatever work you’re doing, and you’ll almost always walk away with a new direction you want to explore. If you get a book or article or author recommendation, even better. Talk to as many librarians as you can, even if you’re not stuck in your research.</em></p>
-<p><em>Seriously, go talk to some librarians,</em> </p>
-<p><em>Ronik</em></p>
-<p>Recently, I visited my high school library, and I caught up with the librarian that showed me Russell so many years ago. I brought up my current research, and without skipping a beat, he mentioned an author I should look into. The name had been on my list for a while, but I didn’t feel compelled to read any of their works. Given the success of the Russell recommendation, I think I know what I’ll be reading next.</p>
-<hr>
-<p>In case you were wondering, here are the 18 principles of librarianship.</p>
-<ol>
-<li>Libraries are for users.</li>
-<li>The failures of an information supply system to satisfy its users are, as a rule, not obvious.</li>
-<li>Supply creates demand.</li>
-<li>Users must be provided with guides so that they can select the records which may interest them.</li>
-<li>Libraries must be able to provide adequate access to the records users may wish to consult.</li>
-<li>Libraries have to be paid for.</li>
-<li>Libraries, both individually and collectively, must have regard to cost-effectiveness.</li>
-<li>Information cannot be valued as a rule in monetary terms.</li>
-<li>Libraries must have regard to the law of diminishing returns.</li>
-<li>The best is the enemy of the good.</li>
-<li>Unit costs for a particular activity should decrease as the magnitude of the activity increases.</li>
-<li>No library is an island.</li>
-<li>Objective data about users’ requirements should be used in planning developments of libraries.</li>
-<li>In considering the use of new techniques and systems, it is necessary to look at the future, not the past.</li>
-<li>The staff of a library should work as a team.</li>
-<li>A librarian’s post is not a sinecure for a scholar — a librarian’s task is often to facilitate the work of many scholars.</li>
-<li>Libraries can be valuable to society.</li>
-<li>Librarianship is an experimental science.</li>
-</ol>
+    <title>Ex Libris: The Library of Babel</title>
+    <url>/ex-libris-the-library-of-babel/</url>
+    <content><![CDATA[<p>In Jorge Luis Borges’ <em>The Library of Babel</em>, the narrator describes a never-ending world of hexagonal galleries, all filled with books. Each book is 410 pages, 40 lines per page, 80 characters per line, 25 characters in the script. Doing some quick calculations, that number of books is approximately a 1 with 1.8 million zeros behind it. For reference, the number of atoms in the known universe is a 1 with 80 zeros behind it, which is essentially nothing compared to the scale of the library.</p>
+<p>The library is vast, but its volumes are not infinite. The narrator attempts to circumvent this by concluding that the library likely repeats itself. Infinity can be scary, but if the library were looking for new librarians, I have a suggestion for how to make the library truly infinite. If you still want all the books to fit in an infinite library, why limit yourself to 410 page books? For the sake of mathematical clarity, let’s assume that every book is the same thickness, no matter how many pages it has (pretend the pages get super thin). Then, if you allow books to be any finite length, then you will never need to repeat the library because there will always be enough books to fill the shelves without repeating. Assuming the library’s hexagonal galleries do continue forever, then every possible book of finite length will fit perfectly in the library. Finite length books are the way to go.</p>
+<p>Infinite length books, however, pose a huge issue. Let’s again assume that books of infinite length still have the same thickness as all the other books. If you allow every book of infinite length to enter the library, then you will run out of space. It’s hard to believe that an infinite library could run out of space, but it’s true. Cantor’s famous diagonal argument proves this isn’t possible, though his proof was about infinite, binary sequences. Applied here, no matter how you arrange the books, you can prove that at least one book of infinite length has been left out. Surely, the library wouldn’t want to leave any books out of its vast volumes, so I advise caution when tasking a librarian with constructing an infinite library.</p>
+<p>Regardless of how infinite you decide to make the library, the unfortunate problem remains that the Library of Babel is entirely useless as a library. Libraries function best as curators and disseminators of resources, working to best serve their community. Typically, this means the knowledge in the library should be relevant to the readers. At the very least, it should be true. Unfortunately, there is no curatorial process in the Library of Babel. Sure, one book might just so happen to contain the works of Shakespeare, but there will be countless others that look like works of Shakespeare that all get the endings wrong. Most comprehensible books will be wrong, and most books will be incomprehensible. Given how finite human knowledge is, the chances of finding something useful are essentially zero. Even if you do find something potentially useful, you would have to independently verify the source is credible, because no one is curating it for you. The Library of Babel is an interesting thought experiment, but I pity anyone that wastes more than a second in that building trying to find meaning in the empty volumes.</p>
 ]]></content>
   </entry>
   <entry>
@@ -395,6 +360,52 @@
 <li><a href="https://en.wikipedia.org/wiki/AM_broadcasting">AM Broadcasting</a></li>
 <li><a href="https://en.wikipedia.org/wiki/FM_broadcasting">FM Broadcasting</a></li>
 <li><a href="/am/">AM (short piece I wrote)</a></li>
+</ol>
+]]></content>
+  </entry>
+  <entry>
+    <title>Ex Libris: The Principles of Librarianship</title>
+    <url>/ex-libris-the-principles-of-librarianship/</url>
+    <content><![CDATA[<p>If you ever need a list of incredibly British-sounding city names, simply refer to the sentence, “To obtain a more precise location, a study of the postal services suggested that it should be located in Lancashire, the West Riding of Yorkshire, Cheshire, Nottinghamshire, Leicestershire, Derbyshire or Cumberland” (p. 36).</p>
+<hr>
+<p>In the depths of the library basement, among the dusty, hand-crank bookcases, I finally found the section on Library and Information Science. Skimming the shelves, <em>The Principles of Librarianship</em> by Donald Urquhart seemed short and digestible. While I hoped the book would explain how literature was organized, I was excited at how wrong I was.</p>
+<p>In the elementary school library, massive posters signified different parts of the Dewey Decimal System. After years of seeing these posters, organizing books stuck with me as the library’s purpose, and I forgot about the librarian that helped me find origami books for the first time. </p>
+<p>In middle school and high school, my English classes only ever visited the library when we were doing research projects. Sitting in rooms full of students searching online databases, I brushed off the librarian asking students about their projects as a teacher doing their job. </p>
+<p>One afternoon, a librarian asked me about Bertrand Russell. It became painfully obvious I knew nothing about him or his work, so I grabbed one of his books, checked it out, and took a few notes. His comments on historical set theory stuck with me as I began studying mathematics at university. </p>
+<p>My perception of libraries, librarians, and their purpose was skewed, but my memories of them were always positive. While I enjoyed working in the library, I never truly appreciated why they functioned they way they did, and I wish I had.</p>
+<p><em>To my younger self,</em></p>
+<p><em>Libraries are not just rooms full of books. They are the place of practice for librarians.</em> </p>
+<p><em>Librarians study the needs of their users and adjust their libraries accordingly.</em> </p>
+<p><em>Librarians familiarize themselves with countless fields of study to better guide scholars.</em></p>
+<p><em>Librarians recommend materials they think would benefit you, not necessarily ones they enjoy.</em></p>
+<p><em>Librarians connect with others in their field to leverage resources from countless libraries, all to get you access to the information you need.</em></p>
+<p><em>Librarians optimize their services to help the most people as efficiently and effectively as possible.</em> </p>
+<p><em>Librarians convince funding organizations that the service they provide is worth funding, even though you can’t put a price on information.</em></p>
+<p><em>Every conversation you have with a librarian will be fruitful. They will have insights in whatever work you’re doing, and you’ll almost always walk away with a new direction you want to explore. If you get a book or article or author recommendation, even better. Talk to as many librarians as you can, even if you’re not stuck in your research.</em></p>
+<p><em>Seriously, go talk to some librarians,</em> </p>
+<p><em>Ronik</em></p>
+<p>Recently, I visited my high school library, and I caught up with the librarian that showed me Russell so many years ago. I brought up my current research, and without skipping a beat, he mentioned an author I should look into. The name had been on my list for a while, but I didn’t feel compelled to read any of their works. Given the success of the Russell recommendation, I think I know what I’ll be reading next.</p>
+<hr>
+<p>In case you were wondering, here are the 18 principles of librarianship.</p>
+<ol>
+<li>Libraries are for users.</li>
+<li>The failures of an information supply system to satisfy its users are, as a rule, not obvious.</li>
+<li>Supply creates demand.</li>
+<li>Users must be provided with guides so that they can select the records which may interest them.</li>
+<li>Libraries must be able to provide adequate access to the records users may wish to consult.</li>
+<li>Libraries have to be paid for.</li>
+<li>Libraries, both individually and collectively, must have regard to cost-effectiveness.</li>
+<li>Information cannot be valued as a rule in monetary terms.</li>
+<li>Libraries must have regard to the law of diminishing returns.</li>
+<li>The best is the enemy of the good.</li>
+<li>Unit costs for a particular activity should decrease as the magnitude of the activity increases.</li>
+<li>No library is an island.</li>
+<li>Objective data about users’ requirements should be used in planning developments of libraries.</li>
+<li>In considering the use of new techniques and systems, it is necessary to look at the future, not the past.</li>
+<li>The staff of a library should work as a team.</li>
+<li>A librarian’s post is not a sinecure for a scholar — a librarian’s task is often to facilitate the work of many scholars.</li>
+<li>Libraries can be valuable to society.</li>
+<li>Librarianship is an experimental science.</li>
 </ol>
 ]]></content>
   </entry>
@@ -639,6 +650,19 @@
 ]]></content>
   </entry>
   <entry>
+    <title>Standardized Test Problems in Real Life</title>
+    <url>/standardized-test-problems-in-real-life/</url>
+    <content><![CDATA[<p>After almost two decades of taking standardized tests, I still don’t understand why the questions are so ridiculous. Why does Alice need 47 watermelons? Who put two trains on the same track in opposite directions? Does everyone in the room <em>really</em> need to shake hands?</p>
+<p>The questions are weird, but I can’t really complain. My test-taking skills got me into college, through college, and even made me some money along the way through tutoring. I’m not half bad at figuring out the probability you pick a red marble out of the bag, which came in handy a little while back.</p>
+<p>I was in the passenger seat of a car in a different country, and the time came to fill the tank. When we got to the station, we clicked the button to pay for gas, and the screen instantly lit up with seven different payment amounts for pre-approval. Admittedly, we just kinda stared blankly at it for a minute. You see, as bald-eagle-loving Americans, we were used to the ability to let the pump just fill the tank and just hope it didn’t run over budget, but that wasn’t an option here. Instead, we were forced to select just how much we would approve. I started putting all the details together, and I came up with the following problem:</p>
+<p>You are at a gas pump, and you need to fill your tank. Your tank size is roughly 20 gallons, and it is 3&#x2F;4 empty. There are 3.8 liters in a gallon. The price of gas per liter isn’t listed anywhere, but you see on the screen that the previous customer paid 91 dollars for 54 liters. The options for pre-approval are 20, 30, 50, 70, 90, 100, and 110 dollars. What is the smallest amount you can pre-approve such that your tank will be completely full?</p>
+<p>Before I give you the answer, try it yourself with a calculator. To be clear, when I solved it, I didn’t write out the problem; those details are just what was swirling in my head at that moment. I pulled out the calculator app on my phone, pressed a few buttons, and in about 30 seconds, I had my final answer of 100 dollars. We hit the button, started filling the tank, and the actual amount of gas needed to fill the car was worth 97 dollars, which meant my calculations were spot-on. </p>
+<p>Solving the problem was fun, but it required a lot more processing than the short paragraph I wrote out. I had to know the unit conversion from gallons to liters. I had to assume the previous customer purchased low-octane fuel because it’s the most common choice. I had to understand how much rounding was just enough. I had to make assumptions about the gas tank. I had to package up all that real-world data into a pretty, little math problem. </p>
+<p>To the credit of all the people in math class that said, “we can use a calculator in the real world,” yes, yes we can. They’re in our pockets constantly. However, we still need to understand which numbers are important. Synthesizing that information efficiently is the first step to making math useful in the real world. We can use it whenever, but it only makes sense when we have a real problem to solve. Being able to gather the relevant information from a situation is a useful skill I’m grateful to have practiced through standardized tests, and I’m beginning to appreciate those problems more now.</p>
+<p>I still think the problems could be a bit more realistic though. I mean, <em>47</em> watermelons? Really?</p>
+]]></content>
+  </entry>
+  <entry>
     <title>Square One</title>
     <url>/square-one/</url>
     <content><![CDATA[<p>After another set of fruitless experiments and abandoned ideas, my mentor told me we were back to square one.</p>
@@ -653,40 +677,6 @@
 <h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ol>
 <li><a href="https://en.wikipedia.org/wiki/Square-1_(puzzle)">Square-1 Puzzle</a></li>
 <li>The discourse surrounding the etymology of “square one” lacks enough rigor to warrant any particular links. Instead, a Google search for “origin of square one” will provide plenty of questionable sources offering one of the three explanations listed above.</li>
-</ol>
-]]></content>
-  </entry>
-  <entry>
-    <title>Standardized Test Problems in Real Life</title>
-    <url>/standardized-test-problems-in-real-life/</url>
-    <content><![CDATA[<p>After almost two decades of taking standardized tests, I still don’t understand why the questions are so ridiculous. Why does Alice need 47 watermelons? Who put two trains on the same track in opposite directions? Does everyone in the room <em>really</em> need to shake hands?</p>
-<p>The questions are weird, but I can’t really complain. My test-taking skills got me into college, through college, and even made me some money along the way through tutoring. I’m not half bad at figuring out the probability you pick a red marble out of the bag, which came in handy a little while back.</p>
-<p>I was in the passenger seat of a car in a different country, and the time came to fill the tank. When we got to the station, we clicked the button to pay for gas, and the screen instantly lit up with seven different payment amounts for pre-approval. Admittedly, we just kinda stared blankly at it for a minute. You see, as bald-eagle-loving Americans, we were used to the ability to let the pump just fill the tank and just hope it didn’t run over budget, but that wasn’t an option here. Instead, we were forced to select just how much we would approve. I started putting all the details together, and I came up with the following problem:</p>
-<p>You are at a gas pump, and you need to fill your tank. Your tank size is roughly 20 gallons, and it is 3&#x2F;4 empty. There are 3.8 liters in a gallon. The price of gas per liter isn’t listed anywhere, but you see on the screen that the previous customer paid 91 dollars for 54 liters. The options for pre-approval are 20, 30, 50, 70, 90, 100, and 110 dollars. What is the smallest amount you can pre-approve such that your tank will be completely full?</p>
-<p>Before I give you the answer, try it yourself with a calculator. To be clear, when I solved it, I didn’t write out the problem; those details are just what was swirling in my head at that moment. I pulled out the calculator app on my phone, pressed a few buttons, and in about 30 seconds, I had my final answer of 100 dollars. We hit the button, started filling the tank, and the actual amount of gas needed to fill the car was worth 97 dollars, which meant my calculations were spot-on. </p>
-<p>Solving the problem was fun, but it required a lot more processing than the short paragraph I wrote out. I had to know the unit conversion from gallons to liters. I had to assume the previous customer purchased low-octane fuel because it’s the most common choice. I had to understand how much rounding was just enough. I had to make assumptions about the gas tank. I had to package up all that real-world data into a pretty, little math problem. </p>
-<p>To the credit of all the people in math class that said, “we can use a calculator in the real world,” yes, yes we can. They’re in our pockets constantly. However, we still need to understand which numbers are important. Synthesizing that information efficiently is the first step to making math useful in the real world. We can use it whenever, but it only makes sense when we have a real problem to solve. Being able to gather the relevant information from a situation is a useful skill I’m grateful to have practiced through standardized tests, and I’m beginning to appreciate those problems more now.</p>
-<p>I still think the problems could be a bit more realistic though. I mean, <em>47</em> watermelons? Really?</p>
-]]></content>
-  </entry>
-  <entry>
-    <title>Taking Silly Ideas Seriously</title>
-    <url>/taking-silly-ideas-seriously/</url>
-    <content><![CDATA[<p>Since 2007, the Association for Computational Heresy has celebrated the sillier side of academic research through the annual SIGBOVIK conference. As their website states, “SIGBOVIK is an evening of tongue-in-cheek academic presentations, a venue for silly ideas and&#x2F;or executions.” This interdisciplinary computer science conference invites three categories of research: “joke realizations of joke ideas, joke realizations of serious ideas, and serious realizations of joke ideas.” While all three quadrants offer exciting opportunities, I’m particularly intrigued by the last one: serious realizations of joke ideas. Fully understanding this quadrant requires understanding the two parts individually.</p>
-<p>The first part, serious realizations, is relatively straightforward. Given some idea, a serious realization would offer results that answer some underlying questions or issues. One fantastic example of a serious realization is GradIEEEnt half decent, published in a previous SIGBOVIK. In GradIEEEnt half decent, Dr. Tom Murphy explores the idea of how computer rounding errors could be used on purpose. His realization includes creating a non-linear activation function using linear operations. He evaluates the effectiveness of his activation function on standard machine learning benchmark datasets like MNIST and CIFAR-10, comparing performance to other activation functions. Not all serious realizations require experimental results, but they do require going beyond just the initial idea.</p>
-<p>The second part, joke ideas, is less clear-cut. Plenty of ideas that start as jokes are later taken more seriously. For example, Schrödinger’s Cat was originally used to poke fun at the absurdity of quantum models of macroscopic objects. This ridiculous idea of a cat in a box is now the most well-known analogy for measurement in quantum systems. Similarly, Fred Hoyle coined the term “Big Bang” because he was poking fun at the idea of the universe expanding from a singularity. He never did accept the theory, but today, supporters and critics all use the term “Big Bang” seriously. Joke ideas frequently become serious, making them much more difficult to define.</p>
-<p>While Schrödinger and Hoyle made jokes out of disbelief, not all joke ideas come from disagreement. Jokes can come from a variety of sources, but for the purposes of SIGBOVIK and similar venues, there is one common unifier among joke ideas: they would not receive funding. This argument requires establishing a few premises. First, I will use the terms “joke” and “serious” as opposites, so not serious ideas are joke ideas. Next, it’s reasonable to assume that researchers publishing in most journals and conferences are addressing serious ideas. Researchers can do that work as their job because it is funded. Since funding agencies decide whether a researcher’s proposal gets funded, funding agencies thus decide if the work is serious. Note that I am not arguing that every serious idea gets funding. Instead, if a funding agency funds a proposal, then the idea is serious. By the contrapositive, if the idea is not serious, then it will not be funded.</p>
-<p>Using funding as this guiding principle elucidates how narrow the range of serious ideas really is. Joke ideas aren’t necessarily useless, they’re just a large portion of the ideas that academia doesn’t care about. Exploring them seriously can create opportunities for knowledge that would have never been known before. Research is about pushing the boundaries of human knowledge, and that can be done in all directions. I truly enjoy doing research, and while the majority of my work is focused on serious ideas, I’ve been exploring some joke ideas too. Most recently, I wrote a paper that formally analyzes bread slicing with rigorous mathematics. I don’t claim that it offers much utility to society, but it’s a nice piece of absurdist humor that pairs well with <a href="https://youtu.be/R6SYxpiGGJ0?si=PetWIvfnnBJfoWIo">this summary video</a>. </p>
-<p>SIGBOVIK is a fantastic venue for exploring serious realizations of joke ideas, but I would love to see this occurring more broadly. Granted, my worldview as a computer science research student is vastly limited, but most academics don’t seem to put effort into their silly ideas. If you have the time and resources to do so, why not? Push the boundaries of human knowledge, even in strange directions. Explore silly ideas with the effort you put into your publications. Take your jokes seriously.</p>
-<hr>
-<h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ol>
-<li><a href="http://sigbovik.org/">SIGBOVIK</a></li>
-<li><a href="http://tom7.org/grad/murphy2023grad.pdf">GradIEEEnt half decent</a></li>
-<li><a href="http://yann.lecun.com/exdb/mnist/">MNIST</a></li>
-<li><a href="https://www.cs.toronto.edu/~kriz/cifar.html">CIFAR-10</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Schr%C3%B6dinger%27s_cat">Schrödinger’s Cat</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Fred_Hoyle">Fred Hoyle</a></li>
-<li><a href="/projects/optimal_slicing.pdf">Optimal Bread Slicing</a></li>
 </ol>
 ]]></content>
   </entry>
@@ -714,23 +704,23 @@
 ]]></content>
   </entry>
   <entry>
-    <title>The AI Summer: Part 2</title>
-    <url>/the-ai-summer-part-2/</url>
-    <content><![CDATA[<p>When OpenAI first released ChatGPT, I was in the middle of a project on large language model security. My advisor and I discussed, and I pivoted to a security project focused on ChatGPT. For weeks, I worked to reveal its flaws—to uncover its vulnerabilities. </p>
-<p>I’m glad I finally stopped.</p>
-<p>Back in early 2022, I built a <a href="/projects/text_generator">toy language model</a> from scratch. It didn’t do anything fancy—it could barely put together coherent sentences—but I saw potential. I taught it <em>The Art of War</em> and watched it ramble about spies and morale. I fed it Discord transcripts and laughed as it tried to imitate my friends. The night that I finished it, I stayed up until 2:00am just playing around with everything it could do.</p>
-<p>When I showed it to the people around me, they fell in love almost as fast as I did, giving me plenty of suggestions on what to do with it. Jon—now the co-host of <a href="https://jonikpodcast.github.io/">Jonik</a>—sent me the best ideas by far. Together, we watched this little language model review the anthropocene and explain how it met your mother. I felt bad making him and others wait for me to run the model whenever they sent new training data, so I translated the entire project into JavaScript—the language of the web—and built a <a href="/text_generator/">website</a> around it. This way, everyone could use it whenever they wanted.</p>
-<p>A short while after, I started working in a security lab, and my first project was on how the predecessors of ChatGPT could be actively tricked into saying incorrect statements. My attention turned away from the little language model, and my perspective on language models shifted from embracing strengths to discovering weaknesses. Over the next six months, this was my primary focus, reviewing literature, brainstorming better attack methods, and running experiments, all to demonstrate vulnerability in LLMs. My mentor taught me so much, and on the off chance I had a good idea, we used it. Even if we did end up back at <a href="/square-one/">square one</a>, I wouldn’t trade that time for the world.</p>
-<p>So when OpenAI released ChatGPT to the world, I wasn’t in the right headspace to appreciate it. Before I even touched it, I pulled up the related literature and started comparing it to the other language models I had studied. The first time I tried ChatGPT, I didn’t ask it anything fun or interesting. I just started feeding it attack prompts, trying to make it mess up. </p>
-<p>A few months later, when I was no longer working on the project, I sat down and had a conversation with ChatGPT. I had fun, and part of me remembered the little toy language model I made over a year prior. Hoping to give my language model a chat interface, I asked ChatGPT to help me design the layout. It wrote a beautiful piece of HTML and CSS, and once I added the logic, I had my own little AI chatbot, <a href="/chatgpt-mini-projects/chatumm/">ChatUMM</a>. </p>
-<p>Suddenly, if I dreamed an idea, ChatGPT could help me make it a reality. Furiously flipping through my notebook, I searched for a few ideas for which I had concrete plans. I started explaining them to ChatGPT, copying the web design, and adding my own functionality. In just one day, I had created <a href="/chatgpt-mini-projects/daylight/">a clock that tells you how much daylight you have left</a>, <a href="/chatgpt-mini-projects/ukulelify/">a chord converter for ukulelists that can’t transpose</a>, and <a href="/chatgpt-mini-projects/the_daily_pi/">an infinite monkey typewriter using pi instead of a real monkey</a>. When it was all over, I had ChatGPT design <a href="/chatgpt-mini-projects/">a homepage for all the projects</a>.</p>
-<p>That day, ChatGPT became my sunlit forge. If I could figure out what to make and how to share it with the world, ChatGPT gave me the tools to build faster than I ever could have imagined. Unlike an actual person, ChatGPT rarely gave me any good ideas. Instead, I provided the ideas, and ChatGPT offered me a way to realize them. Once I finally let a little light in, my vision cleared, and I did what I do best—I created. </p>
-<p>From there, whenever I needed to create a quick website, I would turn back to the sunlit forge. From <a href="https://jonikpodcast.github.io/">a podcast website</a> to my own <a href="/chatgpt-mini-projects/small-e/">mini image generator</a>, I built it all there. For higher-consequence projects, or ones where I risk violating licenses, I’ll build everything by hand, but so long as this works, I will keep coming back to the sunlit forge. </p>
-<p>None of the ChatGPT-assisted websites are perfect. They’re all prototypes, nothing more. On some devices, they don’t work. At some scales, the user interface looks garbled. I have no plans on improving them, because they were never meant to be perfect. All I want is to share my ideas with the world, and doing just that has never been easier. </p>
-<p>This AI summer has just begun, so let a little light into your forge.</p>
+    <title>Taking Silly Ideas Seriously</title>
+    <url>/taking-silly-ideas-seriously/</url>
+    <content><![CDATA[<p>Since 2007, the Association for Computational Heresy has celebrated the sillier side of academic research through the annual SIGBOVIK conference. As their website states, “SIGBOVIK is an evening of tongue-in-cheek academic presentations, a venue for silly ideas and&#x2F;or executions.” This interdisciplinary computer science conference invites three categories of research: “joke realizations of joke ideas, joke realizations of serious ideas, and serious realizations of joke ideas.” While all three quadrants offer exciting opportunities, I’m particularly intrigued by the last one: serious realizations of joke ideas. Fully understanding this quadrant requires understanding the two parts individually.</p>
+<p>The first part, serious realizations, is relatively straightforward. Given some idea, a serious realization would offer results that answer some underlying questions or issues. One fantastic example of a serious realization is GradIEEEnt half decent, published in a previous SIGBOVIK. In GradIEEEnt half decent, Dr. Tom Murphy explores the idea of how computer rounding errors could be used on purpose. His realization includes creating a non-linear activation function using linear operations. He evaluates the effectiveness of his activation function on standard machine learning benchmark datasets like MNIST and CIFAR-10, comparing performance to other activation functions. Not all serious realizations require experimental results, but they do require going beyond just the initial idea.</p>
+<p>The second part, joke ideas, is less clear-cut. Plenty of ideas that start as jokes are later taken more seriously. For example, Schrödinger’s Cat was originally used to poke fun at the absurdity of quantum models of macroscopic objects. This ridiculous idea of a cat in a box is now the most well-known analogy for measurement in quantum systems. Similarly, Fred Hoyle coined the term “Big Bang” because he was poking fun at the idea of the universe expanding from a singularity. He never did accept the theory, but today, supporters and critics all use the term “Big Bang” seriously. Joke ideas frequently become serious, making them much more difficult to define.</p>
+<p>While Schrödinger and Hoyle made jokes out of disbelief, not all joke ideas come from disagreement. Jokes can come from a variety of sources, but for the purposes of SIGBOVIK and similar venues, there is one common unifier among joke ideas: they would not receive funding. This argument requires establishing a few premises. First, I will use the terms “joke” and “serious” as opposites, so not serious ideas are joke ideas. Next, it’s reasonable to assume that researchers publishing in most journals and conferences are addressing serious ideas. Researchers can do that work as their job because it is funded. Since funding agencies decide whether a researcher’s proposal gets funded, funding agencies thus decide if the work is serious. Note that I am not arguing that every serious idea gets funding. Instead, if a funding agency funds a proposal, then the idea is serious. By the contrapositive, if the idea is not serious, then it will not be funded.</p>
+<p>Using funding as this guiding principle elucidates how narrow the range of serious ideas really is. Joke ideas aren’t necessarily useless, they’re just a large portion of the ideas that academia doesn’t care about. Exploring them seriously can create opportunities for knowledge that would have never been known before. Research is about pushing the boundaries of human knowledge, and that can be done in all directions. I truly enjoy doing research, and while the majority of my work is focused on serious ideas, I’ve been exploring some joke ideas too. Most recently, I wrote a paper that formally analyzes bread slicing with rigorous mathematics. I don’t claim that it offers much utility to society, but it’s a nice piece of absurdist humor that pairs well with <a href="https://youtu.be/R6SYxpiGGJ0?si=PetWIvfnnBJfoWIo">this summary video</a>. </p>
+<p>SIGBOVIK is a fantastic venue for exploring serious realizations of joke ideas, but I would love to see this occurring more broadly. Granted, my worldview as a computer science research student is vastly limited, but most academics don’t seem to put effort into their silly ideas. If you have the time and resources to do so, why not? Push the boundaries of human knowledge, even in strange directions. Explore silly ideas with the effort you put into your publications. Take your jokes seriously.</p>
 <hr>
 <h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ol>
-<li><a href="/">Me</a></li>
+<li><a href="http://sigbovik.org/">SIGBOVIK</a></li>
+<li><a href="http://tom7.org/grad/murphy2023grad.pdf">GradIEEEnt half decent</a></li>
+<li><a href="http://yann.lecun.com/exdb/mnist/">MNIST</a></li>
+<li><a href="https://www.cs.toronto.edu/~kriz/cifar.html">CIFAR-10</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Schr%C3%B6dinger%27s_cat">Schrödinger’s Cat</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Fred_Hoyle">Fred Hoyle</a></li>
+<li><a href="/projects/optimal_slicing.pdf">Optimal Bread Slicing</a></li>
 </ol>
 ]]></content>
   </entry>
@@ -796,26 +786,23 @@
 ]]></content>
   </entry>
   <entry>
-    <title>The Connoisseur of Random: Quantum Randomness</title>
-    <url>/the-connoisseur-of-random-quantum-randomness/</url>
-    <content><![CDATA[<p>This series was meant to be a few, fun archives about lava lamps and rolling dice. Instead, I sit here, hours before my Monday deadline, surrounded by articles on quantum mechanics, formal logic, and God. I still don’t know if quantum measurement is random. Honestly, at this point, I don’t even know if I <em>want</em> it to be random. </p>
-<p>My problem begins with cats, specifically the cat that Schrödinger put in a box. Schrödinger’s cat is in a superposition of alive and dead, and this superposition constitutes the state of the cat. The state is just our interpretation of the cat, which in this case is an evenly split probability distribution of alive and dead. When we measure the cat by opening the box, the cat collapses to either alive or dead, not both. My question hinges on one key problem: can you peek inside the box beforehand?</p>
-<p>The analogy is coarse and imperfect, but the problem hinges strongly on that concept. Just replace the word “cat” with “system” and “alive&#x2F;dead” with actual eigenstates. Obviously, for real cats, you can peek inside the box, but the answer is not so clear for quantum systems. Quantum systems are best understood through representations of their probability distributions. The distribution constitutes the state of the system. A measurement of the system selects from this distribution and destroys the state. If quantum systems and their measurements cannot be explained by some hidden mechanism, then, for my purposes, they are truly random. They are the final frontier in this quest for pure, statistically independent randomness.</p>
-<p>Scientists have been exploring the issue of hidden variables in quantum mechanics for decades. Any deterministic theory of quantum mechanics must comply with the no-go theorems. The no-go theorems are strong limitations on what must be true for deterministic explanations of quantum mechanics. One particularly famous no-go theorem is the Kochen-Specker Theorem. Kochen and Specker (and Bell) showed that measurement cannot simply reveal values that already exist. In other words, measurement also depends on what other objects in the system can be measured. The full argument includes a construction of the partial algebra on comeasurable observables. I don’t understand half the words I just said, but I do know this: creating a hidden-variable explanation for quantum mechanics would be very, very difficult. </p>
-<p>The hidden-variable approach may be difficult, but it may not be impossible. Superdeterminism is a deterministic, hidden-variable approach to certain parts of quantum mechanics. It’s not a replacement for quantum mechanics, just an augmentation. In particular, it is a deterministic approach to local phenomena. Some of you may think, “Wouldn’t that violate Bell’s theorem?” Apparently, it doesn’t, so long as you believe that preparing a quantum state and its future detector cannot be done independently. If this were true, superdeterminism would violate statistical independence, ultimately killing the randomness of quantum measurements.</p>
-<p>At this point, we don’t know which parts of quantum measurement are deterministic, if any. As I tried to understand this problem further, I stumbled into another philosophical issue: determinism. Let’s say we discover a deterministic model for quantum mechanics. Let’s also say this extends to a Unified Field Theory. Then, every event could be fully modeled as a result of everything before it. Dice rolls, lava bubbles, quantum measurements, everything would be determined. Does this mean the human will is determined? Does the Universe roll dice? I fell down a rabbit hole, trying to understand how developments in quantum mechanics would impact broader philosophical issues. After some digging, I realized that any physical model of the universe has a lot more questions to answer before we discuss free will. We would need to understand if physical phenomena can explain human will and what it means to make a decision. The answer to the question of free will is not currently in quantum mechanics, for better or worse.</p>
-<p>Returning to the matter at hand, I still need to figure out whether quantum measurement is truly random. I’ve spent far too long reading physics, math, and philosophy papers, and none of them have any answers, so I’m going straight to the source. Using my limited knowledge of quantum computing, I wrote a program for a quantum coin flip. Heads, it’s random; tails, it’s deterministic. With this program, quantum measurement will reveal the truth of quantum measurement. It is currently running on IBM Quantum, and I will update you with the results shortly.</p>
-<p>Update: the program crashed.</p>
+    <title>The AI Summer: Part 2</title>
+    <url>/the-ai-summer-part-2/</url>
+    <content><![CDATA[<p>When OpenAI first released ChatGPT, I was in the middle of a project on large language model security. My advisor and I discussed, and I pivoted to a security project focused on ChatGPT. For weeks, I worked to reveal its flaws—to uncover its vulnerabilities. </p>
+<p>I’m glad I finally stopped.</p>
+<p>Back in early 2022, I built a <a href="/projects/text_generator">toy language model</a> from scratch. It didn’t do anything fancy—it could barely put together coherent sentences—but I saw potential. I taught it <em>The Art of War</em> and watched it ramble about spies and morale. I fed it Discord transcripts and laughed as it tried to imitate my friends. The night that I finished it, I stayed up until 2:00am just playing around with everything it could do.</p>
+<p>When I showed it to the people around me, they fell in love almost as fast as I did, giving me plenty of suggestions on what to do with it. Jon—now the co-host of <a href="https://jonikpodcast.github.io/">Jonik</a>—sent me the best ideas by far. Together, we watched this little language model review the anthropocene and explain how it met your mother. I felt bad making him and others wait for me to run the model whenever they sent new training data, so I translated the entire project into JavaScript—the language of the web—and built a <a href="/text_generator/">website</a> around it. This way, everyone could use it whenever they wanted.</p>
+<p>A short while after, I started working in a security lab, and my first project was on how the predecessors of ChatGPT could be actively tricked into saying incorrect statements. My attention turned away from the little language model, and my perspective on language models shifted from embracing strengths to discovering weaknesses. Over the next six months, this was my primary focus, reviewing literature, brainstorming better attack methods, and running experiments, all to demonstrate vulnerability in LLMs. My mentor taught me so much, and on the off chance I had a good idea, we used it. Even if we did end up back at <a href="/square-one/">square one</a>, I wouldn’t trade that time for the world.</p>
+<p>So when OpenAI released ChatGPT to the world, I wasn’t in the right headspace to appreciate it. Before I even touched it, I pulled up the related literature and started comparing it to the other language models I had studied. The first time I tried ChatGPT, I didn’t ask it anything fun or interesting. I just started feeding it attack prompts, trying to make it mess up. </p>
+<p>A few months later, when I was no longer working on the project, I sat down and had a conversation with ChatGPT. I had fun, and part of me remembered the little toy language model I made over a year prior. Hoping to give my language model a chat interface, I asked ChatGPT to help me design the layout. It wrote a beautiful piece of HTML and CSS, and once I added the logic, I had my own little AI chatbot, <a href="/chatgpt-mini-projects/chatumm/">ChatUMM</a>. </p>
+<p>Suddenly, if I dreamed an idea, ChatGPT could help me make it a reality. Furiously flipping through my notebook, I searched for a few ideas for which I had concrete plans. I started explaining them to ChatGPT, copying the web design, and adding my own functionality. In just one day, I had created <a href="/chatgpt-mini-projects/daylight/">a clock that tells you how much daylight you have left</a>, <a href="/chatgpt-mini-projects/ukulelify/">a chord converter for ukulelists that can’t transpose</a>, and <a href="/chatgpt-mini-projects/the_daily_pi/">an infinite monkey typewriter using pi instead of a real monkey</a>. When it was all over, I had ChatGPT design <a href="/chatgpt-mini-projects/">a homepage for all the projects</a>.</p>
+<p>That day, ChatGPT became my sunlit forge. If I could figure out what to make and how to share it with the world, ChatGPT gave me the tools to build faster than I ever could have imagined. Unlike an actual person, ChatGPT rarely gave me any good ideas. Instead, I provided the ideas, and ChatGPT offered me a way to realize them. Once I finally let a little light in, my vision cleared, and I did what I do best—I created. </p>
+<p>From there, whenever I needed to create a quick website, I would turn back to the sunlit forge. From <a href="https://jonikpodcast.github.io/">a podcast website</a> to my own <a href="/chatgpt-mini-projects/small-e/">mini image generator</a>, I built it all there. For higher-consequence projects, or ones where I risk violating licenses, I’ll build everything by hand, but so long as this works, I will keep coming back to the sunlit forge. </p>
+<p>None of the ChatGPT-assisted websites are perfect. They’re all prototypes, nothing more. On some devices, they don’t work. At some scales, the user interface looks garbled. I have no plans on improving them, because they were never meant to be perfect. All I want is to share my ideas with the world, and doing just that has never been easier. </p>
+<p>This AI summer has just begun, so let a little light into your forge.</p>
 <hr>
 <h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ol>
-<li>Schrödinger, Erwin. Cat Paradox. Translated by John D. Trimmer. 1935. <a href="http://hermes.ffn.ub.es/luisnavarro/nuevo_maletin/Schrodinger_1935_cat.pdf">Proc. of the American Philosophical Society.</a></li>
-<li>Hossenfelder, Sabine. Superdeterminism: A Guide for the Perplexed. 2020. <a href="https://arxiv.org/pdf/2010.01324.pdf">arXiv.</a></li>
-<li>Landsman, Klaas. Randomness? What randomness?. 2019. <a href="https://arxiv.org/pdf/1908.07068.pdf">arXiv.</a></li>
-<li>Specker, E. P. and Kochen, Simon. The Problem of Hidden Variables in Quantum Mechanics. 1967. <a href="https://www.jstor.org/stable/24902153">Journal of Mathematics and Mechanics.</a></li>
-<li>Paterek, Tomasz et al. Logical independence and quantum randomness. 2010. <a href="https://arxiv.org/pdf/0811.4542.pdf">arXiv.</a></li>
-<li>Causal Determinism. <a href="https://plato.stanford.edu/entries/determinism-causal/">Stanford Encyclopedia of Philosophy</a></li>
-<li>Hossenfelder, Sabine and Palmer, T. N. Rethinking Superdeterminism. 2019. <a href="https://arxiv.org/pdf/1912.06462.pdf">arXiv.</a></li>
-<li>Bell’s Theorem. <a href="https://plato.stanford.edu/entries/bell-theorem/">Stanford Encyclopedia of Philosophy</a></li>
+<li><a href="/">Me</a></li>
 </ol>
 ]]></content>
   </entry>
@@ -875,6 +862,47 @@
 ]]></content>
   </entry>
   <entry>
+    <title>The Connoisseur of Random: Quantum Randomness</title>
+    <url>/the-connoisseur-of-random-quantum-randomness/</url>
+    <content><![CDATA[<p>This series was meant to be a few, fun archives about lava lamps and rolling dice. Instead, I sit here, hours before my Monday deadline, surrounded by articles on quantum mechanics, formal logic, and God. I still don’t know if quantum measurement is random. Honestly, at this point, I don’t even know if I <em>want</em> it to be random. </p>
+<p>My problem begins with cats, specifically the cat that Schrödinger put in a box. Schrödinger’s cat is in a superposition of alive and dead, and this superposition constitutes the state of the cat. The state is just our interpretation of the cat, which in this case is an evenly split probability distribution of alive and dead. When we measure the cat by opening the box, the cat collapses to either alive or dead, not both. My question hinges on one key problem: can you peek inside the box beforehand?</p>
+<p>The analogy is coarse and imperfect, but the problem hinges strongly on that concept. Just replace the word “cat” with “system” and “alive&#x2F;dead” with actual eigenstates. Obviously, for real cats, you can peek inside the box, but the answer is not so clear for quantum systems. Quantum systems are best understood through representations of their probability distributions. The distribution constitutes the state of the system. A measurement of the system selects from this distribution and destroys the state. If quantum systems and their measurements cannot be explained by some hidden mechanism, then, for my purposes, they are truly random. They are the final frontier in this quest for pure, statistically independent randomness.</p>
+<p>Scientists have been exploring the issue of hidden variables in quantum mechanics for decades. Any deterministic theory of quantum mechanics must comply with the no-go theorems. The no-go theorems are strong limitations on what must be true for deterministic explanations of quantum mechanics. One particularly famous no-go theorem is the Kochen-Specker Theorem. Kochen and Specker (and Bell) showed that measurement cannot simply reveal values that already exist. In other words, measurement also depends on what other objects in the system can be measured. The full argument includes a construction of the partial algebra on comeasurable observables. I don’t understand half the words I just said, but I do know this: creating a hidden-variable explanation for quantum mechanics would be very, very difficult. </p>
+<p>The hidden-variable approach may be difficult, but it may not be impossible. Superdeterminism is a deterministic, hidden-variable approach to certain parts of quantum mechanics. It’s not a replacement for quantum mechanics, just an augmentation. In particular, it is a deterministic approach to local phenomena. Some of you may think, “Wouldn’t that violate Bell’s theorem?” Apparently, it doesn’t, so long as you believe that preparing a quantum state and its future detector cannot be done independently. If this were true, superdeterminism would violate statistical independence, ultimately killing the randomness of quantum measurements.</p>
+<p>At this point, we don’t know which parts of quantum measurement are deterministic, if any. As I tried to understand this problem further, I stumbled into another philosophical issue: determinism. Let’s say we discover a deterministic model for quantum mechanics. Let’s also say this extends to a Unified Field Theory. Then, every event could be fully modeled as a result of everything before it. Dice rolls, lava bubbles, quantum measurements, everything would be determined. Does this mean the human will is determined? Does the Universe roll dice? I fell down a rabbit hole, trying to understand how developments in quantum mechanics would impact broader philosophical issues. After some digging, I realized that any physical model of the universe has a lot more questions to answer before we discuss free will. We would need to understand if physical phenomena can explain human will and what it means to make a decision. The answer to the question of free will is not currently in quantum mechanics, for better or worse.</p>
+<p>Returning to the matter at hand, I still need to figure out whether quantum measurement is truly random. I’ve spent far too long reading physics, math, and philosophy papers, and none of them have any answers, so I’m going straight to the source. Using my limited knowledge of quantum computing, I wrote a program for a quantum coin flip. Heads, it’s random; tails, it’s deterministic. With this program, quantum measurement will reveal the truth of quantum measurement. It is currently running on IBM Quantum, and I will update you with the results shortly.</p>
+<p>Update: the program crashed.</p>
+<hr>
+<h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ol>
+<li>Schrödinger, Erwin. Cat Paradox. Translated by John D. Trimmer. 1935. <a href="http://hermes.ffn.ub.es/luisnavarro/nuevo_maletin/Schrodinger_1935_cat.pdf">Proc. of the American Philosophical Society.</a></li>
+<li>Hossenfelder, Sabine. Superdeterminism: A Guide for the Perplexed. 2020. <a href="https://arxiv.org/pdf/2010.01324.pdf">arXiv.</a></li>
+<li>Landsman, Klaas. Randomness? What randomness?. 2019. <a href="https://arxiv.org/pdf/1908.07068.pdf">arXiv.</a></li>
+<li>Specker, E. P. and Kochen, Simon. The Problem of Hidden Variables in Quantum Mechanics. 1967. <a href="https://www.jstor.org/stable/24902153">Journal of Mathematics and Mechanics.</a></li>
+<li>Paterek, Tomasz et al. Logical independence and quantum randomness. 2010. <a href="https://arxiv.org/pdf/0811.4542.pdf">arXiv.</a></li>
+<li>Causal Determinism. <a href="https://plato.stanford.edu/entries/determinism-causal/">Stanford Encyclopedia of Philosophy</a></li>
+<li>Hossenfelder, Sabine and Palmer, T. N. Rethinking Superdeterminism. 2019. <a href="https://arxiv.org/pdf/1912.06462.pdf">arXiv.</a></li>
+<li>Bell’s Theorem. <a href="https://plato.stanford.edu/entries/bell-theorem/">Stanford Encyclopedia of Philosophy</a></li>
+</ol>
+]]></content>
+  </entry>
+  <entry>
+    <title>The End of Pi</title>
+    <url>/the-end-of-pi/</url>
+    <content><![CDATA[<p>I’m fed up with you, π. I get it, you’re the ratio of the circumference to the diameter, good for you. But that isn’t enough for you, is it? No, you need to make sure <strong>everyone</strong> knows exactly who you are. You needed a day in your honor and competitions just for you. Was memorizing 100,000 of your digits not enough? No, of course not. It will never be enough. You are never ending.</p>
+<p>If human memorization isn’t enough, surely calculating trillions of digits should suffice. Is 663 terabytes enough space for you? Is 864 GB of RAM enough memory for you? Is nearly half a year of continuous computing enough time for you? Calculating digits of you has cost humans thousands of computing hours on the world’s best cloud servers, and I don’t blame them. They, like everyone else, have become sucked into this never-ending cycle of discovering more, learning more, doing more for you.</p>
+<p>You know what I think, π? I don’t think this is actually what you want. Clearly, there is a hole in you, a circular void, but these fruitless attempts at getting closer to the end aren’t what you truly desire. Everyone knows 3.14, and a lot of people know 3.1415, but how many people care that the next digit is 9? Even for those that do, they will still say 3.1415, and I’m sure that stings. Rather than appreciate a nice approximation and round to 3.1416, your loving followers are blinded by your never-ending being. Every digit we calculate gives us exponentially less information. All the while, we ignore the beauty in front of us. How many can say they have truly appreciated the 9 in the fifth decimal place of your expansion?</p>
+<p>Every approximation we can fathom is finite. They will all be finite because your decimal expansion contains more information than we could store in every atom of the universe. Rather than fail to attempt to appreciate your unending presence, we should enjoy the finite. Bask in the glory of the approximations and reflect on how even good things can end. Round to the fourth decimal place rather than forever waiting for the fifth. Maybe then, we can finally see the end of π.</p>
+<hr>
+<h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ol>
+<li><a href="https://en.wikipedia.org/wiki/Chronology_of_computation_of_%CF%80">Chronology of Computation of π</a></li>
+<li><a href="http://www.numberworld.org/y-cruncher/">y-cruncher for computing π</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Emma_Haruka_Iwao">Emma Haruka Iwao, Current Record Holder for Computing Digits</a></li>
+<li><a href="https://www.theguardian.com/science/alexs-adventures-in-numberland/2015/mar/13/pi-day-2015-memory-memorisation-world-record-japanese-akira-haraguchi">Akira Haraguchi Memorized +100k digits</a></li>
+<li><a href="https://blog.timothymullican.com/calculating-pi-my-attempt-breaking-pi-record">Timothy Mullican, Prev Record Holder for Computing Digits</a></li>
+</ol>
+]]></content>
+  </entry>
+  <entry>
     <title>The Current Paradigm of Origami</title>
     <url>/the-current-paradigm-of-origami/</url>
     <content><![CDATA[<p>Throughout the centuries, science has undergone drastic revolutions. Time and time again, we have re-evaluated basic concepts, fundamental beliefs, and ultimately what constitutes good science. Thomas Kuhn first presented the idea of a paradigm shift—a transition between two ways of thinking—in 1962. As a philosopher of science, Kuhn could turn to history to see paradigm shifts unfold, but contemporary scientists don’t have the luxury of seeing paradigm shifts before they come. Instead, they must wait until the paradigm shift is over to witness the changes, and even then, they may not see everything that has truly happened.</p>
@@ -894,23 +922,6 @@
 <h2 id="Expectations-of-Complexity"><a href="#Expectations-of-Complexity" class="headerlink" title="Expectations of Complexity"></a>Expectations of Complexity</h2><p>Complexity is harder to describe in objective terms, but as a broad statement, more folders are capable of doing complex origami. The growth of internet communities and online resources has made it easier for origamists to get more into complex origami. As an example, there is a growing sentiment that the Ryujin 3.5 is potentially accessible to extremely skilled folders, rather than just flat-out impossible. To be clear, we still consider Ryujin 3.5 an incredible feat of skill, but folding it doesn’t make you stand out among the best.</p>
 <h2 id="Community"><a href="#Community" class="headerlink" title="Community"></a>Community</h2><p>With the rise of internet communities, origami has become less solitary, though it is still primarily an independent practice. Collaborative design and folding aren’t very common, as every finished model typically only has one designer and one folder. Still, origamists talk and share ideas on various social platforms, and universities and big cities typically have origami groups that meet in person.</p>
 <h2 id="There’s-Probably-More…"><a href="#There’s-Probably-More…" class="headerlink" title="There’s Probably More…"></a>There’s Probably More…</h2><p>…but I don’t know what you need to know. Maybe I’ll add some updates, but I still want to focus on the fundamental ideals and overarching themes of origami today, rather than delve into specific details.</p>
-]]></content>
-  </entry>
-  <entry>
-    <title>The End of Pi</title>
-    <url>/the-end-of-pi/</url>
-    <content><![CDATA[<p>I’m fed up with you, π. I get it, you’re the ratio of the circumference to the diameter, good for you. But that isn’t enough for you, is it? No, you need to make sure <strong>everyone</strong> knows exactly who you are. You needed a day in your honor and competitions just for you. Was memorizing 100,000 of your digits not enough? No, of course not. It will never be enough. You are never ending.</p>
-<p>If human memorization isn’t enough, surely calculating trillions of digits should suffice. Is 663 terabytes enough space for you? Is 864 GB of RAM enough memory for you? Is nearly half a year of continuous computing enough time for you? Calculating digits of you has cost humans thousands of computing hours on the world’s best cloud servers, and I don’t blame them. They, like everyone else, have become sucked into this never-ending cycle of discovering more, learning more, doing more for you.</p>
-<p>You know what I think, π? I don’t think this is actually what you want. Clearly, there is a hole in you, a circular void, but these fruitless attempts at getting closer to the end aren’t what you truly desire. Everyone knows 3.14, and a lot of people know 3.1415, but how many people care that the next digit is 9? Even for those that do, they will still say 3.1415, and I’m sure that stings. Rather than appreciate a nice approximation and round to 3.1416, your loving followers are blinded by your never-ending being. Every digit we calculate gives us exponentially less information. All the while, we ignore the beauty in front of us. How many can say they have truly appreciated the 9 in the fifth decimal place of your expansion?</p>
-<p>Every approximation we can fathom is finite. They will all be finite because your decimal expansion contains more information than we could store in every atom of the universe. Rather than fail to attempt to appreciate your unending presence, we should enjoy the finite. Bask in the glory of the approximations and reflect on how even good things can end. Round to the fourth decimal place rather than forever waiting for the fifth. Maybe then, we can finally see the end of π.</p>
-<hr>
-<h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ol>
-<li><a href="https://en.wikipedia.org/wiki/Chronology_of_computation_of_%CF%80">Chronology of Computation of π</a></li>
-<li><a href="http://www.numberworld.org/y-cruncher/">y-cruncher for computing π</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Emma_Haruka_Iwao">Emma Haruka Iwao, Current Record Holder for Computing Digits</a></li>
-<li><a href="https://www.theguardian.com/science/alexs-adventures-in-numberland/2015/mar/13/pi-day-2015-memory-memorisation-world-record-japanese-akira-haraguchi">Akira Haraguchi Memorized +100k digits</a></li>
-<li><a href="https://blog.timothymullican.com/calculating-pi-my-attempt-breaking-pi-record">Timothy Mullican, Prev Record Holder for Computing Digits</a></li>
-</ol>
 ]]></content>
   </entry>
   <entry>
@@ -990,19 +1001,6 @@
 ]]></content>
   </entry>
   <entry>
-    <title>The Pencil (Ex Libris: Works of Nikolai Gogol)</title>
-    <url>/the-pencil-ex-libris-works-of-nikolai-gogol/</url>
-    <content><![CDATA[<p><em>A true narrative inspired by my recent reading of the works of Nikolai Gogol. It’s not overtly Gogolian, but I tried to incorporate some elements of his style.</em></p>
-<hr>
-<p>I’ve been using the same pencil for about 500 days now. My sister gave it to me. It’s a green, 0.5mm Twist-Erase, not that the details really matter. The branding is faded, and I replace the graphite and eraser pretty regularly. Still, it’s a good pencil. I use it to take notes in class. I use it on exams. I use it to journal, to diagram, to sketch, to scribble grocery lists, to write letters. Essentially, if I need to mark something with a pencil, I use this one.</p>
-<p>Holding onto this pencil hasn’t been easy. Back in grade school, I would buy packs of 48 pencils at the beginning of every school year because, by the end, I would have lost each and every one. If there were a leaderboard for losing pencils, I would be internationally ranked. Despite my penchant for losing pencils, I never seem to lose notebooks or journals. Knowing this, I fastened my pencil to my journal, and whenever I needed it, I would remove it from the elastic, use it, and return it to its place. When it was time for me to retire that journal, I simply replaced it with another, and I kept the pencil there.</p>
-<p>As of recently, I have discovered that my pencil is slightly shorter than my phone, so it fits in my pocket quite nicely. I like the idea of always having the pencil handy, but I still wanted a notebook for it, so I made one. The cover of the notebook is made from an old poster of Café Terrace at Night, and it fits snugly in my pocket, just between my leg and my phone. The pages of the notebook are covered in diagrams and equations from my observations of the <a href="/celestial-navigation-part-3">equinox sunset</a> and the <a href="/celestial-navigation-part-4">solar eclipse</a>, all drawn by the pencil. </p>
-<p>A brief aside, pen and pencil don’t have the same etymology. While pen comes from the Latin <em>penna</em>, meaning feather, pencil comes from the Latin <em>penicillus</em>, meaning brush. <em>Penicillus</em> has its roots in the Latin word for <em>tail</em>, not <em>feather</em>. As it turns out, <em>penicillus</em> is also the origin of the name of the antibiotic, penicillin. I like to imagine that Alexander Fleming was recording his observations with a pencil when he discovered penicillin, though that may just be wishful thinking.</p>
-<p>I don’t think my pencil will ever be used to document anything as monumental as the discovery of penicillin. The pencil is great—don’t get me wrong—but I do sometimes wonder what impact the pencil has had on my discoveries. How would my <a href="/publications/">research</a> be different without that pencil? What about my <a href="/a-phoenix-a-dragon-and-lots-of-humanoids-designs-from-the-last-two-months">art</a>? I suppose I can’t know for sure, but I doubt much would change. Pencils only mark what you tell them to mark, erase what you tell them to erase. They can’t tell you the answer or finish the story; that’s something you do. Besides some negligible improvements to quality-of-life, the pencil itself doesn’t do much of anything. </p>
-<p>I was hoping that after so many months using the same pencil, I would gain some profound insight, as if the pencil would reveal some previously unknown truth. I waited, diligently recording my thoughts and observations through this single instrument. I’ve carried it in my bag or on my person during every waking moment. Today, I’m writing this story because that day has finally come. I now know the truth. After 500 days, I’ve finally learned that it’s just a pencil.</p>
-]]></content>
-  </entry>
-  <entry>
     <title>The Problem of Anthropomorphization</title>
     <url>/the-problem-of-anthropomorphization/</url>
     <content><![CDATA[<p>Modern AI is pretty great. New systems are advancing at marvelous rates, improving year after year. Unfortunately, this technological progress has led to a very related, very human problem. Humans are treating AI like it’s human. More specifically, humans are anthropomorphizing AI systems, attributing qualities like understanding, intentionality, and empathy to what are essentially glorified math equations.</p>
@@ -1021,6 +1019,19 @@
 <h2 id="The-ELIZA-Algorithm"><a href="#The-ELIZA-Algorithm" class="headerlink" title="The ELIZA Algorithm"></a>The ELIZA Algorithm</h2><figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">def</span> <span class="title function_">respond</span>(<span class="params">self, statement</span>):</span><br><span class="line">    <span class="keyword">for</span> pattern, responses <span class="keyword">in</span> self.patterns:</span><br><span class="line">        <span class="keyword">match</span> = re.search(pattern, statement.strip(<span class="string">&quot; .!?&quot;</span>), re.IGNORECASE)</span><br><span class="line">        <span class="keyword">if</span> <span class="keyword">match</span>:</span><br><span class="line">            response = random.choice(responses).<span class="built_in">format</span>(*<span class="keyword">match</span>.groups())</span><br><span class="line">            <span class="keyword">return</span> response</span><br><span class="line">    <span class="keyword">return</span> self.default</span><br></pre></td></tr></table></figure>]]></content>
   </entry>
   <entry>
+    <title>The Pencil (Ex Libris: Works of Nikolai Gogol)</title>
+    <url>/the-pencil-ex-libris-works-of-nikolai-gogol/</url>
+    <content><![CDATA[<p><em>A true narrative inspired by my recent reading of the works of Nikolai Gogol. It’s not overtly Gogolian, but I tried to incorporate some elements of his style.</em></p>
+<hr>
+<p>I’ve been using the same pencil for about 500 days now. My sister gave it to me. It’s a green, 0.5mm Twist-Erase, not that the details really matter. The branding is faded, and I replace the graphite and eraser pretty regularly. Still, it’s a good pencil. I use it to take notes in class. I use it on exams. I use it to journal, to diagram, to sketch, to scribble grocery lists, to write letters. Essentially, if I need to mark something with a pencil, I use this one.</p>
+<p>Holding onto this pencil hasn’t been easy. Back in grade school, I would buy packs of 48 pencils at the beginning of every school year because, by the end, I would have lost each and every one. If there were a leaderboard for losing pencils, I would be internationally ranked. Despite my penchant for losing pencils, I never seem to lose notebooks or journals. Knowing this, I fastened my pencil to my journal, and whenever I needed it, I would remove it from the elastic, use it, and return it to its place. When it was time for me to retire that journal, I simply replaced it with another, and I kept the pencil there.</p>
+<p>As of recently, I have discovered that my pencil is slightly shorter than my phone, so it fits in my pocket quite nicely. I like the idea of always having the pencil handy, but I still wanted a notebook for it, so I made one. The cover of the notebook is made from an old poster of Café Terrace at Night, and it fits snugly in my pocket, just between my leg and my phone. The pages of the notebook are covered in diagrams and equations from my observations of the <a href="/celestial-navigation-part-3">equinox sunset</a> and the <a href="/celestial-navigation-part-4">solar eclipse</a>, all drawn by the pencil. </p>
+<p>A brief aside, pen and pencil don’t have the same etymology. While pen comes from the Latin <em>penna</em>, meaning feather, pencil comes from the Latin <em>penicillus</em>, meaning brush. <em>Penicillus</em> has its roots in the Latin word for <em>tail</em>, not <em>feather</em>. As it turns out, <em>penicillus</em> is also the origin of the name of the antibiotic, penicillin. I like to imagine that Alexander Fleming was recording his observations with a pencil when he discovered penicillin, though that may just be wishful thinking.</p>
+<p>I don’t think my pencil will ever be used to document anything as monumental as the discovery of penicillin. The pencil is great—don’t get me wrong—but I do sometimes wonder what impact the pencil has had on my discoveries. How would my <a href="/publications/">research</a> be different without that pencil? What about my <a href="/a-phoenix-a-dragon-and-lots-of-humanoids-designs-from-the-last-two-months">art</a>? I suppose I can’t know for sure, but I doubt much would change. Pencils only mark what you tell them to mark, erase what you tell them to erase. They can’t tell you the answer or finish the story; that’s something you do. Besides some negligible improvements to quality-of-life, the pencil itself doesn’t do much of anything. </p>
+<p>I was hoping that after so many months using the same pencil, I would gain some profound insight, as if the pencil would reveal some previously unknown truth. I waited, diligently recording my thoughts and observations through this single instrument. I’ve carried it in my bag or on my person during every waking moment. Today, I’m writing this story because that day has finally come. I now know the truth. After 500 days, I’ve finally learned that it’s just a pencil.</p>
+]]></content>
+  </entry>
+  <entry>
     <title>The Test Tree</title>
     <url>/the-test-tree/</url>
     <content><![CDATA[<img src="/images/test_tree.png" alt="Test Tree, by Ronik Bhaskar.">
@@ -1032,25 +1043,6 @@
 <p>And so, I did. I ran countless experiments with that tree, testing different tools and making strange modifications. I even began using it when privacy wasn’t a concern. It has become an inside joke with people in the lab just how much I use that tree. Honestly, I can’t help it. That tree has worked with me through long nights and intense debugging sessions. It’s gone through every experimental pipeline I’ve built. My work would not be the same without it.</p>
 <p>The unfortunate reality is that this tree, with so much personal value, is now sitting in some massive training datasets, waiting to be misused by tech companies. All that testing has finally caught up with me. I tried not to use personal data when testing these tools, but the data I was using became personal. And now, it’s not just gone. It’s everywhere. Any tech company that has ever touched this image has full access to it.</p>
 <p>Ultimately, I think this is for the best. The important thing was never the tree being secret. Its presence everywhere means the protection of so many images that could have taken it’s place. Its purpose is to be stolen, to be used, to be a waste of space in a sea of sensitive data. In that way, it was never mine to begin with. It’s meant for everyone, and if you’re looking for your own test image, maybe it can be yours too.</p>
-]]></content>
-  </entry>
-  <entry>
-    <title>Using Math to Beat a Video Game</title>
-    <url>/using-math-to-beat-a-video-game/</url>
-    <content><![CDATA[<p>A relative of mine often plays this game called Word Connect. In Word Connect, you connect tiles with letters to make words, and you have a fixed list of words you create. The challenge arises when you just can’t figure out what word to make. Whenever this happens, my relative will ask me for help. As a native English speaker, I can usually think of some obscure words to solve the puzzle, but not always. Occasionally, I’ll sit with the letters swirling around my head for hours, just trying to come up with something. My relative plays the game mostly to practice English, so they don’t care about their score.</p>
-<p>With this in mind, I decided to start <del>cheating</del> using math. To do this, I established a clearer objective. We start with a set of letters <em>S</em> and the length of the target word <em>len(w)</em>, and using those, we need to reconstruct the target word <em>w</em>. The easiest way to do this is just to iterate through every English word and check if it uses only the letters in <em>S</em>, but that’s too easy. For the sake of the challenge, I wanted to pretend like there were super high volumes of English words, and iterating through strings was slow. Under these conditions, I needed a better method. I needed a smarter method.</p>
-<p>I started by getting rid of unnecessary information that was limiting performance. Words are always spelled in order. You would never write “aegm” when using the word “game” because that’s just incorrect. However, if we’re checking to see whether words can be constructed from a set of letters, order does not matter. Knowing this, I created a simple encoding that only captures the letters in a word. It does not care about position or frequency. The way I did this was through 26-bit binary numbers. Each digit represents a character, and if the character is present in the word, then the corresponding digit is marked as a 1. For example,</p>
-<p>$$\text{“add”} \rightarrow 1001$$</p>
-<p>In this instance, the digit on the right represents “a”, which is a 1. Moving to the left, the digits for “b” and “c” are both 0 because they aren’t present in “add”. Finally, the digit for “d” is a 1. After that, it’s just zeros, so I’m not showing them. As you’ll notice, “d” is marked with a 1 even though there are two “d”s. The encoding doesn’t take frequency into account because it’s not necessary. We can check for frequency after shortlisting words if needed.</p>
-<p>Along with our encoding, we’ll need to use a special property called the Hamming weight. The Hamming weight counts the number of 1’s in a bitstring, so the Hamming weight of 1001 is 2. Armed with our new encodings and Hamming weights, we can very easily check if a given word can be constructed from our list of characters. Our target word <em>w</em> can be constructed from <em>S</em> if and only if the following equation is true.</p>
-<p>$$ H \left (\phi \left ( S \right ) \right ) - H \left (\phi \left ( w \right ) \right ) &#x3D; H \left (\phi \left ( S \right ) \oplus \phi \left ( w \right ) \right ) $$</p>
-<p>Essentially, the difference in Hamming weights between <em>S</em> and <em>w</em> should be the same as their combined Hamming weight if we remove all the characters in common. There are very efficient methods for computing Hamming weights, and given our limited size of 67 million possible encodings, we could simply create a lookup table for each one with little memory impact. Additionally, the encodings <em>ϕ</em> for every English word can be pre-computed, and the encoding for <em>S</em> only needs to be computed once. We still need to iterate through the list of words, but each iteration will be significantly faster.</p>
-<p>Using this method, along with some heuristics to limit the number of generated solutions, I was able to find Word Connect answers almost instantly. To test it out, I asked my relative what they were stuck on, and we solved the level with ease. The demonstration was super fun, so we decided to play another level. As we played, making words with digital scrabble tiles, we never ended up using the search algorithm. The program just stayed open on my laptop, until after a few minutes, it went to sleep.</p>
-<hr>
-<h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ol>
-<li><a href="https://en.wikipedia.org/wiki/Hamming_weight">Hamming weight</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Hamming_distance">Hamming distance</a></li>
-</ol>
 ]]></content>
   </entry>
   <entry>
@@ -1092,6 +1084,25 @@
 <li><a href="https://www.fourmilab.ch/etexts/www/wells/timemach/timemach.pdf">The Time Machine by H. G. Wells</a></li>
 <li><a href="https://math.stackexchange.com/questions/1283783/an-example-of-an-infinitely-differentiable-function-with-compact-support">Infinitely Differentiable Function with Compact Support</a></li>
 <li><a href="https://www.desmos.com/calculator">Desmos</a></li>
+</ol>
+]]></content>
+  </entry>
+  <entry>
+    <title>Using Math to Beat a Video Game</title>
+    <url>/using-math-to-beat-a-video-game/</url>
+    <content><![CDATA[<p>A relative of mine often plays this game called Word Connect. In Word Connect, you connect tiles with letters to make words, and you have a fixed list of words you create. The challenge arises when you just can’t figure out what word to make. Whenever this happens, my relative will ask me for help. As a native English speaker, I can usually think of some obscure words to solve the puzzle, but not always. Occasionally, I’ll sit with the letters swirling around my head for hours, just trying to come up with something. My relative plays the game mostly to practice English, so they don’t care about their score.</p>
+<p>With this in mind, I decided to start <del>cheating</del> using math. To do this, I established a clearer objective. We start with a set of letters <em>S</em> and the length of the target word <em>len(w)</em>, and using those, we need to reconstruct the target word <em>w</em>. The easiest way to do this is just to iterate through every English word and check if it uses only the letters in <em>S</em>, but that’s too easy. For the sake of the challenge, I wanted to pretend like there were super high volumes of English words, and iterating through strings was slow. Under these conditions, I needed a better method. I needed a smarter method.</p>
+<p>I started by getting rid of unnecessary information that was limiting performance. Words are always spelled in order. You would never write “aegm” when using the word “game” because that’s just incorrect. However, if we’re checking to see whether words can be constructed from a set of letters, order does not matter. Knowing this, I created a simple encoding that only captures the letters in a word. It does not care about position or frequency. The way I did this was through 26-bit binary numbers. Each digit represents a character, and if the character is present in the word, then the corresponding digit is marked as a 1. For example,</p>
+<p>$$\text{“add”} \rightarrow 1001$$</p>
+<p>In this instance, the digit on the right represents “a”, which is a 1. Moving to the left, the digits for “b” and “c” are both 0 because they aren’t present in “add”. Finally, the digit for “d” is a 1. After that, it’s just zeros, so I’m not showing them. As you’ll notice, “d” is marked with a 1 even though there are two “d”s. The encoding doesn’t take frequency into account because it’s not necessary. We can check for frequency after shortlisting words if needed.</p>
+<p>Along with our encoding, we’ll need to use a special property called the Hamming weight. The Hamming weight counts the number of 1’s in a bitstring, so the Hamming weight of 1001 is 2. Armed with our new encodings and Hamming weights, we can very easily check if a given word can be constructed from our list of characters. Our target word <em>w</em> can be constructed from <em>S</em> if and only if the following equation is true.</p>
+<p>$$ H \left (\phi \left ( S \right ) \right ) - H \left (\phi \left ( w \right ) \right ) &#x3D; H \left (\phi \left ( S \right ) \oplus \phi \left ( w \right ) \right ) $$</p>
+<p>Essentially, the difference in Hamming weights between <em>S</em> and <em>w</em> should be the same as their combined Hamming weight if we remove all the characters in common. There are very efficient methods for computing Hamming weights, and given our limited size of 67 million possible encodings, we could simply create a lookup table for each one with little memory impact. Additionally, the encodings <em>ϕ</em> for every English word can be pre-computed, and the encoding for <em>S</em> only needs to be computed once. We still need to iterate through the list of words, but each iteration will be significantly faster.</p>
+<p>Using this method, along with some heuristics to limit the number of generated solutions, I was able to find Word Connect answers almost instantly. To test it out, I asked my relative what they were stuck on, and we solved the level with ease. The demonstration was super fun, so we decided to play another level. As we played, making words with digital scrabble tiles, we never ended up using the search algorithm. The program just stayed open on my laptop, until after a few minutes, it went to sleep.</p>
+<hr>
+<h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ol>
+<li><a href="https://en.wikipedia.org/wiki/Hamming_weight">Hamming weight</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Hamming_distance">Hamming distance</a></li>
 </ol>
 ]]></content>
   </entry>
@@ -1168,6 +1179,29 @@
 <!-- *Add to the [dialogue](/chat), and become part of my story.* -->]]></content>
   </entry>
   <entry>
+    <title>Publications</title>
+    <url>/publications/index.html</url>
+    <content><![CDATA[<p>Also see my: <a href="https://scholar.google.com/citations?user=dqTwtegAAAAJ&hl=en&oi=ao">Google Scholar</a></p>
+<h3 id="Refereed"><a href="#Refereed" class="headerlink" title="Refereed"></a>Refereed</h3><p>Anna Yoo Jeong Ha*, Josephine Passananti*, <strong>Ronik Bhaskar</strong>, Shawn Shan, Reid Southen, Haitao Zheng, Ben Y. Zhao (2024). Organic or Diffused: Can We Distinguish Human Art from AI-generated Images? ACM Conference on Computer and Communications Security, Salt Lake City UT. <a href="https://arxiv.org/abs/2402.03214">arXiv</a></p>
+<p>Zhuolin Yang, Zain Sarwar, Iris Hwang, <strong>Ronik Bhaskar</strong>, Ben Y. Zhao, Haitao Zheng (2024). Can Virtual Reality Protect Users from Keystroke Inference Attacks? USENIX Security, Philadelphia PA. <a href="https://www.usenix.org/system/files/sec23winter-prepub-116-yang-zhuolin.pdf">PDF</a> <a href="https://www.newscientist.com/article/2401929-ai-can-steal-passwords-in-virtual-reality-from-avatar-hand-motions/">Media Coverage</a></p>
+<h3 id="Recreational"><a href="#Recreational" class="headerlink" title="Recreational"></a>Recreational</h3><p><strong>Ronik Bhaskar</strong>, Dawson Ren (2023). PizzaLang: A Language for Hungry Developers. Proc. of SIGBOVIK, Pittsburgh PA. <a href="/projects/PizzaLang.pdf">PDF</a> </p>
+]]></content>
+  </entry>
+  <entry>
+    <title>Full Stack Chat App</title>
+    <url>/projects/chat.html</url>
+    <content><![CDATA[<p>Chat with me <a href="/chat">here</a>. (You’ll know it’s me because my name is <strong>bold</strong>.)</p>
+<h2 id="Designing-the-UI"><a href="#Designing-the-UI" class="headerlink" title="Designing the UI"></a>Designing the UI</h2><p>I don’t create in a vacuum. The people around me drastically influence my creations. Our conversations feel like dialogue in a script. There’s a purpose to everything being said. It’s driving the plot somewhere, and I would never reach the end without their help. </p>
+<p>My chat app doesn’t look like Messages or WhatsApp or Slack or Discord because I don’t see it as a chat app. It’s a continuation of the dialogue happening all around me, which is why <strong>I built the chat app to look like a movie script.</strong> The header has an act number, the location is specified, we get a general description, and the rest that follows is the dialogue.</p>
+<h2 id="Engineering-the-App"><a href="#Engineering-the-App" class="headerlink" title="Engineering the App"></a>Engineering the App</h2><p>I’m incredibly grateful for the power and flexibility of GitHub pages (as you can tell by the URL). That being said, the documentation says they only support static sites, or so they claim. Depending on how much functionality you want from the site, you can do user authentication and even have hooks checking for database updates, updating the UI in real-time. </p>
+<p><strong>For the backend, I used Google Firebase.</strong> Their free tier, the Spark plan, is incredibly powerful, and if you’re getting enough traffic to exceed its limits, you have the demand to monetize your product. I don’t expect heavy traffic, so the Spark plan is enough for me.</p>
+<p>Firebase allows for for Google Authentication, along with plenty of other auth providers. This makes it mildly more difficult to spam the site with fake accounts, and the authentication redirect keeps auth traffic away from GitHub. It’s a win-win.</p>
+<p><strong>For the frontend, I used React.</strong> This isn’t an incredibly intense, so vanilla JS was an option, but React’s libraries wrapping Firebase query snapshots made development much easier. </p>
+<p>There are tutorials and articles out there for building apps with React and Firebase, but relevant ones used Firebase v8 instead of v9, which transitions away from the namespacing. Luckily, Firebase’s documentation covers translating v8 into v9.</p>
+<hr>
+<p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
+  </entry>
+  <entry>
     <title>Anti-ELIZA</title>
     <url>/projects/anti-eliza.html</url>
     <content><![CDATA[<p><em>Conditioning away the human level of trust imparted to AI systems. Inspired by ELIZA. <a href="/anti-eliza/">Test it out.</a></em></p>
@@ -1185,20 +1219,6 @@
 <li><a href="https://arxiv.org/abs/2310.20216">ELIZA Beat GPT-3.5 in a Turing Test</a></li>
 </ol>
 <h2 id="The-ELIZA-Algorithm"><a href="#The-ELIZA-Algorithm" class="headerlink" title="The ELIZA Algorithm"></a>The ELIZA Algorithm</h2><figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">def</span> <span class="title function_">respond</span>(<span class="params">self, statement</span>):</span><br><span class="line">    <span class="keyword">for</span> pattern, responses <span class="keyword">in</span> self.patterns:</span><br><span class="line">        <span class="keyword">match</span> = re.search(pattern, statement.strip(<span class="string">&quot; .!?&quot;</span>), re.IGNORECASE)</span><br><span class="line">        <span class="keyword">if</span> <span class="keyword">match</span>:</span><br><span class="line">            response = random.choice(responses).<span class="built_in">format</span>(*<span class="keyword">match</span>.groups())</span><br><span class="line">            <span class="keyword">return</span> response</span><br><span class="line">    <span class="keyword">return</span> self.default</span><br></pre></td></tr></table></figure>]]></content>
-  </entry>
-  <entry>
-    <title>Full Stack Chat App</title>
-    <url>/projects/chat.html</url>
-    <content><![CDATA[<p>Chat with me <a href="/chat">here</a>. (You’ll know it’s me because my name is <strong>bold</strong>.)</p>
-<h2 id="Designing-the-UI"><a href="#Designing-the-UI" class="headerlink" title="Designing the UI"></a>Designing the UI</h2><p>I don’t create in a vacuum. The people around me drastically influence my creations. Our conversations feel like dialogue in a script. There’s a purpose to everything being said. It’s driving the plot somewhere, and I would never reach the end without their help. </p>
-<p>My chat app doesn’t look like Messages or WhatsApp or Slack or Discord because I don’t see it as a chat app. It’s a continuation of the dialogue happening all around me, which is why <strong>I built the chat app to look like a movie script.</strong> The header has an act number, the location is specified, we get a general description, and the rest that follows is the dialogue.</p>
-<h2 id="Engineering-the-App"><a href="#Engineering-the-App" class="headerlink" title="Engineering the App"></a>Engineering the App</h2><p>I’m incredibly grateful for the power and flexibility of GitHub pages (as you can tell by the URL). That being said, the documentation says they only support static sites, or so they claim. Depending on how much functionality you want from the site, you can do user authentication and even have hooks checking for database updates, updating the UI in real-time. </p>
-<p><strong>For the backend, I used Google Firebase.</strong> Their free tier, the Spark plan, is incredibly powerful, and if you’re getting enough traffic to exceed its limits, you have the demand to monetize your product. I don’t expect heavy traffic, so the Spark plan is enough for me.</p>
-<p>Firebase allows for for Google Authentication, along with plenty of other auth providers. This makes it mildly more difficult to spam the site with fake accounts, and the authentication redirect keeps auth traffic away from GitHub. It’s a win-win.</p>
-<p><strong>For the frontend, I used React.</strong> This isn’t an incredibly intense, so vanilla JS was an option, but React’s libraries wrapping Firebase query snapshots made development much easier. </p>
-<p>There are tutorials and articles out there for building apps with React and Firebase, but relevant ones used Firebase v8 instead of v9, which transitions away from the namespacing. Luckily, Firebase’s documentation covers translating v8 into v9.</p>
-<hr>
-<p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
   </entry>
   <entry>
     <title>Discord Bot</title>
@@ -1306,7 +1326,20 @@
 </style>
 
 <p>A gallery of my original origami designs. They are in chronological order by the date designed. Please contact me before distributing or teaching these models.</p>
-<h2 id="Index"><a href="#Index" class="headerlink" title="Index"></a>Index</h2><p><a href="#whitetail-fawn">Whitetail Fawn - 22.5</a><br><a href="#fish-out-of-water">Fish out of Water - 14 Grid (Partial 28ths)</a><br><a href="#hanging-by-a-thread">Hanging by a Thread - 20 Grid</a><br><a href="#even-littler-dragon">Even Littler Dragon - 6 Grid</a><br><a href="#mandrake">Mandrake - 16 Grid</a><br><a href="#sea-serpent">Sea Serpent - Grafted Fish Base</a><br><a href="#mermaid">Mermaid - 16 Grid</a><br><a href="#phoenix">Phoenix - Grafted Bird Base</a><br><a href="#trophy-hunting">Trophy Hunting - Fish Base</a><br><a href="#fairy">Fairy - 16 Grid</a><br><a href="#wss">Wikipedia Sword and Shield - 16 Grid</a></p>
+<h2 id="Index"><a href="#Index" class="headerlink" title="Index"></a>Index</h2><p><a href="#stargazing">Stargazing - 16 Grid</a><br><a href="#whitetail-fawn">Whitetail Fawn - 22.5</a><br><a href="#fish-out-of-water">Fish out of Water - 14 Grid (Partial 28ths)</a><br><a href="#hanging-by-a-thread">Hanging by a Thread - 20 Grid</a><br><a href="#even-littler-dragon">Even Littler Dragon - 6 Grid</a><br><a href="#mandrake">Mandrake - 16 Grid</a><br><a href="#sea-serpent">Sea Serpent - Grafted Fish Base</a><br><a href="#mermaid">Mermaid - 16 Grid</a><br><a href="#phoenix">Phoenix - Grafted Bird Base</a><br><a href="#trophy-hunting">Trophy Hunting - Fish Base</a><br><a href="#fairy">Fairy - 16 Grid</a><br><a href="#wss">Wikipedia Sword and Shield - 16 Grid</a></p>
+<div class="simple-wrapper">
+  <div class="text-wrapper">
+    <a id="stargazing"></a>
+    <h1>Stargazing - 16 Grid</h1>
+    <p>Alternate title: the universe observing itself. Origami seems like a fitting medium for this idea, since both the observer (telescope) and the universe (night sky) are folded from the same sheet of paper. Designing a piece that is its own background was an interesting challenge.</p>
+    <p>Designed: 09/06/24</p>
+  </div>
+  <div class="image-container">
+  <img src="gallery/stargazing.jpg" alt="Origami telescope and night sky."> 
+  <img src="gallery/stargazing-cp.png" alt="Crease pattern of origami telescope and night sky."> 
+  </div>
+</div>
+
 <div class="simple-wrapper">
   <div class="text-wrapper">
     <a id="whitetail-fawn"></a>
@@ -1833,6 +1866,20 @@ table, th {
 <p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
   </entry>
   <entry>
+    <title>Text Generator</title>
+    <url>/projects/text_generator.html</url>
+    <content><![CDATA[<p>Try generating some text <a href="/text_generator">here</a>. While I can’t guarantee it’ll be meaningful, it is a lot of fun.</p>
+<p>This is a combined summary of the original project in Python, and the subsequent translation to JS.</p>
+<h2 id="Background"><a href="#Background" class="headerlink" title="Background"></a>Background</h2><p>Language is weird. We keep making rules and breaking them, one phrase can mean 15 different things, and despite having tens of thousands of words at our disposal, we can’t always convey exactly what we want to.</p>
+<p>Language is weird, and I love it. Let’s say you start with the word “once.” Whenever you see “once,” you can usually follow it with “upon.” If you see “upon,” you can probably follow it with “a.” Why not generate sentences and paragraphs with probabilities?</p>
+<h2 id="Logic"><a href="#Logic" class="headerlink" title="Logic"></a>Logic</h2><p>Markov chains sound scary, but they’re not. Remember the game Snakes and Ladders? When you’re playing, you’re always on a square on the board. When you roll the dice, you have certain probabilities of moving to different squares. Some have a really high probability, like going from 1 to 6, and others are impossible, like going from 1 to 100. That’s exactly what a Markov chain is. From any given state (square), you have a given probability (dice) of moving to another state.</p>
+<p>That’s great and all, but where does language fit into this? Take that Snakes and Ladders game. Assign each square a word. Every time you land on a new word, you write it down. After playing a full game, you will have a long string of words. Some sections might sound meaningful, others might not. This project takes long pieces of text, pretends like they’re recorded games of Snakes and Ladders, and tries to rebuild the board. On that new board, you can play as many games as you’d like, and most of the time, your string of words will be different.</p>
+<h2 id="Code"><a href="#Code" class="headerlink" title="Code"></a>Code</h2><p>The web project, with the original instructions for collaborators, can be found <a href="https://github.com/ronikbhaskar/text_generator">here</a>.</p>
+<p>The original Python code can be found <a href="https://github.com/ronikbhaskar/markov_text_generation">here</a>. The README has a sample generated from Sun Tzu’s <em>The Art of War</em>.</p>
+<hr>
+<p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
+  </entry>
+  <entry>
     <title>Tomato Timer</title>
     <url>/projects/tomato_timer.html</url>
     <content><![CDATA[<style>
@@ -1870,20 +1917,6 @@ table, th {
 <p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
   </entry>
   <entry>
-    <title>Text Generator</title>
-    <url>/projects/text_generator.html</url>
-    <content><![CDATA[<p>Try generating some text <a href="/text_generator">here</a>. While I can’t guarantee it’ll be meaningful, it is a lot of fun.</p>
-<p>This is a combined summary of the original project in Python, and the subsequent translation to JS.</p>
-<h2 id="Background"><a href="#Background" class="headerlink" title="Background"></a>Background</h2><p>Language is weird. We keep making rules and breaking them, one phrase can mean 15 different things, and despite having tens of thousands of words at our disposal, we can’t always convey exactly what we want to.</p>
-<p>Language is weird, and I love it. Let’s say you start with the word “once.” Whenever you see “once,” you can usually follow it with “upon.” If you see “upon,” you can probably follow it with “a.” Why not generate sentences and paragraphs with probabilities?</p>
-<h2 id="Logic"><a href="#Logic" class="headerlink" title="Logic"></a>Logic</h2><p>Markov chains sound scary, but they’re not. Remember the game Snakes and Ladders? When you’re playing, you’re always on a square on the board. When you roll the dice, you have certain probabilities of moving to different squares. Some have a really high probability, like going from 1 to 6, and others are impossible, like going from 1 to 100. That’s exactly what a Markov chain is. From any given state (square), you have a given probability (dice) of moving to another state.</p>
-<p>That’s great and all, but where does language fit into this? Take that Snakes and Ladders game. Assign each square a word. Every time you land on a new word, you write it down. After playing a full game, you will have a long string of words. Some sections might sound meaningful, others might not. This project takes long pieces of text, pretends like they’re recorded games of Snakes and Ladders, and tries to rebuild the board. On that new board, you can play as many games as you’d like, and most of the time, your string of words will be different.</p>
-<h2 id="Code"><a href="#Code" class="headerlink" title="Code"></a>Code</h2><p>The web project, with the original instructions for collaborators, can be found <a href="https://github.com/ronikbhaskar/text_generator">here</a>.</p>
-<p>The original Python code can be found <a href="https://github.com/ronikbhaskar/markov_text_generation">here</a>. The README has a sample generated from Sun Tzu’s <em>The Art of War</em>.</p>
-<hr>
-<p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
-  </entry>
-  <entry>
     <title>Ultimate Tic Tac Toe</title>
     <url>/projects/ultimate_tic_tac_toe.html</url>
     <content><![CDATA[<p>Play the game <a href="/ultimate_tic_tac_toe">here</a>. Grab a friend (or enemy) because this game requires two people.</p>
@@ -1913,14 +1946,5 @@ table, th {
 </ul>
 <hr>
 <p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>Publications</title>
-    <url>/publications/index.html</url>
-    <content><![CDATA[<p>Also see my: <a href="https://scholar.google.com/citations?user=dqTwtegAAAAJ&hl=en&oi=ao">Google Scholar</a></p>
-<h3 id="Refereed"><a href="#Refereed" class="headerlink" title="Refereed"></a>Refereed</h3><p>Anna Yoo Jeong Ha*, Josephine Passananti*, <strong>Ronik Bhaskar</strong>, Shawn Shan, Reid Southen, Haitao Zheng, Ben Y. Zhao (2024). Organic or Diffused: Can We Distinguish Human Art from AI-generated Images? ACM Conference on Computer and Communications Security, Salt Lake City UT. <a href="https://arxiv.org/abs/2402.03214">arXiv</a></p>
-<p>Zhuolin Yang, Zain Sarwar, Iris Hwang, <strong>Ronik Bhaskar</strong>, Ben Y. Zhao, Haitao Zheng (2024). Can Virtual Reality Protect Users from Keystroke Inference Attacks? USENIX Security, Philadelphia PA. <a href="https://www.usenix.org/system/files/sec23winter-prepub-116-yang-zhuolin.pdf">PDF</a> <a href="https://www.newscientist.com/article/2401929-ai-can-steal-passwords-in-virtual-reality-from-avatar-hand-motions/">Media Coverage</a></p>
-<h3 id="Recreational"><a href="#Recreational" class="headerlink" title="Recreational"></a>Recreational</h3><p><strong>Ronik Bhaskar</strong>, Dawson Ren (2023). PizzaLang: A Language for Hungry Developers. Proc. of SIGBOVIK, Pittsburgh PA. <a href="/projects/PizzaLang.pdf">PDF</a> </p>
-]]></content>
   </entry>
 </search>
