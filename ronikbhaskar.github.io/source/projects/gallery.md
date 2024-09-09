@@ -47,6 +47,7 @@ A gallery of my original origami designs. They are in chronological order by the
 
 ## Index
 
+[Stargazing - 16 Grid](#stargazing)
 [Whitetail Fawn - 22.5](#whitetail-fawn)
 [Fish out of Water - 14 Grid (Partial 28ths)](#fish-out-of-water)
 [Hanging by a Thread - 20 Grid](#hanging-by-a-thread)
@@ -58,6 +59,19 @@ A gallery of my original origami designs. They are in chronological order by the
 [Trophy Hunting - Fish Base](#trophy-hunting)
 [Fairy - 16 Grid](#fairy)
 [Wikipedia Sword and Shield - 16 Grid](#wss)
+
+<div class="simple-wrapper">
+  <div class="text-wrapper">
+    <a id="stargazing"></a>
+    <h1>Stargazing - 16 Grid</h1>
+    <p>Alternate title: the universe observing itself. Origami seems like a fitting medium for this idea, since both the observer (telescope) and the universe (night sky) are folded from the same sheet of paper. Designing a piece that is its own background was an interesting challenge.</p>
+    <p>Designed: 09/06/24</p>
+  </div>
+  <div class="image-container">
+  <img src="gallery/stargazing.jpg" alt="Origami telescope and night sky."> 
+  <img src="gallery/stargazing-cp.png" alt="Crease pattern of origami telescope and night sky."> 
+  </div>
+</div>
 
 <div class="simple-wrapper">
   <div class="text-wrapper">
