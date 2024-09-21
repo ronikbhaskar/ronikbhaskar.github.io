@@ -1,6 +1,6 @@
+https://ronikbhaskar.github.io/projects/gallery
 https://ronikbhaskar.github.io/praise/
 https://ronikbhaskar.github.io/everything-generates-text/
-https://ronikbhaskar.github.io/projects/gallery
 https://ronikbhaskar.github.io/it-has-to-be-new/
 https://ronikbhaskar.github.io/hanging-by-a-thread-designs-from-the-months-to-come/
 https://ronikbhaskar.github.io/projects/
@@ -67,6 +67,6 @@ https://ronikbhaskar.github.io/projects/obsidian-editor
 https://ronikbhaskar.github.io/projects/steganography
 https://ronikbhaskar.github.io/projects/tomato_timer
 https://ronikbhaskar.github.io/projects/math-art
-https://ronikbhaskar.github.io/projects/discord_bot
 https://ronikbhaskar.github.io/projects/discord_scraper
+https://ronikbhaskar.github.io/projects/discord_bot
 https://ronikbhaskar.github.io/
