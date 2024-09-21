@@ -47,6 +47,7 @@ A gallery of my original origami designs. They are in chronological order by the
 
 ## Index
 
+[Sinking Feeling - 18 Grid](#sinking-feeling)
 [Stargazing - 16 Grid](#stargazing)
 [Whitetail Fawn - 22.5](#whitetail-fawn)
 [Fish out of Water - 14 Grid (Partial 28ths)](#fish-out-of-water)
@@ -59,6 +60,19 @@ A gallery of my original origami designs. They are in chronological order by the
 [Trophy Hunting - Fish Base](#trophy-hunting)
 [Fairy - 16 Grid](#fairy)
 [Wikipedia Sword and Shield - 16 Grid](#wss)
+
+<div class="simple-wrapper">
+  <div class="text-wrapper">
+    <a id="sinking-feeling"></a>
+    <h1>Sinking Feeling - 18 Grid</h1>
+    <p>Meta origami models are so fun, but they typically focus on cranes or blank pieces of paper. There are very few models that incorporate the traditional boat, so I designed a model that had two. The title is a double entendre for the sink fold.</p>
+    <p>Designed: 09/20/24</p>
+  </div>
+  <div class="image-container">
+  <img src="gallery/sinking-feeling.jpg" alt="Origami boat and sailor."> 
+  <img src="gallery/sinking-feeling-cp.png" alt="Crease pattern of origami boat and sailor."> 
+  </div>
+</div>
 
 <div class="simple-wrapper">
   <div class="text-wrapper">
