@@ -2,9 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://ronikbhaskar.github.io/new-beginnings/</loc>
+    
+    <lastmod>2024-09-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://ronikbhaskar.github.io/projects/gallery</loc>
     
-    <lastmod>2024-09-21</lastmod>
+    <lastmod>2024-09-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://ronikbhaskar.github.io/about/</loc>
+    
+    <lastmod>2024-09-22</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -230,15 +248,6 @@
     <loc>https://ronikbhaskar.github.io/the-test-tree/</loc>
     
     <lastmod>2024-04-18</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://ronikbhaskar.github.io/about/</loc>
-    
-    <lastmod>2024-04-12</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -623,7 +632,7 @@
   </url>
   
   <url>
-    <loc>https://ronikbhaskar.github.io/projects/discord_scraper</loc>
+    <loc>https://ronikbhaskar.github.io/projects/discord_bot</loc>
     
     <lastmod>2023-07-01</lastmod>
     
@@ -632,7 +641,7 @@
   </url>
   
   <url>
-    <loc>https://ronikbhaskar.github.io/projects/discord_bot</loc>
+    <loc>https://ronikbhaskar.github.io/projects/discord_scraper</loc>
     
     <lastmod>2023-07-01</lastmod>
     
@@ -643,7 +652,7 @@
 
   <url>
     <loc>https://ronikbhaskar.github.io/</loc>
-    <lastmod>2024-09-21</lastmod>
+    <lastmod>2024-09-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>

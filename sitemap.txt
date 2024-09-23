@@ -1,4 +1,6 @@
+https://ronikbhaskar.github.io/new-beginnings/
 https://ronikbhaskar.github.io/projects/gallery
+https://ronikbhaskar.github.io/about/
 https://ronikbhaskar.github.io/praise/
 https://ronikbhaskar.github.io/everything-generates-text/
 https://ronikbhaskar.github.io/it-has-to-be-new/
@@ -24,7 +26,6 @@ https://ronikbhaskar.github.io/breaking-language-models-for-fun/
 https://ronikbhaskar.github.io/what-is-gibberish/
 https://ronikbhaskar.github.io/run-on-sentences/
 https://ronikbhaskar.github.io/the-test-tree/
-https://ronikbhaskar.github.io/about/
 https://ronikbhaskar.github.io/publications/
 https://ronikbhaskar.github.io/celestial-navigation-part-3/
 https://ronikbhaskar.github.io/celestial-navigation-part-2/
@@ -67,6 +68,6 @@ https://ronikbhaskar.github.io/projects/obsidian-editor
 https://ronikbhaskar.github.io/projects/steganography
 https://ronikbhaskar.github.io/projects/tomato_timer
 https://ronikbhaskar.github.io/projects/math-art
-https://ronikbhaskar.github.io/projects/discord_scraper
 https://ronikbhaskar.github.io/projects/discord_bot
+https://ronikbhaskar.github.io/projects/discord_scraper
 https://ronikbhaskar.github.io/
