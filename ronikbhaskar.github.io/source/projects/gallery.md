@@ -229,3 +229,5 @@ A gallery of my original origami designs. They are in chronological order by the
   <img src="gallery/wikipedia-sword-and-shield-cp.png" alt="Crease pattern of origami sword and shield."> 
   </div>
 </div>
+
+Gallery layout credit to [Boice Wong](https://www.obb.design/c).
