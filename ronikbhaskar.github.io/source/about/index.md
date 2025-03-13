@@ -26,7 +26,7 @@ description: >-
 </style>
 
 <div class="side-bar-about">
-<img src="ronik.jpg" class="profile-image-ronik" alt="Ronik looking up at a plant."> 
+<img src="ronik_2.jpg" class="profile-image-ronik" alt="Ronik looking up at a plant."> 
 <h4>Quick Links:</h4>
 <div>
     <a href="/publications/">Publications</a> </br>
