@@ -457,15 +457,6 @@
 ]]></content>
   </entry>
   <entry>
-    <title>New Beginnings</title>
-    <url>/new-beginnings/</url>
-    <content><![CDATA[<p>Back when I was starting university, the institution made a huge fuss about orientation. There were days of programming filled with events and activities, each one an opportunity to make friends and memories. Being away from home, I was nervous and excited and nervous for the days ahead. That anticipation built until commencement day, on which all first-years would make their inaugural march through the university gates. As the clock reached 9, I opened my laptop, clicked the broadcast link, and watched as a lone bagpipe player walked around the university quad playing “Scotland the Brave.” There were a few speeches after, I think. I’m not too sure; I stopped watching pretty quickly. </p>
-<p>As I embark on a new beginning myself, I am reminded of the new beginnings gone past, particularly starting college in the middle of a global pandemic. That first year of college in particular was so strange. My orientation was virtual, my classes were virtual, and almost every conversation I had was virtual. Whenever someone would ask me how I was enjoying higher education, I would tell them that I had never been inside any of the academic buildings, but I knew what they all looked like on the outside.</p>
-<p>Eventually, things changed, and I attended in-person classes, sat next to people in dining halls, and high-fived someone for the first time in over a year. Still, those of us from the COVID era never were quite the same as our older or younger peers. We skipped out on traditions, ignored famous events, and fell in love with forgotten parts of the university. It didn’t matter that we were finally given a chance at a “normal” college experience. By that point, it was too late, and we had already developed our own expectations for what college meant to us.</p>
-<p>The beginning of our journey strongly controlled the trajectory of our college experience, and knowing that now, I realize these next few months will define so much of my PhD. I may already know the people and the place, but my purpose here is quite different from what it was four years ago. My purpose four years ago was to make it to today, and today, my purpose is to build the foundation of my academic career. There will be similarities between then and now, but I know one thing for sure. When commencement begins, I won’t just be watching on a live broadcast. I’ll be walking through those gates, ready to take on a new beginning.</p>
-]]></content>
-  </entry>
-  <entry>
     <title>Knowing Your Audience</title>
     <url>/knowing-your-audience/</url>
     <content><![CDATA[<p>A while back, I took an academic and professional writing class. It’s called Little Red Schoolhouse, and it’s one of the most famous classes at the university. Every week, we would submit a writing assignment based on a new prompt. Within that prompt, we could write about whatever field we wanted, but there was a catch. Before every assignment, we had to submit a reader’s statement. The reader’s statement was a paragraph summarizing the knowledge, background, and goals of the reader. Ideally, our submission would match the kind of writing best suited for our expected reader. Every decision we made about our writing, from jargon to pacing to structure, had to be made to the benefit of the reader described in the statement.</p>
@@ -477,6 +468,15 @@
 <p>That was my real reader’s statement. Actually, that was everyone’s real reader’s statement; they just didn’t know it. Our audiences were not hypothetical readers invented in our minds. They were writing students and lectors. Using this framework, I would properly craft my submitted reader’s statement and writing assignment to match. My grades were phenomenal, and the feedback was overwhelmingly positive. Though my previous writing experience likely influenced this, that multi-layered reader’s statement formed an undeniably effective framework for my assignments. </p>
 <p>In some ways, I may appear to have subverted the course, but looking back, I learned the lesson even better this way. I wasn’t inventing readers for the sake of an assignment. I was actively studying my real audience and writing specifically for them. Having learned this lesson, I try to apply it whenever I write, but there’s one place I just haven’t studied my readers: here. I have no clue what you, the reader, want to read. I don’t know how you found me or why you read my work. To be clear, I’m eternally grateful, but I want to write for you, the audience. Right now, I’m just writing for myself. If you found this website, then you can probably find me, online or in person, so please do. Tell me who you are, why you read what I write, and what you’re looking for. </p>
 <p>Or don’t, that’s fine too. I’ll keep shouting into the void, just in case you’re still listening.</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>New Beginnings</title>
+    <url>/new-beginnings/</url>
+    <content><![CDATA[<p>Back when I was starting university, the institution made a huge fuss about orientation. There were days of programming filled with events and activities, each one an opportunity to make friends and memories. Being away from home, I was nervous and excited and nervous for the days ahead. That anticipation built until commencement day, on which all first-years would make their inaugural march through the university gates. As the clock reached 9, I opened my laptop, clicked the broadcast link, and watched as a lone bagpipe player walked around the university quad playing “Scotland the Brave.” There were a few speeches after, I think. I’m not too sure; I stopped watching pretty quickly. </p>
+<p>As I embark on a new beginning myself, I am reminded of the new beginnings gone past, particularly starting college in the middle of a global pandemic. That first year of college in particular was so strange. My orientation was virtual, my classes were virtual, and almost every conversation I had was virtual. Whenever someone would ask me how I was enjoying higher education, I would tell them that I had never been inside any of the academic buildings, but I knew what they all looked like on the outside.</p>
+<p>Eventually, things changed, and I attended in-person classes, sat next to people in dining halls, and high-fived someone for the first time in over a year. Still, those of us from the COVID era never were quite the same as our older or younger peers. We skipped out on traditions, ignored famous events, and fell in love with forgotten parts of the university. It didn’t matter that we were finally given a chance at a “normal” college experience. By that point, it was too late, and we had already developed our own expectations for what college meant to us.</p>
+<p>The beginning of our journey strongly controlled the trajectory of our college experience, and knowing that now, I realize these next few months will define so much of my PhD. I may already know the people and the place, but my purpose here is quite different from what it was four years ago. My purpose four years ago was to make it to today, and today, my purpose is to build the foundation of my academic career. There will be similarities between then and now, but I know one thing for sure. When commencement begins, I won’t just be watching on a live broadcast. I’ll be walking through those gates, ready to take on a new beginning.</p>
 ]]></content>
   </entry>
   <entry>
@@ -582,6 +582,26 @@
 ]]></content>
   </entry>
   <entry>
+    <title>On Repetition</title>
+    <url>/on-repetition/</url>
+    <content><![CDATA[<p>I can recall quite clearly a moment from five years ago. The blinding summer sun beamed through my open bedroom window. The smell of fresh flowers filled the air as the humidity clung tight around my body. I closed my eyes, breathed in the sweet, heavy air, and opened my laptop to study Python programming. I could have spent my summer an infinite number of ways, and I chose to learn Python through a practical course: Automate the Boring Stuff with Python. Python and automation were the future, so I had to be prepared. Automate the Boring Stuff began my five-year journey of automation. As I progressed through projects, internships, and a degree in computer science, automation became a sort of faith. Anything that felt remotely repetitive was automated, even if it didn’t need to be. For me, automation became… automatic.</p>
+<p>Over the past week, I worked on a project full of nonstop repetition, much to the dismay of my former self. Over the span of about 4 days, an artist and I cut 125 ft of fabric and stitched over 200 ft of seams. Those cuts and seams were all straight lines too: no variation. I worked long days for no pay on a project I will never see or be credited with. I carried around heavy rolls of material, got poked by pins, and performed the same, repetitive tasks over and over and over.</p>
+<p>And I loved it.</p>
+<p>To be clear, I didn’t enjoy the process because of the final product, nor did I gain anything I could put on my resume. I didn’t learn any skills or improve the ones I already had. If those hours I spent on the project did not exist, my life would not be at all different from what it is now. The process wasn’t particularly enjoyable, and while I care about my friend—the artist—I could still help him out without enjoying the process, but I didn’t.</p>
+<p>It doesn’t seem like I should have enjoyed such a repetitive project, yet I did because repetition did something five years of automation could never do. Repetition gave my mind a break. When you’re constantly automating systems, you trade mental energy for physical energy and time. Automation requires a lot of planning at the onset, but once it’s running, you’re free to spend your newfound free time however you please. For me, that meant more work. More work means more automation. This constant cycle of automation leaves only the most mentally demanding tasks left to complete—the ones with no repetition. Five years of automation meant that I spent the vast majority of my working time intensely using my brain while giving my body a break.</p>
+<p>This system works for a while, but eventually, your mind gets fatigued, and you can’t make progress without giving yourself a break. At first, I thought the only way to give my mind a break was to stop working, but I now realize that doesn’t have to be the case. While spending hours on repetitive tasks, my body went on autopilot. My hands learned the process, and my mind was left untethered. I felt like I was taking a break, yet I was still working.</p>
+<p>This feeling isn’t particularly uncommon in daily life. It’s the same feeling you get when you take a shower or drive your daily commute. In 2001, Dr. Marcus Raichle coined the term “default mode” for this resting-state brain function. To me, “default mode” feels like a misnomer because there is nothing default about this mode, my brain is rarely there. The default mode network has been shown to have countless functions in reflective thought and creative idea generation, invaluable processes for anyone. There are treasure troves of research on the default mode network and its countless functions, from moral reasoning to theory of mind. I highly recommend reading the literature if you’re interested.</p>
+<p>I have spent five years trying to give myself more time in default mode, to reflect and process ideas, to think without a fixed goal. I always thought the answer was automation. The more I automate, the more time I save, and the more time I have to do the things I want to do. In this endless pursuit of automation, I never stopped to wonder if there was a way to work while thinking about the things I wanted. Five years later, I finally have the solution. I’ll still take plenty of actual breaks, and I won’t stop automating, but I don’t need to fear repetition anymore. There’s a beautiful simplicity in repetition, one that I am ready to learn.</p>
+<hr>
+<h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ol>
+<li><a href="https://trends.google.com/trends/explore?date=today%205-y&geo=US&q=automate&hl=en">Google Trend for “automate” (it’s going up)</a></li>
+<li><a href="https://automatetheboringstuff.com/">Automate the Boring Stuff with Python</a></li>
+<li><a href="https://www.nationalgeographic.co.uk/history-and-civilisation/2022/08/the-science-of-why-you-have-great-ideas-in-the-shower">Nat Geo piece on Default Mode Network</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Default_mode_network">Default Mode Network</a></li>
+</ol>
+]]></content>
+  </entry>
+  <entry>
     <title>Praise</title>
     <url>/praise/</url>
     <content><![CDATA[<p>Over the past few months, I’ve been sharing my art with a community of origamists called Origami-Dan. Origami-Dan is a server with over 4,000 members, and a few hundred are pretty active. Some of the best origamists in the world come here to talk about art and share their passion for paper-folding. Since I was getting into design work, I thought I’d start sharing what I make here. People could let me know what they liked, what they didn’t, potential improvements, etc. It seemed like a pretty innocuous idea.</p>
@@ -600,26 +620,6 @@
 <h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ol>
 <li><a href="https://carla.umn.edu/speechacts/compliments/american.html">American English Compliments Report</a></li>
 <li><a href="https://discord.com/invite/yU4Cvry">Origami-Dan Discord Server</a></li>
-</ol>
-]]></content>
-  </entry>
-  <entry>
-    <title>On Repetition</title>
-    <url>/on-repetition/</url>
-    <content><![CDATA[<p>I can recall quite clearly a moment from five years ago. The blinding summer sun beamed through my open bedroom window. The smell of fresh flowers filled the air as the humidity clung tight around my body. I closed my eyes, breathed in the sweet, heavy air, and opened my laptop to study Python programming. I could have spent my summer an infinite number of ways, and I chose to learn Python through a practical course: Automate the Boring Stuff with Python. Python and automation were the future, so I had to be prepared. Automate the Boring Stuff began my five-year journey of automation. As I progressed through projects, internships, and a degree in computer science, automation became a sort of faith. Anything that felt remotely repetitive was automated, even if it didn’t need to be. For me, automation became… automatic.</p>
-<p>Over the past week, I worked on a project full of nonstop repetition, much to the dismay of my former self. Over the span of about 4 days, an artist and I cut 125 ft of fabric and stitched over 200 ft of seams. Those cuts and seams were all straight lines too: no variation. I worked long days for no pay on a project I will never see or be credited with. I carried around heavy rolls of material, got poked by pins, and performed the same, repetitive tasks over and over and over.</p>
-<p>And I loved it.</p>
-<p>To be clear, I didn’t enjoy the process because of the final product, nor did I gain anything I could put on my resume. I didn’t learn any skills or improve the ones I already had. If those hours I spent on the project did not exist, my life would not be at all different from what it is now. The process wasn’t particularly enjoyable, and while I care about my friend—the artist—I could still help him out without enjoying the process, but I didn’t.</p>
-<p>It doesn’t seem like I should have enjoyed such a repetitive project, yet I did because repetition did something five years of automation could never do. Repetition gave my mind a break. When you’re constantly automating systems, you trade mental energy for physical energy and time. Automation requires a lot of planning at the onset, but once it’s running, you’re free to spend your newfound free time however you please. For me, that meant more work. More work means more automation. This constant cycle of automation leaves only the most mentally demanding tasks left to complete—the ones with no repetition. Five years of automation meant that I spent the vast majority of my working time intensely using my brain while giving my body a break.</p>
-<p>This system works for a while, but eventually, your mind gets fatigued, and you can’t make progress without giving yourself a break. At first, I thought the only way to give my mind a break was to stop working, but I now realize that doesn’t have to be the case. While spending hours on repetitive tasks, my body went on autopilot. My hands learned the process, and my mind was left untethered. I felt like I was taking a break, yet I was still working.</p>
-<p>This feeling isn’t particularly uncommon in daily life. It’s the same feeling you get when you take a shower or drive your daily commute. In 2001, Dr. Marcus Raichle coined the term “default mode” for this resting-state brain function. To me, “default mode” feels like a misnomer because there is nothing default about this mode, my brain is rarely there. The default mode network has been shown to have countless functions in reflective thought and creative idea generation, invaluable processes for anyone. There are treasure troves of research on the default mode network and its countless functions, from moral reasoning to theory of mind. I highly recommend reading the literature if you’re interested.</p>
-<p>I have spent five years trying to give myself more time in default mode, to reflect and process ideas, to think without a fixed goal. I always thought the answer was automation. The more I automate, the more time I save, and the more time I have to do the things I want to do. In this endless pursuit of automation, I never stopped to wonder if there was a way to work while thinking about the things I wanted. Five years later, I finally have the solution. I’ll still take plenty of actual breaks, and I won’t stop automating, but I don’t need to fear repetition anymore. There’s a beautiful simplicity in repetition, one that I am ready to learn.</p>
-<hr>
-<h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ol>
-<li><a href="https://trends.google.com/trends/explore?date=today%205-y&geo=US&q=automate&hl=en">Google Trend for “automate” (it’s going up)</a></li>
-<li><a href="https://automatetheboringstuff.com/">Automate the Boring Stuff with Python</a></li>
-<li><a href="https://www.nationalgeographic.co.uk/history-and-civilisation/2022/08/the-science-of-why-you-have-great-ideas-in-the-shower">Nat Geo piece on Default Mode Network</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Default_mode_network">Default Mode Network</a></li>
 </ol>
 ]]></content>
   </entry>
@@ -681,6 +681,19 @@
 ]]></content>
   </entry>
   <entry>
+    <title>Standardized Test Problems in Real Life</title>
+    <url>/standardized-test-problems-in-real-life/</url>
+    <content><![CDATA[<p>After almost two decades of taking standardized tests, I still don’t understand why the questions are so ridiculous. Why does Alice need 47 watermelons? Who put two trains on the same track in opposite directions? Does everyone in the room <em>really</em> need to shake hands?</p>
+<p>The questions are weird, but I can’t really complain. My test-taking skills got me into college, through college, and even made me some money along the way through tutoring. I’m not half bad at figuring out the probability you pick a red marble out of the bag, which came in handy a little while back.</p>
+<p>I was in the passenger seat of a car in a different country, and the time came to fill the tank. When we got to the station, we clicked the button to pay for gas, and the screen instantly lit up with seven different payment amounts for pre-approval. Admittedly, we just kinda stared blankly at it for a minute. You see, as bald-eagle-loving Americans, we were used to the ability to let the pump just fill the tank and just hope it didn’t run over budget, but that wasn’t an option here. Instead, we were forced to select just how much we would approve. I started putting all the details together, and I came up with the following problem:</p>
+<p>You are at a gas pump, and you need to fill your tank. Your tank size is roughly 20 gallons, and it is 3&#x2F;4 empty. There are 3.8 liters in a gallon. The price of gas per liter isn’t listed anywhere, but you see on the screen that the previous customer paid 91 dollars for 54 liters. The options for pre-approval are 20, 30, 50, 70, 90, 100, and 110 dollars. What is the smallest amount you can pre-approve such that your tank will be completely full?</p>
+<p>Before I give you the answer, try it yourself with a calculator. To be clear, when I solved it, I didn’t write out the problem; those details are just what was swirling in my head at that moment. I pulled out the calculator app on my phone, pressed a few buttons, and in about 30 seconds, I had my final answer of 100 dollars. We hit the button, started filling the tank, and the actual amount of gas needed to fill the car was worth 97 dollars, which meant my calculations were spot-on. </p>
+<p>Solving the problem was fun, but it required a lot more processing than the short paragraph I wrote out. I had to know the unit conversion from gallons to liters. I had to assume the previous customer purchased low-octane fuel because it’s the most common choice. I had to understand how much rounding was just enough. I had to make assumptions about the gas tank. I had to package up all that real-world data into a pretty, little math problem. </p>
+<p>To the credit of all the people in math class that said, “we can use a calculator in the real world,” yes, yes we can. They’re in our pockets constantly. However, we still need to understand which numbers are important. Synthesizing that information efficiently is the first step to making math useful in the real world. We can use it whenever, but it only makes sense when we have a real problem to solve. Being able to gather the relevant information from a situation is a useful skill I’m grateful to have practiced through standardized tests, and I’m beginning to appreciate those problems more now.</p>
+<p>I still think the problems could be a bit more realistic though. I mean, <em>47</em> watermelons? Really?</p>
+]]></content>
+  </entry>
+  <entry>
     <title>Square One</title>
     <url>/square-one/</url>
     <content><![CDATA[<p>After another set of fruitless experiments and abandoned ideas, my mentor told me we were back to square one.</p>
@@ -696,19 +709,6 @@
 <li><a href="https://en.wikipedia.org/wiki/Square-1_(puzzle)">Square-1 Puzzle</a></li>
 <li>The discourse surrounding the etymology of “square one” lacks enough rigor to warrant any particular links. Instead, a Google search for “origin of square one” will provide plenty of questionable sources offering one of the three explanations listed above.</li>
 </ol>
-]]></content>
-  </entry>
-  <entry>
-    <title>Standardized Test Problems in Real Life</title>
-    <url>/standardized-test-problems-in-real-life/</url>
-    <content><![CDATA[<p>After almost two decades of taking standardized tests, I still don’t understand why the questions are so ridiculous. Why does Alice need 47 watermelons? Who put two trains on the same track in opposite directions? Does everyone in the room <em>really</em> need to shake hands?</p>
-<p>The questions are weird, but I can’t really complain. My test-taking skills got me into college, through college, and even made me some money along the way through tutoring. I’m not half bad at figuring out the probability you pick a red marble out of the bag, which came in handy a little while back.</p>
-<p>I was in the passenger seat of a car in a different country, and the time came to fill the tank. When we got to the station, we clicked the button to pay for gas, and the screen instantly lit up with seven different payment amounts for pre-approval. Admittedly, we just kinda stared blankly at it for a minute. You see, as bald-eagle-loving Americans, we were used to the ability to let the pump just fill the tank and just hope it didn’t run over budget, but that wasn’t an option here. Instead, we were forced to select just how much we would approve. I started putting all the details together, and I came up with the following problem:</p>
-<p>You are at a gas pump, and you need to fill your tank. Your tank size is roughly 20 gallons, and it is 3&#x2F;4 empty. There are 3.8 liters in a gallon. The price of gas per liter isn’t listed anywhere, but you see on the screen that the previous customer paid 91 dollars for 54 liters. The options for pre-approval are 20, 30, 50, 70, 90, 100, and 110 dollars. What is the smallest amount you can pre-approve such that your tank will be completely full?</p>
-<p>Before I give you the answer, try it yourself with a calculator. To be clear, when I solved it, I didn’t write out the problem; those details are just what was swirling in my head at that moment. I pulled out the calculator app on my phone, pressed a few buttons, and in about 30 seconds, I had my final answer of 100 dollars. We hit the button, started filling the tank, and the actual amount of gas needed to fill the car was worth 97 dollars, which meant my calculations were spot-on. </p>
-<p>Solving the problem was fun, but it required a lot more processing than the short paragraph I wrote out. I had to know the unit conversion from gallons to liters. I had to assume the previous customer purchased low-octane fuel because it’s the most common choice. I had to understand how much rounding was just enough. I had to make assumptions about the gas tank. I had to package up all that real-world data into a pretty, little math problem. </p>
-<p>To the credit of all the people in math class that said, “we can use a calculator in the real world,” yes, yes we can. They’re in our pockets constantly. However, we still need to understand which numbers are important. Synthesizing that information efficiently is the first step to making math useful in the real world. We can use it whenever, but it only makes sense when we have a real problem to solve. Being able to gather the relevant information from a situation is a useful skill I’m grateful to have practiced through standardized tests, and I’m beginning to appreciate those problems more now.</p>
-<p>I still think the problems could be a bit more realistic though. I mean, <em>47</em> watermelons? Really?</p>
 ]]></content>
   </entry>
   <entry>
@@ -1138,18 +1138,6 @@
 ]]></content>
   </entry>
   <entry>
-    <title>What is Gibberish?</title>
-    <url>/what-is-gibberish/</url>
-    <content><![CDATA[<p>Gibberish. Jibber-jabber. Gobbledygook. They’re all words for the same idea: nonsense speech. When someone is speaking gibberish, they make absolutely no sense. You can’t derive any meaning from their words. Despite the excessive amount of language being used, whether actual words or just random syllables, there is no information being conveyed. Even the message, “there is no information being conveyed” is not conveyed through gibberish. Gibberish is meaningless, and I want to know how.</p>
-<p>How is it possible to communicate nothing through your use of language? Even in the most convoluted scenarios, sequences of words always seem to carry some meaning. Take, for example, Shakespeare’s sonnets. For so many teenagers sitting in English class, Shakespeare’s sonnets are nothing but 400-year-old word vomit, yet those sonnets have shared beautiful stories to countless ears. Despite his penchant for inventing new words, Shakespeare wasn’t producing gibberish. Far from it, his works are literary masterpieces. Either that or someone is paying a lot of money to force teenagers to read his works for no reason.</p>
-<p>I don’t think gibberish is characterized by how outlandish the speech seems. Like with Shakespeare, most speech is only meaningful for the intended audience. Normal people listening to legal or medical jargon would have no idea what it means, yet legal and medical jargon are entirely meaningful. It seems that in order to produce meaningless speech, you must produce speech that has no possible audience. If there is no one that can extract meaning from the speech, then it must be meaningless.</p>
-<p>Consider the other side of this. Any speech that has an audience is meaningful, and given how much has been said over so many centuries, meaningful speech must have some relatively high probability of aligning with things that have already been said. By the contrapositive, any speech that has a low probability of aligning with things that have been said before is likely meaningless. </p>
-<p>From a practical perspective, producing improbable speech may seem like a difficult task, but with the advent of LLMs, this becomes much easier. Modern LLMs trained on the majority of the readable internet are essentially fancy probability distributions of existing text. Unfortunately, asking ChatGPT to produce improbable speech wouldn’t work, because it must produce high-probability speech by default. Just to be sure, I tested this, and it basically came up with a list of silly nouns, mostly animals, food, and space stuff, but that’s not meaningless enough, since it’s a vaguely coherent list. Instead, I modified the behavior of GPT-2 to produce low-probability text while still sticking to English, kinda. I started with the seed, “The following is gibberish:”. Here’s what it came up with.</p>
-<p>The following is gibberish:iability interior markup markup Starship markup Starshipnever Afghansaviouraviour pastenever proclamation Netherlands circumstance Starship Computingaviour bould Jackie Lady Lady Lady daytime Lady Lady pulmonary drill Harbaugh forcefully partnering dissu disciplined contradict Harbaugh dissuclaimed 323 Afghanskeyes Narr interior Weather Cookies Cookies Cookies Cookies Cookies Cookies</p>
-<p>I still have to iron out some kinks, but I do think this is a promising start. My working theorem on meaningless speech will hopefully lead to the completion of GibberishGPT, because the world clearly needs more useless LLMs.</p>
-]]></content>
-  </entry>
-  <entry>
     <title>Why AI Companies Pay Anguilla 32 Million Dollars a Year</title>
     <url>/why-ai-companies-pay-anguilla-32-million-dollars-a-year/</url>
     <content><![CDATA[<p>The answer is top-level domains. Understanding what that means and why it’s important will take a bit longer. It’s a story about a market worth billions of dollars, Cold War era technology, and acronyms. To properly explain this, we need to go back to the beginning of the Internet.</p>
@@ -1171,6 +1159,18 @@
 <li><a href="https://www.washingtonpost.com/video-games/2019/12/23/tuvalu-is-tiny-island-nation-people-its-cashing-thanks-twitch/">Tuvalu is a tiny island nation of 11,000 people. It’s cashing in thanks to Twitch.</a></li>
 <li><a href="https://www.forbes.com/sites/barrycollins/2024/01/31/the-tiny-caribbean-island-thats-making-a-fortune-from-ai/">The Tiny Caribbean Island That’s Making A Fortune From AI</a></li>
 </ol>
+]]></content>
+  </entry>
+  <entry>
+    <title>What is Gibberish?</title>
+    <url>/what-is-gibberish/</url>
+    <content><![CDATA[<p>Gibberish. Jibber-jabber. Gobbledygook. They’re all words for the same idea: nonsense speech. When someone is speaking gibberish, they make absolutely no sense. You can’t derive any meaning from their words. Despite the excessive amount of language being used, whether actual words or just random syllables, there is no information being conveyed. Even the message, “there is no information being conveyed” is not conveyed through gibberish. Gibberish is meaningless, and I want to know how.</p>
+<p>How is it possible to communicate nothing through your use of language? Even in the most convoluted scenarios, sequences of words always seem to carry some meaning. Take, for example, Shakespeare’s sonnets. For so many teenagers sitting in English class, Shakespeare’s sonnets are nothing but 400-year-old word vomit, yet those sonnets have shared beautiful stories to countless ears. Despite his penchant for inventing new words, Shakespeare wasn’t producing gibberish. Far from it, his works are literary masterpieces. Either that or someone is paying a lot of money to force teenagers to read his works for no reason.</p>
+<p>I don’t think gibberish is characterized by how outlandish the speech seems. Like with Shakespeare, most speech is only meaningful for the intended audience. Normal people listening to legal or medical jargon would have no idea what it means, yet legal and medical jargon are entirely meaningful. It seems that in order to produce meaningless speech, you must produce speech that has no possible audience. If there is no one that can extract meaning from the speech, then it must be meaningless.</p>
+<p>Consider the other side of this. Any speech that has an audience is meaningful, and given how much has been said over so many centuries, meaningful speech must have some relatively high probability of aligning with things that have already been said. By the contrapositive, any speech that has a low probability of aligning with things that have been said before is likely meaningless. </p>
+<p>From a practical perspective, producing improbable speech may seem like a difficult task, but with the advent of LLMs, this becomes much easier. Modern LLMs trained on the majority of the readable internet are essentially fancy probability distributions of existing text. Unfortunately, asking ChatGPT to produce improbable speech wouldn’t work, because it must produce high-probability speech by default. Just to be sure, I tested this, and it basically came up with a list of silly nouns, mostly animals, food, and space stuff, but that’s not meaningless enough, since it’s a vaguely coherent list. Instead, I modified the behavior of GPT-2 to produce low-probability text while still sticking to English, kinda. I started with the seed, “The following is gibberish:”. Here’s what it came up with.</p>
+<p>The following is gibberish:iability interior markup markup Starship markup Starshipnever Afghansaviouraviour pastenever proclamation Netherlands circumstance Starship Computingaviour bould Jackie Lady Lady Lady daytime Lady Lady pulmonary drill Harbaugh forcefully partnering dissu disciplined contradict Harbaugh dissuclaimed 323 Afghanskeyes Narr interior Weather Cookies Cookies Cookies Cookies Cookies Cookies</p>
+<p>I still have to iron out some kinks, but I do think this is a promising start. My working theorem on meaningless speech will hopefully lead to the completion of GibberishGPT, because the world clearly needs more useless LLMs.</p>
 ]]></content>
   </entry>
   <entry>
@@ -1198,7 +1198,7 @@
 </style>
 
 <div class="side-bar-about">
-<img src="ronik.jpg" class="profile-image-ronik" alt="Ronik looking up at a plant."> 
+<img src="ronik_2.jpg" class="profile-image-ronik" alt="Ronik looking up at a plant."> 
 <h4>Quick Links:</h4>
 <div>
     <a href="/publications/">Publications</a> </br>
@@ -1236,15 +1236,6 @@ echo "cmJoYXNrYXJAdWNoaWNhZ28uZWR1Cg==" | base64 --decode
 <!-- *Add to the [dialogue](/chat), and become part of my story.* -->]]></content>
   </entry>
   <entry>
-    <title>Publications</title>
-    <url>/publications/index.html</url>
-    <content><![CDATA[<p>Also see my: <a href="https://scholar.google.com/citations?user=dqTwtegAAAAJ&hl=en&oi=ao">Google Scholar</a></p>
-<h3 id="Refereed"><a href="#Refereed" class="headerlink" title="Refereed"></a>Refereed</h3><p><a href="https://arxiv.org/abs/2402.03214">Organic or Diffused: Can We Distinguish Human Art from AI-generated Images?</a><br>Anna Yoo Jeong Ha*, Josephine Passananti*, <strong>Ronik Bhaskar</strong>, Shawn Shan, Reid Southen, Haitao Zheng, Ben Y. Zhao.<br><em>Conference on Computer and Communications Security (CCS), 2024.</em><br>☆ Distinguished Paper Award.</p>
-<p><a href="https://www.usenix.org/system/files/sec23winter-prepub-116-yang-zhuolin.pdf">Can Virtual Reality Protect Users from Keystroke Inference Attacks?</a><br>Zhuolin Yang, Zain Sarwar, Iris Hwang, <strong>Ronik Bhaskar</strong>, Ben Y. Zhao, Haitao Zheng.<br><em>USENIX Security Symposium, 2024.</em><br><a href="https://www.newscientist.com/article/2401929-ai-can-steal-passwords-in-virtual-reality-from-avatar-hand-motions/">Media Coverage</a><br><br></p>
-<h3 id="Recreational"><a href="#Recreational" class="headerlink" title="Recreational"></a>Recreational</h3><p><a href="/projects/PizzaLang.pdf">PizzaLang: A Language for Hungry Developers</a><br><strong>Ronik Bhaskar</strong>, Dawson Ren.<br><em>Proc. of SIGBOVIK, 2023.</em></p>
-]]></content>
-  </entry>
-  <entry>
     <title>Anti-ELIZA</title>
     <url>/projects/anti-eliza.html</url>
     <content><![CDATA[<p><em>Conditioning away the human level of trust imparted to AI systems. Inspired by ELIZA. <a href="/anti-eliza/">Test it out.</a></em></p>
@@ -1262,6 +1253,20 @@ echo "cmJoYXNrYXJAdWNoaWNhZ28uZWR1Cg==" | base64 --decode
 <li><a href="https://arxiv.org/abs/2310.20216">ELIZA Beat GPT-3.5 in a Turing Test</a></li>
 </ol>
 <h2 id="The-ELIZA-Algorithm"><a href="#The-ELIZA-Algorithm" class="headerlink" title="The ELIZA Algorithm"></a>The ELIZA Algorithm</h2><figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">def</span> <span class="title function_">respond</span>(<span class="params">self, statement</span>):</span><br><span class="line">    <span class="keyword">for</span> pattern, responses <span class="keyword">in</span> self.patterns:</span><br><span class="line">        <span class="keyword">match</span> = re.search(pattern, statement.strip(<span class="string">&quot; .!?&quot;</span>), re.IGNORECASE)</span><br><span class="line">        <span class="keyword">if</span> <span class="keyword">match</span>:</span><br><span class="line">            response = random.choice(responses).<span class="built_in">format</span>(*<span class="keyword">match</span>.groups())</span><br><span class="line">            <span class="keyword">return</span> response</span><br><span class="line">    <span class="keyword">return</span> self.default</span><br></pre></td></tr></table></figure>]]></content>
+  </entry>
+  <entry>
+    <title>Full Stack Chat App</title>
+    <url>/projects/chat.html</url>
+    <content><![CDATA[<p>Chat with me <a href="/chat">here</a>. (You’ll know it’s me because my name is <strong>bold</strong>.)</p>
+<h2 id="Designing-the-UI"><a href="#Designing-the-UI" class="headerlink" title="Designing the UI"></a>Designing the UI</h2><p>I don’t create in a vacuum. The people around me drastically influence my creations. Our conversations feel like dialogue in a script. There’s a purpose to everything being said. It’s driving the plot somewhere, and I would never reach the end without their help. </p>
+<p>My chat app doesn’t look like Messages or WhatsApp or Slack or Discord because I don’t see it as a chat app. It’s a continuation of the dialogue happening all around me, which is why <strong>I built the chat app to look like a movie script.</strong> The header has an act number, the location is specified, we get a general description, and the rest that follows is the dialogue.</p>
+<h2 id="Engineering-the-App"><a href="#Engineering-the-App" class="headerlink" title="Engineering the App"></a>Engineering the App</h2><p>I’m incredibly grateful for the power and flexibility of GitHub pages (as you can tell by the URL). That being said, the documentation says they only support static sites, or so they claim. Depending on how much functionality you want from the site, you can do user authentication and even have hooks checking for database updates, updating the UI in real-time. </p>
+<p><strong>For the backend, I used Google Firebase.</strong> Their free tier, the Spark plan, is incredibly powerful, and if you’re getting enough traffic to exceed its limits, you have the demand to monetize your product. I don’t expect heavy traffic, so the Spark plan is enough for me.</p>
+<p>Firebase allows for for Google Authentication, along with plenty of other auth providers. This makes it mildly more difficult to spam the site with fake accounts, and the authentication redirect keeps auth traffic away from GitHub. It’s a win-win.</p>
+<p><strong>For the frontend, I used React.</strong> This isn’t an incredibly intense, so vanilla JS was an option, but React’s libraries wrapping Firebase query snapshots made development much easier. </p>
+<p>There are tutorials and articles out there for building apps with React and Firebase, but relevant ones used Firebase v8 instead of v9, which transitions away from the namespacing. Luckily, Firebase’s documentation covers translating v8 into v9.</p>
+<hr>
+<p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
   </entry>
   <entry>
     <title>Discord Bot</title>
@@ -1290,20 +1295,6 @@ echo "cmJoYXNrYXJAdWNoaWNhZ28uZWR1Cg==" | base64 --decode
 <ul>
 <li>just @ mention Igor in your message and maybe you’ll get a response</li>
 </ul>
-<hr>
-<p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>Full Stack Chat App</title>
-    <url>/projects/chat.html</url>
-    <content><![CDATA[<p>Chat with me <a href="/chat">here</a>. (You’ll know it’s me because my name is <strong>bold</strong>.)</p>
-<h2 id="Designing-the-UI"><a href="#Designing-the-UI" class="headerlink" title="Designing the UI"></a>Designing the UI</h2><p>I don’t create in a vacuum. The people around me drastically influence my creations. Our conversations feel like dialogue in a script. There’s a purpose to everything being said. It’s driving the plot somewhere, and I would never reach the end without their help. </p>
-<p>My chat app doesn’t look like Messages or WhatsApp or Slack or Discord because I don’t see it as a chat app. It’s a continuation of the dialogue happening all around me, which is why <strong>I built the chat app to look like a movie script.</strong> The header has an act number, the location is specified, we get a general description, and the rest that follows is the dialogue.</p>
-<h2 id="Engineering-the-App"><a href="#Engineering-the-App" class="headerlink" title="Engineering the App"></a>Engineering the App</h2><p>I’m incredibly grateful for the power and flexibility of GitHub pages (as you can tell by the URL). That being said, the documentation says they only support static sites, or so they claim. Depending on how much functionality you want from the site, you can do user authentication and even have hooks checking for database updates, updating the UI in real-time. </p>
-<p><strong>For the backend, I used Google Firebase.</strong> Their free tier, the Spark plan, is incredibly powerful, and if you’re getting enough traffic to exceed its limits, you have the demand to monetize your product. I don’t expect heavy traffic, so the Spark plan is enough for me.</p>
-<p>Firebase allows for for Google Authentication, along with plenty of other auth providers. This makes it mildly more difficult to spam the site with fake accounts, and the authentication redirect keeps auth traffic away from GitHub. It’s a win-win.</p>
-<p><strong>For the frontend, I used React.</strong> This isn’t an incredibly intense, so vanilla JS was an option, but React’s libraries wrapping Firebase query snapshots made development much easier. </p>
-<p>There are tutorials and articles out there for building apps with React and Firebase, but relevant ones used Firebase v8 instead of v9, which transitions away from the namespacing. Luckily, Firebase’s documentation covers translating v8 into v9.</p>
 <hr>
 <p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
   </entry>
@@ -2019,5 +2010,14 @@ table, th {
 </ul>
 <hr>
 <p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>Publications</title>
+    <url>/publications/index.html</url>
+    <content><![CDATA[<p>Also see my: <a href="https://scholar.google.com/citations?user=dqTwtegAAAAJ&hl=en&oi=ao">Google Scholar</a></p>
+<h3 id="Refereed"><a href="#Refereed" class="headerlink" title="Refereed"></a>Refereed</h3><p><a href="https://arxiv.org/abs/2402.03214">Organic or Diffused: Can We Distinguish Human Art from AI-generated Images?</a><br>Anna Yoo Jeong Ha*, Josephine Passananti*, <strong>Ronik Bhaskar</strong>, Shawn Shan, Reid Southen, Haitao Zheng, Ben Y. Zhao.<br><em>Conference on Computer and Communications Security (CCS), 2024.</em><br>☆ Distinguished Paper Award.</p>
+<p><a href="https://www.usenix.org/system/files/sec23winter-prepub-116-yang-zhuolin.pdf">Can Virtual Reality Protect Users from Keystroke Inference Attacks?</a><br>Zhuolin Yang, Zain Sarwar, Iris Hwang, <strong>Ronik Bhaskar</strong>, Ben Y. Zhao, Haitao Zheng.<br><em>USENIX Security Symposium, 2024.</em><br><a href="https://www.newscientist.com/article/2401929-ai-can-steal-passwords-in-virtual-reality-from-avatar-hand-motions/">Media Coverage</a><br><br></p>
+<h3 id="Recreational"><a href="#Recreational" class="headerlink" title="Recreational"></a>Recreational</h3><p><a href="/projects/PizzaLang.pdf">PizzaLang: A Language for Hungry Developers</a><br><strong>Ronik Bhaskar</strong>, Dawson Ren.<br><em>Proc. of SIGBOVIK, 2023.</em></p>
+]]></content>
   </entry>
 </search>
