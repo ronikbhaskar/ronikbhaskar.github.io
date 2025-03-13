@@ -1,34 +1,57 @@
 ---
-title: About Me
+title: Ronik Bhaskar
 description: >-
     I am a 1st year PhD student at the University of Chicago. I work in the SAND Lab where I'm fortunate to be co-advised by Prof. Heather Zheng and Prof. Ben Y. Zhao.
 ---
 
 <style>
 .profile-image-ronik {
-    width: min(max(30%,8rem),100%)!important;
+    width: 100%!important;
     margin: 1rem;
     margin-top: 0;
-    margin-right: 0;
-    float: right!important;
+    margin-left: 0;
+    float: left!important;
+}
+.side-bar-about {
+    width: min(max(25%,6rem),100%)!important;
+    /* height: 100dvh; */
+    padding: 1.5rem;
+    padding-top: 0;
+    padding-left: 0;
+    margin: 1rem;
+    margin-top: 0;
+    margin-left: 0;
+    float: left!important;
 }
 </style>
 
+<div class="side-bar-about">
 <img src="ronik.jpg" class="profile-image-ronik" alt="Ronik looking up at a plant."> 
-
-More details in my [CV](/about/Ronik%20Bhaskar%20CV%20Redacted.pdf).
+<h4>Quick Links:</h4>
+<div>
+    <a href="/publications/">Publications</a> </br>
+    <a href="https://scholar.google.com/citations?user=dqTwtegAAAAJ&hl=en&oi=ao">Google Scholar</a> </br>
+    <a href="/about/CV.pdf">CV</a> </br>
+    <a href="https://github.com/ronikbhaskar">GitHub</a>
+</div>
+</div>
 
 I am a 1st year PhD student at the University of Chicago. I work in the [SAND Lab](https://sandlab.cs.uchicago.edu/index.html) where I'm fortunate to be co-advised by Prof. [Heather Zheng](http://people.cs.uchicago.edu/~htzheng/) and Prof. [Ben Y. Zhao](http://people.cs.uchicago.edu/~ravenben/). 
 
-I'm broadly interested in security and privacy with a recent focus on adversarial machine learning. If you're a digital artist, or you're interested in generative AI, I recommend checking out [Glaze](https://glaze.cs.uchicago.edu). I'm proud to work on this project and hopefully similar ones in the future.
+I study the security and privacy issues that arise as machine learning systems become more ubiquitous, and I leverage these insights to develop tools to empower individuals against unethical AI practices.
 
-While I am relatively new to research, I have made some observations. Computer security research exists in a delicate ethical space. Every discovered vulnerability is an opportunity for attack, but it is also a potential warning. Every defense offers protection to some group, but it also risks unintended side effects and consequences for future technology. As I continue my academic journey, I hope to learn how to meaningfully consider the implications of my work, regardless of the field I research.
+<!-- I'm broadly interested in security and privacy with a recent focus on adversarial machine learning. If you're a digital artist, or you're interested in generative AI, I recommend checking out [Glaze](https://glaze.cs.uchicago.edu). I'm proud to work on this project and hopefully similar ones in the future. -->
 
-## Contact Me
-```bash
+<!-- While I am relatively new to research, I have made some observations. Computer security research exists in a delicate ethical space. Every discovered vulnerability is an opportunity for attack, but it is also a potential warning. Every defense offers protection to some group, but it also risks unintended side effects and consequences for future technology. As I continue my academic journey, I hope to learn how to meaningfully consider the implications of my work, regardless of the field I research. -->
+
+## Recent Publications
+
+A. Ha, J. Passananti*, **R. Bhaskar**, S. Shan, R. Southen, H. Zheng, BY. Zhao. [Organic or Diffused: Can We Distinguish Human Art from AI-generated Images?](https://arxiv.org/abs/2402.03214) *ACM Conference on Computer and Communications Security (CCS), 2024.* 
+☆ Distinguished Paper Award.
+<!-- ```bash
 # My email:
 echo "cmJoYXNrYXJAdWNoaWNhZ28uZWR1Cg==" | base64 --decode
-```
+``` -->
 
 <!-- I was never the creative one or the artistic one. I was always "that guy that's good at math." -->
 

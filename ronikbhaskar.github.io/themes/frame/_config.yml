@@ -13,7 +13,7 @@ menu:
   Home: /
   Publications: /publications/
   Projects: /projects/
-  About: /about/
+  CV: /about/CV.pdf
 
 # stylesheets loaded in the <head>
 stylesheets:
@@ -35,16 +35,16 @@ profile:
   image: /profile.gif
 
   links:
-    Projects: /projects/
-    GitHub: https://github.com/ronikbhaskar
-    Glaze: https://glaze.cs.uchicago.edu
+    Publications: /publications/
+    Google Scholar: https://scholar.google.com/citations?user=dqTwtegAAAAJ&hl=en&oi=ao
     CV: "/about/Ronik Bhaskar CV Redacted.pdf"
+    GitHub: https://github.com/ronikbhaskar
 
 # footer
 footer:
   copyright_info:
     enable: true
-    author: © Ronik Bhaskar, 2022 - 2024
+    author: © Ronik Bhaskar, 2022 - 2025
 
   powered_by: # Powered by Hexo & Frame
     enable: false
