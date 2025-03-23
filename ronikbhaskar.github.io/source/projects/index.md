@@ -152,6 +152,17 @@ description: >-
 
 <details>
 <summary>
+<b>Everything Generates Text</b>
+</summary>
+<ul>
+    <li><a href="/projects/everything-generates-text">Summary</a></li>
+    <li><a href="https://github.com/ronikbhaskar/everything-generates-text">GitHub</a></li>
+</ul>
+</details>
+<br />
+
+<details>
+<summary>
 <b>I Made My Own Programming Language</b>
 </summary>
 <ul>
