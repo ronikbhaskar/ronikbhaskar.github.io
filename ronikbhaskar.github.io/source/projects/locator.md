@@ -1,5 +1,5 @@
 ---
-title: A Compass that Points to Specific Locations
+title: A Compass That Can Take You Anywhere
 ---
 
 *Bringing back the fun and adventure of the journey. Link at the bottom of the article.*
