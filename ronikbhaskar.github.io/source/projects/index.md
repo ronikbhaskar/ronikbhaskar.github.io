@@ -125,6 +125,18 @@ description: >-
 
 <details>
 <summary>
+<b>A Compass That Can Take You Anywhere</b>
+</summary>
+<ul>
+    <li><a href="/locator/creator">Website</a> (Mobile Compatible)</li>
+    <li><a href="/projects/locator">Summary</a></li>
+    <li><a href="https://github.com/ronikbhaskar/locator">GitHub</a></li>
+</ul>
+</details>
+<br />
+
+<details>
+<summary>
 <b>A Full Stack Chat App with User Authentication</b>
 </summary>
 <ul>
