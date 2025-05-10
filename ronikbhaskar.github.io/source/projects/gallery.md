@@ -66,7 +66,7 @@ A gallery of my original origami designs. They are in chronological order by the
   <div class="text-wrapper">
     <a id="skys-the-limit"></a>
     <h1>Sky's the Limit - 18 Grid</h1>
-    <p>In the same vein as Sinking Feeling, this is meta origami with a non-standard model. This is my first attempt at treating my own paper and wetfolding, both of which are techniques that open a world of possibilities. I wanted this model to focus on youthful imagination, as I know I would have loved this as a kid. Also, yes, it does fly.</p>
+    <p>In the same vein as Sinking Feeling, this is meta origami with a non-standard model. I wanted this model to focus on youthful imagination, as I know I would have loved this as a kid. Also, yes, it does fly.</p>
     <p>Designed: 05/10/25</p>
   </div>
   <div class="image-container">
