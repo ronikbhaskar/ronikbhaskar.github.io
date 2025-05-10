@@ -47,6 +47,7 @@ A gallery of my original origami designs. They are in chronological order by the
 
 ## Index
 
+[Sky's the Limit - 18 Grid](#skys-the-limit)
 [Sinking Feeling - 18 Grid](#sinking-feeling)
 [Stargazing - 16 Grid](#stargazing)
 [Whitetail Fawn - 22.5](#whitetail-fawn)
@@ -60,6 +61,19 @@ A gallery of my original origami designs. They are in chronological order by the
 [Trophy Hunting - Fish Base](#trophy-hunting)
 [Fairy - 16 Grid](#fairy)
 [Wikipedia Sword and Shield - 16 Grid](#wss)
+
+<div class="simple-wrapper">
+  <div class="text-wrapper">
+    <a id="sinking-feeling"></a>
+    <h1>Sky's the Limit - 18 Grid</h1>
+    <p>In the same vein as Sinking Feeling, this is meta origami with a non-standard model. This is my first attempt at treating my own paper and wetfolding, both of which are techniques that open a world of possibilities. I wanted this model to focus on youthful imagination, as I know I would have loved this as a kid. Also, yes, it does fly.</p>
+    <p>Designed: 05/10/25</p>
+  </div>
+  <div class="image-container">
+  <img src="gallery/skys-the-limit.jpg" alt="Origami plane and pilot."> 
+  <img src="gallery/skys-the-limit-cp.png" alt="Crease pattern of origami plane and pilot."> 
+  </div>
+</div>
 
 <div class="simple-wrapper">
   <div class="text-wrapper">
