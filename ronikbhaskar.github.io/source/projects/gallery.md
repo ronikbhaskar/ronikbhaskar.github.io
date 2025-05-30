@@ -47,6 +47,7 @@ A gallery of my original origami designs. They are in chronological order by the
 
 ## Index
 
+[Dramatic Ermine - 14 Grid](#ermine)
 [Sky's the Limit - 18 Grid](#skys-the-limit)
 [Sinking Feeling - 18 Grid](#sinking-feeling)
 [Stargazing - 16 Grid](#stargazing)
@@ -61,6 +62,19 @@ A gallery of my original origami designs. They are in chronological order by the
 [Trophy Hunting - Fish Base](#trophy-hunting)
 [Fairy - 16 Grid](#fairy)
 [Wikipedia Sword and Shield - 16 Grid](#wss)
+
+<div class="simple-wrapper">
+  <div class="text-wrapper">
+    <a id="ermine"></a>
+    <h1>Dramatic Ermine - 14 Grid</h1>
+    <p>When you tilt the head back, it looks like it's gasping in shock. Hence why it's called dramatic. Also, are they stoats or ermines? Never could figure out the difference.</p>
+    <p>Designed: 05/28/25</p>
+  </div>
+  <div class="image-container">
+  <img src="gallery/ermine.jpg" alt="Origami ermine/stoat."> 
+  <img src="gallery/ermine-cp.png" alt="Crease pattern of origami ermine/stoat."> 
+  </div>
+</div>
 
 <div class="simple-wrapper">
   <div class="text-wrapper">
