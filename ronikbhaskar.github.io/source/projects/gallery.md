@@ -47,7 +47,8 @@ A gallery of my original origami designs. They are in chronological order by the
 
 ## Index
 
-[Dramatic Ermine - 14 Grid](#ermine)
+[Ship in a Bottle - 18 Grid](#ship-in-a-bottle)
+[Ermine - 14 Grid](#ermine)
 [Sky's the Limit - 18 Grid](#skys-the-limit)
 [Sinking Feeling - 18 Grid](#sinking-feeling)
 [Stargazing - 16 Grid](#stargazing)
@@ -65,9 +66,22 @@ A gallery of my original origami designs. They are in chronological order by the
 
 <div class="simple-wrapper">
   <div class="text-wrapper">
+    <a id="ship-in-a-bottle"></a>
+    <h1>Ship in a Bottle - 18 Grid</h1>
+    <p>I suppose it's technically only half a bottle, but if I made the whole bottle, then you wouldn't be able to see the ship.</p>
+    <p>Designed: 06/02/25</p>
+  </div>
+  <div class="image-container">
+  <img src="gallery/ship-in-a-bottle.jpg" alt="Origami ship in a bottle."> 
+  <img src="gallery/ship-in-a-bottle-cp.png" alt="Crease pattern of origami ship in a bottle."> 
+  </div>
+</div>
+
+<div class="simple-wrapper">
+  <div class="text-wrapper">
     <a id="ermine"></a>
-    <h1>Dramatic Ermine - 14 Grid</h1>
-    <p>When you tilt the head back, it looks like it's gasping in shock. Hence why it's called dramatic. Also, are they stoats or ermines? Never could figure out the difference.</p>
+    <h1>Ermine - 14 Grid</h1>
+    <p>Is it a stoat or an ermine? Never could figure out the difference. In any case, the design is excessively difficult for something so simple.</p>
     <p>Designed: 05/28/25</p>
   </div>
   <div class="image-container">
