@@ -47,6 +47,7 @@ A gallery of my original origami designs. They are in chronological order by the
 
 ## Index
 
+[Hanging up the Mask - 10 Grid](#hanging-up-the-mask)
 [Ship in a Bottle - 18 Grid](#ship-in-a-bottle)
 [Ermine - 14 Grid](#ermine)
 [Sky's the Limit - 18 Grid](#skys-the-limit)
@@ -63,6 +64,19 @@ A gallery of my original origami designs. They are in chronological order by the
 [Trophy Hunting - Fish Base](#trophy-hunting)
 [Fairy - 16 Grid](#fairy)
 [Wikipedia Sword and Shield - 16 Grid](#wss)
+
+<div class="simple-wrapper">
+  <div class="text-wrapper">
+    <a id="hanging-up-the-mask"></a>
+    <h1>Hanging up the Mask</h1>
+    <p>Comedy never looked so grim. On a related note, properly shaping this model is a nightmare, probably because I'm bad at masks.</p>
+    <p>Designed: 06/28/25</p>
+  </div>
+  <div class="image-container">
+  <img src="gallery/hanging-up-the-mask.jpg" alt="Origami comedy mask."> 
+  <img src="gallery/hanging-up-the-mask-cp.png" alt="Crease pattern of origami comedy mask."> 
+  </div>
+</div>
 
 <div class="simple-wrapper">
   <div class="text-wrapper">
