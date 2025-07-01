@@ -46,7 +46,8 @@ description: >-
 <b>Origami Designs</b>
 </summary>
 <ul>
-    <li><a href="/projects/gallery">Full Gallery</a></li>
+    <li><a href="/projects/gallery">Portfolio</a></li>
+    <li><a href="/projects/gallery-ext">Full Gallery</a></li>
 </ul>
 </details>
 <br />

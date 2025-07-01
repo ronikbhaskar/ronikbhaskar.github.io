@@ -6,6 +6,10 @@ Also see my: [Google Scholar](https://scholar.google.com/citations?user=dqTwtegA
 
 ### Refereed
 
+[On the Feasibility of Poisoning Text-to-Image AI Models via Adversarial Mislabeling](https://arxiv.org/abs/2506.21874)
+Stanley Wu, **Ronik Bhaskar**, Anna Yoo Jeong Ha, Shawn Shan, Haitao Zheng, Ben Y. Zhao  
+*Conference on Computer and Communications Security (CCS), 2025.* 
+
 [Organic or Diffused: Can We Distinguish Human Art from AI-generated Images?](https://arxiv.org/abs/2402.03214)
 Anna Yoo Jeong Ha*, Josephine Passananti*, **Ronik Bhaskar**, Shawn Shan, Reid Southen, Haitao Zheng, Ben Y. Zhao.  
 *Conference on Computer and Communications Security (CCS), 2024.* 

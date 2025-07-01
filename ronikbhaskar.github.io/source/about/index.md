@@ -46,8 +46,8 @@ I study the security and privacy issues that arise as machine learning systems b
 
 ## Recent Publications
 
-A. Ha, J. Passananti*, **R. Bhaskar**, S. Shan, R. Southen, H. Zheng, BY. Zhao. [Organic or Diffused: Can We Distinguish Human Art from AI-generated Images?](https://arxiv.org/abs/2402.03214) *ACM Conference on Computer and Communications Security (CCS), 2024.* 
-☆ Distinguished Paper Award.
+S. Wu, **R, Bhaskar**, A. Ha, S. Shan, H. Zheng, BY. Zhao. [On the Feasibility of Poisoning Text-to-Image AI Models via Adversarial Mislabeling](https://arxiv.org/abs/2506.21874) 
+*Conference on Computer and Communications Security (CCS), 2025.*
 <!-- ```bash
 # My email:
 echo "cmJoYXNrYXJAdWNoaWNhZ28uZWR1Cg==" | base64 --decode
