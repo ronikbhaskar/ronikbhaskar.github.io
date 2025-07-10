@@ -1,5 +1,6 @@
-https://ronikbhaskar.github.io/projects/gallery
 https://ronikbhaskar.github.io/projects/
+https://ronikbhaskar.github.io/finding-joy-is-a-mathematically-difficult-problem/
+https://ronikbhaskar.github.io/projects/gallery
 https://ronikbhaskar.github.io/projects/gallery-ext
 https://ronikbhaskar.github.io/about/
 https://ronikbhaskar.github.io/publications/
@@ -12,7 +13,6 @@ https://ronikbhaskar.github.io/it-has-to-be-new/
 https://ronikbhaskar.github.io/hanging-by-a-thread-designs-from-the-months-to-come/
 https://ronikbhaskar.github.io/the-current-paradigm-of-origami/
 https://ronikbhaskar.github.io/standardized-test-problems-in-real-life/
-https://ronikbhaskar.github.io/finding-joy-is-a-mathematically-difficult-problem/
 https://ronikbhaskar.github.io/why-ai-companies-pay-anguilla-32-million-dollars-a-year/
 https://ronikbhaskar.github.io/time-and-travel/
 https://ronikbhaskar.github.io/the-pencil-ex-libris-works-of-nikolai-gogol/
