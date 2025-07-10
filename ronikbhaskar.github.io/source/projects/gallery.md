@@ -17,6 +17,7 @@ description: >-
     display: flex;
     flex-wrap: wrap; /* Allows images to wrap if needed */
     max-width: 50%; /* Adjust this as needed */
+    
 }
 
 .image-container img {
@@ -25,8 +26,10 @@ description: >-
 }
 
 .text-wrapper {
-  margin-top: 3rem;
-  margin-right: 1rem;
+  margin-right: auto!important;
+  margin-left: auto!important;
+  margin-top: 1rem;
+  padding-right: 1rem;
 }
 
 @media (max-width: 768px) {
@@ -43,24 +46,26 @@ description: >-
 
 </style>
 
-A gallery of some of my original origami designs. They are in chronological order by the date designed. Please contact me before distributing or teaching these models.
+I am a Chicago based origami artist. I create figurative models, often incorporating multiple subjects into a single piece. Everything here is from a single sheet of paper, no cuts.
+
+Please contact me before distributing or teaching any of my works.
 
 ## Index
 
-[Hanging up the Mask - 10 Grid](#hanging-up-the-mask)
-[Ship in a Bottle - 18 Grid](#ship-in-a-bottle)
-[Sky's the Limit - 18 Grid](#skys-the-limit)
-[Sinking Feeling - 18 Grid](#sinking-feeling)
-[Stargazing - 16 Grid](#stargazing)
-[Whitetail Fawn - 22.5](#whitetail-fawn)
-[Fish out of Water - 14 Grid (Partial 28ths)](#fish-out-of-water)
-[Hanging by a Thread - 20 Grid](#hanging-by-a-thread)
+[Hanging up the Mask](#hanging-up-the-mask)
+[Ship in a Bottle](#ship-in-a-bottle)
+[Sky's the Limit](#skys-the-limit)
+[Sinking Feeling](#sinking-feeling)
+[Stargazing](#stargazing)
+[Whitetail Fawn](#whitetail-fawn)
+[Fish out of Water](#fish-out-of-water)
+[Hanging by a Thread](#hanging-by-a-thread)
 
 <div class="simple-wrapper">
   <div class="text-wrapper">
     <a id="hanging-up-the-mask"></a>
     <h1>Hanging up the Mask</h1>
-    <p>Comedy never looked so grim. On a related note, properly shaping this model is a nightmare, probably because I'm bad at masks.</p>
+    <p>Comedy never looked so tragic. On a related note, properly shaping this model is a nightmare, probably because I'm bad at masks.</p>
     <p>Designed: 06/28/25</p>
   </div>
   <div class="image-container">
@@ -72,8 +77,8 @@ A gallery of some of my original origami designs. They are in chronological orde
 <div class="simple-wrapper">
   <div class="text-wrapper">
     <a id="ship-in-a-bottle"></a>
-    <h1>Ship in a Bottle - 18 Grid</h1>
-    <p>I suppose it's technically only half a bottle, but if I made the whole bottle, then you wouldn't be able to see the ship.</p>
+    <h1>Ship in a Bottle</h1>
+    <p>Sometimes, I can still see that ship braving the ocean waves. I suppose it's technically only half a bottle, but if I made the whole bottle, then you wouldn't be able to see the ship.</p>
     <p>Designed: 06/02/25</p>
   </div>
   <div class="image-container">
@@ -85,8 +90,8 @@ A gallery of some of my original origami designs. They are in chronological orde
 <div class="simple-wrapper">
   <div class="text-wrapper">
     <a id="skys-the-limit"></a>
-    <h1>Sky's the Limit - 18 Grid</h1>
-    <p>In the same vein as Sinking Feeling, this is meta origami with a non-standard model. I wanted this model to focus on youthful imagination, as I know I would have loved this as a kid. Also, yes, it does fly.</p>
+    <h1>Sky's the Limit</h1>
+    <p>In series with Sinking Feeling, this is meta origami with a non-standard model. Also, yes, it does fly.</p>
     <p>Designed: 05/10/25</p>
   </div>
   <div class="image-container">
@@ -98,8 +103,8 @@ A gallery of some of my original origami designs. They are in chronological orde
 <div class="simple-wrapper">
   <div class="text-wrapper">
     <a id="sinking-feeling"></a>
-    <h1>Sinking Feeling - 18 Grid</h1>
-    <p>Meta origami models are so fun, but they typically focus on cranes or blank pieces of paper. There are very few models that incorporate the traditional boat, so I designed a model that had two. The title is a double entendre for the sink fold.</p>
+    <h1>Sinking Feeling</h1>
+    <p>In series with Sky's the Limit. Meta origami models are so fun, but they typically focus on cranes or blank pieces of paper. There are very few models that incorporate the traditional boat, so I designed a model that had two.</p>
     <p>Designed: 09/20/24</p>
   </div>
   <div class="image-container">
@@ -111,8 +116,8 @@ A gallery of some of my original origami designs. They are in chronological orde
 <div class="simple-wrapper">
   <div class="text-wrapper">
     <a id="stargazing"></a>
-    <h1>Stargazing - 16 Grid</h1>
-    <p>Alternate title: the universe observing itself. Origami seems like a fitting medium for this idea, since both the observer (telescope) and the universe (night sky) are folded from the same sheet of paper. Designing a piece that is its own background was an interesting challenge.</p>
+    <h1>Stargazing</h1>
+    <p>Alternate title: the universe observing itself. Origami seems like a fitting medium for this idea, since both the observer (telescope) and the universe (night sky) are folded from the same sheet of paper.</p>
     <p>Designed: 09/06/24</p>
   </div>
   <div class="image-container">
@@ -124,7 +129,7 @@ A gallery of some of my original origami designs. They are in chronological orde
 <div class="simple-wrapper">
   <div class="text-wrapper">
     <a id="whitetail-fawn"></a>
-    <h1>Whitetail Fawn - 22.5&deg;</h1>
+    <h1>Whitetail Fawn</h1>
     <p>Designed as a celebration of the past summer, I took a slight departure from my previous subjects and paradigms. The result is this simple baby deer.</p>
     <p>Designed: 08/18/24</p>
   </div>
@@ -137,8 +142,8 @@ A gallery of some of my original origami designs. They are in chronological orde
 <div class="simple-wrapper">
   <div class="text-wrapper">
     <a id="fish-out-of-water"></a>
-    <h1>Fish out of Water - 14 Grid (Partial 28ths)</h1>
-    <p>A bit of an absurdist take on the phrase, I wanted to use my humanoid design skills to make the fish vaguely anthropomorphic. The partial 28ths can be treated as open sinks during the folding sequence, though I still recommend precreasing them. The umbrella uses a similar structure to the one in "Walking in the Rain" by Chen Xiao.</p>
+    <h1>Fish out of Water</h1>
+    <p>A bit of an absurdist take on the phrase, I wanted to use my humanoid design skills to make the fish vaguely anthropomorphic. The umbrella uses a similar structure to the one in "Walking in the Rain" by Chen Xiao.</p>
     <p>Designed: 08/14/24</p>
   </div>
   <div class="image-container">
@@ -150,7 +155,7 @@ A gallery of some of my original origami designs. They are in chronological orde
 <div class="simple-wrapper">
   <div class="text-wrapper">
     <a id="hanging-by-a-thread"></a>
-    <h1>Hanging by a Thread - 20 Grid</h1>
+    <h1>Hanging by a Thread</h1>
     <p>Won the July 2024 Origami-Dan design contest. To some degree, I was inspired by Banksy's "Girl with Balloon", which informed my color choice in the final fold.</p>
     <p>Designed: 07/24/24</p>
   </div>
