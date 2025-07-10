@@ -248,6 +248,23 @@
 ]]></content>
   </entry>
   <entry>
+    <title>Ex Libris: Select Poems by Emily Dickinson</title>
+    <url>/ex-libris-select-poems-by-emily-dickinson/</url>
+    <content><![CDATA[<p>I recently had the opportunity to visit Amherst, Massachusetts, USA. Amherst doesn’t have a lot going on; it’s mostly a college town surrounded by more colleges surrounded by rural Massachusetts. Amherst may be a relatively sleepy place, but it does have a notable past. Specifically, Amherst is the home of Emily Dickinson.  One of the most important American poets to ever live, Emily Dickinson spent her whole life in and around Amherst. She went to school at Amherst Academy, college at Mount Holyoke, and much of her adult life was spent in the Dickinson mansion in Amherst.</p>
+<p>With this in mind, I gave myself a reading assignment for the trip. I decided to read 10 Emily Dickinson poems, which is not a lot, but I haven’t studied poetry in years, and this was a short trip. The poems were selected from various Internet listicles on the best Emily Dickinson poems. In hopes that this archive does not turn into another listicle, I won’t enumerate every poem I read, but I’ll mention a few, like “I’m Nobody! Who are you?”</p>
+<p>When searching for a copy of “I’m Nobody! Who are you?”, I found multiple versions of the poem. The first published version followed standard capitalization and punctuation conventions, but the corrected version had additional capitalization, more dashes, and different wordings. The corrected version is supposed to be more faithful to the original, and after reading both, I can say the corrected version is far better. Dickinson’s use of capitalization constructs the characters in really clever ways. For example, using “Nobody” instead of “nobody” gives the speaker an identity as a Nobody rather than just being nobody. This contrasts well with the “Somebody” in line 5. Dickinson’s use of punctuation also drastically enhances the meaning of the poem. This was particularly notable in “I felt a Funeral, in my Brain”. The poem ends with a dash, as if the speaker is about to continue their thought, but is abruptly cut off.</p>
+<p>Reading Dickinson’s poetry remains a highlight of my trip. After studying different versions of her poetry, I wanted to save the versions I liked better, so I designed a <a href="/projects/literature-db">simple database for literature</a> whose contents are in plaintext, so if the code ever breaks, the database is still perfectly usable. The project is still a work in progress, but it can scrape poetry from websites, render text, and efficiently search through the database.</p>
+<p>As my trip came to a close, I finished my readings with a poem I know quite well. I’ve had the first stanza memorized for about a year now, and it’s one of a handful of poems I turn to quite frequently. I read it in the moments that I so desperately want to stop moving forward, those points in life where the future is far too chaotic or uncertain, and I can’t slow it down. In many ways, my visit to Amherst is part of that uncertain future, so it was the perfect opportunity to read the poem that starts like this:</p>
+<p>“Hope” is the thing with feathers -<br>That perches in the soul -<br>And sings the tune without the words -<br>And never stops - at all -</p>
+<hr>
+<h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ol>
+<li><a href="https://en.wikipedia.org/wiki/Emily_Dickinson">Emily Dickinson</a></li>
+<li><a href="https://www.emilydickinsonmuseum.org/">Emily Dickinson Museum</a></li>
+<li><a href="https://www.poetryfoundation.org/poets/emily-dickinson">Emily Dickinson on Poetry Foundation</a></li>
+</ol>
+]]></content>
+  </entry>
+  <entry>
     <title>Ex Libris: Kafka on the Shore</title>
     <url>/ex-libris-kafka-on-the-shore/</url>
     <content><![CDATA[<!-- https://www.btsgtheories.com/wp-content/uploads/2020/07/kafka-24grammata.com-free-e-book.-pdf-1.pdf -->
@@ -278,23 +295,6 @@
 <p>The young girl, Varka, enters a few dreams throughout the short story, and each time she does, she first looks at the green light on the wall and the shadows. The flickering light and moving shadows and chirping cricket appear more and more hypnotic until eventually, the light and shadows wink at her. Chekhov builds on the personification until the end of the story. The three items laugh, and she laughs with them as she kills the baby.</p>
 <p>In the span of six pages, Chekhov created an entirely new character out of thin air and gave it a personality. This tricky, evil spirit laughing and dancing on the wall is made of no more than some green light, the shadow of a pair of trousers, and the chirp of a cricket. Its development represents Varka’s descent into madness, an integral component of the story. Chekhov promised to do something with these three items, and he overdelivered on the payoff. Without it, we wouldn’t see Varka lose her mind, just her frustration.</p>
 <p>Creating payoff is about more than finally using the promise. It’s about giving it a broader significance—a life of its own—in the story, one that serves the ending. Once you have that, the payoff can reflect its symbolism, even if you use the promise in an unconventional way. Just because you’ve introduced Chekhov’s Gun doesn’t mean you need to fire it.</p>
-]]></content>
-  </entry>
-  <entry>
-    <title>Ex Libris: Select Poems by Emily Dickinson</title>
-    <url>/ex-libris-select-poems-by-emily-dickinson/</url>
-    <content><![CDATA[<p>I recently had the opportunity to visit Amherst, Massachusetts, USA. Amherst doesn’t have a lot going on; it’s mostly a college town surrounded by more colleges surrounded by rural Massachusetts. Amherst may be a relatively sleepy place, but it does have a notable past. Specifically, Amherst is the home of Emily Dickinson.  One of the most important American poets to ever live, Emily Dickinson spent her whole life in and around Amherst. She went to school at Amherst Academy, college at Mount Holyoke, and much of her adult life was spent in the Dickinson mansion in Amherst.</p>
-<p>With this in mind, I gave myself a reading assignment for the trip. I decided to read 10 Emily Dickinson poems, which is not a lot, but I haven’t studied poetry in years, and this was a short trip. The poems were selected from various Internet listicles on the best Emily Dickinson poems. In hopes that this archive does not turn into another listicle, I won’t enumerate every poem I read, but I’ll mention a few, like “I’m Nobody! Who are you?”</p>
-<p>When searching for a copy of “I’m Nobody! Who are you?”, I found multiple versions of the poem. The first published version followed standard capitalization and punctuation conventions, but the corrected version had additional capitalization, more dashes, and different wordings. The corrected version is supposed to be more faithful to the original, and after reading both, I can say the corrected version is far better. Dickinson’s use of capitalization constructs the characters in really clever ways. For example, using “Nobody” instead of “nobody” gives the speaker an identity as a Nobody rather than just being nobody. This contrasts well with the “Somebody” in line 5. Dickinson’s use of punctuation also drastically enhances the meaning of the poem. This was particularly notable in “I felt a Funeral, in my Brain”. The poem ends with a dash, as if the speaker is about to continue their thought, but is abruptly cut off.</p>
-<p>Reading Dickinson’s poetry remains a highlight of my trip. After studying different versions of her poetry, I wanted to save the versions I liked better, so I designed a <a href="/projects/literature-db">simple database for literature</a> whose contents are in plaintext, so if the code ever breaks, the database is still perfectly usable. The project is still a work in progress, but it can scrape poetry from websites, render text, and efficiently search through the database.</p>
-<p>As my trip came to a close, I finished my readings with a poem I know quite well. I’ve had the first stanza memorized for about a year now, and it’s one of a handful of poems I turn to quite frequently. I read it in the moments that I so desperately want to stop moving forward, those points in life where the future is far too chaotic or uncertain, and I can’t slow it down. In many ways, my visit to Amherst is part of that uncertain future, so it was the perfect opportunity to read the poem that starts like this:</p>
-<p>“Hope” is the thing with feathers -<br>That perches in the soul -<br>And sings the tune without the words -<br>And never stops - at all -</p>
-<hr>
-<h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ol>
-<li><a href="https://en.wikipedia.org/wiki/Emily_Dickinson">Emily Dickinson</a></li>
-<li><a href="https://www.emilydickinsonmuseum.org/">Emily Dickinson Museum</a></li>
-<li><a href="https://www.poetryfoundation.org/poets/emily-dickinson">Emily Dickinson on Poetry Foundation</a></li>
-</ol>
 ]]></content>
   </entry>
   <entry>
@@ -424,16 +424,6 @@
 ]]></content>
   </entry>
   <entry>
-    <title>It Has to Be New</title>
-    <url>/it-has-to-be-new/</url>
-    <content><![CDATA[<p>Close your eyes—wait, actually, don’t close your eyes. Finish reading this paragraph first, then close your eyes. Can you recall everything around you? Could you walk to the exit blindfolded? How much money would you be willing to bet that you know every nook and cranny of this place you’re in? Okay, now close your eyes, and try to recall this place you’re in.</p>
-<p>Hopefully you’ve opened your eyes again and decided to keep reading. It’s hard to know everything about the space around you, not just in arm’s reach, but for miles around you too. It’s hard to say you truly know every building, every tree, every quirk and oddity of the place you live. There are probably entire paths and streets you’ve never touched. With so much unknown, how can you claim you truly know a place?</p>
-<p>At every corner, there’s adventure and excitement and newness that you’ve just never seen before. It could be great; it could be horrible. What matters is that there is something new. A place can never really get old, not without some dedicated effort at least. </p>
-<p>That’s not to say knowing a place is impossible. Knowing exists on a spectrum of bare minimum to every possible detail. If you’re happy with where you are, enjoy it. Being familiar with where you are is a blessing, and no one should be denied the comfort of familiarity.</p>
-<p>Comfort is nice, but eventually it feels old, and I need to seek out new. The new becomes familiar, familiar becomes comfortable, comfortable becomes old, and the cycle repeats. I’ve been repeating this over and over for far too long, but I don’t want to stop. Rather, I can’t stop. This place is new. It has to be new, because if the things around me haven’t changed, then it’s harder to see that I have.</p>
-]]></content>
-  </entry>
-  <entry>
     <title>Infinity in Art</title>
     <url>/infinity-in-art/</url>
     <content><![CDATA[<p>People are often quick to dismiss infinity. For most, infinity represents some nebulous concept about going on forever or a number bigger than all the other numbers. Infinity is silly, hard to conceptualize, and just doesn’t matter for people living finite lives. </p>
@@ -457,6 +447,25 @@
 ]]></content>
   </entry>
   <entry>
+    <title>It Has to Be New</title>
+    <url>/it-has-to-be-new/</url>
+    <content><![CDATA[<p>Close your eyes—wait, actually, don’t close your eyes. Finish reading this paragraph first, then close your eyes. Can you recall everything around you? Could you walk to the exit blindfolded? How much money would you be willing to bet that you know every nook and cranny of this place you’re in? Okay, now close your eyes, and try to recall this place you’re in.</p>
+<p>Hopefully you’ve opened your eyes again and decided to keep reading. It’s hard to know everything about the space around you, not just in arm’s reach, but for miles around you too. It’s hard to say you truly know every building, every tree, every quirk and oddity of the place you live. There are probably entire paths and streets you’ve never touched. With so much unknown, how can you claim you truly know a place?</p>
+<p>At every corner, there’s adventure and excitement and newness that you’ve just never seen before. It could be great; it could be horrible. What matters is that there is something new. A place can never really get old, not without some dedicated effort at least. </p>
+<p>That’s not to say knowing a place is impossible. Knowing exists on a spectrum of bare minimum to every possible detail. If you’re happy with where you are, enjoy it. Being familiar with where you are is a blessing, and no one should be denied the comfort of familiarity.</p>
+<p>Comfort is nice, but eventually it feels old, and I need to seek out new. The new becomes familiar, familiar becomes comfortable, comfortable becomes old, and the cycle repeats. I’ve been repeating this over and over for far too long, but I don’t want to stop. Rather, I can’t stop. This place is new. It has to be new, because if the things around me haven’t changed, then it’s harder to see that I have.</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>New Beginnings</title>
+    <url>/new-beginnings/</url>
+    <content><![CDATA[<p>Back when I was starting university, the institution made a huge fuss about orientation. There were days of programming filled with events and activities, each one an opportunity to make friends and memories. Being away from home, I was nervous and excited and nervous for the days ahead. That anticipation built until commencement day, on which all first-years would make their inaugural march through the university gates. As the clock reached 9, I opened my laptop, clicked the broadcast link, and watched as a lone bagpipe player walked around the university quad playing “Scotland the Brave.” There were a few speeches after, I think. I’m not too sure; I stopped watching pretty quickly. </p>
+<p>As I embark on a new beginning myself, I am reminded of the new beginnings gone past, particularly starting college in the middle of a global pandemic. That first year of college in particular was so strange. My orientation was virtual, my classes were virtual, and almost every conversation I had was virtual. Whenever someone would ask me how I was enjoying higher education, I would tell them that I had never been inside any of the academic buildings, but I knew what they all looked like on the outside.</p>
+<p>Eventually, things changed, and I attended in-person classes, sat next to people in dining halls, and high-fived someone for the first time in over a year. Still, those of us from the COVID era never were quite the same as our older or younger peers. We skipped out on traditions, ignored famous events, and fell in love with forgotten parts of the university. It didn’t matter that we were finally given a chance at a “normal” college experience. By that point, it was too late, and we had already developed our own expectations for what college meant to us.</p>
+<p>The beginning of our journey strongly controlled the trajectory of our college experience, and knowing that now, I realize these next few months will define so much of my PhD. I may already know the people and the place, but my purpose here is quite different from what it was four years ago. My purpose four years ago was to make it to today, and today, my purpose is to build the foundation of my academic career. There will be similarities between then and now, but I know one thing for sure. When commencement begins, I won’t just be watching on a live broadcast. I’ll be walking through those gates, ready to take on a new beginning.</p>
+]]></content>
+  </entry>
+  <entry>
     <title>Knowing Your Audience</title>
     <url>/knowing-your-audience/</url>
     <content><![CDATA[<p>A while back, I took an academic and professional writing class. It’s called Little Red Schoolhouse, and it’s one of the most famous classes at the university. Every week, we would submit a writing assignment based on a new prompt. Within that prompt, we could write about whatever field we wanted, but there was a catch. Before every assignment, we had to submit a reader’s statement. The reader’s statement was a paragraph summarizing the knowledge, background, and goals of the reader. Ideally, our submission would match the kind of writing best suited for our expected reader. Every decision we made about our writing, from jargon to pacing to structure, had to be made to the benefit of the reader described in the statement.</p>
@@ -468,15 +477,6 @@
 <p>That was my real reader’s statement. Actually, that was everyone’s real reader’s statement; they just didn’t know it. Our audiences were not hypothetical readers invented in our minds. They were writing students and lectors. Using this framework, I would properly craft my submitted reader’s statement and writing assignment to match. My grades were phenomenal, and the feedback was overwhelmingly positive. Though my previous writing experience likely influenced this, that multi-layered reader’s statement formed an undeniably effective framework for my assignments. </p>
 <p>In some ways, I may appear to have subverted the course, but looking back, I learned the lesson even better this way. I wasn’t inventing readers for the sake of an assignment. I was actively studying my real audience and writing specifically for them. Having learned this lesson, I try to apply it whenever I write, but there’s one place I just haven’t studied my readers: here. I have no clue what you, the reader, want to read. I don’t know how you found me or why you read my work. To be clear, I’m eternally grateful, but I want to write for you, the audience. Right now, I’m just writing for myself. If you found this website, then you can probably find me, online or in person, so please do. Tell me who you are, why you read what I write, and what you’re looking for. </p>
 <p>Or don’t, that’s fine too. I’ll keep shouting into the void, just in case you’re still listening.</p>
-]]></content>
-  </entry>
-  <entry>
-    <title>New Beginnings</title>
-    <url>/new-beginnings/</url>
-    <content><![CDATA[<p>Back when I was starting university, the institution made a huge fuss about orientation. There were days of programming filled with events and activities, each one an opportunity to make friends and memories. Being away from home, I was nervous and excited and nervous for the days ahead. That anticipation built until commencement day, on which all first-years would make their inaugural march through the university gates. As the clock reached 9, I opened my laptop, clicked the broadcast link, and watched as a lone bagpipe player walked around the university quad playing “Scotland the Brave.” There were a few speeches after, I think. I’m not too sure; I stopped watching pretty quickly. </p>
-<p>As I embark on a new beginning myself, I am reminded of the new beginnings gone past, particularly starting college in the middle of a global pandemic. That first year of college in particular was so strange. My orientation was virtual, my classes were virtual, and almost every conversation I had was virtual. Whenever someone would ask me how I was enjoying higher education, I would tell them that I had never been inside any of the academic buildings, but I knew what they all looked like on the outside.</p>
-<p>Eventually, things changed, and I attended in-person classes, sat next to people in dining halls, and high-fived someone for the first time in over a year. Still, those of us from the COVID era never were quite the same as our older or younger peers. We skipped out on traditions, ignored famous events, and fell in love with forgotten parts of the university. It didn’t matter that we were finally given a chance at a “normal” college experience. By that point, it was too late, and we had already developed our own expectations for what college meant to us.</p>
-<p>The beginning of our journey strongly controlled the trajectory of our college experience, and knowing that now, I realize these next few months will define so much of my PhD. I may already know the people and the place, but my purpose here is quite different from what it was four years ago. My purpose four years ago was to make it to today, and today, my purpose is to build the foundation of my academic career. There will be similarities between then and now, but I know one thing for sure. When commencement begins, I won’t just be watching on a live broadcast. I’ll be walking through those gates, ready to take on a new beginning.</p>
 ]]></content>
   </entry>
   <entry>
@@ -801,23 +801,6 @@
 ]]></content>
   </entry>
   <entry>
-    <title>The Connoisseur of Random: Lava Lamps are Protecting your Data</title>
-    <url>/the-connoisseur-of-random-lava-lamps-are-protecting-your-data/</url>
-    <content><![CDATA[<p>Have you ever used the Canva website? How about Etsy, Walmart, or even Best Buy? If so, congrats! Your data is being protected by lava lamps.</p>
-<p>Cloudflare is one of the largest global networks, securely providing you access to many of your favorite websites. In an attempt to generate more secure encryption keys, they turned to lava lamps. More specifically, they take pictures of a massive wall of lava lamps, and the sequence of pixels in the image is used as a random number. While lava lamps are deterministic—they follow an exact set of rules in a particular order—they are mathematically chaotic, meaning that approximate initial conditions won’t tell you the final outcome. If you are even slightly off when trying to simulate a lava lamp, your results will be almost entirely inaccurate.</p>
-<p>Additionally, Cloudflare uses a double pendulum and uranium decay to generate chaos, but that’s beyond the scope of this archive.</p>
-<p>Using lava lamps to generate random numbers isn’t a new idea. Back in 1996, Lavarand began using lava lamps to generate random numbers. They took the data from images of lava lamp arrays, and used them as seeds for pseudorandom number generators. Naturally, the use of a pseudorandom number generator makes the process a bit less safe, but it’s nice to see they were taking precautions.</p>
-<p>Pseudorandom number generation is too well understood to be used in cryptography, so Cloudflare imposes two additional rules on their random number generation to keep your data secure. First, their numbers should pass statistical tests that prove unpredictability. If you can find patterns in your data, it’s hard to call it random (I have another archive on the way about this topic). Second, if someone knows how part—not all—of the program works, they still shouldn’t be able to predict the random numbers. </p>
-<p>So, the next time you’re shopping on Etsy or Walmart.com, remember that you’re safe. You have lava lamps protecting you. </p>
-<p><em>Disclaimer: I am not affiliated with Cloudflare in any way, and these statements are entirely my own.</em></p>
-<hr>
-<h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ol>
-<li><a href="https://www.cloudflare.com/learning/ssl/lava-lamp-encryption/">Cloudflare Uses Lava Lamps</a></li>
-<li><a href="https://web.archive.org/web/19971210213248/http://lavarand.sgi.com/">Lavarand Web Archive</a></li>
-</ol>
-]]></content>
-  </entry>
-  <entry>
     <title>The Connoisseur of Random: Before Computers</title>
     <url>/the-connoisseur-of-random-before-computers/</url>
     <content><![CDATA[<p>As we discussed last time, computers aren’t great at generating truly random numbers. Can you do any better? You have plenty of practice generating random numbers, I can promise you that, as long as you’ve played a few board games.</p>
@@ -889,6 +872,23 @@
 <li><a href="https://www.youtube.com/watch?v=rwvIGNXY21Y">Landing Heads 10 Times in a Row (Video of Dr. James Grime)</a></li>
 <li><a href="https://www.youtube.com/watch?v=-h_rj2-HP2E">Predicting Random Numbers</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Random_number_generator_attack">Attacking Random Number Generators</a></li>
+</ol>
+]]></content>
+  </entry>
+  <entry>
+    <title>The Connoisseur of Random: Lava Lamps are Protecting your Data</title>
+    <url>/the-connoisseur-of-random-lava-lamps-are-protecting-your-data/</url>
+    <content><![CDATA[<p>Have you ever used the Canva website? How about Etsy, Walmart, or even Best Buy? If so, congrats! Your data is being protected by lava lamps.</p>
+<p>Cloudflare is one of the largest global networks, securely providing you access to many of your favorite websites. In an attempt to generate more secure encryption keys, they turned to lava lamps. More specifically, they take pictures of a massive wall of lava lamps, and the sequence of pixels in the image is used as a random number. While lava lamps are deterministic—they follow an exact set of rules in a particular order—they are mathematically chaotic, meaning that approximate initial conditions won’t tell you the final outcome. If you are even slightly off when trying to simulate a lava lamp, your results will be almost entirely inaccurate.</p>
+<p>Additionally, Cloudflare uses a double pendulum and uranium decay to generate chaos, but that’s beyond the scope of this archive.</p>
+<p>Using lava lamps to generate random numbers isn’t a new idea. Back in 1996, Lavarand began using lava lamps to generate random numbers. They took the data from images of lava lamp arrays, and used them as seeds for pseudorandom number generators. Naturally, the use of a pseudorandom number generator makes the process a bit less safe, but it’s nice to see they were taking precautions.</p>
+<p>Pseudorandom number generation is too well understood to be used in cryptography, so Cloudflare imposes two additional rules on their random number generation to keep your data secure. First, their numbers should pass statistical tests that prove unpredictability. If you can find patterns in your data, it’s hard to call it random (I have another archive on the way about this topic). Second, if someone knows how part—not all—of the program works, they still shouldn’t be able to predict the random numbers. </p>
+<p>So, the next time you’re shopping on Etsy or Walmart.com, remember that you’re safe. You have lava lamps protecting you. </p>
+<p><em>Disclaimer: I am not affiliated with Cloudflare in any way, and these statements are entirely my own.</em></p>
+<hr>
+<h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ol>
+<li><a href="https://www.cloudflare.com/learning/ssl/lava-lamp-encryption/">Cloudflare Uses Lava Lamps</a></li>
+<li><a href="https://web.archive.org/web/19971210213248/http://lavarand.sgi.com/">Lavarand Web Archive</a></li>
 </ol>
 ]]></content>
   </entry>
@@ -1236,16 +1236,6 @@ echo "cmJoYXNrYXJAdWNoaWNhZ28uZWR1Cg==" | base64 --decode
 <!-- *Add to the [dialogue](/chat), and become part of my story.* -->]]></content>
   </entry>
   <entry>
-    <title>Publications</title>
-    <url>/publications/index.html</url>
-    <content><![CDATA[<p>Also see my: <a href="https://scholar.google.com/citations?user=dqTwtegAAAAJ&hl=en&oi=ao">Google Scholar</a></p>
-<h3 id="Refereed"><a href="#Refereed" class="headerlink" title="Refereed"></a>Refereed</h3><p><a href="https://arxiv.org/abs/2506.21874">On the Feasibility of Poisoning Text-to-Image AI Models via Adversarial Mislabeling</a><br>Stanley Wu, <strong>Ronik Bhaskar</strong>, Anna Yoo Jeong Ha, Shawn Shan, Haitao Zheng, Ben Y. Zhao<br><em>Conference on Computer and Communications Security (CCS), 2025.</em> </p>
-<p><a href="https://arxiv.org/abs/2402.03214">Organic or Diffused: Can We Distinguish Human Art from AI-generated Images?</a><br>Anna Yoo Jeong Ha*, Josephine Passananti*, <strong>Ronik Bhaskar</strong>, Shawn Shan, Reid Southen, Haitao Zheng, Ben Y. Zhao.<br><em>Conference on Computer and Communications Security (CCS), 2024.</em><br>☆ Distinguished Paper Award.</p>
-<p><a href="https://www.usenix.org/system/files/sec23winter-prepub-116-yang-zhuolin.pdf">Can Virtual Reality Protect Users from Keystroke Inference Attacks?</a><br>Zhuolin Yang, Zain Sarwar, Iris Hwang, <strong>Ronik Bhaskar</strong>, Ben Y. Zhao, Haitao Zheng.<br><em>USENIX Security Symposium, 2024.</em><br><a href="https://www.newscientist.com/article/2401929-ai-can-steal-passwords-in-virtual-reality-from-avatar-hand-motions/">Media Coverage</a><br><br></p>
-<h3 id="Recreational"><a href="#Recreational" class="headerlink" title="Recreational"></a>Recreational</h3><p><a href="/projects/PizzaLang.pdf">PizzaLang: A Language for Hungry Developers</a><br><strong>Ronik Bhaskar</strong>, Dawson Ren.<br><em>Proc. of SIGBOVIK, 2023.</em></p>
-]]></content>
-  </entry>
-  <entry>
     <title>Full Stack Chat App</title>
     <url>/projects/chat.html</url>
     <content><![CDATA[<p>Chat with me <a href="/chat">here</a>. (You’ll know it’s me because my name is <strong>bold</strong>.)</p>
@@ -1370,29 +1360,6 @@ echo "cmJoYXNrYXJAdWNoaWNhZ28uZWR1Cg==" | base64 --decode
 <h3 id="Authors"><a href="#Authors" class="headerlink" title="Authors"></a>Authors</h3><p>Jon Ma and Ronik Bhaskar</p>
 <h3 id="Notes"><a href="#Notes" class="headerlink" title="Notes"></a>Notes</h3><p>*technically, they predict the next token, not word, but for our purposes, they are functionally the same.</p>
 ]]></content>
-  </entry>
-  <entry>
-    <title>Inventing a Game, Then Building a Bot to Play It Perfectly</title>
-    <url>/projects/forest-algorithm.html</url>
-    <content><![CDATA[<p>It’s easier to learn how the game works by playing it, so I’ll create a playable version soon (hopefully).</p>
-<h2 id="Introduction-to-Forest"><a href="#Introduction-to-Forest" class="headerlink" title="Introduction to Forest"></a>Introduction to Forest</h2><p>I can’t remember the last time I played tic-tac-toe, probably because it ended in a draw. Hoping to bring back the excitement and strategy of the game, I created a variation I call “Forest.” The name comes from “four-by-four torus tic-tac-toe” being reduced to “fourus t.” which sounds like “forest” when you say it out loud. The game is tic-tac-toe played on a 4x4 grid, but rather than playing on a flat plane, the game is played on the surface of a donut—a torus—which offers some interesting opportunities for win cases. It’s a blast to play, much more fun than tic-tac-toe, but now I have a new problem. I don’t have a good strategy. There are a finite set of board states, so theoretically, we could map out every game and create a perfect strategy.</p>
-<p>Theoretically.</p>
-<h2 id="Turning-Theory-into-Practice-My-Strategy"><a href="#Turning-Theory-into-Practice-My-Strategy" class="headerlink" title="Turning Theory into Practice (My Strategy)"></a>Turning Theory into Practice (My Strategy)</h2><p>If you were to map out every possible decision on a Forest board, you would have roughly 30 trillion decisions. Once we map out this decision tree once, it’ll be done, and we won’t have to do it again. The problem arises when you want to map out the tree once. It’s just too big to do in any reasonable amount of time. I won’t settle for anything less than perfect, so I will create the tree, but I’ll have to figure out how to do it faster.</p>
-<p>In my view, there are two ways to optimize a procedure. Either you do the same procedure, but faster, or you get clever with your work. With the first option, it’s like walking a lap versus sprinting. You use efficient encodings, reuse similar chunks of memory, and perform faster operations, but if you were to describe how the algorithm works at a high level, it would sound the same before and after the optimization, “I go all the way around the track.” With the second option, it’s like walking a lap versus walking halfway then cutting across the field directly back to the start. You fundamentally change how you approach the problem, whether translating the problem, taking advantage of certain assumptions, or just doing less work.</p>
-<p>Given my previous experiences with decision trees, I started with trying to do less work. While the decision tree has 30 trillion branches, the total number of possible board states is less than 4.3 million, which is still a lot, but a substantial reduction. This means the decision tree is repeating states, which makes sense. As an example, consider these two games of tic-tac-toe (not Forest):</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">  |  |        X |  |        X |  |        X |  | X</span><br><span class="line">--------      --------      --------      --------</span><br><span class="line">  |  |    --&gt;   |  |    --&gt;   |O |    --&gt;   |O |  </span><br><span class="line">--------      --------      --------      --------</span><br><span class="line">  |  |          |  |          |  |          |  |   </span><br></pre></td></tr></table></figure>
-
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">  |  |          |  | X        |  | X      X |  | X</span><br><span class="line">--------      --------      --------      --------</span><br><span class="line">  |  |    --&gt;   |  |    --&gt;   |O |    --&gt;   |O |  </span><br><span class="line">--------      --------      --------      --------</span><br><span class="line">  |  |          |  |          |  |          |  |   </span><br></pre></td></tr></table></figure>
-
-<p>In both, they reach the same state by the end of the third move, but they start with different decisions, which means they represent separate branches on the decision tree. We could reduce the work we need to do by reusing this state in multiple places on the decision tree. By reusing every repeated state, we can go from the tens of trillions of states to a few million, but we can do less.</p>
-<p>After taking nearly a dozen math classes, I think I will forever have equivalence relations drilled into my head. Essentially, equivalence relations are a generalized method for defining equality. They allow you to group together equal elements into fancy buckets called equivalence classes. Since Forest is played on a torus, we can rotate, twist, and mirror the torus, all while preserving the game. As such, transforming the torus in different ways creates equivalent states, and we can let this be our definition of equivalence. To actually generate these equivalent states, I used algebraic representations of the ways you can manipulate a 4x4 torus and generated 128 transformations. With this, we need to check even fewer states, only around 77 thousand. </p>
-<p>After all this optimization, I started the program and waited to see some progress. For some reason, my program was only calculating a few optimal moves per second. I know my laptop isn’t necessarily state-of-the-art, but it should be faster than this. I couldn’t reduce the number of states I was checking, so it was time to try the other part of optimization. Just do it faster.</p>
-<p>This project was created in Python, as most of my projects are, since it’s the language in which I can think the fastest. Translating my thoughts to Python is second nature at this point, but that doesn’t mean translating Python to machine instructions is particularly efficient. Fortunately, I have a few years of lower-level programming experience, so I started going through my program, trying to consider what operations would be slow or where I might be allocating too much memory, and I found one very clear bottleneck. My lookup table, with its fancy equivalence relation, turned the board into a lookup key, and then the key back into a board. When turning the key into a new board, it created a new board, which meant I was doing dozens of memory allocations just to use a single state for a few operations. To fix this, I reused an old board and overwrote the memory there. </p>
-<p>I made a few similar changes, removing redundant data structures and fancy sorting and simplifying to basic arithmetic operations. All of a sudden, my basic minimax implementation was flying, and the program generated a table with all of the optimal moves in 22 seconds.</p>
-<h2 id="Reinforcement-Learning-Dawson’s-Strategy"><a href="#Reinforcement-Learning-Dawson’s-Strategy" class="headerlink" title="Reinforcement Learning (Dawson’s Strategy)"></a>Reinforcement Learning (Dawson’s Strategy)</h2><p>While I was working on this, Dawson took a different approach. Rather than using massive lookup space reductions, he turned to Reinforcement Learning with Monte-Carlo Tree Search. I’ll leave him to give an explanation of his process and how he approached this problem.</p>
-<h2 id="Two-Will-Enter-Only-One-Will-Leave"><a href="#Two-Will-Enter-Only-One-Will-Leave" class="headerlink" title="Two Will Enter, Only One Will Leave"></a>Two Will Enter, Only One Will Leave</h2><p>Now that we have our working Forest bots, we need to pit them against each other and see how they compare.</p>
-<hr>
-<p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
   </entry>
   <entry>
     <title>Gallery Ext</title>
@@ -1663,6 +1630,29 @@ echo "cmJoYXNrYXJAdWNoaWNhZ28uZWR1Cg==" | base64 --decode
 ]]></content>
   </entry>
   <entry>
+    <title>Inventing a Game, Then Building a Bot to Play It Perfectly</title>
+    <url>/projects/forest-algorithm.html</url>
+    <content><![CDATA[<p>It’s easier to learn how the game works by playing it, so I’ll create a playable version soon (hopefully).</p>
+<h2 id="Introduction-to-Forest"><a href="#Introduction-to-Forest" class="headerlink" title="Introduction to Forest"></a>Introduction to Forest</h2><p>I can’t remember the last time I played tic-tac-toe, probably because it ended in a draw. Hoping to bring back the excitement and strategy of the game, I created a variation I call “Forest.” The name comes from “four-by-four torus tic-tac-toe” being reduced to “fourus t.” which sounds like “forest” when you say it out loud. The game is tic-tac-toe played on a 4x4 grid, but rather than playing on a flat plane, the game is played on the surface of a donut—a torus—which offers some interesting opportunities for win cases. It’s a blast to play, much more fun than tic-tac-toe, but now I have a new problem. I don’t have a good strategy. There are a finite set of board states, so theoretically, we could map out every game and create a perfect strategy.</p>
+<p>Theoretically.</p>
+<h2 id="Turning-Theory-into-Practice-My-Strategy"><a href="#Turning-Theory-into-Practice-My-Strategy" class="headerlink" title="Turning Theory into Practice (My Strategy)"></a>Turning Theory into Practice (My Strategy)</h2><p>If you were to map out every possible decision on a Forest board, you would have roughly 30 trillion decisions. Once we map out this decision tree once, it’ll be done, and we won’t have to do it again. The problem arises when you want to map out the tree once. It’s just too big to do in any reasonable amount of time. I won’t settle for anything less than perfect, so I will create the tree, but I’ll have to figure out how to do it faster.</p>
+<p>In my view, there are two ways to optimize a procedure. Either you do the same procedure, but faster, or you get clever with your work. With the first option, it’s like walking a lap versus sprinting. You use efficient encodings, reuse similar chunks of memory, and perform faster operations, but if you were to describe how the algorithm works at a high level, it would sound the same before and after the optimization, “I go all the way around the track.” With the second option, it’s like walking a lap versus walking halfway then cutting across the field directly back to the start. You fundamentally change how you approach the problem, whether translating the problem, taking advantage of certain assumptions, or just doing less work.</p>
+<p>Given my previous experiences with decision trees, I started with trying to do less work. While the decision tree has 30 trillion branches, the total number of possible board states is less than 4.3 million, which is still a lot, but a substantial reduction. This means the decision tree is repeating states, which makes sense. As an example, consider these two games of tic-tac-toe (not Forest):</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">  |  |        X |  |        X |  |        X |  | X</span><br><span class="line">--------      --------      --------      --------</span><br><span class="line">  |  |    --&gt;   |  |    --&gt;   |O |    --&gt;   |O |  </span><br><span class="line">--------      --------      --------      --------</span><br><span class="line">  |  |          |  |          |  |          |  |   </span><br></pre></td></tr></table></figure>
+
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">  |  |          |  | X        |  | X      X |  | X</span><br><span class="line">--------      --------      --------      --------</span><br><span class="line">  |  |    --&gt;   |  |    --&gt;   |O |    --&gt;   |O |  </span><br><span class="line">--------      --------      --------      --------</span><br><span class="line">  |  |          |  |          |  |          |  |   </span><br></pre></td></tr></table></figure>
+
+<p>In both, they reach the same state by the end of the third move, but they start with different decisions, which means they represent separate branches on the decision tree. We could reduce the work we need to do by reusing this state in multiple places on the decision tree. By reusing every repeated state, we can go from the tens of trillions of states to a few million, but we can do less.</p>
+<p>After taking nearly a dozen math classes, I think I will forever have equivalence relations drilled into my head. Essentially, equivalence relations are a generalized method for defining equality. They allow you to group together equal elements into fancy buckets called equivalence classes. Since Forest is played on a torus, we can rotate, twist, and mirror the torus, all while preserving the game. As such, transforming the torus in different ways creates equivalent states, and we can let this be our definition of equivalence. To actually generate these equivalent states, I used algebraic representations of the ways you can manipulate a 4x4 torus and generated 128 transformations. With this, we need to check even fewer states, only around 77 thousand. </p>
+<p>After all this optimization, I started the program and waited to see some progress. For some reason, my program was only calculating a few optimal moves per second. I know my laptop isn’t necessarily state-of-the-art, but it should be faster than this. I couldn’t reduce the number of states I was checking, so it was time to try the other part of optimization. Just do it faster.</p>
+<p>This project was created in Python, as most of my projects are, since it’s the language in which I can think the fastest. Translating my thoughts to Python is second nature at this point, but that doesn’t mean translating Python to machine instructions is particularly efficient. Fortunately, I have a few years of lower-level programming experience, so I started going through my program, trying to consider what operations would be slow or where I might be allocating too much memory, and I found one very clear bottleneck. My lookup table, with its fancy equivalence relation, turned the board into a lookup key, and then the key back into a board. When turning the key into a new board, it created a new board, which meant I was doing dozens of memory allocations just to use a single state for a few operations. To fix this, I reused an old board and overwrote the memory there. </p>
+<p>I made a few similar changes, removing redundant data structures and fancy sorting and simplifying to basic arithmetic operations. All of a sudden, my basic minimax implementation was flying, and the program generated a table with all of the optimal moves in 22 seconds.</p>
+<h2 id="Reinforcement-Learning-Dawson’s-Strategy"><a href="#Reinforcement-Learning-Dawson’s-Strategy" class="headerlink" title="Reinforcement Learning (Dawson’s Strategy)"></a>Reinforcement Learning (Dawson’s Strategy)</h2><p>While I was working on this, Dawson took a different approach. Rather than using massive lookup space reductions, he turned to Reinforcement Learning with Monte-Carlo Tree Search. I’ll leave him to give an explanation of his process and how he approached this problem.</p>
+<h2 id="Two-Will-Enter-Only-One-Will-Leave"><a href="#Two-Will-Enter-Only-One-Will-Leave" class="headerlink" title="Two Will Enter, Only One Will Leave"></a>Two Will Enter, Only One Will Leave</h2><p>Now that we have our working Forest bots, we need to pit them against each other and see how they compare.</p>
+<hr>
+<p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
+  </entry>
+  <entry>
     <title>Gallery</title>
     <url>/projects/gallery.html</url>
     <content><![CDATA[<style>
@@ -1913,30 +1903,6 @@ echo "cmJoYXNrYXJAdWNoaWNhZ28uZWR1Cg==" | base64 --decode
 </div>
 </a>
 
-<h2 id="Art-and-Writing"><a href="#Art-and-Writing" class="headerlink" title="Art and Writing"></a>Art and Writing</h2><p>I like to think all of my strange creations could be considered art, but these are the works that fit <em>slightly</em> more conventional definitions of art. </p>
-<a href="/projects/gallery">
-<div class="project-card">
-  <img src="/projects/gallery/hanging-up-the-mask.jpg" alt="Origami Mask">
-  <h3>Origami Design Portfolio</h3>
-  <p><em>A gallery of some of my original works.</em></p>
-  <p>
-    <a class="project-link" href="/projects/gallery">Portfolio</a>
-    <a class="project-link" href="/projects/gallery-ext">Full Gallery</a>
-  </p>
-</div>
-</a>
-
-<a href="/archives">
-<div class="project-card">
-  <h3>Archives Project</h3>
-  <p><em>My occasionally-coherent ramblings.</em></p>
-  <p>
-    <a class="project-link" href="/archives">Table of Contents</a>
-    <a class="project-link" href="/finding-joy-is-a-mathematically-difficult-problem">Random Article</a>
-  </p>
-</div>
-</a>
-
 <h2 id="Playing-with-Text"><a href="#Playing-with-Text" class="headerlink" title="Playing with Text"></a>Playing with Text</h2><p>I have always been fascinated with the idea of manipulating text programmatically. How do we read it, extract meaning, and produce thoughtful communcation? None of these projects answer those questions, but they are fun.</p>
 <a href="/text_generator">
 <div class="project-card">
@@ -1982,6 +1948,42 @@ echo "cmJoYXNrYXJAdWNoaWNhZ28uZWR1Cg==" | base64 --decode
   <p><em>An untrained chatbot that you can teach.</em></p>
   <p>
     <a class="project-link"  href="/chatgpt-mini-projects/chatumm/">Website</a>
+  </p>
+</div>
+</a>
+
+<h2 id="Art-and-Writing"><a href="#Art-and-Writing" class="headerlink" title="Art and Writing"></a>Art and Writing</h2><p>I like to think all of my strange creations could be considered art, but these are all of my non-technical works.</p>
+<a href="/projects/gallery">
+<div class="project-card">
+  <img src="/projects/gallery/hanging-up-the-mask.jpg" alt="Origami Mask">
+  <h3>Origami Design Portfolio</h3>
+  <p><em>A gallery of some of my original works.</em></p>
+  <p>
+    <a class="project-link" href="/projects/gallery">Portfolio</a>
+    <a class="project-link" href="/projects/gallery-ext">Full Gallery</a>
+  </p>
+</div>
+</a>
+
+<a href="/archives">
+<div class="project-card">
+  <h3>Archives Project</h3>
+  <p><em>My occasionally-coherent ramblings.</em></p>
+  <p>
+    <a class="project-link" href="/archives">Table of Contents</a>
+    <a class="project-link" href="/finding-joy-is-a-mathematically-difficult-problem">Random Article</a>
+  </p>
+</div>
+</a>
+
+<a href="https://jonikpodcast.github.io">
+<div class="project-card">
+  <img src="misc_images/jonik.png" alt="jonik logo">
+  <h3>Jonik</h3>
+  <p><em>A collaboration with Jonathan Ma.</em></p>
+  <p>
+    <a class="project-link" href="https://jonikpodcast.github.io">Landing Page</a>
+    <a class="project-link" href="https://open.spotify.com/show/7070ianXzOXDDEGYZMyJaW?si=869833fdd05545de">Link to Show</a>
   </p>
 </div>
 </a>
@@ -2084,7 +2086,7 @@ echo "cmJoYXNrYXJAdWNoaWNhZ28uZWR1Cg==" | base64 --decode
 </a>
 
 
-<h2 id="Misc"><a href="#Misc" class="headerlink" title="Misc"></a>Misc</h2><p>I wasn’t sure what category to put these in, so now they get to hang out with the other misfits. Despite the lack of coherent theme, these projects really pushed the bounds on the kinds of things I would build.</p>
+<h2 id="Misc"><a href="#Misc" class="headerlink" title="Misc"></a>Misc</h2><p>I wasn’t sure what category to put these in, so now they get to hang out with the other misfits. Despite the lack of coherent theme, there is one common trend. These projects consistently pushed the bounds on the kinds of things I would build.</p>
 <a href="/ultimate_tic_tac_toe">
 <div class="project-card">
   <img src="misc_images/ultimate_tic_tac_toe_game.png" alt="A game of ultimate tic tac toe."> 
@@ -2429,5 +2431,15 @@ table, th {
 </ul>
 <hr>
 <p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>Publications</title>
+    <url>/publications/index.html</url>
+    <content><![CDATA[<p>Also see my: <a href="https://scholar.google.com/citations?user=dqTwtegAAAAJ&hl=en&oi=ao">Google Scholar</a></p>
+<h3 id="Refereed"><a href="#Refereed" class="headerlink" title="Refereed"></a>Refereed</h3><p><a href="https://arxiv.org/abs/2506.21874">On the Feasibility of Poisoning Text-to-Image AI Models via Adversarial Mislabeling</a><br>Stanley Wu, <strong>Ronik Bhaskar</strong>, Anna Yoo Jeong Ha, Shawn Shan, Haitao Zheng, Ben Y. Zhao<br><em>Conference on Computer and Communications Security (CCS), 2025.</em> </p>
+<p><a href="https://arxiv.org/abs/2402.03214">Organic or Diffused: Can We Distinguish Human Art from AI-generated Images?</a><br>Anna Yoo Jeong Ha*, Josephine Passananti*, <strong>Ronik Bhaskar</strong>, Shawn Shan, Reid Southen, Haitao Zheng, Ben Y. Zhao.<br><em>Conference on Computer and Communications Security (CCS), 2024.</em><br>☆ Distinguished Paper Award.</p>
+<p><a href="https://www.usenix.org/system/files/sec23winter-prepub-116-yang-zhuolin.pdf">Can Virtual Reality Protect Users from Keystroke Inference Attacks?</a><br>Zhuolin Yang, Zain Sarwar, Iris Hwang, <strong>Ronik Bhaskar</strong>, Ben Y. Zhao, Haitao Zheng.<br><em>USENIX Security Symposium, 2024.</em><br><a href="https://www.newscientist.com/article/2401929-ai-can-steal-passwords-in-virtual-reality-from-avatar-hand-motions/">Media Coverage</a><br><br></p>
+<h3 id="Recreational"><a href="#Recreational" class="headerlink" title="Recreational"></a>Recreational</h3><p><a href="/projects/PizzaLang.pdf">PizzaLang: A Language for Hungry Developers</a><br><strong>Ronik Bhaskar</strong>, Dawson Ren.<br><em>Proc. of SIGBOVIK, 2023.</em></p>
+]]></content>
   </entry>
 </search>
