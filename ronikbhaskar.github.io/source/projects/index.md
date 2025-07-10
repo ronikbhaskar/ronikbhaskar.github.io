@@ -104,33 +104,6 @@ Writing a paper you know won't get published is a pretty big waste of time for a
 </div>
 </a>
 
-## Art and Writing
-
-I like to think all of my strange creations could be considered art, but these are the works that fit *slightly* more conventional definitions of art. 
-
-<a href="/projects/gallery">
-<div class="project-card">
-  <img src="/projects/gallery/hanging-up-the-mask.jpg" alt="Origami Mask">
-  <h3>Origami Design Portfolio</h3>
-  <p><em>A gallery of some of my original works.</em></p>
-  <p>
-    <a class="project-link" href="/projects/gallery">Portfolio</a>
-    <a class="project-link" href="/projects/gallery-ext">Full Gallery</a>
-  </p>
-</div>
-</a>
-
-<a href="/archives">
-<div class="project-card">
-  <h3>Archives Project</h3>
-  <p><em>My occasionally-coherent ramblings.</em></p>
-  <p>
-    <a class="project-link" href="/archives">Table of Contents</a>
-    <a class="project-link" href="/finding-joy-is-a-mathematically-difficult-problem">Random Article</a>
-  </p>
-</div>
-</a>
-
 ## Playing with Text
 
 I have always been fascinated with the idea of manipulating text programmatically. How do we read it, extract meaning, and produce thoughtful communcation? None of these projects answer those questions, but they are fun.
@@ -179,6 +152,45 @@ I have always been fascinated with the idea of manipulating text programmaticall
   <p><em>An untrained chatbot that you can teach.</em></p>
   <p>
     <a class="project-link"  href="/chatgpt-mini-projects/chatumm/">Website</a>
+  </p>
+</div>
+</a>
+
+## Art and Writing
+
+I like to think all of my strange creations could be considered art, but these are all of my non-technical works.
+
+<a href="/projects/gallery">
+<div class="project-card">
+  <img src="/projects/gallery/hanging-up-the-mask.jpg" alt="Origami Mask">
+  <h3>Origami Design Portfolio</h3>
+  <p><em>A gallery of some of my original works.</em></p>
+  <p>
+    <a class="project-link" href="/projects/gallery">Portfolio</a>
+    <a class="project-link" href="/projects/gallery-ext">Full Gallery</a>
+  </p>
+</div>
+</a>
+
+<a href="/archives">
+<div class="project-card">
+  <h3>Archives Project</h3>
+  <p><em>My occasionally-coherent ramblings.</em></p>
+  <p>
+    <a class="project-link" href="/archives">Table of Contents</a>
+    <a class="project-link" href="/finding-joy-is-a-mathematically-difficult-problem">Random Article</a>
+  </p>
+</div>
+</a>
+
+<a href="https://jonikpodcast.github.io">
+<div class="project-card">
+  <img src="misc_images/jonik.png" alt="jonik logo">
+  <h3>Jonik</h3>
+  <p><em>A collaboration with Jonathan Ma.</em></p>
+  <p>
+    <a class="project-link" href="https://jonikpodcast.github.io">Landing Page</a>
+    <a class="project-link" href="https://open.spotify.com/show/7070ianXzOXDDEGYZMyJaW?si=869833fdd05545de">Link to Show</a>
   </p>
 </div>
 </a>
@@ -292,7 +304,7 @@ I would never build anything that violates lengthy terms-of-service agreements, 
 
 ## Misc
 
-I wasn't sure what category to put these in, so now they get to hang out with the other misfits. Despite the lack of coherent theme, these projects really pushed the bounds on the kinds of things I would build.
+I wasn't sure what category to put these in, so now they get to hang out with the other misfits. Despite the lack of coherent theme, there is one common trend. These projects consistently pushed the bounds on the kinds of things I would build.
 
 <a href="/ultimate_tic_tac_toe">
 <div class="project-card">
