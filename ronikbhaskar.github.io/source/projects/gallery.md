@@ -52,6 +52,7 @@ Please contact me before distributing or teaching any of my works.
 
 ## Index
 
+[Walking Red Flag](#walking-red-flag)
 [Hanging up the Mask](#hanging-up-the-mask)
 [Ship in a Bottle](#ship-in-a-bottle)
 [Sky's the Limit](#skys-the-limit)
@@ -60,6 +61,19 @@ Please contact me before distributing or teaching any of my works.
 [Whitetail Fawn](#whitetail-fawn)
 [Fish out of Water](#fish-out-of-water)
 [Hanging by a Thread](#hanging-by-a-thread)
+
+<div class="simple-wrapper">
+  <div class="text-wrapper">
+    <a id="walking-red-flag"></a>
+    <h1>Walking Red Flag</h1>
+    <p>Some things are better left avoided, and if you're lucky, they'll tell you to stay away. Most of this model is pretty straightforward to fold, except for the arm holding a smaller red flag.</p>
+    <p>Designed: 07/17/25</p>
+  </div>
+  <div class="image-container">
+  <img src="gallery/walking-red-flag.jpg" alt="Origami red flag."> 
+  <img src="gallery/walking-red-flag-cp.png" alt="Crease pattern of origami red flag."> 
+  </div>
+</div>
 
 <div class="simple-wrapper">
   <div class="text-wrapper">

@@ -47,6 +47,7 @@ An extended gallery of my original origami designs. They are in chronological or
 
 ## Index
 
+[Walking Red Flag - 18 Grid](#walking-red-flag)
 [Hanging up the Mask - 10 Grid](#hanging-up-the-mask)
 [Ship in a Bottle - 18 Grid](#ship-in-a-bottle)
 [Ermine - 14 Grid](#ermine)
@@ -67,8 +68,21 @@ An extended gallery of my original origami designs. They are in chronological or
 
 <div class="simple-wrapper">
   <div class="text-wrapper">
+    <a id="walking-red-flag"></a>
+    <h1>Walking Red Flag - 18 Grid</h1>
+    <p>Some things are better left avoided, and if you're lucky, they'll tell you to stay away. Most of this model is pretty straightforward to fold, except for the arm holding a smaller red flag.</p>
+    <p>Designed: 07/17/25</p>
+  </div>
+  <div class="image-container">
+  <img src="gallery/walking-red-flag.jpg" alt="Origami red flag.">
+  <img src="gallery/walking-red-flag-cp.png" alt="Crease pattern of origami red flag."> 
+  </div>
+</div>
+
+<div class="simple-wrapper">
+  <div class="text-wrapper">
     <a id="hanging-up-the-mask"></a>
-    <h1>Hanging up the Mask</h1>
+    <h1>Hanging up the Mask - 10 Grid</h1>
     <p>Comedy never looked so grim. On a related note, properly shaping this model is a nightmare, probably because I'm bad at masks.</p>
     <p>Designed: 06/28/25</p>
   </div>
