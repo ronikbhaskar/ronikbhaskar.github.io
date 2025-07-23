@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://ronikbhaskar.github.io/projects/gallery-ext</loc>
+    
+    <lastmod>2025-07-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://ronikbhaskar.github.io/projects/gallery</loc>
+    
+    <lastmod>2025-07-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://ronikbhaskar.github.io/projects/</loc>
     
     <lastmod>2025-07-10</lastmod>
@@ -14,24 +32,6 @@
     <loc>https://ronikbhaskar.github.io/finding-joy-is-a-mathematically-difficult-problem/</loc>
     
     <lastmod>2025-07-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://ronikbhaskar.github.io/projects/gallery</loc>
-    
-    <lastmod>2025-07-07</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://ronikbhaskar.github.io/projects/gallery-ext</loc>
-    
-    <lastmod>2025-07-01</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -679,7 +679,7 @@
 
   <url>
     <loc>https://ronikbhaskar.github.io/</loc>
-    <lastmod>2025-07-10</lastmod>
+    <lastmod>2025-07-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>

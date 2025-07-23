@@ -160,6 +160,17 @@
 ]]></content>
   </entry>
   <entry>
+    <title>Celestial Navigation, Part 4</title>
+    <url>/celestial-navigation-part-4/</url>
+    <content><![CDATA[<p>Today, I had the pleasure of witnessing the total solar eclipse, a twice-in-a-lifetime opportunity. Yes, I’ve already seen a solar eclipse, and I’ve seen a handful of lunar eclipses, but I had to see this eclipse too. If you’ve met me, you know I get excited <a href="/celestial-navigation-part-3">when the sun aligns with some buildings</a>, so of course I was going to drive 200 miles to see the sun align with the moon. It was spectacular, but plenty of people will share their life-changing experiences with the eclipse. Instead, here are a few things I learned about eclipses while observing this one.</p>
+<p>You can safely observe a partial eclipse with just your hand and a flat surface. Curl your index finger so as to make a tiny hole, and let sunlight pass through it onto the flat surface. Congrats! You just projected an image of the sun, and with any luck, you’ll see a crescent-shaped sliver of sun instead of the normal circle. This hand projection uses the same principle as a pinhole camera. I was going to make a pinhole camera, but I forgot to bring the materials with me, so I opted for this instead.</p>
+<p>Outdoor lens flares from the sun during an eclipse will be crescents instead of circles. Lens flares are just images of the light source caused by lens imperfections. Turns out, they don’t always have to be circles. Typically, the lens flare is the shape of the light source. Since the light source—the sun—will appear as a crescent, your lens flares will be crescents too.</p>
+<p>Speaking of crescents, a solar crescent from an eclipse will never match the shape of a real crescent moon in the night sky. This is because of how the crescents are formed. For a crescent moon, we’re looking at a half-lit sphere, which is similar to looking at a moon-sized circle partially covered by a larger black circle. Constructing the shape requires two different-sized circles. For a solar crescent, we can use another two circle construction, except the black circle is the same size as the sun, not bigger, so the shape is different. There are more nuances to the full argument, which you can prove mathematically by comparing the distances between the corners of the crescents. Ultimately, solar crescents and crescent moons cannot look the same if the sun and moon are the same size in the sky.</p>
+<p>During a total solar eclipse, you can see celestial bodies you would only see at night. For example, I saw Jupiter and Venus during totality today. Since I’m so used to thinking about when they’ll be above the horizon at night, I really wasn’t expecting to see them during the day. Even in the dark twilight of totality, with no time for my eyes to adjust, the two planets were very easily visible. I should have brought my telescope.</p>
+<p>Typically in Celestial Navigation, I’ll discuss some ways in which we can use the stars to find directions and calculate locations, but so much of that relies on the parallel rays assumption. Light from space hits Earth in the same direction for everyone, no matter where you are. Today, however, that assumption breaks down. Total solar eclipses are focused on small areas. They take advantage of the fact that you are a single observer, looking out, so the rays are radial, not parallel, and you are at the focus. You aren’t meant to find anything during the eclipse. Instead, it’s a brief moment when the sun and the moon find you.</p>
+]]></content>
+  </entry>
+  <entry>
     <title>Conservation and the Trolley Problem</title>
     <url>/conservation-and-the-trolley-problem/</url>
     <content><![CDATA[<p>The Trolley Problem has become a staple of modern media culture. It has made rounds through film and television, memes, and even absurdist video games. Unfortunately, in this meteoric rise in fame, the Trolley Problem has lost its meaning. The once-respected ethical dilemma now often seems overly simplistic and detached from reality. It no longer holds the same significance it did in the 70’s.</p>
@@ -180,17 +191,6 @@
 <li><a href="https://doi.org/10.1016/j.biocon.2006.09.005">Economic and conservation significance of the trophy hunting industry in sub-Saharan Africa</a></li>
 <li><a href="https://doi.org/10.1111/j.1469-1795.2006.00034.x">Potential of trophy hunting to create incentives for wildlife conservation in Africa where alternative wildlife-based land uses may not be viable</a></li>
 </ol>
-]]></content>
-  </entry>
-  <entry>
-    <title>Celestial Navigation, Part 4</title>
-    <url>/celestial-navigation-part-4/</url>
-    <content><![CDATA[<p>Today, I had the pleasure of witnessing the total solar eclipse, a twice-in-a-lifetime opportunity. Yes, I’ve already seen a solar eclipse, and I’ve seen a handful of lunar eclipses, but I had to see this eclipse too. If you’ve met me, you know I get excited <a href="/celestial-navigation-part-3">when the sun aligns with some buildings</a>, so of course I was going to drive 200 miles to see the sun align with the moon. It was spectacular, but plenty of people will share their life-changing experiences with the eclipse. Instead, here are a few things I learned about eclipses while observing this one.</p>
-<p>You can safely observe a partial eclipse with just your hand and a flat surface. Curl your index finger so as to make a tiny hole, and let sunlight pass through it onto the flat surface. Congrats! You just projected an image of the sun, and with any luck, you’ll see a crescent-shaped sliver of sun instead of the normal circle. This hand projection uses the same principle as a pinhole camera. I was going to make a pinhole camera, but I forgot to bring the materials with me, so I opted for this instead.</p>
-<p>Outdoor lens flares from the sun during an eclipse will be crescents instead of circles. Lens flares are just images of the light source caused by lens imperfections. Turns out, they don’t always have to be circles. Typically, the lens flare is the shape of the light source. Since the light source—the sun—will appear as a crescent, your lens flares will be crescents too.</p>
-<p>Speaking of crescents, a solar crescent from an eclipse will never match the shape of a real crescent moon in the night sky. This is because of how the crescents are formed. For a crescent moon, we’re looking at a half-lit sphere, which is similar to looking at a moon-sized circle partially covered by a larger black circle. Constructing the shape requires two different-sized circles. For a solar crescent, we can use another two circle construction, except the black circle is the same size as the sun, not bigger, so the shape is different. There are more nuances to the full argument, which you can prove mathematically by comparing the distances between the corners of the crescents. Ultimately, solar crescents and crescent moons cannot look the same if the sun and moon are the same size in the sky.</p>
-<p>During a total solar eclipse, you can see celestial bodies you would only see at night. For example, I saw Jupiter and Venus during totality today. Since I’m so used to thinking about when they’ll be above the horizon at night, I really wasn’t expecting to see them during the day. Even in the dark twilight of totality, with no time for my eyes to adjust, the two planets were very easily visible. I should have brought my telescope.</p>
-<p>Typically in Celestial Navigation, I’ll discuss some ways in which we can use the stars to find directions and calculate locations, but so much of that relies on the parallel rays assumption. Light from space hits Earth in the same direction for everyone, no matter where you are. Today, however, that assumption breaks down. Total solar eclipses are focused on small areas. They take advantage of the fact that you are a single observer, looking out, so the rays are radial, not parallel, and you are at the focus. You aren’t meant to find anything during the eclipse. Instead, it’s a brief moment when the sun and the moon find you.</p>
 ]]></content>
   </entry>
   <entry>
@@ -248,23 +248,6 @@
 ]]></content>
   </entry>
   <entry>
-    <title>Ex Libris: Select Poems by Emily Dickinson</title>
-    <url>/ex-libris-select-poems-by-emily-dickinson/</url>
-    <content><![CDATA[<p>I recently had the opportunity to visit Amherst, Massachusetts, USA. Amherst doesn’t have a lot going on; it’s mostly a college town surrounded by more colleges surrounded by rural Massachusetts. Amherst may be a relatively sleepy place, but it does have a notable past. Specifically, Amherst is the home of Emily Dickinson.  One of the most important American poets to ever live, Emily Dickinson spent her whole life in and around Amherst. She went to school at Amherst Academy, college at Mount Holyoke, and much of her adult life was spent in the Dickinson mansion in Amherst.</p>
-<p>With this in mind, I gave myself a reading assignment for the trip. I decided to read 10 Emily Dickinson poems, which is not a lot, but I haven’t studied poetry in years, and this was a short trip. The poems were selected from various Internet listicles on the best Emily Dickinson poems. In hopes that this archive does not turn into another listicle, I won’t enumerate every poem I read, but I’ll mention a few, like “I’m Nobody! Who are you?”</p>
-<p>When searching for a copy of “I’m Nobody! Who are you?”, I found multiple versions of the poem. The first published version followed standard capitalization and punctuation conventions, but the corrected version had additional capitalization, more dashes, and different wordings. The corrected version is supposed to be more faithful to the original, and after reading both, I can say the corrected version is far better. Dickinson’s use of capitalization constructs the characters in really clever ways. For example, using “Nobody” instead of “nobody” gives the speaker an identity as a Nobody rather than just being nobody. This contrasts well with the “Somebody” in line 5. Dickinson’s use of punctuation also drastically enhances the meaning of the poem. This was particularly notable in “I felt a Funeral, in my Brain”. The poem ends with a dash, as if the speaker is about to continue their thought, but is abruptly cut off.</p>
-<p>Reading Dickinson’s poetry remains a highlight of my trip. After studying different versions of her poetry, I wanted to save the versions I liked better, so I designed a <a href="/projects/literature-db">simple database for literature</a> whose contents are in plaintext, so if the code ever breaks, the database is still perfectly usable. The project is still a work in progress, but it can scrape poetry from websites, render text, and efficiently search through the database.</p>
-<p>As my trip came to a close, I finished my readings with a poem I know quite well. I’ve had the first stanza memorized for about a year now, and it’s one of a handful of poems I turn to quite frequently. I read it in the moments that I so desperately want to stop moving forward, those points in life where the future is far too chaotic or uncertain, and I can’t slow it down. In many ways, my visit to Amherst is part of that uncertain future, so it was the perfect opportunity to read the poem that starts like this:</p>
-<p>“Hope” is the thing with feathers -<br>That perches in the soul -<br>And sings the tune without the words -<br>And never stops - at all -</p>
-<hr>
-<h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ol>
-<li><a href="https://en.wikipedia.org/wiki/Emily_Dickinson">Emily Dickinson</a></li>
-<li><a href="https://www.emilydickinsonmuseum.org/">Emily Dickinson Museum</a></li>
-<li><a href="https://www.poetryfoundation.org/poets/emily-dickinson">Emily Dickinson on Poetry Foundation</a></li>
-</ol>
-]]></content>
-  </entry>
-  <entry>
     <title>Ex Libris: Kafka on the Shore</title>
     <url>/ex-libris-kafka-on-the-shore/</url>
     <content><![CDATA[<!-- https://www.btsgtheories.com/wp-content/uploads/2020/07/kafka-24grammata.com-free-e-book.-pdf-1.pdf -->
@@ -295,6 +278,23 @@
 <p>The young girl, Varka, enters a few dreams throughout the short story, and each time she does, she first looks at the green light on the wall and the shadows. The flickering light and moving shadows and chirping cricket appear more and more hypnotic until eventually, the light and shadows wink at her. Chekhov builds on the personification until the end of the story. The three items laugh, and she laughs with them as she kills the baby.</p>
 <p>In the span of six pages, Chekhov created an entirely new character out of thin air and gave it a personality. This tricky, evil spirit laughing and dancing on the wall is made of no more than some green light, the shadow of a pair of trousers, and the chirp of a cricket. Its development represents Varka’s descent into madness, an integral component of the story. Chekhov promised to do something with these three items, and he overdelivered on the payoff. Without it, we wouldn’t see Varka lose her mind, just her frustration.</p>
 <p>Creating payoff is about more than finally using the promise. It’s about giving it a broader significance—a life of its own—in the story, one that serves the ending. Once you have that, the payoff can reflect its symbolism, even if you use the promise in an unconventional way. Just because you’ve introduced Chekhov’s Gun doesn’t mean you need to fire it.</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>Ex Libris: Select Poems by Emily Dickinson</title>
+    <url>/ex-libris-select-poems-by-emily-dickinson/</url>
+    <content><![CDATA[<p>I recently had the opportunity to visit Amherst, Massachusetts, USA. Amherst doesn’t have a lot going on; it’s mostly a college town surrounded by more colleges surrounded by rural Massachusetts. Amherst may be a relatively sleepy place, but it does have a notable past. Specifically, Amherst is the home of Emily Dickinson.  One of the most important American poets to ever live, Emily Dickinson spent her whole life in and around Amherst. She went to school at Amherst Academy, college at Mount Holyoke, and much of her adult life was spent in the Dickinson mansion in Amherst.</p>
+<p>With this in mind, I gave myself a reading assignment for the trip. I decided to read 10 Emily Dickinson poems, which is not a lot, but I haven’t studied poetry in years, and this was a short trip. The poems were selected from various Internet listicles on the best Emily Dickinson poems. In hopes that this archive does not turn into another listicle, I won’t enumerate every poem I read, but I’ll mention a few, like “I’m Nobody! Who are you?”</p>
+<p>When searching for a copy of “I’m Nobody! Who are you?”, I found multiple versions of the poem. The first published version followed standard capitalization and punctuation conventions, but the corrected version had additional capitalization, more dashes, and different wordings. The corrected version is supposed to be more faithful to the original, and after reading both, I can say the corrected version is far better. Dickinson’s use of capitalization constructs the characters in really clever ways. For example, using “Nobody” instead of “nobody” gives the speaker an identity as a Nobody rather than just being nobody. This contrasts well with the “Somebody” in line 5. Dickinson’s use of punctuation also drastically enhances the meaning of the poem. This was particularly notable in “I felt a Funeral, in my Brain”. The poem ends with a dash, as if the speaker is about to continue their thought, but is abruptly cut off.</p>
+<p>Reading Dickinson’s poetry remains a highlight of my trip. After studying different versions of her poetry, I wanted to save the versions I liked better, so I designed a <a href="/projects/literature-db">simple database for literature</a> whose contents are in plaintext, so if the code ever breaks, the database is still perfectly usable. The project is still a work in progress, but it can scrape poetry from websites, render text, and efficiently search through the database.</p>
+<p>As my trip came to a close, I finished my readings with a poem I know quite well. I’ve had the first stanza memorized for about a year now, and it’s one of a handful of poems I turn to quite frequently. I read it in the moments that I so desperately want to stop moving forward, those points in life where the future is far too chaotic or uncertain, and I can’t slow it down. In many ways, my visit to Amherst is part of that uncertain future, so it was the perfect opportunity to read the poem that starts like this:</p>
+<p>“Hope” is the thing with feathers -<br>That perches in the soul -<br>And sings the tune without the words -<br>And never stops - at all -</p>
+<hr>
+<h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ol>
+<li><a href="https://en.wikipedia.org/wiki/Emily_Dickinson">Emily Dickinson</a></li>
+<li><a href="https://www.emilydickinsonmuseum.org/">Emily Dickinson Museum</a></li>
+<li><a href="https://www.poetryfoundation.org/poets/emily-dickinson">Emily Dickinson on Poetry Foundation</a></li>
+</ol>
 ]]></content>
   </entry>
   <entry>
@@ -457,15 +457,6 @@
 ]]></content>
   </entry>
   <entry>
-    <title>New Beginnings</title>
-    <url>/new-beginnings/</url>
-    <content><![CDATA[<p>Back when I was starting university, the institution made a huge fuss about orientation. There were days of programming filled with events and activities, each one an opportunity to make friends and memories. Being away from home, I was nervous and excited and nervous for the days ahead. That anticipation built until commencement day, on which all first-years would make their inaugural march through the university gates. As the clock reached 9, I opened my laptop, clicked the broadcast link, and watched as a lone bagpipe player walked around the university quad playing “Scotland the Brave.” There were a few speeches after, I think. I’m not too sure; I stopped watching pretty quickly. </p>
-<p>As I embark on a new beginning myself, I am reminded of the new beginnings gone past, particularly starting college in the middle of a global pandemic. That first year of college in particular was so strange. My orientation was virtual, my classes were virtual, and almost every conversation I had was virtual. Whenever someone would ask me how I was enjoying higher education, I would tell them that I had never been inside any of the academic buildings, but I knew what they all looked like on the outside.</p>
-<p>Eventually, things changed, and I attended in-person classes, sat next to people in dining halls, and high-fived someone for the first time in over a year. Still, those of us from the COVID era never were quite the same as our older or younger peers. We skipped out on traditions, ignored famous events, and fell in love with forgotten parts of the university. It didn’t matter that we were finally given a chance at a “normal” college experience. By that point, it was too late, and we had already developed our own expectations for what college meant to us.</p>
-<p>The beginning of our journey strongly controlled the trajectory of our college experience, and knowing that now, I realize these next few months will define so much of my PhD. I may already know the people and the place, but my purpose here is quite different from what it was four years ago. My purpose four years ago was to make it to today, and today, my purpose is to build the foundation of my academic career. There will be similarities between then and now, but I know one thing for sure. When commencement begins, I won’t just be watching on a live broadcast. I’ll be walking through those gates, ready to take on a new beginning.</p>
-]]></content>
-  </entry>
-  <entry>
     <title>Knowing Your Audience</title>
     <url>/knowing-your-audience/</url>
     <content><![CDATA[<p>A while back, I took an academic and professional writing class. It’s called Little Red Schoolhouse, and it’s one of the most famous classes at the university. Every week, we would submit a writing assignment based on a new prompt. Within that prompt, we could write about whatever field we wanted, but there was a catch. Before every assignment, we had to submit a reader’s statement. The reader’s statement was a paragraph summarizing the knowledge, background, and goals of the reader. Ideally, our submission would match the kind of writing best suited for our expected reader. Every decision we made about our writing, from jargon to pacing to structure, had to be made to the benefit of the reader described in the statement.</p>
@@ -477,6 +468,15 @@
 <p>That was my real reader’s statement. Actually, that was everyone’s real reader’s statement; they just didn’t know it. Our audiences were not hypothetical readers invented in our minds. They were writing students and lectors. Using this framework, I would properly craft my submitted reader’s statement and writing assignment to match. My grades were phenomenal, and the feedback was overwhelmingly positive. Though my previous writing experience likely influenced this, that multi-layered reader’s statement formed an undeniably effective framework for my assignments. </p>
 <p>In some ways, I may appear to have subverted the course, but looking back, I learned the lesson even better this way. I wasn’t inventing readers for the sake of an assignment. I was actively studying my real audience and writing specifically for them. Having learned this lesson, I try to apply it whenever I write, but there’s one place I just haven’t studied my readers: here. I have no clue what you, the reader, want to read. I don’t know how you found me or why you read my work. To be clear, I’m eternally grateful, but I want to write for you, the audience. Right now, I’m just writing for myself. If you found this website, then you can probably find me, online or in person, so please do. Tell me who you are, why you read what I write, and what you’re looking for. </p>
 <p>Or don’t, that’s fine too. I’ll keep shouting into the void, just in case you’re still listening.</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>New Beginnings</title>
+    <url>/new-beginnings/</url>
+    <content><![CDATA[<p>Back when I was starting university, the institution made a huge fuss about orientation. There were days of programming filled with events and activities, each one an opportunity to make friends and memories. Being away from home, I was nervous and excited and nervous for the days ahead. That anticipation built until commencement day, on which all first-years would make their inaugural march through the university gates. As the clock reached 9, I opened my laptop, clicked the broadcast link, and watched as a lone bagpipe player walked around the university quad playing “Scotland the Brave.” There were a few speeches after, I think. I’m not too sure; I stopped watching pretty quickly. </p>
+<p>As I embark on a new beginning myself, I am reminded of the new beginnings gone past, particularly starting college in the middle of a global pandemic. That first year of college in particular was so strange. My orientation was virtual, my classes were virtual, and almost every conversation I had was virtual. Whenever someone would ask me how I was enjoying higher education, I would tell them that I had never been inside any of the academic buildings, but I knew what they all looked like on the outside.</p>
+<p>Eventually, things changed, and I attended in-person classes, sat next to people in dining halls, and high-fived someone for the first time in over a year. Still, those of us from the COVID era never were quite the same as our older or younger peers. We skipped out on traditions, ignored famous events, and fell in love with forgotten parts of the university. It didn’t matter that we were finally given a chance at a “normal” college experience. By that point, it was too late, and we had already developed our own expectations for what college meant to us.</p>
+<p>The beginning of our journey strongly controlled the trajectory of our college experience, and knowing that now, I realize these next few months will define so much of my PhD. I may already know the people and the place, but my purpose here is quite different from what it was four years ago. My purpose four years ago was to make it to today, and today, my purpose is to build the foundation of my academic career. There will be similarities between then and now, but I know one thing for sure. When commencement begins, I won’t just be watching on a live broadcast. I’ll be walking through those gates, ready to take on a new beginning.</p>
 ]]></content>
   </entry>
   <entry>
@@ -712,6 +712,27 @@
 ]]></content>
   </entry>
   <entry>
+    <title>Taking Silly Ideas Seriously</title>
+    <url>/taking-silly-ideas-seriously/</url>
+    <content><![CDATA[<p>Since 2007, the Association for Computational Heresy has celebrated the sillier side of academic research through the annual SIGBOVIK conference. As their website states, “SIGBOVIK is an evening of tongue-in-cheek academic presentations, a venue for silly ideas and&#x2F;or executions.” This interdisciplinary computer science conference invites three categories of research: “joke realizations of joke ideas, joke realizations of serious ideas, and serious realizations of joke ideas.” While all three quadrants offer exciting opportunities, I’m particularly intrigued by the last one: serious realizations of joke ideas. Fully understanding this quadrant requires understanding the two parts individually.</p>
+<p>The first part, serious realizations, is relatively straightforward. Given some idea, a serious realization would offer results that answer some underlying questions or issues. One fantastic example of a serious realization is GradIEEEnt half decent, published in a previous SIGBOVIK. In GradIEEEnt half decent, Dr. Tom Murphy explores the idea of how computer rounding errors could be used on purpose. His realization includes creating a non-linear activation function using linear operations. He evaluates the effectiveness of his activation function on standard machine learning benchmark datasets like MNIST and CIFAR-10, comparing performance to other activation functions. Not all serious realizations require experimental results, but they do require going beyond just the initial idea.</p>
+<p>The second part, joke ideas, is less clear-cut. Plenty of ideas that start as jokes are later taken more seriously. For example, Schrödinger’s Cat was originally used to poke fun at the absurdity of quantum models of macroscopic objects. This ridiculous idea of a cat in a box is now the most well-known analogy for measurement in quantum systems. Similarly, Fred Hoyle coined the term “Big Bang” because he was poking fun at the idea of the universe expanding from a singularity. He never did accept the theory, but today, supporters and critics all use the term “Big Bang” seriously. Joke ideas frequently become serious, making them much more difficult to define.</p>
+<p>While Schrödinger and Hoyle made jokes out of disbelief, not all joke ideas come from disagreement. Jokes can come from a variety of sources, but for the purposes of SIGBOVIK and similar venues, there is one common unifier among joke ideas: they would not receive funding. This argument requires establishing a few premises. First, I will use the terms “joke” and “serious” as opposites, so not serious ideas are joke ideas. Next, it’s reasonable to assume that researchers publishing in most journals and conferences are addressing serious ideas. Researchers can do that work as their job because it is funded. Since funding agencies decide whether a researcher’s proposal gets funded, funding agencies thus decide if the work is serious. Note that I am not arguing that every serious idea gets funding. Instead, if a funding agency funds a proposal, then the idea is serious. By the contrapositive, if the idea is not serious, then it will not be funded.</p>
+<p>Using funding as this guiding principle elucidates how narrow the range of serious ideas really is. Joke ideas aren’t necessarily useless, they’re just a large portion of the ideas that academia doesn’t care about. Exploring them seriously can create opportunities for knowledge that would have never been known before. Research is about pushing the boundaries of human knowledge, and that can be done in all directions. I truly enjoy doing research, and while the majority of my work is focused on serious ideas, I’ve been exploring some joke ideas too. Most recently, I wrote a paper that formally analyzes bread slicing with rigorous mathematics. I don’t claim that it offers much utility to society, but it’s a nice piece of absurdist humor that pairs well with <a href="https://youtu.be/R6SYxpiGGJ0?si=PetWIvfnnBJfoWIo">this summary video</a>. </p>
+<p>SIGBOVIK is a fantastic venue for exploring serious realizations of joke ideas, but I would love to see this occurring more broadly. Granted, my worldview as a computer science research student is vastly limited, but most academics don’t seem to put effort into their silly ideas. If you have the time and resources to do so, why not? Push the boundaries of human knowledge, even in strange directions. Explore silly ideas with the effort you put into your publications. Take your jokes seriously.</p>
+<hr>
+<h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ol>
+<li><a href="http://sigbovik.org/">SIGBOVIK</a></li>
+<li><a href="http://tom7.org/grad/murphy2023grad.pdf">GradIEEEnt half decent</a></li>
+<li><a href="http://yann.lecun.com/exdb/mnist/">MNIST</a></li>
+<li><a href="https://www.cs.toronto.edu/~kriz/cifar.html">CIFAR-10</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Schr%C3%B6dinger%27s_cat">Schrödinger’s Cat</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Fred_Hoyle">Fred Hoyle</a></li>
+<li><a href="/projects/optimal_slicing.pdf">Optimal Bread Slicing</a></li>
+</ol>
+]]></content>
+  </entry>
+  <entry>
     <title>The AI Summer: Part 1</title>
     <url>/the-ai-summer-part-1/</url>
     <content><![CDATA[<p>Well, my little cousin is using large language models to do his homework for him, my aunt makes Facebook posts with images from diffusion models, and I just deepfaked my voice in 5 minutes. That sentence sounds impossible, but the AI revolution has made it all too real. Some argue the AI revolution started in November of 2022, when ChatGPT was first released. Others say it started with Dall-E in early 2021. I say it started in 1958, but not with any big, fancy machine learning models. It started with the Perceptron.</p>
@@ -731,27 +752,6 @@
 <li><a href="https://commoncrawl.org/">CommonCrawl</a></li>
 <li><a href="https://laion.ai/blog/laion-5b/">LAION-5B</a></li>
 <li><a href="https://twitter.com/KeatonPatti/status/1161284670601990146">AI Batman Script from 2019</a></li>
-</ol>
-]]></content>
-  </entry>
-  <entry>
-    <title>Taking Silly Ideas Seriously</title>
-    <url>/taking-silly-ideas-seriously/</url>
-    <content><![CDATA[<p>Since 2007, the Association for Computational Heresy has celebrated the sillier side of academic research through the annual SIGBOVIK conference. As their website states, “SIGBOVIK is an evening of tongue-in-cheek academic presentations, a venue for silly ideas and&#x2F;or executions.” This interdisciplinary computer science conference invites three categories of research: “joke realizations of joke ideas, joke realizations of serious ideas, and serious realizations of joke ideas.” While all three quadrants offer exciting opportunities, I’m particularly intrigued by the last one: serious realizations of joke ideas. Fully understanding this quadrant requires understanding the two parts individually.</p>
-<p>The first part, serious realizations, is relatively straightforward. Given some idea, a serious realization would offer results that answer some underlying questions or issues. One fantastic example of a serious realization is GradIEEEnt half decent, published in a previous SIGBOVIK. In GradIEEEnt half decent, Dr. Tom Murphy explores the idea of how computer rounding errors could be used on purpose. His realization includes creating a non-linear activation function using linear operations. He evaluates the effectiveness of his activation function on standard machine learning benchmark datasets like MNIST and CIFAR-10, comparing performance to other activation functions. Not all serious realizations require experimental results, but they do require going beyond just the initial idea.</p>
-<p>The second part, joke ideas, is less clear-cut. Plenty of ideas that start as jokes are later taken more seriously. For example, Schrödinger’s Cat was originally used to poke fun at the absurdity of quantum models of macroscopic objects. This ridiculous idea of a cat in a box is now the most well-known analogy for measurement in quantum systems. Similarly, Fred Hoyle coined the term “Big Bang” because he was poking fun at the idea of the universe expanding from a singularity. He never did accept the theory, but today, supporters and critics all use the term “Big Bang” seriously. Joke ideas frequently become serious, making them much more difficult to define.</p>
-<p>While Schrödinger and Hoyle made jokes out of disbelief, not all joke ideas come from disagreement. Jokes can come from a variety of sources, but for the purposes of SIGBOVIK and similar venues, there is one common unifier among joke ideas: they would not receive funding. This argument requires establishing a few premises. First, I will use the terms “joke” and “serious” as opposites, so not serious ideas are joke ideas. Next, it’s reasonable to assume that researchers publishing in most journals and conferences are addressing serious ideas. Researchers can do that work as their job because it is funded. Since funding agencies decide whether a researcher’s proposal gets funded, funding agencies thus decide if the work is serious. Note that I am not arguing that every serious idea gets funding. Instead, if a funding agency funds a proposal, then the idea is serious. By the contrapositive, if the idea is not serious, then it will not be funded.</p>
-<p>Using funding as this guiding principle elucidates how narrow the range of serious ideas really is. Joke ideas aren’t necessarily useless, they’re just a large portion of the ideas that academia doesn’t care about. Exploring them seriously can create opportunities for knowledge that would have never been known before. Research is about pushing the boundaries of human knowledge, and that can be done in all directions. I truly enjoy doing research, and while the majority of my work is focused on serious ideas, I’ve been exploring some joke ideas too. Most recently, I wrote a paper that formally analyzes bread slicing with rigorous mathematics. I don’t claim that it offers much utility to society, but it’s a nice piece of absurdist humor that pairs well with <a href="https://youtu.be/R6SYxpiGGJ0?si=PetWIvfnnBJfoWIo">this summary video</a>. </p>
-<p>SIGBOVIK is a fantastic venue for exploring serious realizations of joke ideas, but I would love to see this occurring more broadly. Granted, my worldview as a computer science research student is vastly limited, but most academics don’t seem to put effort into their silly ideas. If you have the time and resources to do so, why not? Push the boundaries of human knowledge, even in strange directions. Explore silly ideas with the effort you put into your publications. Take your jokes seriously.</p>
-<hr>
-<h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ol>
-<li><a href="http://sigbovik.org/">SIGBOVIK</a></li>
-<li><a href="http://tom7.org/grad/murphy2023grad.pdf">GradIEEEnt half decent</a></li>
-<li><a href="http://yann.lecun.com/exdb/mnist/">MNIST</a></li>
-<li><a href="https://www.cs.toronto.edu/~kriz/cifar.html">CIFAR-10</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Schr%C3%B6dinger%27s_cat">Schrödinger’s Cat</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Fred_Hoyle">Fred Hoyle</a></li>
-<li><a href="/projects/optimal_slicing.pdf">Optimal Bread Slicing</a></li>
 </ol>
 ]]></content>
   </entry>
@@ -821,6 +821,23 @@
 ]]></content>
   </entry>
   <entry>
+    <title>The Connoisseur of Random: Lava Lamps are Protecting your Data</title>
+    <url>/the-connoisseur-of-random-lava-lamps-are-protecting-your-data/</url>
+    <content><![CDATA[<p>Have you ever used the Canva website? How about Etsy, Walmart, or even Best Buy? If so, congrats! Your data is being protected by lava lamps.</p>
+<p>Cloudflare is one of the largest global networks, securely providing you access to many of your favorite websites. In an attempt to generate more secure encryption keys, they turned to lava lamps. More specifically, they take pictures of a massive wall of lava lamps, and the sequence of pixels in the image is used as a random number. While lava lamps are deterministic—they follow an exact set of rules in a particular order—they are mathematically chaotic, meaning that approximate initial conditions won’t tell you the final outcome. If you are even slightly off when trying to simulate a lava lamp, your results will be almost entirely inaccurate.</p>
+<p>Additionally, Cloudflare uses a double pendulum and uranium decay to generate chaos, but that’s beyond the scope of this archive.</p>
+<p>Using lava lamps to generate random numbers isn’t a new idea. Back in 1996, Lavarand began using lava lamps to generate random numbers. They took the data from images of lava lamp arrays, and used them as seeds for pseudorandom number generators. Naturally, the use of a pseudorandom number generator makes the process a bit less safe, but it’s nice to see they were taking precautions.</p>
+<p>Pseudorandom number generation is too well understood to be used in cryptography, so Cloudflare imposes two additional rules on their random number generation to keep your data secure. First, their numbers should pass statistical tests that prove unpredictability. If you can find patterns in your data, it’s hard to call it random (I have another archive on the way about this topic). Second, if someone knows how part—not all—of the program works, they still shouldn’t be able to predict the random numbers. </p>
+<p>So, the next time you’re shopping on Etsy or Walmart.com, remember that you’re safe. You have lava lamps protecting you. </p>
+<p><em>Disclaimer: I am not affiliated with Cloudflare in any way, and these statements are entirely my own.</em></p>
+<hr>
+<h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ol>
+<li><a href="https://www.cloudflare.com/learning/ssl/lava-lamp-encryption/">Cloudflare Uses Lava Lamps</a></li>
+<li><a href="https://web.archive.org/web/19971210213248/http://lavarand.sgi.com/">Lavarand Web Archive</a></li>
+</ol>
+]]></content>
+  </entry>
+  <entry>
     <title>The Connoisseur of Random: Predicting the Future</title>
     <url>/the-connoisseur-of-random-predicting-the-future/</url>
     <content><![CDATA[<h2 id="The-Gambler’s-Fallacy"><a href="#The-Gambler’s-Fallacy" class="headerlink" title="The Gambler’s Fallacy"></a>The Gambler’s Fallacy</h2><p>Predicting the future is necessary for survival. I don’t mean predicting the end of the world, just simple things like whether the sun will rise tomorrow or how late your friend will be to coffee. These predictions use prior knowledge to figure out what to do next. Pretty nifty. On the other hand, there are some events that aren’t meant to be predicted—unknown futures that are best left in the hands of the universe.</p>
@@ -872,23 +889,6 @@
 <li><a href="https://www.youtube.com/watch?v=rwvIGNXY21Y">Landing Heads 10 Times in a Row (Video of Dr. James Grime)</a></li>
 <li><a href="https://www.youtube.com/watch?v=-h_rj2-HP2E">Predicting Random Numbers</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Random_number_generator_attack">Attacking Random Number Generators</a></li>
-</ol>
-]]></content>
-  </entry>
-  <entry>
-    <title>The Connoisseur of Random: Lava Lamps are Protecting your Data</title>
-    <url>/the-connoisseur-of-random-lava-lamps-are-protecting-your-data/</url>
-    <content><![CDATA[<p>Have you ever used the Canva website? How about Etsy, Walmart, or even Best Buy? If so, congrats! Your data is being protected by lava lamps.</p>
-<p>Cloudflare is one of the largest global networks, securely providing you access to many of your favorite websites. In an attempt to generate more secure encryption keys, they turned to lava lamps. More specifically, they take pictures of a massive wall of lava lamps, and the sequence of pixels in the image is used as a random number. While lava lamps are deterministic—they follow an exact set of rules in a particular order—they are mathematically chaotic, meaning that approximate initial conditions won’t tell you the final outcome. If you are even slightly off when trying to simulate a lava lamp, your results will be almost entirely inaccurate.</p>
-<p>Additionally, Cloudflare uses a double pendulum and uranium decay to generate chaos, but that’s beyond the scope of this archive.</p>
-<p>Using lava lamps to generate random numbers isn’t a new idea. Back in 1996, Lavarand began using lava lamps to generate random numbers. They took the data from images of lava lamp arrays, and used them as seeds for pseudorandom number generators. Naturally, the use of a pseudorandom number generator makes the process a bit less safe, but it’s nice to see they were taking precautions.</p>
-<p>Pseudorandom number generation is too well understood to be used in cryptography, so Cloudflare imposes two additional rules on their random number generation to keep your data secure. First, their numbers should pass statistical tests that prove unpredictability. If you can find patterns in your data, it’s hard to call it random (I have another archive on the way about this topic). Second, if someone knows how part—not all—of the program works, they still shouldn’t be able to predict the random numbers. </p>
-<p>So, the next time you’re shopping on Etsy or Walmart.com, remember that you’re safe. You have lava lamps protecting you. </p>
-<p><em>Disclaimer: I am not affiliated with Cloudflare in any way, and these statements are entirely my own.</em></p>
-<hr>
-<h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ol>
-<li><a href="https://www.cloudflare.com/learning/ssl/lava-lamp-encryption/">Cloudflare Uses Lava Lamps</a></li>
-<li><a href="https://web.archive.org/web/19971210213248/http://lavarand.sgi.com/">Lavarand Web Archive</a></li>
 </ol>
 ]]></content>
   </entry>
@@ -1236,18 +1236,14 @@ echo "cmJoYXNrYXJAdWNoaWNhZ28uZWR1Cg==" | base64 --decode
 <!-- *Add to the [dialogue](/chat), and become part of my story.* -->]]></content>
   </entry>
   <entry>
-    <title>Full Stack Chat App</title>
-    <url>/projects/chat.html</url>
-    <content><![CDATA[<p>Chat with me <a href="/chat">here</a>. (You’ll know it’s me because my name is <strong>bold</strong>.)</p>
-<h2 id="Designing-the-UI"><a href="#Designing-the-UI" class="headerlink" title="Designing the UI"></a>Designing the UI</h2><p>I don’t create in a vacuum. The people around me drastically influence my creations. Our conversations feel like dialogue in a script. There’s a purpose to everything being said. It’s driving the plot somewhere, and I would never reach the end without their help. </p>
-<p>My chat app doesn’t look like Messages or WhatsApp or Slack or Discord because I don’t see it as a chat app. It’s a continuation of the dialogue happening all around me, which is why <strong>I built the chat app to look like a movie script.</strong> The header has an act number, the location is specified, we get a general description, and the rest that follows is the dialogue.</p>
-<h2 id="Engineering-the-App"><a href="#Engineering-the-App" class="headerlink" title="Engineering the App"></a>Engineering the App</h2><p>I’m incredibly grateful for the power and flexibility of GitHub pages (as you can tell by the URL). That being said, the documentation says they only support static sites, or so they claim. Depending on how much functionality you want from the site, you can do user authentication and even have hooks checking for database updates, updating the UI in real-time. </p>
-<p><strong>For the backend, I used Google Firebase.</strong> Their free tier, the Spark plan, is incredibly powerful, and if you’re getting enough traffic to exceed its limits, you have the demand to monetize your product. I don’t expect heavy traffic, so the Spark plan is enough for me.</p>
-<p>Firebase allows for for Google Authentication, along with plenty of other auth providers. This makes it mildly more difficult to spam the site with fake accounts, and the authentication redirect keeps auth traffic away from GitHub. It’s a win-win.</p>
-<p><strong>For the frontend, I used React.</strong> This isn’t an incredibly intense, so vanilla JS was an option, but React’s libraries wrapping Firebase query snapshots made development much easier. </p>
-<p>There are tutorials and articles out there for building apps with React and Firebase, but relevant ones used Firebase v8 instead of v9, which transitions away from the namespacing. Luckily, Firebase’s documentation covers translating v8 into v9.</p>
-<hr>
-<p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
+    <title>Publications</title>
+    <url>/publications/index.html</url>
+    <content><![CDATA[<p>Also see my: <a href="https://scholar.google.com/citations?user=dqTwtegAAAAJ&hl=en&oi=ao">Google Scholar</a></p>
+<h3 id="Refereed"><a href="#Refereed" class="headerlink" title="Refereed"></a>Refereed</h3><p><a href="https://arxiv.org/abs/2506.21874">On the Feasibility of Poisoning Text-to-Image AI Models via Adversarial Mislabeling</a><br>Stanley Wu, <strong>Ronik Bhaskar</strong>, Anna Yoo Jeong Ha, Shawn Shan, Haitao Zheng, Ben Y. Zhao<br><em>Conference on Computer and Communications Security (CCS), 2025.</em> </p>
+<p><a href="https://arxiv.org/abs/2402.03214">Organic or Diffused: Can We Distinguish Human Art from AI-generated Images?</a><br>Anna Yoo Jeong Ha*, Josephine Passananti*, <strong>Ronik Bhaskar</strong>, Shawn Shan, Reid Southen, Haitao Zheng, Ben Y. Zhao.<br><em>Conference on Computer and Communications Security (CCS), 2024.</em><br>☆ Distinguished Paper Award.</p>
+<p><a href="https://www.usenix.org/system/files/sec23winter-prepub-116-yang-zhuolin.pdf">Can Virtual Reality Protect Users from Keystroke Inference Attacks?</a><br>Zhuolin Yang, Zain Sarwar, Iris Hwang, <strong>Ronik Bhaskar</strong>, Ben Y. Zhao, Haitao Zheng.<br><em>USENIX Security Symposium, 2024.</em><br><a href="https://www.newscientist.com/article/2401929-ai-can-steal-passwords-in-virtual-reality-from-avatar-hand-motions/">Media Coverage</a><br><br></p>
+<h3 id="Recreational"><a href="#Recreational" class="headerlink" title="Recreational"></a>Recreational</h3><p><a href="/projects/PizzaLang.pdf">PizzaLang: A Language for Hungry Developers</a><br><strong>Ronik Bhaskar</strong>, Dawson Ren.<br><em>Proc. of SIGBOVIK, 2023.</em></p>
+]]></content>
   </entry>
   <entry>
     <title>Anti-ELIZA</title>
@@ -1295,6 +1291,20 @@ echo "cmJoYXNrYXJAdWNoaWNhZ28uZWR1Cg==" | base64 --decode
 <ul>
 <li>just @ mention Igor in your message and maybe you’ll get a response</li>
 </ul>
+<hr>
+<p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>Full Stack Chat App</title>
+    <url>/projects/chat.html</url>
+    <content><![CDATA[<p>Chat with me <a href="/chat">here</a>. (You’ll know it’s me because my name is <strong>bold</strong>.)</p>
+<h2 id="Designing-the-UI"><a href="#Designing-the-UI" class="headerlink" title="Designing the UI"></a>Designing the UI</h2><p>I don’t create in a vacuum. The people around me drastically influence my creations. Our conversations feel like dialogue in a script. There’s a purpose to everything being said. It’s driving the plot somewhere, and I would never reach the end without their help. </p>
+<p>My chat app doesn’t look like Messages or WhatsApp or Slack or Discord because I don’t see it as a chat app. It’s a continuation of the dialogue happening all around me, which is why <strong>I built the chat app to look like a movie script.</strong> The header has an act number, the location is specified, we get a general description, and the rest that follows is the dialogue.</p>
+<h2 id="Engineering-the-App"><a href="#Engineering-the-App" class="headerlink" title="Engineering the App"></a>Engineering the App</h2><p>I’m incredibly grateful for the power and flexibility of GitHub pages (as you can tell by the URL). That being said, the documentation says they only support static sites, or so they claim. Depending on how much functionality you want from the site, you can do user authentication and even have hooks checking for database updates, updating the UI in real-time. </p>
+<p><strong>For the backend, I used Google Firebase.</strong> Their free tier, the Spark plan, is incredibly powerful, and if you’re getting enough traffic to exceed its limits, you have the demand to monetize your product. I don’t expect heavy traffic, so the Spark plan is enough for me.</p>
+<p>Firebase allows for for Google Authentication, along with plenty of other auth providers. This makes it mildly more difficult to spam the site with fake accounts, and the authentication redirect keeps auth traffic away from GitHub. It’s a win-win.</p>
+<p><strong>For the frontend, I used React.</strong> This isn’t an incredibly intense, so vanilla JS was an option, but React’s libraries wrapping Firebase query snapshots made development much easier. </p>
+<p>There are tutorials and articles out there for building apps with React and Firebase, but relevant ones used Firebase v8 instead of v9, which transitions away from the namespacing. Luckily, Firebase’s documentation covers translating v8 into v9.</p>
 <hr>
 <p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
   </entry>
@@ -1362,6 +1372,29 @@ echo "cmJoYXNrYXJAdWNoaWNhZ28uZWR1Cg==" | base64 --decode
 ]]></content>
   </entry>
   <entry>
+    <title>Inventing a Game, Then Building a Bot to Play It Perfectly</title>
+    <url>/projects/forest-algorithm.html</url>
+    <content><![CDATA[<p>It’s easier to learn how the game works by playing it, so I’ll create a playable version soon (hopefully).</p>
+<h2 id="Introduction-to-Forest"><a href="#Introduction-to-Forest" class="headerlink" title="Introduction to Forest"></a>Introduction to Forest</h2><p>I can’t remember the last time I played tic-tac-toe, probably because it ended in a draw. Hoping to bring back the excitement and strategy of the game, I created a variation I call “Forest.” The name comes from “four-by-four torus tic-tac-toe” being reduced to “fourus t.” which sounds like “forest” when you say it out loud. The game is tic-tac-toe played on a 4x4 grid, but rather than playing on a flat plane, the game is played on the surface of a donut—a torus—which offers some interesting opportunities for win cases. It’s a blast to play, much more fun than tic-tac-toe, but now I have a new problem. I don’t have a good strategy. There are a finite set of board states, so theoretically, we could map out every game and create a perfect strategy.</p>
+<p>Theoretically.</p>
+<h2 id="Turning-Theory-into-Practice-My-Strategy"><a href="#Turning-Theory-into-Practice-My-Strategy" class="headerlink" title="Turning Theory into Practice (My Strategy)"></a>Turning Theory into Practice (My Strategy)</h2><p>If you were to map out every possible decision on a Forest board, you would have roughly 30 trillion decisions. Once we map out this decision tree once, it’ll be done, and we won’t have to do it again. The problem arises when you want to map out the tree once. It’s just too big to do in any reasonable amount of time. I won’t settle for anything less than perfect, so I will create the tree, but I’ll have to figure out how to do it faster.</p>
+<p>In my view, there are two ways to optimize a procedure. Either you do the same procedure, but faster, or you get clever with your work. With the first option, it’s like walking a lap versus sprinting. You use efficient encodings, reuse similar chunks of memory, and perform faster operations, but if you were to describe how the algorithm works at a high level, it would sound the same before and after the optimization, “I go all the way around the track.” With the second option, it’s like walking a lap versus walking halfway then cutting across the field directly back to the start. You fundamentally change how you approach the problem, whether translating the problem, taking advantage of certain assumptions, or just doing less work.</p>
+<p>Given my previous experiences with decision trees, I started with trying to do less work. While the decision tree has 30 trillion branches, the total number of possible board states is less than 4.3 million, which is still a lot, but a substantial reduction. This means the decision tree is repeating states, which makes sense. As an example, consider these two games of tic-tac-toe (not Forest):</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">  |  |        X |  |        X |  |        X |  | X</span><br><span class="line">--------      --------      --------      --------</span><br><span class="line">  |  |    --&gt;   |  |    --&gt;   |O |    --&gt;   |O |  </span><br><span class="line">--------      --------      --------      --------</span><br><span class="line">  |  |          |  |          |  |          |  |   </span><br></pre></td></tr></table></figure>
+
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">  |  |          |  | X        |  | X      X |  | X</span><br><span class="line">--------      --------      --------      --------</span><br><span class="line">  |  |    --&gt;   |  |    --&gt;   |O |    --&gt;   |O |  </span><br><span class="line">--------      --------      --------      --------</span><br><span class="line">  |  |          |  |          |  |          |  |   </span><br></pre></td></tr></table></figure>
+
+<p>In both, they reach the same state by the end of the third move, but they start with different decisions, which means they represent separate branches on the decision tree. We could reduce the work we need to do by reusing this state in multiple places on the decision tree. By reusing every repeated state, we can go from the tens of trillions of states to a few million, but we can do less.</p>
+<p>After taking nearly a dozen math classes, I think I will forever have equivalence relations drilled into my head. Essentially, equivalence relations are a generalized method for defining equality. They allow you to group together equal elements into fancy buckets called equivalence classes. Since Forest is played on a torus, we can rotate, twist, and mirror the torus, all while preserving the game. As such, transforming the torus in different ways creates equivalent states, and we can let this be our definition of equivalence. To actually generate these equivalent states, I used algebraic representations of the ways you can manipulate a 4x4 torus and generated 128 transformations. With this, we need to check even fewer states, only around 77 thousand. </p>
+<p>After all this optimization, I started the program and waited to see some progress. For some reason, my program was only calculating a few optimal moves per second. I know my laptop isn’t necessarily state-of-the-art, but it should be faster than this. I couldn’t reduce the number of states I was checking, so it was time to try the other part of optimization. Just do it faster.</p>
+<p>This project was created in Python, as most of my projects are, since it’s the language in which I can think the fastest. Translating my thoughts to Python is second nature at this point, but that doesn’t mean translating Python to machine instructions is particularly efficient. Fortunately, I have a few years of lower-level programming experience, so I started going through my program, trying to consider what operations would be slow or where I might be allocating too much memory, and I found one very clear bottleneck. My lookup table, with its fancy equivalence relation, turned the board into a lookup key, and then the key back into a board. When turning the key into a new board, it created a new board, which meant I was doing dozens of memory allocations just to use a single state for a few operations. To fix this, I reused an old board and overwrote the memory there. </p>
+<p>I made a few similar changes, removing redundant data structures and fancy sorting and simplifying to basic arithmetic operations. All of a sudden, my basic minimax implementation was flying, and the program generated a table with all of the optimal moves in 22 seconds.</p>
+<h2 id="Reinforcement-Learning-Dawson’s-Strategy"><a href="#Reinforcement-Learning-Dawson’s-Strategy" class="headerlink" title="Reinforcement Learning (Dawson’s Strategy)"></a>Reinforcement Learning (Dawson’s Strategy)</h2><p>While I was working on this, Dawson took a different approach. Rather than using massive lookup space reductions, he turned to Reinforcement Learning with Monte-Carlo Tree Search. I’ll leave him to give an explanation of his process and how he approached this problem.</p>
+<h2 id="Two-Will-Enter-Only-One-Will-Leave"><a href="#Two-Will-Enter-Only-One-Will-Leave" class="headerlink" title="Two Will Enter, Only One Will Leave"></a>Two Will Enter, Only One Will Leave</h2><p>Now that we have our working Forest bots, we need to pit them against each other and see how they compare.</p>
+<hr>
+<p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
+  </entry>
+  <entry>
     <title>Gallery Ext</title>
     <url>/projects/gallery-ext.html</url>
     <content><![CDATA[<style>
@@ -1404,11 +1437,24 @@ echo "cmJoYXNrYXJAdWNoaWNhZ28uZWR1Cg==" | base64 --decode
 </style>
 
 <p>An extended gallery of my original origami designs. They are in chronological order by the date designed. Please contact me before distributing or teaching these models.</p>
-<h2 id="Index"><a href="#Index" class="headerlink" title="Index"></a>Index</h2><p><a href="#hanging-up-the-mask">Hanging up the Mask - 10 Grid</a><br><a href="#ship-in-a-bottle">Ship in a Bottle - 18 Grid</a><br><a href="#ermine">Ermine - 14 Grid</a><br><a href="#skys-the-limit">Sky’s the Limit - 18 Grid</a><br><a href="#sinking-feeling">Sinking Feeling - 18 Grid</a><br><a href="#stargazing">Stargazing - 16 Grid</a><br><a href="#whitetail-fawn">Whitetail Fawn - 22.5</a><br><a href="#fish-out-of-water">Fish out of Water - 14 Grid (Partial 28ths)</a><br><a href="#hanging-by-a-thread">Hanging by a Thread - 20 Grid</a><br><a href="#even-littler-dragon">Even Littler Dragon - 6 Grid</a><br><a href="#mandrake">Mandrake - 16 Grid</a><br><a href="#sea-serpent">Sea Serpent - Grafted Fish Base</a><br><a href="#mermaid">Mermaid - 16 Grid</a><br><a href="#phoenix">Phoenix - Grafted Bird Base</a><br><a href="#trophy-hunting">Trophy Hunting - Fish Base</a><br><a href="#fairy">Fairy - 16 Grid</a><br><a href="#wss">Wikipedia Sword and Shield - 16 Grid</a></p>
+<h2 id="Index"><a href="#Index" class="headerlink" title="Index"></a>Index</h2><p><a href="#walking-red-flag">Walking Red Flag - 18 Grid</a><br><a href="#hanging-up-the-mask">Hanging up the Mask - 10 Grid</a><br><a href="#ship-in-a-bottle">Ship in a Bottle - 18 Grid</a><br><a href="#ermine">Ermine - 14 Grid</a><br><a href="#skys-the-limit">Sky’s the Limit - 18 Grid</a><br><a href="#sinking-feeling">Sinking Feeling - 18 Grid</a><br><a href="#stargazing">Stargazing - 16 Grid</a><br><a href="#whitetail-fawn">Whitetail Fawn - 22.5</a><br><a href="#fish-out-of-water">Fish out of Water - 14 Grid (Partial 28ths)</a><br><a href="#hanging-by-a-thread">Hanging by a Thread - 20 Grid</a><br><a href="#even-littler-dragon">Even Littler Dragon - 6 Grid</a><br><a href="#mandrake">Mandrake - 16 Grid</a><br><a href="#sea-serpent">Sea Serpent - Grafted Fish Base</a><br><a href="#mermaid">Mermaid - 16 Grid</a><br><a href="#phoenix">Phoenix - Grafted Bird Base</a><br><a href="#trophy-hunting">Trophy Hunting - Fish Base</a><br><a href="#fairy">Fairy - 16 Grid</a><br><a href="#wss">Wikipedia Sword and Shield - 16 Grid</a></p>
+<div class="simple-wrapper">
+  <div class="text-wrapper">
+    <a id="walking-red-flag"></a>
+    <h1>Walking Red Flag - 18 Grid</h1>
+    <p>Some things are better left avoided, and if you're lucky, they'll tell you to stay away. Most of this model is pretty straightforward to fold, except for the arm holding a smaller red flag.</p>
+    <p>Designed: 07/17/25</p>
+  </div>
+  <div class="image-container">
+  <img src="gallery/walking-red-flag.jpg" alt="Origami red flag.">
+  <img src="gallery/walking-red-flag-cp.png" alt="Crease pattern of origami red flag."> 
+  </div>
+</div>
+
 <div class="simple-wrapper">
   <div class="text-wrapper">
     <a id="hanging-up-the-mask"></a>
-    <h1>Hanging up the Mask</h1>
+    <h1>Hanging up the Mask - 10 Grid</h1>
     <p>Comedy never looked so grim. On a related note, properly shaping this model is a nightmare, probably because I'm bad at masks.</p>
     <p>Designed: 06/28/25</p>
   </div>
@@ -1630,29 +1676,6 @@ echo "cmJoYXNrYXJAdWNoaWNhZ28uZWR1Cg==" | base64 --decode
 ]]></content>
   </entry>
   <entry>
-    <title>Inventing a Game, Then Building a Bot to Play It Perfectly</title>
-    <url>/projects/forest-algorithm.html</url>
-    <content><![CDATA[<p>It’s easier to learn how the game works by playing it, so I’ll create a playable version soon (hopefully).</p>
-<h2 id="Introduction-to-Forest"><a href="#Introduction-to-Forest" class="headerlink" title="Introduction to Forest"></a>Introduction to Forest</h2><p>I can’t remember the last time I played tic-tac-toe, probably because it ended in a draw. Hoping to bring back the excitement and strategy of the game, I created a variation I call “Forest.” The name comes from “four-by-four torus tic-tac-toe” being reduced to “fourus t.” which sounds like “forest” when you say it out loud. The game is tic-tac-toe played on a 4x4 grid, but rather than playing on a flat plane, the game is played on the surface of a donut—a torus—which offers some interesting opportunities for win cases. It’s a blast to play, much more fun than tic-tac-toe, but now I have a new problem. I don’t have a good strategy. There are a finite set of board states, so theoretically, we could map out every game and create a perfect strategy.</p>
-<p>Theoretically.</p>
-<h2 id="Turning-Theory-into-Practice-My-Strategy"><a href="#Turning-Theory-into-Practice-My-Strategy" class="headerlink" title="Turning Theory into Practice (My Strategy)"></a>Turning Theory into Practice (My Strategy)</h2><p>If you were to map out every possible decision on a Forest board, you would have roughly 30 trillion decisions. Once we map out this decision tree once, it’ll be done, and we won’t have to do it again. The problem arises when you want to map out the tree once. It’s just too big to do in any reasonable amount of time. I won’t settle for anything less than perfect, so I will create the tree, but I’ll have to figure out how to do it faster.</p>
-<p>In my view, there are two ways to optimize a procedure. Either you do the same procedure, but faster, or you get clever with your work. With the first option, it’s like walking a lap versus sprinting. You use efficient encodings, reuse similar chunks of memory, and perform faster operations, but if you were to describe how the algorithm works at a high level, it would sound the same before and after the optimization, “I go all the way around the track.” With the second option, it’s like walking a lap versus walking halfway then cutting across the field directly back to the start. You fundamentally change how you approach the problem, whether translating the problem, taking advantage of certain assumptions, or just doing less work.</p>
-<p>Given my previous experiences with decision trees, I started with trying to do less work. While the decision tree has 30 trillion branches, the total number of possible board states is less than 4.3 million, which is still a lot, but a substantial reduction. This means the decision tree is repeating states, which makes sense. As an example, consider these two games of tic-tac-toe (not Forest):</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">  |  |        X |  |        X |  |        X |  | X</span><br><span class="line">--------      --------      --------      --------</span><br><span class="line">  |  |    --&gt;   |  |    --&gt;   |O |    --&gt;   |O |  </span><br><span class="line">--------      --------      --------      --------</span><br><span class="line">  |  |          |  |          |  |          |  |   </span><br></pre></td></tr></table></figure>
-
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">  |  |          |  | X        |  | X      X |  | X</span><br><span class="line">--------      --------      --------      --------</span><br><span class="line">  |  |    --&gt;   |  |    --&gt;   |O |    --&gt;   |O |  </span><br><span class="line">--------      --------      --------      --------</span><br><span class="line">  |  |          |  |          |  |          |  |   </span><br></pre></td></tr></table></figure>
-
-<p>In both, they reach the same state by the end of the third move, but they start with different decisions, which means they represent separate branches on the decision tree. We could reduce the work we need to do by reusing this state in multiple places on the decision tree. By reusing every repeated state, we can go from the tens of trillions of states to a few million, but we can do less.</p>
-<p>After taking nearly a dozen math classes, I think I will forever have equivalence relations drilled into my head. Essentially, equivalence relations are a generalized method for defining equality. They allow you to group together equal elements into fancy buckets called equivalence classes. Since Forest is played on a torus, we can rotate, twist, and mirror the torus, all while preserving the game. As such, transforming the torus in different ways creates equivalent states, and we can let this be our definition of equivalence. To actually generate these equivalent states, I used algebraic representations of the ways you can manipulate a 4x4 torus and generated 128 transformations. With this, we need to check even fewer states, only around 77 thousand. </p>
-<p>After all this optimization, I started the program and waited to see some progress. For some reason, my program was only calculating a few optimal moves per second. I know my laptop isn’t necessarily state-of-the-art, but it should be faster than this. I couldn’t reduce the number of states I was checking, so it was time to try the other part of optimization. Just do it faster.</p>
-<p>This project was created in Python, as most of my projects are, since it’s the language in which I can think the fastest. Translating my thoughts to Python is second nature at this point, but that doesn’t mean translating Python to machine instructions is particularly efficient. Fortunately, I have a few years of lower-level programming experience, so I started going through my program, trying to consider what operations would be slow or where I might be allocating too much memory, and I found one very clear bottleneck. My lookup table, with its fancy equivalence relation, turned the board into a lookup key, and then the key back into a board. When turning the key into a new board, it created a new board, which meant I was doing dozens of memory allocations just to use a single state for a few operations. To fix this, I reused an old board and overwrote the memory there. </p>
-<p>I made a few similar changes, removing redundant data structures and fancy sorting and simplifying to basic arithmetic operations. All of a sudden, my basic minimax implementation was flying, and the program generated a table with all of the optimal moves in 22 seconds.</p>
-<h2 id="Reinforcement-Learning-Dawson’s-Strategy"><a href="#Reinforcement-Learning-Dawson’s-Strategy" class="headerlink" title="Reinforcement Learning (Dawson’s Strategy)"></a>Reinforcement Learning (Dawson’s Strategy)</h2><p>While I was working on this, Dawson took a different approach. Rather than using massive lookup space reductions, he turned to Reinforcement Learning with Monte-Carlo Tree Search. I’ll leave him to give an explanation of his process and how he approached this problem.</p>
-<h2 id="Two-Will-Enter-Only-One-Will-Leave"><a href="#Two-Will-Enter-Only-One-Will-Leave" class="headerlink" title="Two Will Enter, Only One Will Leave"></a>Two Will Enter, Only One Will Leave</h2><p>Now that we have our working Forest bots, we need to pit them against each other and see how they compare.</p>
-<hr>
-<p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
-  </entry>
-  <entry>
     <title>Gallery</title>
     <url>/projects/gallery.html</url>
     <content><![CDATA[<style>
@@ -1699,7 +1722,20 @@ echo "cmJoYXNrYXJAdWNoaWNhZ28uZWR1Cg==" | base64 --decode
 
 <p>I am a Chicago based origami artist. I create figurative models, often incorporating multiple subjects into a single piece. Everything here is from a single sheet of paper, no cuts.</p>
 <p>Please contact me before distributing or teaching any of my works.</p>
-<h2 id="Index"><a href="#Index" class="headerlink" title="Index"></a>Index</h2><p><a href="#hanging-up-the-mask">Hanging up the Mask</a><br><a href="#ship-in-a-bottle">Ship in a Bottle</a><br><a href="#skys-the-limit">Sky’s the Limit</a><br><a href="#sinking-feeling">Sinking Feeling</a><br><a href="#stargazing">Stargazing</a><br><a href="#whitetail-fawn">Whitetail Fawn</a><br><a href="#fish-out-of-water">Fish out of Water</a><br><a href="#hanging-by-a-thread">Hanging by a Thread</a></p>
+<h2 id="Index"><a href="#Index" class="headerlink" title="Index"></a>Index</h2><p><a href="#walking-red-flag">Walking Red Flag</a><br><a href="#hanging-up-the-mask">Hanging up the Mask</a><br><a href="#ship-in-a-bottle">Ship in a Bottle</a><br><a href="#skys-the-limit">Sky’s the Limit</a><br><a href="#sinking-feeling">Sinking Feeling</a><br><a href="#stargazing">Stargazing</a><br><a href="#whitetail-fawn">Whitetail Fawn</a><br><a href="#fish-out-of-water">Fish out of Water</a><br><a href="#hanging-by-a-thread">Hanging by a Thread</a></p>
+<div class="simple-wrapper">
+  <div class="text-wrapper">
+    <a id="walking-red-flag"></a>
+    <h1>Walking Red Flag</h1>
+    <p>Some things are better left avoided, and if you're lucky, they'll tell you to stay away. Most of this model is pretty straightforward to fold, except for the arm holding a smaller red flag.</p>
+    <p>Designed: 07/17/25</p>
+  </div>
+  <div class="image-container">
+  <img src="gallery/walking-red-flag.jpg" alt="Origami red flag."> 
+  <img src="gallery/walking-red-flag-cp.png" alt="Crease pattern of origami red flag."> 
+  </div>
+</div>
+
 <div class="simple-wrapper">
   <div class="text-wrapper">
     <a id="hanging-up-the-mask"></a>
@@ -2211,26 +2247,6 @@ echo "cmJoYXNrYXJAdWNoaWNhZ28uZWR1Cg==" | base64 --decode
 <p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
   </entry>
   <entry>
-    <title>A Compass That Can Take You Anywhere</title>
-    <url>/projects/locator.html</url>
-    <content><![CDATA[<p><em>Bringing back the fun and adventure of the journey. Link at the bottom of the article.</em></p>
-<h2 id="Map-Apps-aren’t-Maps"><a href="#Map-Apps-aren’t-Maps" class="headerlink" title="Map Apps aren’t Maps"></a>Map Apps aren’t Maps</h2><p>Finding my destination is too easy. Anytime I want to go anywhere, there are only two possibilities. Either I already know how to get there, or I use a map app. In no case am I likely to get lost or take a suboptimal route, and without those, there is no adventure in the journey. I’m simply following a fixed set of directions, either the ones I have memorized or the ones from my phone.</p>
-<p>This is mainly because map apps aren’t maps. With actual paper maps, you study the map. You locate yourself. You locate your own destination. You devise your own path with road names and landmarks, and inevitably, you get a little lost. </p>
-<p>With map apps, however, you do none of this. The app tells you where you are, where to go, and exactly how to get there. Every set of stairs, every bus number, every lane change, it’s all right there on the “map” on your phone. Sure, this method gets you to your destination, but it makes the journey harder to enjoy. Even if you’re going somewhere new, the “map” will tell you whether or not it’s open, where to enter, what the place is like. New places can’t surprise you, not really.</p>
-<h2 id="The-Case-for-Inefficiency"><a href="#The-Case-for-Inefficiency" class="headerlink" title="The Case for Inefficiency"></a>The Case for Inefficiency</h2><p>I understand there is a place and time for arriving promptly to your destination with perfect knowledge of where to go and what to do, but that shouldn’t have to be every time. If you’re going somewhere for fun, why not make the journey fun too? Take new routes, explore new places, be adventurous!</p>
-<p>Easier said than done. With almost no way to be lost, finding something new or unexpected during your journey isn’t common. When it does happen, it’s a treat, but that’s rare, and it shouldn’t be. There needs to be a way to navigate to new (or even old) places that makes the journey exciting while still getting you to your destination.</p>
-<h2 id="Introducing-the-Locator"><a href="#Introducing-the-Locator" class="headerlink" title="Introducing the Locator"></a>Introducing the Locator</h2><p>Inspired by the fake gadgets from Hollywood spy&#x2F;heist movies, I brought one to life. This Locator looks like a compass, but rather than pointing north, it points to your destination. It even tells you how far you are. These are the only two features. If you actually want to get to your destination, you need to figure out how. </p>
-<p>In theory, a locator device should easily get you straight to your destination, right? I mean, it’s pointing right at it. Unfortunately, while the Locator points right at your destination, roads and paths do not. While using the Locator, you have to contend with wide buildings, indirect roads, and difficult topography, all getting in your way. Simply going where the arrow points doesn’t work.</p>
-<p>And, once you’re at your destination, you need to figure out exactly what that is. Is it the shop over here? Maybe this spot here? In the process of figuring out where to go, you might find more places to explore along the way.</p>
-<h2 id="Sharing-the-Adventure"><a href="#Sharing-the-Adventure" class="headerlink" title="Sharing the Adventure"></a>Sharing the Adventure</h2><p>The adventures you have on journeys, big or small, are the ones worth sharing. Decipher a Locator with an accomplice, and watch as they pull you in directions you might have never considered. Or just give someone else a solo challenge by sending them a Locator and asking them to meet at the destination.</p>
-<p>All you need to do is use the <a href="/locator/creator/">Locator Creator</a> to make a new Locator with a new destination, and copy-paste the link into your phone’s browser. Once it’s up and running, it’ll take you wherever you want to go. The only question left is, where to next?</p>
-<hr>
-<h2 id="Similar-Projects"><a href="#Similar-Projects" class="headerlink" title="Similar Projects"></a>Similar Projects</h2><ol>
-<li><a href="/chatgpt-mini-projects/daylight/">a clock that only tells you how many hours of daylight you have left (meant for mobile)</a></li>
-</ol>
-]]></content>
-  </entry>
-  <entry>
     <title>Literature DB (WIP)</title>
     <url>/projects/literature-db.html</url>
     <content><![CDATA[<p>The code can be found <a href="https://github.com/ronikbhaskar/literature-db">here</a>.</p>
@@ -2258,6 +2274,26 @@ echo "cmJoYXNrYXJAdWNoaWNhZ28uZWR1Cg==" | base64 --decode
 <figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="meta">&gt;&gt;&gt; </span>render_doc_id(doc_id)</span><br><span class="line"><span class="meta">&gt;&gt;&gt; </span>render(entry) <span class="comment"># entry must be of the Entry class, not Document</span></span><br></pre></td></tr></table></figure>
 
 <p>The function will print the location of the saved <code>index.html</code>, though it can also be found in the <code>litdb</code> directory.</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>A Compass That Can Take You Anywhere</title>
+    <url>/projects/locator.html</url>
+    <content><![CDATA[<p><em>Bringing back the fun and adventure of the journey. Link at the bottom of the article.</em></p>
+<h2 id="Map-Apps-aren’t-Maps"><a href="#Map-Apps-aren’t-Maps" class="headerlink" title="Map Apps aren’t Maps"></a>Map Apps aren’t Maps</h2><p>Finding my destination is too easy. Anytime I want to go anywhere, there are only two possibilities. Either I already know how to get there, or I use a map app. In no case am I likely to get lost or take a suboptimal route, and without those, there is no adventure in the journey. I’m simply following a fixed set of directions, either the ones I have memorized or the ones from my phone.</p>
+<p>This is mainly because map apps aren’t maps. With actual paper maps, you study the map. You locate yourself. You locate your own destination. You devise your own path with road names and landmarks, and inevitably, you get a little lost. </p>
+<p>With map apps, however, you do none of this. The app tells you where you are, where to go, and exactly how to get there. Every set of stairs, every bus number, every lane change, it’s all right there on the “map” on your phone. Sure, this method gets you to your destination, but it makes the journey harder to enjoy. Even if you’re going somewhere new, the “map” will tell you whether or not it’s open, where to enter, what the place is like. New places can’t surprise you, not really.</p>
+<h2 id="The-Case-for-Inefficiency"><a href="#The-Case-for-Inefficiency" class="headerlink" title="The Case for Inefficiency"></a>The Case for Inefficiency</h2><p>I understand there is a place and time for arriving promptly to your destination with perfect knowledge of where to go and what to do, but that shouldn’t have to be every time. If you’re going somewhere for fun, why not make the journey fun too? Take new routes, explore new places, be adventurous!</p>
+<p>Easier said than done. With almost no way to be lost, finding something new or unexpected during your journey isn’t common. When it does happen, it’s a treat, but that’s rare, and it shouldn’t be. There needs to be a way to navigate to new (or even old) places that makes the journey exciting while still getting you to your destination.</p>
+<h2 id="Introducing-the-Locator"><a href="#Introducing-the-Locator" class="headerlink" title="Introducing the Locator"></a>Introducing the Locator</h2><p>Inspired by the fake gadgets from Hollywood spy&#x2F;heist movies, I brought one to life. This Locator looks like a compass, but rather than pointing north, it points to your destination. It even tells you how far you are. These are the only two features. If you actually want to get to your destination, you need to figure out how. </p>
+<p>In theory, a locator device should easily get you straight to your destination, right? I mean, it’s pointing right at it. Unfortunately, while the Locator points right at your destination, roads and paths do not. While using the Locator, you have to contend with wide buildings, indirect roads, and difficult topography, all getting in your way. Simply going where the arrow points doesn’t work.</p>
+<p>And, once you’re at your destination, you need to figure out exactly what that is. Is it the shop over here? Maybe this spot here? In the process of figuring out where to go, you might find more places to explore along the way.</p>
+<h2 id="Sharing-the-Adventure"><a href="#Sharing-the-Adventure" class="headerlink" title="Sharing the Adventure"></a>Sharing the Adventure</h2><p>The adventures you have on journeys, big or small, are the ones worth sharing. Decipher a Locator with an accomplice, and watch as they pull you in directions you might have never considered. Or just give someone else a solo challenge by sending them a Locator and asking them to meet at the destination.</p>
+<p>All you need to do is use the <a href="/locator/creator/">Locator Creator</a> to make a new Locator with a new destination, and copy-paste the link into your phone’s browser. Once it’s up and running, it’ll take you wherever you want to go. The only question left is, where to next?</p>
+<hr>
+<h2 id="Similar-Projects"><a href="#Similar-Projects" class="headerlink" title="Similar Projects"></a>Similar Projects</h2><ol>
+<li><a href="/chatgpt-mini-projects/daylight/">a clock that only tells you how many hours of daylight you have left (meant for mobile)</a></li>
+</ol>
 ]]></content>
   </entry>
   <entry>
@@ -2295,28 +2331,6 @@ echo "cmJoYXNrYXJAdWNoaWNhZ28uZWR1Cg==" | base64 --decode
 <p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
   </entry>
   <entry>
-    <title>The Oracle Society</title>
-    <url>/projects/oracle_society.html</url>
-    <content><![CDATA[<p>CW: violence, kidnapping, murder.</p>
-<p>Play the game <a href="/oracle_society/">here</a>.</p>
-<h2 id="Background"><a href="#Background" class="headerlink" title="Background"></a>Background</h2><p>Our final project for introductory quantum computing had us create an educational artifact to teach a quantum concept. I chose oracles, which I had the pleasure of studying in complexity theory. Oracles function as a sort of answer machine. They know things that you want to know, but you don’t know how they know them. By asking well-formed questions, you can extract relevant information from an oracle. In general, you want to use as few questions as possible. </p>
-<h2 id="Gameplay"><a href="#Gameplay" class="headerlink" title="Gameplay"></a>Gameplay</h2><p>Please note that I constructed this narrative very late at night during finals week. It is not cohesive.</p>
-<p>You are a detective&#x2F;hostage negotiator that has discovered a method of communication to a serial kidnapper. Your job is to free the hostages, but doing so requires you to play a twisted game devised by the kidnapper. There are a select number of questions you can use to play the game, and each one will be answered truthfully. Beat the kidnapper’s riddle, and they will release the hostages. If your guessing strategy isn’t efficient enough, hostages will start dying. Try not to let too many die. Good luck!</p>
-<h2 id="Issues"><a href="#Issues" class="headerlink" title="Issues"></a>Issues</h2><p>Note: I will not resolve these issues, but keep them in mind if you decide to play.</p>
-<ol>
-<li><p>This game is not mobile compatible.</p>
-</li>
-<li><p>Skipping text too fast can cause buttons to appear before they should.</p>
-</li>
-<li><p>The transitions between deaths don’t allow you to pause the text.</p>
-</li>
-<li><p>I didn’t playtest the final version of the game enough.</p>
-</li>
-</ol>
-<hr>
-<p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
-  </entry>
-  <entry>
     <title>Steganography</title>
     <url>/projects/steganography.html</url>
     <content><![CDATA[<h2 id="Find-the-difference-between-these-two-images"><a href="#Find-the-difference-between-these-two-images" class="headerlink" title="Find the difference between these two images"></a>Find the difference between these two images</h2><style>
@@ -2347,6 +2361,28 @@ table, th {
 
 <p>For this code, you will have to redirect the output to a file using the <code>&gt;</code> operator.</p>
 <p>Happy sleuthing!</p>
+<hr>
+<p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>The Oracle Society</title>
+    <url>/projects/oracle_society.html</url>
+    <content><![CDATA[<p>CW: violence, kidnapping, murder.</p>
+<p>Play the game <a href="/oracle_society/">here</a>.</p>
+<h2 id="Background"><a href="#Background" class="headerlink" title="Background"></a>Background</h2><p>Our final project for introductory quantum computing had us create an educational artifact to teach a quantum concept. I chose oracles, which I had the pleasure of studying in complexity theory. Oracles function as a sort of answer machine. They know things that you want to know, but you don’t know how they know them. By asking well-formed questions, you can extract relevant information from an oracle. In general, you want to use as few questions as possible. </p>
+<h2 id="Gameplay"><a href="#Gameplay" class="headerlink" title="Gameplay"></a>Gameplay</h2><p>Please note that I constructed this narrative very late at night during finals week. It is not cohesive.</p>
+<p>You are a detective&#x2F;hostage negotiator that has discovered a method of communication to a serial kidnapper. Your job is to free the hostages, but doing so requires you to play a twisted game devised by the kidnapper. There are a select number of questions you can use to play the game, and each one will be answered truthfully. Beat the kidnapper’s riddle, and they will release the hostages. If your guessing strategy isn’t efficient enough, hostages will start dying. Try not to let too many die. Good luck!</p>
+<h2 id="Issues"><a href="#Issues" class="headerlink" title="Issues"></a>Issues</h2><p>Note: I will not resolve these issues, but keep them in mind if you decide to play.</p>
+<ol>
+<li><p>This game is not mobile compatible.</p>
+</li>
+<li><p>Skipping text too fast can cause buttons to appear before they should.</p>
+</li>
+<li><p>The transitions between deaths don’t allow you to pause the text.</p>
+</li>
+<li><p>I didn’t playtest the final version of the game enough.</p>
+</li>
+</ol>
 <hr>
 <p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
   </entry>
@@ -2431,15 +2467,5 @@ table, th {
 </ul>
 <hr>
 <p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>Publications</title>
-    <url>/publications/index.html</url>
-    <content><![CDATA[<p>Also see my: <a href="https://scholar.google.com/citations?user=dqTwtegAAAAJ&hl=en&oi=ao">Google Scholar</a></p>
-<h3 id="Refereed"><a href="#Refereed" class="headerlink" title="Refereed"></a>Refereed</h3><p><a href="https://arxiv.org/abs/2506.21874">On the Feasibility of Poisoning Text-to-Image AI Models via Adversarial Mislabeling</a><br>Stanley Wu, <strong>Ronik Bhaskar</strong>, Anna Yoo Jeong Ha, Shawn Shan, Haitao Zheng, Ben Y. Zhao<br><em>Conference on Computer and Communications Security (CCS), 2025.</em> </p>
-<p><a href="https://arxiv.org/abs/2402.03214">Organic or Diffused: Can We Distinguish Human Art from AI-generated Images?</a><br>Anna Yoo Jeong Ha*, Josephine Passananti*, <strong>Ronik Bhaskar</strong>, Shawn Shan, Reid Southen, Haitao Zheng, Ben Y. Zhao.<br><em>Conference on Computer and Communications Security (CCS), 2024.</em><br>☆ Distinguished Paper Award.</p>
-<p><a href="https://www.usenix.org/system/files/sec23winter-prepub-116-yang-zhuolin.pdf">Can Virtual Reality Protect Users from Keystroke Inference Attacks?</a><br>Zhuolin Yang, Zain Sarwar, Iris Hwang, <strong>Ronik Bhaskar</strong>, Ben Y. Zhao, Haitao Zheng.<br><em>USENIX Security Symposium, 2024.</em><br><a href="https://www.newscientist.com/article/2401929-ai-can-steal-passwords-in-virtual-reality-from-avatar-hand-motions/">Media Coverage</a><br><br></p>
-<h3 id="Recreational"><a href="#Recreational" class="headerlink" title="Recreational"></a>Recreational</h3><p><a href="/projects/PizzaLang.pdf">PizzaLang: A Language for Hungry Developers</a><br><strong>Ronik Bhaskar</strong>, Dawson Ren.<br><em>Proc. of SIGBOVIK, 2023.</em></p>
-]]></content>
   </entry>
 </search>
