@@ -287,15 +287,6 @@
 ]]></content>
   </entry>
   <entry>
-    <title>Ex Libris: The Library of Babel</title>
-    <url>/ex-libris-the-library-of-babel/</url>
-    <content><![CDATA[<p>In Jorge Luis Borges’ <em>The Library of Babel</em>, the narrator describes a never-ending world of hexagonal galleries, all filled with books. Each book is 410 pages, 40 lines per page, 80 characters per line, 25 characters in the script. Doing some quick calculations, that number of books is approximately a 1 with 1.8 million zeros behind it. For reference, the number of atoms in the known universe is a 1 with 80 zeros behind it, which is essentially nothing compared to the scale of the library.</p>
-<p>The library is vast, but its volumes are not infinite. The narrator attempts to circumvent this by concluding that the library likely repeats itself. Infinity can be scary, but if the library were looking for new librarians, I have a suggestion for how to make the library truly infinite. If you still want all the books to fit in an infinite library, why limit yourself to 410 page books? For the sake of mathematical clarity, let’s assume that every book is the same thickness, no matter how many pages it has (pretend the pages get super thin). Then, if you allow books to be any finite length, then you will never need to repeat the library because there will always be enough books to fill the shelves without repeating. Assuming the library’s hexagonal galleries do continue forever, then every possible book of finite length will fit perfectly in the library. Finite length books are the way to go.</p>
-<p>Infinite length books, however, pose a huge issue. Let’s again assume that books of infinite length still have the same thickness as all the other books. If you allow every book of infinite length to enter the library, then you will run out of space. It’s hard to believe that an infinite library could run out of space, but it’s true. Cantor’s famous diagonal argument proves this isn’t possible, though his proof was about infinite, binary sequences. Applied here, no matter how you arrange the books, you can prove that at least one book of infinite length has been left out. Surely, the library wouldn’t want to leave any books out of its vast volumes, so I advise caution when tasking a librarian with constructing an infinite library.</p>
-<p>Regardless of how infinite you decide to make the library, the unfortunate problem remains that the Library of Babel is entirely useless as a library. Libraries function best as curators and disseminators of resources, working to best serve their community. Typically, this means the knowledge in the library should be relevant to the readers. At the very least, it should be true. Unfortunately, there is no curatorial process in the Library of Babel. Sure, one book might just so happen to contain the works of Shakespeare, but there will be countless others that look like works of Shakespeare that all get the endings wrong. Most comprehensible books will be wrong, and most books will be incomprehensible. Given how finite human knowledge is, the chances of finding something useful are essentially zero. Even if you do find something potentially useful, you would have to independently verify the source is credible, because no one is curating it for you. The Library of Babel is an interesting thought experiment, but I pity anyone that wastes more than a second in that building trying to find meaning in the empty volumes.</p>
-]]></content>
-  </entry>
-  <entry>
     <title>Ex Libris: Sleepy</title>
     <url>/ex-libris-sleepy/</url>
     <content><![CDATA[<p>Known for incredibly concise storytelling, Anton Chekhov leaves no detail unresolved in his stories. Everything serves a purpose. The principle has been titled Chekhov’s Gun: if you introduce a gun, the audience expects it to be fired at some point. These details—these promises—build and interweave, and by the end of the story, every promise has reached a payoff that serves the ending. Mind you, these payoffs are rarely happily-ever-afters or neat, little bows wrapping up the story. They often include tragedy and death, but that doesn’t make them any less satisfying. </p>
@@ -304,6 +295,15 @@
 <p>The young girl, Varka, enters a few dreams throughout the short story, and each time she does, she first looks at the green light on the wall and the shadows. The flickering light and moving shadows and chirping cricket appear more and more hypnotic until eventually, the light and shadows wink at her. Chekhov builds on the personification until the end of the story. The three items laugh, and she laughs with them as she kills the baby.</p>
 <p>In the span of six pages, Chekhov created an entirely new character out of thin air and gave it a personality. This tricky, evil spirit laughing and dancing on the wall is made of no more than some green light, the shadow of a pair of trousers, and the chirp of a cricket. Its development represents Varka’s descent into madness, an integral component of the story. Chekhov promised to do something with these three items, and he overdelivered on the payoff. Without it, we wouldn’t see Varka lose her mind, just her frustration.</p>
 <p>Creating payoff is about more than finally using the promise. It’s about giving it a broader significance—a life of its own—in the story, one that serves the ending. Once you have that, the payoff can reflect its symbolism, even if you use the promise in an unconventional way. Just because you’ve introduced Chekhov’s Gun doesn’t mean you need to fire it.</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>Ex Libris: The Library of Babel</title>
+    <url>/ex-libris-the-library-of-babel/</url>
+    <content><![CDATA[<p>In Jorge Luis Borges’ <em>The Library of Babel</em>, the narrator describes a never-ending world of hexagonal galleries, all filled with books. Each book is 410 pages, 40 lines per page, 80 characters per line, 25 characters in the script. Doing some quick calculations, that number of books is approximately a 1 with 1.8 million zeros behind it. For reference, the number of atoms in the known universe is a 1 with 80 zeros behind it, which is essentially nothing compared to the scale of the library.</p>
+<p>The library is vast, but its volumes are not infinite. The narrator attempts to circumvent this by concluding that the library likely repeats itself. Infinity can be scary, but if the library were looking for new librarians, I have a suggestion for how to make the library truly infinite. If you still want all the books to fit in an infinite library, why limit yourself to 410 page books? For the sake of mathematical clarity, let’s assume that every book is the same thickness, no matter how many pages it has (pretend the pages get super thin). Then, if you allow books to be any finite length, then you will never need to repeat the library because there will always be enough books to fill the shelves without repeating. Assuming the library’s hexagonal galleries do continue forever, then every possible book of finite length will fit perfectly in the library. Finite length books are the way to go.</p>
+<p>Infinite length books, however, pose a huge issue. Let’s again assume that books of infinite length still have the same thickness as all the other books. If you allow every book of infinite length to enter the library, then you will run out of space. It’s hard to believe that an infinite library could run out of space, but it’s true. Cantor’s famous diagonal argument proves this isn’t possible, though his proof was about infinite, binary sequences. Applied here, no matter how you arrange the books, you can prove that at least one book of infinite length has been left out. Surely, the library wouldn’t want to leave any books out of its vast volumes, so I advise caution when tasking a librarian with constructing an infinite library.</p>
+<p>Regardless of how infinite you decide to make the library, the unfortunate problem remains that the Library of Babel is entirely useless as a library. Libraries function best as curators and disseminators of resources, working to best serve their community. Typically, this means the knowledge in the library should be relevant to the readers. At the very least, it should be true. Unfortunately, there is no curatorial process in the Library of Babel. Sure, one book might just so happen to contain the works of Shakespeare, but there will be countless others that look like works of Shakespeare that all get the endings wrong. Most comprehensible books will be wrong, and most books will be incomprehensible. Given how finite human knowledge is, the chances of finding something useful are essentially zero. Even if you do find something potentially useful, you would have to independently verify the source is credible, because no one is curating it for you. The Library of Babel is an interesting thought experiment, but I pity anyone that wastes more than a second in that building trying to find meaning in the empty volumes.</p>
 ]]></content>
   </entry>
   <entry>
@@ -366,28 +366,6 @@
 ]]></content>
   </entry>
   <entry>
-    <title>First Time for Everything</title>
-    <url>/first-time-for-everything/</url>
-    <content><![CDATA[<p>On July 21, 2023, that weekend when the Barbie and Oppenheimer movies came out, I invited my old mentor to watch Oppenheimer at the local theater. I did this partly to spend time with him, partly to push myself out of my social comfort zone, and I thought this might kill two birds with one stone. On the days we have long, rambling conversations, he eventually turns the topic to nuclear physics and the history of the atomic bomb. Occasionally, I sprinkle in details related to our university, given its position in the history of the Manhattan project, but for the most part, I listen. How he knows so much about the field, I’m not sure, but it’s one of our few conversation topics unrelated to research and our lab. </p>
-<p>Having ordered our tickets online, he follows me into the theater. The attendant tells us we’re good to go, and we’ll be in theater four. I start walking, though my mentor lags behind for a second before catching up.</p>
-<p>“Wait, there’s more than one theater?” he asks, turning from me to his ticket. </p>
-<p>“Yeah, there are four screening rooms.” I respond, still looking down the hall.</p>
-<p>“But, how will we know which one is ours?”</p>
-<p>“Oh, they have signs next to the doors.” I point to the metal “four” on the wall.</p>
-<p>We walk down the aisle, looking back and forth between the row numbers and our tickets until we reach the front of the auditorium. On arriving at our seats, I lean forward and brush the screen with my fingertips. Reclining in his chair, my mentor’s shoes stop mere inches away from kicking the trailers. We turn to each other and pause for a brief moment before breaking into laughter. I glance over my shoulder, checking if there were any empty seats we could switch to. There weren’t. </p>
-<p>“Hey,” I whisper, “let’s wait for the movie to start, then we can try and look for better seats.” He nods, and we lean back.</p>
-<p>Suddenly, the lights dim, and I see before me—in stunning black and white—the button of a suit jacket. I look up, first seeing a chin, then a mouth, a nose. I scan left-to-right as fast as I can without giving myself whiplash, catching two ears, two eyes, and two eyebrows. Before I can look above the forehead, the scene ends, and I’m left staring at someone else’s nose. A few scenes later, I finally notice Oppenheimer is wearing a hat.</p>
-<p>Hoping to give my neck a break, I turn my body to my mentor, watching his eyes dart back and forth in hopes of catching all the details on the screen. I turn back to the screen to play this lightning round of I Spy. This goes on for another 10 minutes before I finally gather the courage to move. I tap him on the shoulder and motion to the aisle. We crouch down and begin shuffling to the back. The view from the back wall doesn’t quite capture the level of detail available three feet from the screen, but at least we can see the whole frame at once. Satisfied, I sit down on the ground before looking up again, now finding a chair in the way. My mentor begins sitting down before I look up at him and shake my head as I stand back up. I scan through the crowd before finding two seats right next to each other. I quickly step through the rows of the audience before sitting in one of the seats. My heart races as I wait for the people on my left and right to tell me the seats are taken or shoot me a dirty look, but nothing happens. Finally at ease, I wave my mentor over. He hesitates, so I make a bigger motion. He starts walking over, and I turn back to the movie.</p>
-<p>“Can you see from there?” a voice whispers just behind my shoulder. Whipping around, I see my mentor and calm down.</p>
-<p>“Yes, of course. Come sit.” I turn back to the movie, hoping to catch up on all we missed. He takes his seat. While I enjoy the rest of the film, my mind can’t help feeling a little pride for dealing with that strangely new situation.</p>
-<p>Three hours later, the credits roll, and we get up to leave, immediately discussing historical accuracy and commenting on the references to the University. We continue talking while making our way past the “four” sign and out the doors of the theater. It’s raining, so we step under an awning, my mentor still discussing his plan to research every major character in the movie. I suggest he calls a Lyft, since the rain doesn’t look like it’s letting up soon. He pulls out his phone and we make a few jokes about sphere packing in a fish bowl and wine glass. I don’t quite know when, but at some point, he slips in that this is his first time going to the movies.</p>
-<p>“In the US, right?”</p>
-<p>“No, ever.”</p>
-<p>His Lyft pulls up, so he waves goodbye. I probably mumble something about seeing him in lab as I wave back. The sound of the rain cuts out as the gears whir in my head. I don’t know if it was a few seconds or a few minutes, but eventually, I put on my jacket and step out into the rain.</p>
-<p>I guess there’s a first time for everything.</p>
-]]></content>
-  </entry>
-  <entry>
     <title>FM Radio Frequencies are Lying to You</title>
     <url>/fm-radio-frequencies-are-lying-to-you/</url>
     <content><![CDATA[<p>The other day, I was driving to work when suddenly my radio started playing. I don’t typically listen to the radio, but the music was nice, so I let it keep playing. After the song finished, the radio announcer said, “You’re listening to 98.9* FM radio.”</p>
@@ -407,6 +385,28 @@
 <li><a href="https://en.wikipedia.org/wiki/FM_broadcasting">FM Broadcasting</a></li>
 <li><a href="/am/">AM (short piece I wrote)</a></li>
 </ol>
+]]></content>
+  </entry>
+  <entry>
+    <title>First Time for Everything</title>
+    <url>/first-time-for-everything/</url>
+    <content><![CDATA[<p>On July 21, 2023, that weekend when the Barbie and Oppenheimer movies came out, I invited my old mentor to watch Oppenheimer at the local theater. I did this partly to spend time with him, partly to push myself out of my social comfort zone, and I thought this might kill two birds with one stone. On the days we have long, rambling conversations, he eventually turns the topic to nuclear physics and the history of the atomic bomb. Occasionally, I sprinkle in details related to our university, given its position in the history of the Manhattan project, but for the most part, I listen. How he knows so much about the field, I’m not sure, but it’s one of our few conversation topics unrelated to research and our lab. </p>
+<p>Having ordered our tickets online, he follows me into the theater. The attendant tells us we’re good to go, and we’ll be in theater four. I start walking, though my mentor lags behind for a second before catching up.</p>
+<p>“Wait, there’s more than one theater?” he asks, turning from me to his ticket. </p>
+<p>“Yeah, there are four screening rooms.” I respond, still looking down the hall.</p>
+<p>“But, how will we know which one is ours?”</p>
+<p>“Oh, they have signs next to the doors.” I point to the metal “four” on the wall.</p>
+<p>We walk down the aisle, looking back and forth between the row numbers and our tickets until we reach the front of the auditorium. On arriving at our seats, I lean forward and brush the screen with my fingertips. Reclining in his chair, my mentor’s shoes stop mere inches away from kicking the trailers. We turn to each other and pause for a brief moment before breaking into laughter. I glance over my shoulder, checking if there were any empty seats we could switch to. There weren’t. </p>
+<p>“Hey,” I whisper, “let’s wait for the movie to start, then we can try and look for better seats.” He nods, and we lean back.</p>
+<p>Suddenly, the lights dim, and I see before me—in stunning black and white—the button of a suit jacket. I look up, first seeing a chin, then a mouth, a nose. I scan left-to-right as fast as I can without giving myself whiplash, catching two ears, two eyes, and two eyebrows. Before I can look above the forehead, the scene ends, and I’m left staring at someone else’s nose. A few scenes later, I finally notice Oppenheimer is wearing a hat.</p>
+<p>Hoping to give my neck a break, I turn my body to my mentor, watching his eyes dart back and forth in hopes of catching all the details on the screen. I turn back to the screen to play this lightning round of I Spy. This goes on for another 10 minutes before I finally gather the courage to move. I tap him on the shoulder and motion to the aisle. We crouch down and begin shuffling to the back. The view from the back wall doesn’t quite capture the level of detail available three feet from the screen, but at least we can see the whole frame at once. Satisfied, I sit down on the ground before looking up again, now finding a chair in the way. My mentor begins sitting down before I look up at him and shake my head as I stand back up. I scan through the crowd before finding two seats right next to each other. I quickly step through the rows of the audience before sitting in one of the seats. My heart races as I wait for the people on my left and right to tell me the seats are taken or shoot me a dirty look, but nothing happens. Finally at ease, I wave my mentor over. He hesitates, so I make a bigger motion. He starts walking over, and I turn back to the movie.</p>
+<p>“Can you see from there?” a voice whispers just behind my shoulder. Whipping around, I see my mentor and calm down.</p>
+<p>“Yes, of course. Come sit.” I turn back to the movie, hoping to catch up on all we missed. He takes his seat. While I enjoy the rest of the film, my mind can’t help feeling a little pride for dealing with that strangely new situation.</p>
+<p>Three hours later, the credits roll, and we get up to leave, immediately discussing historical accuracy and commenting on the references to the University. We continue talking while making our way past the “four” sign and out the doors of the theater. It’s raining, so we step under an awning, my mentor still discussing his plan to research every major character in the movie. I suggest he calls a Lyft, since the rain doesn’t look like it’s letting up soon. He pulls out his phone and we make a few jokes about sphere packing in a fish bowl and wine glass. I don’t quite know when, but at some point, he slips in that this is his first time going to the movies.</p>
+<p>“In the US, right?”</p>
+<p>“No, ever.”</p>
+<p>His Lyft pulls up, so he waves goodbye. I probably mumble something about seeing him in lab as I wave back. The sound of the rain cuts out as the gears whir in my head. I don’t know if it was a few seconds or a few minutes, but eventually, I put on my jacket and step out into the rain.</p>
+<p>I guess there’s a first time for everything.</p>
 ]]></content>
   </entry>
   <entry>
@@ -582,6 +582,26 @@
 ]]></content>
   </entry>
   <entry>
+    <title>On Repetition</title>
+    <url>/on-repetition/</url>
+    <content><![CDATA[<p>I can recall quite clearly a moment from five years ago. The blinding summer sun beamed through my open bedroom window. The smell of fresh flowers filled the air as the humidity clung tight around my body. I closed my eyes, breathed in the sweet, heavy air, and opened my laptop to study Python programming. I could have spent my summer an infinite number of ways, and I chose to learn Python through a practical course: Automate the Boring Stuff with Python. Python and automation were the future, so I had to be prepared. Automate the Boring Stuff began my five-year journey of automation. As I progressed through projects, internships, and a degree in computer science, automation became a sort of faith. Anything that felt remotely repetitive was automated, even if it didn’t need to be. For me, automation became… automatic.</p>
+<p>Over the past week, I worked on a project full of nonstop repetition, much to the dismay of my former self. Over the span of about 4 days, an artist and I cut 125 ft of fabric and stitched over 200 ft of seams. Those cuts and seams were all straight lines too: no variation. I worked long days for no pay on a project I will never see or be credited with. I carried around heavy rolls of material, got poked by pins, and performed the same, repetitive tasks over and over and over.</p>
+<p>And I loved it.</p>
+<p>To be clear, I didn’t enjoy the process because of the final product, nor did I gain anything I could put on my resume. I didn’t learn any skills or improve the ones I already had. If those hours I spent on the project did not exist, my life would not be at all different from what it is now. The process wasn’t particularly enjoyable, and while I care about my friend—the artist—I could still help him out without enjoying the process, but I didn’t.</p>
+<p>It doesn’t seem like I should have enjoyed such a repetitive project, yet I did because repetition did something five years of automation could never do. Repetition gave my mind a break. When you’re constantly automating systems, you trade mental energy for physical energy and time. Automation requires a lot of planning at the onset, but once it’s running, you’re free to spend your newfound free time however you please. For me, that meant more work. More work means more automation. This constant cycle of automation leaves only the most mentally demanding tasks left to complete—the ones with no repetition. Five years of automation meant that I spent the vast majority of my working time intensely using my brain while giving my body a break.</p>
+<p>This system works for a while, but eventually, your mind gets fatigued, and you can’t make progress without giving yourself a break. At first, I thought the only way to give my mind a break was to stop working, but I now realize that doesn’t have to be the case. While spending hours on repetitive tasks, my body went on autopilot. My hands learned the process, and my mind was left untethered. I felt like I was taking a break, yet I was still working.</p>
+<p>This feeling isn’t particularly uncommon in daily life. It’s the same feeling you get when you take a shower or drive your daily commute. In 2001, Dr. Marcus Raichle coined the term “default mode” for this resting-state brain function. To me, “default mode” feels like a misnomer because there is nothing default about this mode, my brain is rarely there. The default mode network has been shown to have countless functions in reflective thought and creative idea generation, invaluable processes for anyone. There are treasure troves of research on the default mode network and its countless functions, from moral reasoning to theory of mind. I highly recommend reading the literature if you’re interested.</p>
+<p>I have spent five years trying to give myself more time in default mode, to reflect and process ideas, to think without a fixed goal. I always thought the answer was automation. The more I automate, the more time I save, and the more time I have to do the things I want to do. In this endless pursuit of automation, I never stopped to wonder if there was a way to work while thinking about the things I wanted. Five years later, I finally have the solution. I’ll still take plenty of actual breaks, and I won’t stop automating, but I don’t need to fear repetition anymore. There’s a beautiful simplicity in repetition, one that I am ready to learn.</p>
+<hr>
+<h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ol>
+<li><a href="https://trends.google.com/trends/explore?date=today%205-y&geo=US&q=automate&hl=en">Google Trend for “automate” (it’s going up)</a></li>
+<li><a href="https://automatetheboringstuff.com/">Automate the Boring Stuff with Python</a></li>
+<li><a href="https://www.nationalgeographic.co.uk/history-and-civilisation/2022/08/the-science-of-why-you-have-great-ideas-in-the-shower">Nat Geo piece on Default Mode Network</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Default_mode_network">Default Mode Network</a></li>
+</ol>
+]]></content>
+  </entry>
+  <entry>
     <title>Praise</title>
     <url>/praise/</url>
     <content><![CDATA[<p>Over the past few months, I’ve been sharing my art with a community of origamists called Origami-Dan. Origami-Dan is a server with over 4,000 members, and a few hundred are pretty active. Some of the best origamists in the world come here to talk about art and share their passion for paper-folding. Since I was getting into design work, I thought I’d start sharing what I make here. People could let me know what they liked, what they didn’t, potential improvements, etc. It seemed like a pretty innocuous idea.</p>
@@ -600,26 +620,6 @@
 <h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ol>
 <li><a href="https://carla.umn.edu/speechacts/compliments/american.html">American English Compliments Report</a></li>
 <li><a href="https://discord.com/invite/yU4Cvry">Origami-Dan Discord Server</a></li>
-</ol>
-]]></content>
-  </entry>
-  <entry>
-    <title>On Repetition</title>
-    <url>/on-repetition/</url>
-    <content><![CDATA[<p>I can recall quite clearly a moment from five years ago. The blinding summer sun beamed through my open bedroom window. The smell of fresh flowers filled the air as the humidity clung tight around my body. I closed my eyes, breathed in the sweet, heavy air, and opened my laptop to study Python programming. I could have spent my summer an infinite number of ways, and I chose to learn Python through a practical course: Automate the Boring Stuff with Python. Python and automation were the future, so I had to be prepared. Automate the Boring Stuff began my five-year journey of automation. As I progressed through projects, internships, and a degree in computer science, automation became a sort of faith. Anything that felt remotely repetitive was automated, even if it didn’t need to be. For me, automation became… automatic.</p>
-<p>Over the past week, I worked on a project full of nonstop repetition, much to the dismay of my former self. Over the span of about 4 days, an artist and I cut 125 ft of fabric and stitched over 200 ft of seams. Those cuts and seams were all straight lines too: no variation. I worked long days for no pay on a project I will never see or be credited with. I carried around heavy rolls of material, got poked by pins, and performed the same, repetitive tasks over and over and over.</p>
-<p>And I loved it.</p>
-<p>To be clear, I didn’t enjoy the process because of the final product, nor did I gain anything I could put on my resume. I didn’t learn any skills or improve the ones I already had. If those hours I spent on the project did not exist, my life would not be at all different from what it is now. The process wasn’t particularly enjoyable, and while I care about my friend—the artist—I could still help him out without enjoying the process, but I didn’t.</p>
-<p>It doesn’t seem like I should have enjoyed such a repetitive project, yet I did because repetition did something five years of automation could never do. Repetition gave my mind a break. When you’re constantly automating systems, you trade mental energy for physical energy and time. Automation requires a lot of planning at the onset, but once it’s running, you’re free to spend your newfound free time however you please. For me, that meant more work. More work means more automation. This constant cycle of automation leaves only the most mentally demanding tasks left to complete—the ones with no repetition. Five years of automation meant that I spent the vast majority of my working time intensely using my brain while giving my body a break.</p>
-<p>This system works for a while, but eventually, your mind gets fatigued, and you can’t make progress without giving yourself a break. At first, I thought the only way to give my mind a break was to stop working, but I now realize that doesn’t have to be the case. While spending hours on repetitive tasks, my body went on autopilot. My hands learned the process, and my mind was left untethered. I felt like I was taking a break, yet I was still working.</p>
-<p>This feeling isn’t particularly uncommon in daily life. It’s the same feeling you get when you take a shower or drive your daily commute. In 2001, Dr. Marcus Raichle coined the term “default mode” for this resting-state brain function. To me, “default mode” feels like a misnomer because there is nothing default about this mode, my brain is rarely there. The default mode network has been shown to have countless functions in reflective thought and creative idea generation, invaluable processes for anyone. There are treasure troves of research on the default mode network and its countless functions, from moral reasoning to theory of mind. I highly recommend reading the literature if you’re interested.</p>
-<p>I have spent five years trying to give myself more time in default mode, to reflect and process ideas, to think without a fixed goal. I always thought the answer was automation. The more I automate, the more time I save, and the more time I have to do the things I want to do. In this endless pursuit of automation, I never stopped to wonder if there was a way to work while thinking about the things I wanted. Five years later, I finally have the solution. I’ll still take plenty of actual breaks, and I won’t stop automating, but I don’t need to fear repetition anymore. There’s a beautiful simplicity in repetition, one that I am ready to learn.</p>
-<hr>
-<h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ol>
-<li><a href="https://trends.google.com/trends/explore?date=today%205-y&geo=US&q=automate&hl=en">Google Trend for “automate” (it’s going up)</a></li>
-<li><a href="https://automatetheboringstuff.com/">Automate the Boring Stuff with Python</a></li>
-<li><a href="https://www.nationalgeographic.co.uk/history-and-civilisation/2022/08/the-science-of-why-you-have-great-ideas-in-the-shower">Nat Geo piece on Default Mode Network</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Default_mode_network">Default Mode Network</a></li>
 </ol>
 ]]></content>
   </entry>
@@ -917,6 +917,23 @@
 ]]></content>
   </entry>
   <entry>
+    <title>The End of Pi</title>
+    <url>/the-end-of-pi/</url>
+    <content><![CDATA[<p>I’m fed up with you, π. I get it, you’re the ratio of the circumference to the diameter, good for you. But that isn’t enough for you, is it? No, you need to make sure <strong>everyone</strong> knows exactly who you are. You needed a day in your honor and competitions just for you. Was memorizing 100,000 of your digits not enough? No, of course not. It will never be enough. You are never ending.</p>
+<p>If human memorization isn’t enough, surely calculating trillions of digits should suffice. Is 663 terabytes enough space for you? Is 864 GB of RAM enough memory for you? Is nearly half a year of continuous computing enough time for you? Calculating digits of you has cost humans thousands of computing hours on the world’s best cloud servers, and I don’t blame them. They, like everyone else, have become sucked into this never-ending cycle of discovering more, learning more, doing more for you.</p>
+<p>You know what I think, π? I don’t think this is actually what you want. Clearly, there is a hole in you, a circular void, but these fruitless attempts at getting closer to the end aren’t what you truly desire. Everyone knows 3.14, and a lot of people know 3.1415, but how many people care that the next digit is 9? Even for those that do, they will still say 3.1415, and I’m sure that stings. Rather than appreciate a nice approximation and round to 3.1416, your loving followers are blinded by your never-ending being. Every digit we calculate gives us exponentially less information. All the while, we ignore the beauty in front of us. How many can say they have truly appreciated the 9 in the fifth decimal place of your expansion?</p>
+<p>Every approximation we can fathom is finite. They will all be finite because your decimal expansion contains more information than we could store in every atom of the universe. Rather than fail to attempt to appreciate your unending presence, we should enjoy the finite. Bask in the glory of the approximations and reflect on how even good things can end. Round to the fourth decimal place rather than forever waiting for the fifth. Maybe then, we can finally see the end of π.</p>
+<hr>
+<h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ol>
+<li><a href="https://en.wikipedia.org/wiki/Chronology_of_computation_of_%CF%80">Chronology of Computation of π</a></li>
+<li><a href="http://www.numberworld.org/y-cruncher/">y-cruncher for computing π</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Emma_Haruka_Iwao">Emma Haruka Iwao, Current Record Holder for Computing Digits</a></li>
+<li><a href="https://www.theguardian.com/science/alexs-adventures-in-numberland/2015/mar/13/pi-day-2015-memory-memorisation-world-record-japanese-akira-haraguchi">Akira Haraguchi Memorized +100k digits</a></li>
+<li><a href="https://blog.timothymullican.com/calculating-pi-my-attempt-breaking-pi-record">Timothy Mullican, Prev Record Holder for Computing Digits</a></li>
+</ol>
+]]></content>
+  </entry>
+  <entry>
     <title>The Current Paradigm of Origami</title>
     <url>/the-current-paradigm-of-origami/</url>
     <content><![CDATA[<p>Throughout the centuries, science has undergone drastic revolutions. Time and time again, we have re-evaluated basic concepts, fundamental beliefs, and ultimately what constitutes good science. Thomas Kuhn first presented the idea of a paradigm shift—a transition between two ways of thinking—in 1962. As a philosopher of science, Kuhn could turn to history to see paradigm shifts unfold, but contemporary scientists don’t have the luxury of seeing paradigm shifts before they come. Instead, they must wait until the paradigm shift is over to witness the changes, and even then, they may not see everything that has truly happened.</p>
@@ -936,23 +953,6 @@
 <h2 id="Expectations-of-Complexity"><a href="#Expectations-of-Complexity" class="headerlink" title="Expectations of Complexity"></a>Expectations of Complexity</h2><p>Complexity is harder to describe in objective terms, but as a broad statement, more folders are capable of doing complex origami. The growth of internet communities and online resources has made it easier for origamists to get more into complex origami. As an example, there is a growing sentiment that the Ryujin 3.5 is potentially accessible to extremely skilled folders, rather than just flat-out impossible. To be clear, we still consider Ryujin 3.5 an incredible feat of skill, but folding it doesn’t make you stand out among the best.</p>
 <h2 id="Community"><a href="#Community" class="headerlink" title="Community"></a>Community</h2><p>With the rise of internet communities, origami has become less solitary, though it is still primarily an independent practice. Collaborative design and folding aren’t very common, as every finished model typically only has one designer and one folder. Still, origamists talk and share ideas on various social platforms, and universities and big cities typically have origami groups that meet in person.</p>
 <h2 id="There’s-Probably-More…"><a href="#There’s-Probably-More…" class="headerlink" title="There’s Probably More…"></a>There’s Probably More…</h2><p>…but I don’t know what you need to know. Maybe I’ll add some updates, but I still want to focus on the fundamental ideals and overarching themes of origami today, rather than delve into specific details.</p>
-]]></content>
-  </entry>
-  <entry>
-    <title>The End of Pi</title>
-    <url>/the-end-of-pi/</url>
-    <content><![CDATA[<p>I’m fed up with you, π. I get it, you’re the ratio of the circumference to the diameter, good for you. But that isn’t enough for you, is it? No, you need to make sure <strong>everyone</strong> knows exactly who you are. You needed a day in your honor and competitions just for you. Was memorizing 100,000 of your digits not enough? No, of course not. It will never be enough. You are never ending.</p>
-<p>If human memorization isn’t enough, surely calculating trillions of digits should suffice. Is 663 terabytes enough space for you? Is 864 GB of RAM enough memory for you? Is nearly half a year of continuous computing enough time for you? Calculating digits of you has cost humans thousands of computing hours on the world’s best cloud servers, and I don’t blame them. They, like everyone else, have become sucked into this never-ending cycle of discovering more, learning more, doing more for you.</p>
-<p>You know what I think, π? I don’t think this is actually what you want. Clearly, there is a hole in you, a circular void, but these fruitless attempts at getting closer to the end aren’t what you truly desire. Everyone knows 3.14, and a lot of people know 3.1415, but how many people care that the next digit is 9? Even for those that do, they will still say 3.1415, and I’m sure that stings. Rather than appreciate a nice approximation and round to 3.1416, your loving followers are blinded by your never-ending being. Every digit we calculate gives us exponentially less information. All the while, we ignore the beauty in front of us. How many can say they have truly appreciated the 9 in the fifth decimal place of your expansion?</p>
-<p>Every approximation we can fathom is finite. They will all be finite because your decimal expansion contains more information than we could store in every atom of the universe. Rather than fail to attempt to appreciate your unending presence, we should enjoy the finite. Bask in the glory of the approximations and reflect on how even good things can end. Round to the fourth decimal place rather than forever waiting for the fifth. Maybe then, we can finally see the end of π.</p>
-<hr>
-<h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ol>
-<li><a href="https://en.wikipedia.org/wiki/Chronology_of_computation_of_%CF%80">Chronology of Computation of π</a></li>
-<li><a href="http://www.numberworld.org/y-cruncher/">y-cruncher for computing π</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Emma_Haruka_Iwao">Emma Haruka Iwao, Current Record Holder for Computing Digits</a></li>
-<li><a href="https://www.theguardian.com/science/alexs-adventures-in-numberland/2015/mar/13/pi-day-2015-memory-memorisation-world-record-japanese-akira-haraguchi">Akira Haraguchi Memorized +100k digits</a></li>
-<li><a href="https://blog.timothymullican.com/calculating-pi-my-attempt-breaking-pi-record">Timothy Mullican, Prev Record Holder for Computing Digits</a></li>
-</ol>
 ]]></content>
   </entry>
   <entry>
@@ -1236,6 +1236,16 @@ echo "cmJoYXNrYXJAdWNoaWNhZ28uZWR1Cg==" | base64 --decode
 <!-- *Add to the [dialogue](/chat), and become part of my story.* -->]]></content>
   </entry>
   <entry>
+    <title>Publications</title>
+    <url>/publications/index.html</url>
+    <content><![CDATA[<p>Also see my: <a href="https://scholar.google.com/citations?user=dqTwtegAAAAJ&hl=en&oi=ao">Google Scholar</a></p>
+<h3 id="Refereed"><a href="#Refereed" class="headerlink" title="Refereed"></a>Refereed</h3><p><a href="https://arxiv.org/abs/2506.21874">On the Feasibility of Poisoning Text-to-Image AI Models via Adversarial Mislabeling</a><br>Stanley Wu, <strong>Ronik Bhaskar</strong>, Anna Yoo Jeong Ha, Shawn Shan, Haitao Zheng, Ben Y. Zhao<br><em>Conference on Computer and Communications Security (CCS), 2025.</em> </p>
+<p><a href="https://arxiv.org/abs/2402.03214">Organic or Diffused: Can We Distinguish Human Art from AI-generated Images?</a><br>Anna Yoo Jeong Ha*, Josephine Passananti*, <strong>Ronik Bhaskar</strong>, Shawn Shan, Reid Southen, Haitao Zheng, Ben Y. Zhao.<br><em>Conference on Computer and Communications Security (CCS), 2024.</em><br>☆ Distinguished Paper Award.</p>
+<p><a href="https://www.usenix.org/system/files/sec23winter-prepub-116-yang-zhuolin.pdf">Can Virtual Reality Protect Users from Keystroke Inference Attacks?</a><br>Zhuolin Yang, Zain Sarwar, Iris Hwang, <strong>Ronik Bhaskar</strong>, Ben Y. Zhao, Haitao Zheng.<br><em>USENIX Security Symposium, 2024.</em><br><a href="https://www.newscientist.com/article/2401929-ai-can-steal-passwords-in-virtual-reality-from-avatar-hand-motions/">Media Coverage</a><br><br></p>
+<h3 id="Recreational"><a href="#Recreational" class="headerlink" title="Recreational"></a>Recreational</h3><p><a href="/projects/PizzaLang.pdf">PizzaLang: A Language for Hungry Developers</a><br><strong>Ronik Bhaskar</strong>, Dawson Ren.<br><em>Proc. of SIGBOVIK, 2023.</em></p>
+]]></content>
+  </entry>
+  <entry>
     <title>Anti-ELIZA</title>
     <url>/projects/anti-eliza.html</url>
     <content><![CDATA[<p><em>Conditioning away the human level of trust imparted to AI systems. Inspired by ELIZA. <a href="/anti-eliza/">Test it out.</a></em></p>
@@ -1253,36 +1263,6 @@ echo "cmJoYXNrYXJAdWNoaWNhZ28uZWR1Cg==" | base64 --decode
 <li><a href="https://arxiv.org/abs/2310.20216">ELIZA Beat GPT-3.5 in a Turing Test</a></li>
 </ol>
 <h2 id="The-ELIZA-Algorithm"><a href="#The-ELIZA-Algorithm" class="headerlink" title="The ELIZA Algorithm"></a>The ELIZA Algorithm</h2><figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">def</span> <span class="title function_">respond</span>(<span class="params">self, statement</span>):</span><br><span class="line">    <span class="keyword">for</span> pattern, responses <span class="keyword">in</span> self.patterns:</span><br><span class="line">        <span class="keyword">match</span> = re.search(pattern, statement.strip(<span class="string">&quot; .!?&quot;</span>), re.IGNORECASE)</span><br><span class="line">        <span class="keyword">if</span> <span class="keyword">match</span>:</span><br><span class="line">            response = random.choice(responses).<span class="built_in">format</span>(*<span class="keyword">match</span>.groups())</span><br><span class="line">            <span class="keyword">return</span> response</span><br><span class="line">    <span class="keyword">return</span> self.default</span><br></pre></td></tr></table></figure>]]></content>
-  </entry>
-  <entry>
-    <title>Discord Bot</title>
-    <url>/projects/discord_bot.html</url>
-    <content><![CDATA[<p>Access the source files <a href="https://github.com/ronikbhaskar/discord_bot">here</a>. </p>
-<h2 id="Background"><a href="#Background" class="headerlink" title="Background"></a>Background</h2><p>This project was pivotal to my journey as a maker. I discuss it in my <a href="/about">about page</a>.</p>
-<h2 id="Hosting"><a href="#Hosting" class="headerlink" title="Hosting"></a>Hosting</h2><p>Currently, the discord bot is being hosted on Heroku, which has been working really well so far. You get 550 free dyno hours per month without providing any payment information, which is plenty for a single project you can just have running during the day.</p>
-<h2 id="Features"><a href="#Features" class="headerlink" title="Features"></a>Features</h2><h3 id="Hangman-🔤"><a href="#Hangman-🔤" class="headerlink" title="Hangman 🔤"></a>Hangman 🔤</h3><p>Igor can play one game, and that is Hangman. Here are the commands you can use to play:</p>
-<ul>
-<li><code>hangman</code> or <code>play hangman</code></li>
-<li><code>guess _</code> (ex. <code>/guess a</code>)</li>
-<li><code>quit</code> or <code>quit game</code></li>
-</ul>
-<h3 id="Astronomy-🔭"><a href="#Astronomy-🔭" class="headerlink" title="Astronomy 🔭"></a>Astronomy 🔭</h3><p>Igor seems to have become interested in astronomy. Here are a few things Igor knows:</p>
-<ul>
-<li><code>iss</code>, <code>location of iss</code>, <code>locate iss</code>, etc.</li>
-<li><code>moon phase</code>, <code>phase of moon</code>, etc.</li>
-<li><code>picture of the day</code>, <code>astro pic</code>, <code>photo of the day</code>, etc.</li>
-</ul>
-<h3 id="Dictionary-📚"><a href="#Dictionary-📚" class="headerlink" title="Dictionary 📚"></a>Dictionary 📚</h3><p>In an effort to expand the server’s vocabulary, Igor has access to some dictionaries:</p>
-<ul>
-<li><code>define _____</code> for dictionary.com</li>
-<li><code>udefine _____</code> for urban dictionary</li>
-</ul>
-<h3 id="Chat-💬"><a href="#Chat-💬" class="headerlink" title="Chat 💬"></a>Chat 💬</h3><p>Igor doesn’t know how to say much. That’s it, no caveat.</p>
-<ul>
-<li>just @ mention Igor in your message and maybe you’ll get a response</li>
-</ul>
-<hr>
-<p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
   </entry>
   <entry>
     <title>Full Stack Chat App</title>
@@ -1360,6 +1340,36 @@ echo "cmJoYXNrYXJAdWNoaWNhZ28uZWR1Cg==" | base64 --decode
 <h3 id="Authors"><a href="#Authors" class="headerlink" title="Authors"></a>Authors</h3><p>Jon Ma and Ronik Bhaskar</p>
 <h3 id="Notes"><a href="#Notes" class="headerlink" title="Notes"></a>Notes</h3><p>*technically, they predict the next token, not word, but for our purposes, they are functionally the same.</p>
 ]]></content>
+  </entry>
+  <entry>
+    <title>Discord Bot</title>
+    <url>/projects/discord_bot.html</url>
+    <content><![CDATA[<p>Access the source files <a href="https://github.com/ronikbhaskar/discord_bot">here</a>. </p>
+<h2 id="Background"><a href="#Background" class="headerlink" title="Background"></a>Background</h2><p>This project was pivotal to my journey as a maker. I discuss it in my <a href="/about">about page</a>.</p>
+<h2 id="Hosting"><a href="#Hosting" class="headerlink" title="Hosting"></a>Hosting</h2><p>Currently, the discord bot is being hosted on Heroku, which has been working really well so far. You get 550 free dyno hours per month without providing any payment information, which is plenty for a single project you can just have running during the day.</p>
+<h2 id="Features"><a href="#Features" class="headerlink" title="Features"></a>Features</h2><h3 id="Hangman-🔤"><a href="#Hangman-🔤" class="headerlink" title="Hangman 🔤"></a>Hangman 🔤</h3><p>Igor can play one game, and that is Hangman. Here are the commands you can use to play:</p>
+<ul>
+<li><code>hangman</code> or <code>play hangman</code></li>
+<li><code>guess _</code> (ex. <code>/guess a</code>)</li>
+<li><code>quit</code> or <code>quit game</code></li>
+</ul>
+<h3 id="Astronomy-🔭"><a href="#Astronomy-🔭" class="headerlink" title="Astronomy 🔭"></a>Astronomy 🔭</h3><p>Igor seems to have become interested in astronomy. Here are a few things Igor knows:</p>
+<ul>
+<li><code>iss</code>, <code>location of iss</code>, <code>locate iss</code>, etc.</li>
+<li><code>moon phase</code>, <code>phase of moon</code>, etc.</li>
+<li><code>picture of the day</code>, <code>astro pic</code>, <code>photo of the day</code>, etc.</li>
+</ul>
+<h3 id="Dictionary-📚"><a href="#Dictionary-📚" class="headerlink" title="Dictionary 📚"></a>Dictionary 📚</h3><p>In an effort to expand the server’s vocabulary, Igor has access to some dictionaries:</p>
+<ul>
+<li><code>define _____</code> for dictionary.com</li>
+<li><code>udefine _____</code> for urban dictionary</li>
+</ul>
+<h3 id="Chat-💬"><a href="#Chat-💬" class="headerlink" title="Chat 💬"></a>Chat 💬</h3><p>Igor doesn’t know how to say much. That’s it, no caveat.</p>
+<ul>
+<li>just @ mention Igor in your message and maybe you’ll get a response</li>
+</ul>
+<hr>
+<p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
   </entry>
   <entry>
     <title>Inventing a Game, Then Building a Bot to Play It Perfectly</title>
@@ -2321,6 +2331,28 @@ echo "cmJoYXNrYXJAdWNoaWNhZ28uZWR1Cg==" | base64 --decode
 <p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
   </entry>
   <entry>
+    <title>The Oracle Society</title>
+    <url>/projects/oracle_society.html</url>
+    <content><![CDATA[<p>CW: violence, kidnapping, murder.</p>
+<p>Play the game <a href="/oracle_society/">here</a>.</p>
+<h2 id="Background"><a href="#Background" class="headerlink" title="Background"></a>Background</h2><p>Our final project for introductory quantum computing had us create an educational artifact to teach a quantum concept. I chose oracles, which I had the pleasure of studying in complexity theory. Oracles function as a sort of answer machine. They know things that you want to know, but you don’t know how they know them. By asking well-formed questions, you can extract relevant information from an oracle. In general, you want to use as few questions as possible. </p>
+<h2 id="Gameplay"><a href="#Gameplay" class="headerlink" title="Gameplay"></a>Gameplay</h2><p>Please note that I constructed this narrative very late at night during finals week. It is not cohesive.</p>
+<p>You are a detective&#x2F;hostage negotiator that has discovered a method of communication to a serial kidnapper. Your job is to free the hostages, but doing so requires you to play a twisted game devised by the kidnapper. There are a select number of questions you can use to play the game, and each one will be answered truthfully. Beat the kidnapper’s riddle, and they will release the hostages. If your guessing strategy isn’t efficient enough, hostages will start dying. Try not to let too many die. Good luck!</p>
+<h2 id="Issues"><a href="#Issues" class="headerlink" title="Issues"></a>Issues</h2><p>Note: I will not resolve these issues, but keep them in mind if you decide to play.</p>
+<ol>
+<li><p>This game is not mobile compatible.</p>
+</li>
+<li><p>Skipping text too fast can cause buttons to appear before they should.</p>
+</li>
+<li><p>The transitions between deaths don’t allow you to pause the text.</p>
+</li>
+<li><p>I didn’t playtest the final version of the game enough.</p>
+</li>
+</ol>
+<hr>
+<p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
+  </entry>
+  <entry>
     <title>Steganography</title>
     <url>/projects/steganography.html</url>
     <content><![CDATA[<h2 id="Find-the-difference-between-these-two-images"><a href="#Find-the-difference-between-these-two-images" class="headerlink" title="Find the difference between these two images"></a>Find the difference between these two images</h2><style>
@@ -2351,28 +2383,6 @@ table, th {
 
 <p>For this code, you will have to redirect the output to a file using the <code>&gt;</code> operator.</p>
 <p>Happy sleuthing!</p>
-<hr>
-<p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>The Oracle Society</title>
-    <url>/projects/oracle_society.html</url>
-    <content><![CDATA[<p>CW: violence, kidnapping, murder.</p>
-<p>Play the game <a href="/oracle_society/">here</a>.</p>
-<h2 id="Background"><a href="#Background" class="headerlink" title="Background"></a>Background</h2><p>Our final project for introductory quantum computing had us create an educational artifact to teach a quantum concept. I chose oracles, which I had the pleasure of studying in complexity theory. Oracles function as a sort of answer machine. They know things that you want to know, but you don’t know how they know them. By asking well-formed questions, you can extract relevant information from an oracle. In general, you want to use as few questions as possible. </p>
-<h2 id="Gameplay"><a href="#Gameplay" class="headerlink" title="Gameplay"></a>Gameplay</h2><p>Please note that I constructed this narrative very late at night during finals week. It is not cohesive.</p>
-<p>You are a detective&#x2F;hostage negotiator that has discovered a method of communication to a serial kidnapper. Your job is to free the hostages, but doing so requires you to play a twisted game devised by the kidnapper. There are a select number of questions you can use to play the game, and each one will be answered truthfully. Beat the kidnapper’s riddle, and they will release the hostages. If your guessing strategy isn’t efficient enough, hostages will start dying. Try not to let too many die. Good luck!</p>
-<h2 id="Issues"><a href="#Issues" class="headerlink" title="Issues"></a>Issues</h2><p>Note: I will not resolve these issues, but keep them in mind if you decide to play.</p>
-<ol>
-<li><p>This game is not mobile compatible.</p>
-</li>
-<li><p>Skipping text too fast can cause buttons to appear before they should.</p>
-</li>
-<li><p>The transitions between deaths don’t allow you to pause the text.</p>
-</li>
-<li><p>I didn’t playtest the final version of the game enough.</p>
-</li>
-</ol>
 <hr>
 <p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
   </entry>
@@ -2457,15 +2467,5 @@ table, th {
 </ul>
 <hr>
 <p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>Publications</title>
-    <url>/publications/index.html</url>
-    <content><![CDATA[<p>Also see my: <a href="https://scholar.google.com/citations?user=dqTwtegAAAAJ&hl=en&oi=ao">Google Scholar</a></p>
-<h3 id="Refereed"><a href="#Refereed" class="headerlink" title="Refereed"></a>Refereed</h3><p><a href="https://arxiv.org/abs/2506.21874">On the Feasibility of Poisoning Text-to-Image AI Models via Adversarial Mislabeling</a><br>Stanley Wu, <strong>Ronik Bhaskar</strong>, Anna Yoo Jeong Ha, Shawn Shan, Haitao Zheng, Ben Y. Zhao<br><em>Conference on Computer and Communications Security (CCS), 2025.</em> </p>
-<p><a href="https://arxiv.org/abs/2402.03214">Organic or Diffused: Can We Distinguish Human Art from AI-generated Images?</a><br>Anna Yoo Jeong Ha*, Josephine Passananti*, <strong>Ronik Bhaskar</strong>, Shawn Shan, Reid Southen, Haitao Zheng, Ben Y. Zhao.<br><em>Conference on Computer and Communications Security (CCS), 2024.</em><br>☆ Distinguished Paper Award.</p>
-<p><a href="https://www.usenix.org/system/files/sec23winter-prepub-116-yang-zhuolin.pdf">Can Virtual Reality Protect Users from Keystroke Inference Attacks?</a><br>Zhuolin Yang, Zain Sarwar, Iris Hwang, <strong>Ronik Bhaskar</strong>, Ben Y. Zhao, Haitao Zheng.<br><em>USENIX Security Symposium, 2024.</em><br><a href="https://www.newscientist.com/article/2401929-ai-can-steal-passwords-in-virtual-reality-from-avatar-hand-motions/">Media Coverage</a><br><br></p>
-<h3 id="Recreational"><a href="#Recreational" class="headerlink" title="Recreational"></a>Recreational</h3><p><a href="/projects/PizzaLang.pdf">PizzaLang: A Language for Hungry Developers</a><br><strong>Ronik Bhaskar</strong>, Dawson Ren.<br><em>Proc. of SIGBOVIK, 2023.</em></p>
-]]></content>
   </entry>
 </search>
