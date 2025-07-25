@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://ronikbhaskar.github.io/projects/gallery-ext</loc>
+    <loc>https://ronikbhaskar.github.io/projects/gallery</loc>
     
     <lastmod>2025-07-25</lastmod>
     
@@ -11,9 +11,9 @@
   </url>
   
   <url>
-    <loc>https://ronikbhaskar.github.io/projects/gallery</loc>
+    <loc>https://ronikbhaskar.github.io/projects/gallery-ext</loc>
     
-    <lastmod>2025-07-23</lastmod>
+    <lastmod>2025-07-25</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
