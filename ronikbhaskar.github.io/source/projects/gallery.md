@@ -179,4 +179,4 @@ Please contact me before distributing or teaching any of my works.
   </div>
 </div>
 
-These are just my most recent works. Older ones can be found [here](/projects/gallery-ext/).
+These are just my most recent works. Older ones can be found [here](/projects/gallery-ext).
