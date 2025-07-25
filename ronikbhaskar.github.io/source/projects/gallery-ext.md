@@ -47,29 +47,29 @@ An extended gallery of my original origami designs. They are in chronological or
 
 ## Index
 
-[Walking Red Flag - 18 Grid](#walking-red-flag)
-[Hanging up the Mask - 10 Grid](#hanging-up-the-mask)
-[Ship in a Bottle - 18 Grid](#ship-in-a-bottle)
-[Ermine - 14 Grid](#ermine)
-[Sky's the Limit - 18 Grid](#skys-the-limit)
-[Sinking Feeling - 18 Grid](#sinking-feeling)
-[Stargazing - 16 Grid](#stargazing)
+[Walking Red Flag - 18x18 Grid](#walking-red-flag)
+[Hanging up the Mask - 10x10 Grid](#hanging-up-the-mask)
+[Ship in a Bottle - 18x18 Grid](#ship-in-a-bottle)
+[Ermine - 14x14 Grid](#ermine)
+[Sky's the Limit - 18x18 Grid](#skys-the-limit)
+[Sinking Feeling - 18x18 Grid](#sinking-feeling)
+[Stargazing - 16x16 Grid](#stargazing)
 [Whitetail Fawn - 22.5](#whitetail-fawn)
-[Fish out of Water - 14 Grid (Partial 28ths)](#fish-out-of-water)
-[Hanging by a Thread - 20 Grid](#hanging-by-a-thread)
-[Even Littler Dragon - 6 Grid](#even-littler-dragon)
-[Mandrake - 16 Grid](#mandrake)
+[Fish out of Water - 14x14 Grid (Partial 28ths)](#fish-out-of-water)
+[Hanging by a Thread - 20x20 Grid](#hanging-by-a-thread)
+[Even Littler Dragon - 6x6 Grid](#even-littler-dragon)
+[Mandrake - 16x16 Grid](#mandrake)
 [Sea Serpent - Grafted Fish Base](#sea-serpent)
-[Mermaid - 16 Grid](#mermaid)
+[Mermaid - 16x16 Grid](#mermaid)
 [Phoenix - Grafted Bird Base](#phoenix)
 [Trophy Hunting - Fish Base](#trophy-hunting)
-[Fairy - 16 Grid](#fairy)
-[Wikipedia Sword and Shield - 16 Grid](#wss)
+[Fairy - 16x16 Grid](#fairy)
+[Wikipedia Sword and Shield - 16x16 Grid](#wss)
 
 <div class="simple-wrapper">
   <div class="text-wrapper">
     <a id="walking-red-flag"></a>
-    <h1>Walking Red Flag - 18 Grid</h1>
+    <h1>Walking Red Flag - 18x18 Grid</h1>
     <p>Some things are better left avoided, and if you're lucky, they'll tell you to stay away. Most of this model is pretty straightforward to fold, except for the arm holding a smaller red flag.</p>
     <p>Designed: 07/17/25</p>
   </div>
@@ -82,7 +82,7 @@ An extended gallery of my original origami designs. They are in chronological or
 <div class="simple-wrapper">
   <div class="text-wrapper">
     <a id="hanging-up-the-mask"></a>
-    <h1>Hanging up the Mask - 10 Grid</h1>
+    <h1>Hanging up the Mask - 10x10 Grid</h1>
     <p>Comedy never looked so grim. On a related note, properly shaping this model is a nightmare, probably because I'm bad at masks.</p>
     <p>Designed: 06/28/25</p>
   </div>
@@ -95,7 +95,7 @@ An extended gallery of my original origami designs. They are in chronological or
 <div class="simple-wrapper">
   <div class="text-wrapper">
     <a id="ship-in-a-bottle"></a>
-    <h1>Ship in a Bottle - 18 Grid</h1>
+    <h1>Ship in a Bottle - 18x18 Grid</h1>
     <p>I suppose it's technically only half a bottle, but if I made the whole bottle, then you wouldn't be able to see the ship.</p>
     <p>Designed: 06/02/25</p>
   </div>
@@ -108,7 +108,7 @@ An extended gallery of my original origami designs. They are in chronological or
 <div class="simple-wrapper">
   <div class="text-wrapper">
     <a id="ermine"></a>
-    <h1>Ermine - 14 Grid</h1>
+    <h1>Ermine - 14x14 Grid</h1>
     <p>Is it a stoat or an ermine? Never could figure out the difference. In any case, the design is excessively difficult for something so simple.</p>
     <p>Designed: 05/28/25</p>
   </div>
@@ -121,7 +121,7 @@ An extended gallery of my original origami designs. They are in chronological or
 <div class="simple-wrapper">
   <div class="text-wrapper">
     <a id="skys-the-limit"></a>
-    <h1>Sky's the Limit - 18 Grid</h1>
+    <h1>Sky's the Limit - 18x18 Grid</h1>
     <p>In the same vein as Sinking Feeling, this is meta origami with a non-standard model. I wanted this model to focus on youthful imagination, as I know I would have loved this as a kid. Also, yes, it does fly.</p>
     <p>Designed: 05/10/25</p>
   </div>
@@ -134,7 +134,7 @@ An extended gallery of my original origami designs. They are in chronological or
 <div class="simple-wrapper">
   <div class="text-wrapper">
     <a id="sinking-feeling"></a>
-    <h1>Sinking Feeling - 18 Grid</h1>
+    <h1>Sinking Feeling - 18x18 Grid</h1>
     <p>Meta origami models are so fun, but they typically focus on cranes or blank pieces of paper. There are very few models that incorporate the traditional boat, so I designed a model that had two. The title is a double entendre for the sink fold.</p>
     <p>Designed: 09/20/24</p>
   </div>
@@ -147,7 +147,7 @@ An extended gallery of my original origami designs. They are in chronological or
 <div class="simple-wrapper">
   <div class="text-wrapper">
     <a id="stargazing"></a>
-    <h1>Stargazing - 16 Grid</h1>
+    <h1>Stargazing - 16x16 Grid</h1>
     <p>Alternate title: the universe observing itself. Origami seems like a fitting medium for this idea, since both the observer (telescope) and the universe (night sky) are folded from the same sheet of paper. Designing a piece that is its own background was an interesting challenge.</p>
     <p>Designed: 09/06/24</p>
   </div>
@@ -173,7 +173,7 @@ An extended gallery of my original origami designs. They are in chronological or
 <div class="simple-wrapper">
   <div class="text-wrapper">
     <a id="fish-out-of-water"></a>
-    <h1>Fish out of Water - 14 Grid (Partial 28ths)</h1>
+    <h1>Fish out of Water - 14x14 Grid (Partial 28ths)</h1>
     <p>A bit of an absurdist take on the phrase, I wanted to use my humanoid design skills to make the fish vaguely anthropomorphic. The partial 28ths can be treated as open sinks during the folding sequence, though I still recommend precreasing them. The umbrella uses a similar structure to the one in "Walking in the Rain" by Chen Xiao.</p>
     <p>Designed: 08/14/24</p>
   </div>
@@ -186,7 +186,7 @@ An extended gallery of my original origami designs. They are in chronological or
 <div class="simple-wrapper">
   <div class="text-wrapper">
     <a id="hanging-by-a-thread"></a>
-    <h1>Hanging by a Thread - 20 Grid</h1>
+    <h1>Hanging by a Thread - 20x20 Grid</h1>
     <p>Won the July 2024 Origami-Dan design contest. To some degree, I was inspired by Banksy's "Girl with Balloon", which informed my color choice in the final fold.</p>
     <p>Designed: 07/24/24</p>
   </div>
@@ -199,7 +199,7 @@ An extended gallery of my original origami designs. They are in chronological or
 <div class="simple-wrapper">
   <div class="text-wrapper">
     <a id="even-littler-dragon"></a>
-    <h1>Even Littler Dragon - 6 Grid</h1>
+    <h1>Even Littler Dragon - 6x6 Grid</h1>
     <p>Designed at the OUSA 2024 convention. After seeing that Boice Wong was selling diagrams for his Little Dragon (8-grid), I wanted to see if I could design a dragon even smaller. This one is very efficient, but if you're looking for a fun, low-grid origami dragon, just go buy his diagrams.</p>
     <p>Designed: 07/20/24</p>
   </div>
@@ -212,7 +212,7 @@ An extended gallery of my original origami designs. They are in chronological or
 <div class="simple-wrapper">
   <div class="text-wrapper">
     <a id="mandrake"></a>
-    <h1>Mandrake - 16 Grid</h1>
+    <h1>Mandrake - 16x16 Grid</h1>
     <p>A cute, little asymmetric root vegetable. This design focuses more heavily on the mythical interpretation of the plant, but you could just as easily shape it to look like a potato.</p>
     <p>Designed: 06/07/24</p>
   </div>
@@ -238,7 +238,7 @@ An extended gallery of my original origami designs. They are in chronological or
 <div class="simple-wrapper">
   <div class="text-wrapper">
     <a id="mermaid"></a>
-    <h1>Mermaid - 16 Grid</h1>
+    <h1>Mermaid - 16x16 Grid</h1>
     <p>I suppose this is is technically a merperson, since I didn't aim to imply a particular gender with this design. The trident makes the structure very asymmetrical. Finished the design on the same day as my sea dragon.</p>
     <p>Designed: 05/11/24</p>
   </div>
@@ -277,7 +277,7 @@ An extended gallery of my original origami designs. They are in chronological or
 <div class="simple-wrapper">
   <div class="text-wrapper">
     <a id="fairy"></a>
-    <h1>Fairy - 16 Grid</h1>
+    <h1>Fairy - 16x16 Grid</h1>
     <p>I received a lot of negative feedback on this design, which was ultimately for the best. I've used the criticisms to improve subsequent designs. </p>
     <p>Designed: 04/06/24</p>
   </div>
@@ -290,7 +290,7 @@ An extended gallery of my original origami designs. They are in chronological or
 <div class="simple-wrapper">
   <div class="text-wrapper">
     <a id="wss"></a>
-    <h1>Wikipedia Sword and Shield - 16 Grid</h1>
+    <h1>Wikipedia Sword and Shield - 16x16 Grid</h1>
     <p>I don't claim this design as my own. On the Wikipedia page for Crease Patterns, there's this unfinished CP of a swordman. It was added by the user Nicoguaro, but I couldn't find the original shaping, so I took a crack at finishing the CP and folding it myself.</p>
     <p>Found: 03/29/24</p>
   </div>
