@@ -47,6 +47,7 @@ An extended gallery of my original origami designs. They are in chronological or
 
 ## Index
 
+[Phishing - 32x32 Grid](#phishing)
 [Walking Red Flag - 18x18 Grid](#walking-red-flag)
 [Hanging up the Mask - 10x10 Grid](#hanging-up-the-mask)
 [Ship in a Bottle - 18x18 Grid](#ship-in-a-bottle)
@@ -65,6 +66,20 @@ An extended gallery of my original origami designs. They are in chronological or
 [Trophy Hunting - Fish Base](#trophy-hunting)
 [Fairy - 16x16 Grid](#fairy)
 [Wikipedia Sword and Shield - 16x16 Grid](#wss)
+
+
+<div class="simple-wrapper">
+  <div class="text-wrapper">
+    <a id="phishing"></a>
+    <h1>Phishing - 32x32 Grid</h1>
+    <p>Phishing is a cyber crime that typically involves baiting people with malicious emails. Here, instead of an actual fisherman doing the phishing, it's a siren, as sirens were known for using song to lure sailors to their deaths. This is by far my most complex design to date.</p>
+    <p>Designed: 08/21/25</p>
+  </div>
+  <div class="image-container">
+  <img src="gallery/phishing.jpg" alt="Origami phishing."> 
+  <img src="gallery/phishing-cp.png" alt="Crease pattern of origami phishing."> 
+  </div>
+</div>
 
 <div class="simple-wrapper">
   <div class="text-wrapper">

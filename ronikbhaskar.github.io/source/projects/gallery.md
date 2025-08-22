@@ -52,6 +52,7 @@ Please contact me before distributing or teaching any of my works.
 
 ## Index
 
+[Phishing](#phishing)
 [Walking Red Flag](#walking-red-flag)
 [Hanging up the Mask](#hanging-up-the-mask)
 [Ship in a Bottle](#ship-in-a-bottle)
@@ -61,6 +62,19 @@ Please contact me before distributing or teaching any of my works.
 [Whitetail Fawn](#whitetail-fawn)
 [Fish out of Water](#fish-out-of-water)
 [Hanging by a Thread](#hanging-by-a-thread)
+
+<div class="simple-wrapper">
+  <div class="text-wrapper">
+    <a id="phishing"></a>
+    <h1>Phishing</h1>
+    <p>Phishing is a cyber crime that typically involves baiting people with malicious emails. Here, instead of an actual fisherman doing the phishing, it's a siren, as sirens were known for using song to lure sailors to their deaths.</p>
+    <p>Designed: 08/21/25</p>
+  </div>
+  <div class="image-container">
+  <img src="gallery/phishing.jpg" alt="Origami phishing."> 
+  <img src="gallery/phishing-cp.png" alt="Crease pattern of origami phishing."> 
+  </div>
+</div>
 
 <div class="simple-wrapper">
   <div class="text-wrapper">
