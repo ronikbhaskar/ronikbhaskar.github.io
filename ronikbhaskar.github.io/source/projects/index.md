@@ -63,6 +63,18 @@ Throughout my research journey, I have had the opportunity to work on artifacts 
 </div>
 </a>
 
+<a href="https://github.com/stanleykywu/amp">
+<div class="project-card">
+  <h3>AMP</h3>
+  <p><em>Poisoning text-to-image models via adversarial mislabeling.</em></p>
+  <p>
+    <a class="project-link" href="https://arxiv.org/abs/2506.21874">Paper</a>
+    <a class="project-link" href="https://github.com/stanleykywu/amp">GitHub</a>
+    <a class="project-link" href="https://zenodo.org/records/15541507">Zenodo</a>
+  </p>
+</div>
+</a>
+
 <a href="https://github.com/zainsarwar865/LLMTestBed">
 <div class="project-card">
   <h3>LLM Testbed</h3>
