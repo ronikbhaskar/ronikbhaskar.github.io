@@ -203,7 +203,7 @@ I wanted to inspire the adventures I might have outside the office, so, naturall
 <div class="project-card">
   <img src="misc_images/compass.jpg" alt="compass with distance">
   <h3>A Compass That Can Take You Anywhere</h3>
-  <p><em>A better way to tell time.</em></p>
+  <p><em>It's about the journey, not the destination.</em></p>
   <p>
     <a class="project-link"  href="/locator/creator">Website</a>
     <a class="project-link"  href="/projects/locator">Summary</a>
