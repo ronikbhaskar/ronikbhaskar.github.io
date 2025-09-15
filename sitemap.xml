@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://ronikbhaskar.github.io/gallery/</loc>
+    <loc>https://ronikbhaskar.com/projects/ultimate_tic_tac_toe</loc>
     
     <lastmod>2025-09-15</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>https://ronikbhaskar.github.io/projects/</loc>
+    <loc>https://ronikbhaskar.com/projects/tomato_timer</loc>
     
     <lastmod>2025-09-15</lastmod>
     
@@ -20,7 +20,7 @@
   </url>
   
   <url>
-    <loc>https://ronikbhaskar.github.io/gallery/ext</loc>
+    <loc>https://ronikbhaskar.com/projects/text_generator</loc>
     
     <lastmod>2025-09-15</lastmod>
     
@@ -29,25 +29,142 @@
   </url>
   
   <url>
-    <loc>https://ronikbhaskar.github.io/projects/gallery-ext</loc>
+    <loc>https://ronikbhaskar.com/projects/steganography</loc>
     
-    <lastmod>2025-08-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://ronikbhaskar.github.io/projects/gallery</loc>
-    
-    <lastmod>2025-08-22</lastmod>
+    <lastmod>2025-09-15</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://ronikbhaskar.github.io/finding-joy-is-a-mathematically-difficult-problem/</loc>
+    <loc>https://ronikbhaskar.com/projects/oracle_society</loc>
+    
+    <lastmod>2025-09-15</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://ronikbhaskar.com/projects/obsidian-editor</loc>
+    
+    <lastmod>2025-09-15</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://ronikbhaskar.com/projects/math-art</loc>
+    
+    <lastmod>2025-09-15</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://ronikbhaskar.com/projects/locator</loc>
+    
+    <lastmod>2025-09-15</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://ronikbhaskar.com/projects/linear_transformation_visualizer</loc>
+    
+    <lastmod>2025-09-15</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://ronikbhaskar.com/projects/forest-algorithm</loc>
+    
+    <lastmod>2025-09-15</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://ronikbhaskar.com/projects/everything-generates-text</loc>
+    
+    <lastmod>2025-09-15</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://ronikbhaskar.com/projects/discord_scraper</loc>
+    
+    <lastmod>2025-09-15</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://ronikbhaskar.com/projects/discord_bot</loc>
+    
+    <lastmod>2025-09-15</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://ronikbhaskar.com/projects/chat</loc>
+    
+    <lastmod>2025-09-15</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://ronikbhaskar.com/projects/anti-eliza</loc>
+    
+    <lastmod>2025-09-15</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://ronikbhaskar.com/gallery/</loc>
+    
+    <lastmod>2025-09-15</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://ronikbhaskar.com/projects/</loc>
+    
+    <lastmod>2025-09-15</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://ronikbhaskar.com/gallery/ext</loc>
+    
+    <lastmod>2025-09-15</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://ronikbhaskar.com/finding-joy-is-a-mathematically-difficult-problem/</loc>
     
     <lastmod>2025-07-10</lastmod>
     
@@ -56,7 +173,7 @@
   </url>
   
   <url>
-    <loc>https://ronikbhaskar.github.io/about/</loc>
+    <loc>https://ronikbhaskar.com/about/</loc>
     
     <lastmod>2025-06-30</lastmod>
     
@@ -65,7 +182,7 @@
   </url>
   
   <url>
-    <loc>https://ronikbhaskar.github.io/publications/</loc>
+    <loc>https://ronikbhaskar.com/publications/</loc>
     
     <lastmod>2025-06-30</lastmod>
     
@@ -74,25 +191,7 @@
   </url>
   
   <url>
-    <loc>https://ronikbhaskar.github.io/projects/locator</loc>
-    
-    <lastmod>2025-03-29</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://ronikbhaskar.github.io/projects/everything-generates-text</loc>
-    
-    <lastmod>2025-03-23</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://ronikbhaskar.github.io/new-beginnings/</loc>
+    <loc>https://ronikbhaskar.com/new-beginnings/</loc>
     
     <lastmod>2024-09-23</lastmod>
     
@@ -101,7 +200,7 @@
   </url>
   
   <url>
-    <loc>https://ronikbhaskar.github.io/praise/</loc>
+    <loc>https://ronikbhaskar.com/praise/</loc>
     
     <lastmod>2024-09-16</lastmod>
     
@@ -110,7 +209,7 @@
   </url>
   
   <url>
-    <loc>https://ronikbhaskar.github.io/everything-generates-text/</loc>
+    <loc>https://ronikbhaskar.com/everything-generates-text/</loc>
     
     <lastmod>2024-09-09</lastmod>
     
@@ -119,7 +218,7 @@
   </url>
   
   <url>
-    <loc>https://ronikbhaskar.github.io/it-has-to-be-new/</loc>
+    <loc>https://ronikbhaskar.com/it-has-to-be-new/</loc>
     
     <lastmod>2024-09-01</lastmod>
     
@@ -128,7 +227,7 @@
   </url>
   
   <url>
-    <loc>https://ronikbhaskar.github.io/hanging-by-a-thread-designs-from-the-months-to-come/</loc>
+    <loc>https://ronikbhaskar.com/hanging-by-a-thread-designs-from-the-months-to-come/</loc>
     
     <lastmod>2024-08-20</lastmod>
     
@@ -137,7 +236,7 @@
   </url>
   
   <url>
-    <loc>https://ronikbhaskar.github.io/the-current-paradigm-of-origami/</loc>
+    <loc>https://ronikbhaskar.com/the-current-paradigm-of-origami/</loc>
     
     <lastmod>2024-08-15</lastmod>
     
@@ -146,7 +245,7 @@
   </url>
   
   <url>
-    <loc>https://ronikbhaskar.github.io/standardized-test-problems-in-real-life/</loc>
+    <loc>https://ronikbhaskar.com/standardized-test-problems-in-real-life/</loc>
     
     <lastmod>2024-08-08</lastmod>
     
@@ -155,7 +254,7 @@
   </url>
   
   <url>
-    <loc>https://ronikbhaskar.github.io/why-ai-companies-pay-anguilla-32-million-dollars-a-year/</loc>
+    <loc>https://ronikbhaskar.com/why-ai-companies-pay-anguilla-32-million-dollars-a-year/</loc>
     
     <lastmod>2024-07-24</lastmod>
     
@@ -164,7 +263,7 @@
   </url>
   
   <url>
-    <loc>https://ronikbhaskar.github.io/time-and-travel/</loc>
+    <loc>https://ronikbhaskar.com/time-and-travel/</loc>
     
     <lastmod>2024-07-15</lastmod>
     
@@ -173,7 +272,7 @@
   </url>
   
   <url>
-    <loc>https://ronikbhaskar.github.io/the-pencil-ex-libris-works-of-nikolai-gogol/</loc>
+    <loc>https://ronikbhaskar.com/the-pencil-ex-libris-works-of-nikolai-gogol/</loc>
     
     <lastmod>2024-07-09</lastmod>
     
@@ -182,7 +281,7 @@
   </url>
   
   <url>
-    <loc>https://ronikbhaskar.github.io/using-math-to-beat-a-video-game/</loc>
+    <loc>https://ronikbhaskar.com/using-math-to-beat-a-video-game/</loc>
     
     <lastmod>2024-07-09</lastmod>
     
@@ -191,7 +290,7 @@
   </url>
   
   <url>
-    <loc>https://ronikbhaskar.github.io/celestial-navigation-part-4/</loc>
+    <loc>https://ronikbhaskar.com/celestial-navigation-part-4/</loc>
     
     <lastmod>2024-07-09</lastmod>
     
@@ -200,7 +299,7 @@
   </url>
   
   <url>
-    <loc>https://ronikbhaskar.github.io/conservation-and-the-trolley-problem/</loc>
+    <loc>https://ronikbhaskar.com/conservation-and-the-trolley-problem/</loc>
     
     <lastmod>2024-07-08</lastmod>
     
@@ -209,7 +308,7 @@
   </url>
   
   <url>
-    <loc>https://ronikbhaskar.github.io/the-problem-of-anthropomorphization/</loc>
+    <loc>https://ronikbhaskar.com/the-problem-of-anthropomorphization/</loc>
     
     <lastmod>2024-07-02</lastmod>
     
@@ -218,16 +317,7 @@
   </url>
   
   <url>
-    <loc>https://ronikbhaskar.github.io/projects/anti-eliza</loc>
-    
-    <lastmod>2024-06-27</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://ronikbhaskar.github.io/infinity-in-art/</loc>
+    <loc>https://ronikbhaskar.com/infinity-in-art/</loc>
     
     <lastmod>2024-06-25</lastmod>
     
@@ -236,7 +326,7 @@
   </url>
   
   <url>
-    <loc>https://ronikbhaskar.github.io/shortest-english-sentence/</loc>
+    <loc>https://ronikbhaskar.com/shortest-english-sentence/</loc>
     
     <lastmod>2024-06-18</lastmod>
     
@@ -245,7 +335,7 @@
   </url>
   
   <url>
-    <loc>https://ronikbhaskar.github.io/ex-libris-the-library-of-babel/</loc>
+    <loc>https://ronikbhaskar.com/ex-libris-the-library-of-babel/</loc>
     
     <lastmod>2024-06-05</lastmod>
     
@@ -254,7 +344,7 @@
   </url>
   
   <url>
-    <loc>https://ronikbhaskar.github.io/knowing-your-audience/</loc>
+    <loc>https://ronikbhaskar.com/knowing-your-audience/</loc>
     
     <lastmod>2024-05-29</lastmod>
     
@@ -263,7 +353,7 @@
   </url>
   
   <url>
-    <loc>https://ronikbhaskar.github.io/a-phoenix-a-dragon-and-lots-of-humanoids-designs-from-the-last-two-months/</loc>
+    <loc>https://ronikbhaskar.com/a-phoenix-a-dragon-and-lots-of-humanoids-designs-from-the-last-two-months/</loc>
     
     <lastmod>2024-05-21</lastmod>
     
@@ -272,7 +362,7 @@
   </url>
   
   <url>
-    <loc>https://ronikbhaskar.github.io/breaking-language-models-for-fun/</loc>
+    <loc>https://ronikbhaskar.com/breaking-language-models-for-fun/</loc>
     
     <lastmod>2024-05-14</lastmod>
     
@@ -281,7 +371,7 @@
   </url>
   
   <url>
-    <loc>https://ronikbhaskar.github.io/what-is-gibberish/</loc>
+    <loc>https://ronikbhaskar.com/what-is-gibberish/</loc>
     
     <lastmod>2024-05-07</lastmod>
     
@@ -290,7 +380,7 @@
   </url>
   
   <url>
-    <loc>https://ronikbhaskar.github.io/run-on-sentences/</loc>
+    <loc>https://ronikbhaskar.com/run-on-sentences/</loc>
     
     <lastmod>2024-04-30</lastmod>
     
@@ -299,7 +389,7 @@
   </url>
   
   <url>
-    <loc>https://ronikbhaskar.github.io/the-test-tree/</loc>
+    <loc>https://ronikbhaskar.com/the-test-tree/</loc>
     
     <lastmod>2024-04-18</lastmod>
     
@@ -308,7 +398,7 @@
   </url>
   
   <url>
-    <loc>https://ronikbhaskar.github.io/celestial-navigation-part-3/</loc>
+    <loc>https://ronikbhaskar.com/celestial-navigation-part-3/</loc>
     
     <lastmod>2024-04-01</lastmod>
     
@@ -317,7 +407,7 @@
   </url>
   
   <url>
-    <loc>https://ronikbhaskar.github.io/celestial-navigation-part-2/</loc>
+    <loc>https://ronikbhaskar.com/celestial-navigation-part-2/</loc>
     
     <lastmod>2024-04-01</lastmod>
     
@@ -326,7 +416,7 @@
   </url>
   
   <url>
-    <loc>https://ronikbhaskar.github.io/celestial-navigation-part-1/</loc>
+    <loc>https://ronikbhaskar.com/celestial-navigation-part-1/</loc>
     
     <lastmod>2024-04-01</lastmod>
     
@@ -335,7 +425,7 @@
   </url>
   
   <url>
-    <loc>https://ronikbhaskar.github.io/the-flaw-in-every-calculator/</loc>
+    <loc>https://ronikbhaskar.com/the-flaw-in-every-calculator/</loc>
     
     <lastmod>2024-04-01</lastmod>
     
@@ -344,7 +434,7 @@
   </url>
   
   <url>
-    <loc>https://ronikbhaskar.github.io/fm-radio-frequencies-are-lying-to-you/</loc>
+    <loc>https://ronikbhaskar.com/fm-radio-frequencies-are-lying-to-you/</loc>
     
     <lastmod>2024-04-01</lastmod>
     
@@ -353,7 +443,7 @@
   </url>
   
   <url>
-    <loc>https://ronikbhaskar.github.io/adventure-is-out-there/</loc>
+    <loc>https://ronikbhaskar.com/adventure-is-out-there/</loc>
     
     <lastmod>2024-03-26</lastmod>
     
@@ -362,7 +452,7 @@
   </url>
   
   <url>
-    <loc>https://ronikbhaskar.github.io/on-repetition/</loc>
+    <loc>https://ronikbhaskar.com/on-repetition/</loc>
     
     <lastmod>2024-03-19</lastmod>
     
@@ -371,7 +461,7 @@
   </url>
   
   <url>
-    <loc>https://ronikbhaskar.github.io/a-line-is-defined-by-exactly-two-points/</loc>
+    <loc>https://ronikbhaskar.com/a-line-is-defined-by-exactly-two-points/</loc>
     
     <lastmod>2024-03-12</lastmod>
     
@@ -380,7 +470,7 @@
   </url>
   
   <url>
-    <loc>https://ronikbhaskar.github.io/ex-libris-select-poems-by-emily-dickinson/</loc>
+    <loc>https://ronikbhaskar.com/ex-libris-select-poems-by-emily-dickinson/</loc>
     
     <lastmod>2024-03-09</lastmod>
     
@@ -389,7 +479,7 @@
   </url>
   
   <url>
-    <loc>https://ronikbhaskar.github.io/projects/literature-db</loc>
+    <loc>https://ronikbhaskar.com/projects/literature-db</loc>
     
     <lastmod>2024-03-05</lastmod>
     
@@ -398,7 +488,7 @@
   </url>
   
   <url>
-    <loc>https://ronikbhaskar.github.io/reaching-out-to-old-friends/</loc>
+    <loc>https://ronikbhaskar.com/reaching-out-to-old-friends/</loc>
     
     <lastmod>2024-02-27</lastmod>
     
@@ -407,7 +497,7 @@
   </url>
   
   <url>
-    <loc>https://ronikbhaskar.github.io/a-heart-a-plane-and-a-seahorse-designs-from-the-last-two-months/</loc>
+    <loc>https://ronikbhaskar.com/a-heart-a-plane-and-a-seahorse-designs-from-the-last-two-months/</loc>
     
     <lastmod>2024-02-20</lastmod>
     
@@ -416,7 +506,7 @@
   </url>
   
   <url>
-    <loc>https://ronikbhaskar.github.io/the-connoisseur-of-random-quantum-randomness/</loc>
+    <loc>https://ronikbhaskar.com/the-connoisseur-of-random-quantum-randomness/</loc>
     
     <lastmod>2024-02-07</lastmod>
     
@@ -425,7 +515,7 @@
   </url>
   
   <url>
-    <loc>https://ronikbhaskar.github.io/the-connoisseur-of-random-lava-lamps-are-protecting-your-data/</loc>
+    <loc>https://ronikbhaskar.com/the-connoisseur-of-random-lava-lamps-are-protecting-your-data/</loc>
     
     <lastmod>2024-02-05</lastmod>
     
@@ -434,7 +524,7 @@
   </url>
   
   <url>
-    <loc>https://ronikbhaskar.github.io/ex-libris-kafka-on-the-shore/</loc>
+    <loc>https://ronikbhaskar.com/ex-libris-kafka-on-the-shore/</loc>
     
     <lastmod>2024-01-16</lastmod>
     
@@ -443,16 +533,7 @@
   </url>
   
   <url>
-    <loc>https://ronikbhaskar.github.io/projects/linear_transformation_visualizer</loc>
-    
-    <lastmod>2024-01-08</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://ronikbhaskar.github.io/taking-silly-ideas-seriously/</loc>
+    <loc>https://ronikbhaskar.com/taking-silly-ideas-seriously/</loc>
     
     <lastmod>2024-01-04</lastmod>
     
@@ -461,7 +542,7 @@
   </url>
   
   <url>
-    <loc>https://ronikbhaskar.github.io/ex-libris-sleepy/</loc>
+    <loc>https://ronikbhaskar.com/ex-libris-sleepy/</loc>
     
     <lastmod>2024-01-04</lastmod>
     
@@ -470,7 +551,7 @@
   </url>
   
   <url>
-    <loc>https://ronikbhaskar.github.io/projects/ultimate_tic_tac_toe</loc>
+    <loc>https://ronikbhaskar.com/the-ai-summer-part-2/</loc>
     
     <lastmod>2023-12-04</lastmod>
     
@@ -479,43 +560,7 @@
   </url>
   
   <url>
-    <loc>https://ronikbhaskar.github.io/projects/text_generator</loc>
-    
-    <lastmod>2023-12-04</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://ronikbhaskar.github.io/projects/oracle_society</loc>
-    
-    <lastmod>2023-12-04</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://ronikbhaskar.github.io/projects/chat</loc>
-    
-    <lastmod>2023-12-04</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://ronikbhaskar.github.io/the-ai-summer-part-2/</loc>
-    
-    <lastmod>2023-12-04</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://ronikbhaskar.github.io/the-mortifying-ordeal-of-being-perceived/</loc>
+    <loc>https://ronikbhaskar.com/the-mortifying-ordeal-of-being-perceived/</loc>
     
     <lastmod>2023-09-12</lastmod>
     
@@ -524,7 +569,7 @@
   </url>
   
   <url>
-    <loc>https://ronikbhaskar.github.io/ex-libris-the-principles-of-librarianship/</loc>
+    <loc>https://ronikbhaskar.com/ex-libris-the-principles-of-librarianship/</loc>
     
     <lastmod>2023-09-08</lastmod>
     
@@ -533,16 +578,7 @@
   </url>
   
   <url>
-    <loc>https://ronikbhaskar.github.io/projects/forest-algorithm</loc>
-    
-    <lastmod>2023-09-05</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://ronikbhaskar.github.io/first-time-for-everything/</loc>
+    <loc>https://ronikbhaskar.com/first-time-for-everything/</loc>
     
     <lastmod>2023-09-01</lastmod>
     
@@ -551,7 +587,7 @@
   </url>
   
   <url>
-    <loc>https://ronikbhaskar.github.io/square-one/</loc>
+    <loc>https://ronikbhaskar.com/square-one/</loc>
     
     <lastmod>2023-08-25</lastmod>
     
@@ -560,7 +596,7 @@
   </url>
   
   <url>
-    <loc>https://ronikbhaskar.github.io/the-ai-summer-part-1/</loc>
+    <loc>https://ronikbhaskar.com/the-ai-summer-part-1/</loc>
     
     <lastmod>2023-08-18</lastmod>
     
@@ -569,7 +605,7 @@
   </url>
   
   <url>
-    <loc>https://ronikbhaskar.github.io/the-end-of-pi/</loc>
+    <loc>https://ronikbhaskar.com/the-end-of-pi/</loc>
     
     <lastmod>2023-07-31</lastmod>
     
@@ -578,7 +614,7 @@
   </url>
   
   <url>
-    <loc>https://ronikbhaskar.github.io/the-connoisseur-of-random-predicting-the-future/</loc>
+    <loc>https://ronikbhaskar.com/the-connoisseur-of-random-predicting-the-future/</loc>
     
     <lastmod>2023-07-31</lastmod>
     
@@ -587,7 +623,7 @@
   </url>
   
   <url>
-    <loc>https://ronikbhaskar.github.io/the-connoisseur-of-random-before-computers/</loc>
+    <loc>https://ronikbhaskar.com/the-connoisseur-of-random-before-computers/</loc>
     
     <lastmod>2023-07-31</lastmod>
     
@@ -596,7 +632,7 @@
   </url>
   
   <url>
-    <loc>https://ronikbhaskar.github.io/the-beginning-of-tau/</loc>
+    <loc>https://ronikbhaskar.com/the-beginning-of-tau/</loc>
     
     <lastmod>2023-07-31</lastmod>
     
@@ -605,7 +641,7 @@
   </url>
   
   <url>
-    <loc>https://ronikbhaskar.github.io/no-one-should-own-this-building/</loc>
+    <loc>https://ronikbhaskar.com/no-one-should-own-this-building/</loc>
     
     <lastmod>2023-07-31</lastmod>
     
@@ -614,7 +650,7 @@
   </url>
   
   <url>
-    <loc>https://ronikbhaskar.github.io/ex-libris-gadsby/</loc>
+    <loc>https://ronikbhaskar.com/ex-libris-gadsby/</loc>
     
     <lastmod>2023-07-31</lastmod>
     
@@ -623,7 +659,7 @@
   </url>
   
   <url>
-    <loc>https://ronikbhaskar.github.io/ex-libris-cats-cradle/</loc>
+    <loc>https://ronikbhaskar.com/ex-libris-cats-cradle/</loc>
     
     <lastmod>2023-07-31</lastmod>
     
@@ -632,63 +668,9 @@
   </url>
   
   <url>
-    <loc>https://ronikbhaskar.github.io/am/</loc>
+    <loc>https://ronikbhaskar.com/am/</loc>
     
     <lastmod>2023-07-31</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://ronikbhaskar.github.io/projects/obsidian-editor</loc>
-    
-    <lastmod>2023-07-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://ronikbhaskar.github.io/projects/steganography</loc>
-    
-    <lastmod>2023-07-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://ronikbhaskar.github.io/projects/tomato_timer</loc>
-    
-    <lastmod>2023-07-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://ronikbhaskar.github.io/projects/math-art</loc>
-    
-    <lastmod>2023-07-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://ronikbhaskar.github.io/projects/discord_bot</loc>
-    
-    <lastmod>2023-07-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://ronikbhaskar.github.io/projects/discord_scraper</loc>
-    
-    <lastmod>2023-07-01</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -696,7 +678,7 @@
   
 
   <url>
-    <loc>https://ronikbhaskar.github.io/</loc>
+    <loc>https://ronikbhaskar.com/</loc>
     <lastmod>2025-09-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
@@ -705,4 +687,67 @@
   
 
   
+
+  <url>
+    <loc>https://ronikbhaskar.com/chatgpt-mini-projects/chatumm/</loc>
+    <lastmod>2025-09-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://ronikbhaskar.com/optimal-bread-slicing/</loc>
+    <lastmod>2025-09-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://ronikbhaskar.com/text_generator/</loc>
+    <lastmod>2025-09-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://ronikbhaskar.com/anti-eliza/</loc>
+    <lastmod>2025-09-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://ronikbhaskar.com/locator/creator/</loc>
+    <lastmod>2025-09-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://ronikbhaskar.com/chatgpt-mini-projects/daylight/</loc>
+    <lastmod>2025-09-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://ronikbhaskar.com/linear_transformation_visualizer/</loc>
+    <lastmod>2025-09-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://ronikbhaskar.com/ultimate_tic_tac_toe/</loc>
+    <lastmod>2025-09-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://ronikbhaskar.com/chatgpt-mini-projects/</loc>
+    <lastmod>2025-09-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
 </urlset>
