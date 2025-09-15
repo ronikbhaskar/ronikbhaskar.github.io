@@ -172,14 +172,14 @@ I have always been fascinated with the idea of manipulating text programmaticall
 
 I like to think all of my strange creations could be considered art, but these are all of my non-technical works.
 
-<a href="/projects/gallery">
+<a href="/gallery">
 <div class="project-card">
-  <img src="/projects/gallery/hanging-up-the-mask.jpg" alt="Origami Mask">
+  <img src="/gallery/gallery/hanging-up-the-mask.jpg" alt="Origami Mask">
   <h3>Origami Design Portfolio</h3>
   <p><em>A gallery of some of my original works.</em></p>
   <p>
-    <a class="project-link" href="/projects/gallery">Portfolio</a>
-    <a class="project-link" href="/projects/gallery-ext">Full Gallery</a>
+    <a class="project-link" href="/gallery">Portfolio</a>
+    <a class="project-link" href="/gallery/ext">Full Gallery</a>
   </p>
 </div>
 </a>
