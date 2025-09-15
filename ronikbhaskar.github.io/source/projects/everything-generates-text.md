@@ -1,5 +1,7 @@
 ---
 title: Everything Generates Text
+description: >-
+    In order to demonstrate that text generation is not special, I wanted to create something that shows how unspectacular generating text really is. And so, I present, Everything Generates Text.
 ---
 
 Because every ML model can be forced to generate text. And Jon Ma is the Best. And Ronik too, lol.

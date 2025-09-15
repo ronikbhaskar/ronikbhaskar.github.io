@@ -1,5 +1,7 @@
 ---
 title: Math Art
+description: >-
+    The butterfly effect says that small changes can lead to drastically different results. This is the foundation of chaos theory. Sometimes, that chaos results in stunning patterns called strange attractors, and I've done my best to capture them here. It's also what you see on the landing page of my site.
 ---
 
 I discuss this project in my [about page](/about). The source code, along with an explanation of the project, can be found [here](https://github.com/ronikbhaskar/math-art).

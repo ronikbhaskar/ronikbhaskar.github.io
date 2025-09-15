@@ -1,5 +1,7 @@
 ---
 title: Tomato Timer
+description: >-
+    This Chrome Extension provides an adjustable timer for implementing this study technique. I will not be publishing the Chrome Extension because I don't want to pay the $5 developer fee for a product I won't use myself.
 ---
 
 <style>

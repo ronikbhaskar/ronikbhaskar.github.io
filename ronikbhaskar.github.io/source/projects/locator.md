@@ -1,5 +1,7 @@
 ---
 title: A Compass That Can Take You Anywhere
+description: >-
+    Inspired by the fake gadgets from Hollywood spy/heist movies, I brought one to life. This Locator looks like a compass, but rather than pointing north, it points to your destination. It even tells you how far you are. These are the only two features. If you actually want to get to your destination, you need to figure out how. 
 ---
 
 *Bringing back the fun and adventure of the journey. Link at the bottom of the article.*

@@ -1,5 +1,7 @@
 ---
 title: Inventing a Game, Then Building a Bot to Play It Perfectly
+description: >-
+  I can't remember the last time I played tic-tac-toe, probably because it ended in a draw. Hoping to bring back the excitement and strategy of the game, I created a variation I call "Forest." The name comes from "four-by-four torus tic-tac-toe" being reduced to "fourus t." which sounds like "forest" when you say it out loud. The game is tic-tac-toe played on a 4x4 grid, but rather than playing on a flat plane, the game is played on the surface of a donut—a torus—which offers some interesting opportunities for win cases. It's a blast to play, much more fun than tic-tac-toe, but now I have a new problem. I don't have a good strategy. There are a finite set of board states, so theoretically, we could map out every game and create a perfect strategy.
 ---
 
 It's easier to learn how the game works by playing it, so I'll create a playable version soon (hopefully).

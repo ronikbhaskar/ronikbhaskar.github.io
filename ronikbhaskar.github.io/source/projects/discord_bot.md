@@ -1,5 +1,7 @@
 ---
 title: Discord Bot
+description: >-
+    The bot may have been fake, but the friends we made along the way were real.
 ---
 
 Access the source files [here](https://github.com/ronikbhaskar/discord_bot). 

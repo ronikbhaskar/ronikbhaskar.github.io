@@ -1,6 +1,10 @@
 ---
 title: Full Stack Chat App
+description: >-
+    I built the chat app to look like a movie script. The header has an act number, the location is specified, we get a general description, and the rest that follows is the dialogue. It's a continuation of the dialogue happening all around me.
 ---
+
+UPDATE: This project is very broken. It was fun while it lasted.
 
 Chat with me [here](/chat). (You'll know it's me because my name is **bold**.)
 

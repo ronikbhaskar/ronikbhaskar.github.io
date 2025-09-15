@@ -1,5 +1,7 @@
 ---
 title: Linear Transformation Visualizer
+description: >-
+    For part of my abstract linear algebra class, we were allowed to build a piece of software related to the course material. We spent so much time looking at grids of numbers and analyzing proofs, but I wanted to *see* how it all worked. So, I took it upon myself to learn vanilla JavaScript and write a web app capable of letting me see what was happening to the space as I transformed it.
 ---
 
 Learn a thing or two about linear algebra [here](/linear_transformation_visualizer) (or just play with numbers).

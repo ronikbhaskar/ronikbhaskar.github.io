@@ -1,5 +1,7 @@
 ---
 title: Ultimate Tic Tac Toe
+description: >-
+  At some point in middle school, I was introduced to Ultimate Tic Tac Toe, a game of Tic Tac Toe with nine smaller games of Tic Tac Toe happening inside of it. I didn't play it much because keeping track of the last moves and legal actions was a bit tedious, but it was a really fun way to pass the time. Rather than manage all the boring stuff on my own, I decided to let a computer do it for me.
 ---
 
 Play the game [here](/ultimate_tic_tac_toe). Grab a friend (or enemy) because this game requires two people.

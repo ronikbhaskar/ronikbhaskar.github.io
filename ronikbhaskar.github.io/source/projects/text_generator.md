@@ -1,5 +1,7 @@
 ---
 title: Text Generator
+description: >-
+    Language is weird. We keep making rules and breaking them, one phrase can mean 15 different things, and despite having tens of thousands of words at our disposal, we can't always convey exactly what we want to. Why not let machines take a stab at it?
 ---
 
 Try generating some text [here](/text_generator). While I can't guarantee it'll be meaningful, it is a lot of fun.

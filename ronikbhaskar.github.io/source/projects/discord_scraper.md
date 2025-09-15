@@ -1,5 +1,7 @@
 ---
 title: Discord Scraper
+description: >-
+    Hypothetically speaking, wouldn't it be cool to go through your server's chat history, run the text through a Markov Chain generator, and spit out some nonsense for you all to laugh at? Just a thought. It would be tedious, copying every message by hand, but it's definitely doable, so that's how you should do it. By hand.
 ---
 
 Access the source files [here](https://github.com/ronikbhaskar/discord_scraper). 

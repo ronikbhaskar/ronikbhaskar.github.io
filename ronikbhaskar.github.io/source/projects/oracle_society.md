@@ -1,5 +1,7 @@
 ---
 title: The Oracle Society
+description: >-
+    Our final project for introductory quantum computing had us create an educational artifact to teach a quantum concept. I chose oracles, which I had the pleasure of studying in complexity theory. Oracles function as a sort of answer machine. They know things that you want to know, but you don't know how they know them. By asking well-formed questions, you can extract relevant information from an oracle. In general, you want to use as few questions as possible. 
 ---
 
 CW: violence, kidnapping, murder.

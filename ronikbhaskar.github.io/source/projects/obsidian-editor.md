@@ -1,5 +1,7 @@
 ---
 title: Turning Obsidian into a Markdown Editor
+description: >-
+    I have no issues with what Obsidian is. My only complaint is with what it *isn't*: a Markdown editor. I know you can edit Markdown in Obsidian, but that's not what I'm talking about. I mean editing *any* .md file in Obsidian. Right now, you're limited to your vault, which makes sense, since Obsidian is a note-taking app--a second brain app. Everything you need is right there in your vault. The thing is, I don't really care for the whole "second brain" thing. I tried it for a bit, but it really didn't stick. It's a nice place to put notes if I don't know where else to put them, but sometimes I just wanna edit a Markdown file with Obsidian's QoL. 
 ---
 
 This file was created using `obsidian.py`. The source code is available [here](https://github.com/ronikbhaskar/obsidian-editor).

@@ -126,6 +126,18 @@ sitemap:
     - sitemap.txt
   rel: false
 
+extra_sitemap_urls:
+  - https://ronikbhaskar.com/chatgpt-mini-projects/chatumm/
+  - https://ronikbhaskar.com/optimal-bread-slicing/
+  - https://ronikbhaskar.com/text_generator/
+  - https://ronikbhaskar.com/anti-eliza/
+  - https://ronikbhaskar.com/locator/creator/
+  - https://ronikbhaskar.com/chatgpt-mini-projects/daylight/
+  - https://ronikbhaskar.com/linear_transformation_visualizer/
+  - https://ronikbhaskar.com/ultimate_tic_tac_toe/
+  - https://ronikbhaskar.com/chatgpt-mini-projects/
+
+
 # robots.txt
 robotstxt:
   useragent: "*"

@@ -1,5 +1,7 @@
 ---
 title: Steganography
+description: >-
+    Find the difference between these two images. One contains a secret message, while the other... is less interesting.
 ---
 
 ## Find the difference between these two images

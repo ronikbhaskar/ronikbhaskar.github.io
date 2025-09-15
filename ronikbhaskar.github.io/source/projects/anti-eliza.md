@@ -1,5 +1,7 @@
 ---
 title: Anti-ELIZA
+description: >- 
+    Anthropomorphizing AI can lead to misunderstandings about the true nature and limitations of these systems. By believing AI is knowledgeable and understanding, humans tend to overestimate AI's capabilities. They entrust data processing formulas with their emotional needs and nuanced ethical dilemmas, neither of which these tools are equipped to handle. This misplaced trust in algorithms can lead to bad decisions, but more importantly, it shifts blame away from the user and the programmer.
 ---
 
 *Conditioning away the human level of trust imparted to AI systems. Inspired by ELIZA. [Test it out.](/anti-eliza/)*
