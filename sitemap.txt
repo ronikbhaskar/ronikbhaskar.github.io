@@ -1,3 +1,5 @@
+https://ronikbhaskar.github.io/em-dashes-and-ai/
+https://ronikbhaskar.github.io/run-on-sentences/
 https://ronikbhaskar.github.io/projects/ultimate_tic_tac_toe
 https://ronikbhaskar.github.io/projects/tomato_timer
 https://ronikbhaskar.github.io/projects/text_generator
@@ -40,7 +42,6 @@ https://ronikbhaskar.github.io/knowing-your-audience/
 https://ronikbhaskar.github.io/a-phoenix-a-dragon-and-lots-of-humanoids-designs-from-the-last-two-months/
 https://ronikbhaskar.github.io/breaking-language-models-for-fun/
 https://ronikbhaskar.github.io/what-is-gibberish/
-https://ronikbhaskar.github.io/run-on-sentences/
 https://ronikbhaskar.github.io/the-test-tree/
 https://ronikbhaskar.github.io/celestial-navigation-part-3/
 https://ronikbhaskar.github.io/celestial-navigation-part-2/
