@@ -23,7 +23,7 @@ When modern LLMs write, they have a fixed context window. After a certain number
 
 So, in order to write something that LLMs can't, all I need to do is write a sentence that is more than 100k words long. Personally, the target of 100k words seems a bit small. Though my sentence will be grammatically correct, I want it to embody the idea of an extremely long, run-on sentence. For this reason, it'll be a marathon—26.2 miles—long. By my rough estimations, at 12 pt font with standard screen size, that will take about 10 million characters. 
 
-With this length target in mind and the theme of a marathon, coming up with what to write is surprisingly straightforward. My [previous work](https://github.com/zainsarwar865/LLMTestBed) in exploiting grammatical properties of English when attacking LLMs definitely makes this easier. Essentially, I'll be abusing the most straightforward, repetitive independent clause structure: noun + verb + comma + "and" + noun + verb + comma + "and" + ... until we hit 10 million characters. As for what the actual content of the sentence will be, it's easier just to show you.
+With this length target in mind and the theme of a marathon, coming up with what to write is surprisingly straightforward. Essentially, I'll be abusing the most straightforward, repetitive independent clause structure: noun + verb + comma + "and" + noun + verb + comma + "and" + ... until we hit 10 million characters. As for what the actual content of the sentence will be, it's easier just to show you.
 
 ```Python
 print(", and ".join(["I ran"] * 2730000) + ".")
@@ -44,3 +44,4 @@ The purpose of this exercise was never to write something meaningful. After a fe
 1. [*Syntactic Structures*, Noam Chomsky](https://www.ling.upenn.edu/courses/ling5700/Chomsky1957.pdf)
 2. [Faulkner Long Sentence](https://mymodernmet.com/longest-run-on-sentence-william-faulkner/)
 3. [*A Tale of Two Cities*, Charles Dickens](https://www.gutenberg.org/files/98/old/2city12p.pdf)
+4. [I've attacked LLMs before](https://github.com/zainsarwar865/LLMTestBed)
