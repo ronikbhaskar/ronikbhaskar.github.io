@@ -1,0 +1,38 @@
+---
+title: What My Math Degree Taught Me About Life
+description: >-
+  I feel like most people don't really understand what math students learn. Most
+  people tend to assume we get really good at solving math problems and that we
+  know all the calculus rules and that we can tell you what an 18% tip would be
+  for a $34.50 bill off the top of our heads. The truth is that most of us don't
+  learn any of this during the course of our degree. What you actually learn in
+  a math degree is formal logic.
+keywords: >-
+  always falling behind, questioning axioms, math degree, pure math degree, life
+  lessons
+date: 2025-10-06 13:10:45
+tags:
+---
+
+
+I feel like most people don't really understand what math students learn in university. Most people tend to assume we get really good at solving for 𝑥, and that we know all the calculus rules, and that we can tell you what an 18% tip would be for a $34.50 bill off the top of our heads. The truth is that most of us don't learn any of this during the course of our degree, or if we do, it's only in the first year, and then never again. Disclaimer: this is from the perspective of a pure mathematician.
+
+What you actually learn in a math degree is formal logic. Each course is meant to improve your logic and proof-writing skills through the same format. First, the professor gives us a list of axioms—fundamental statements we assume to be true. We don't know why those axioms are important, but we don't question them. We simply assume them to be true. Once we have the axioms, the rest of the course is about understanding what else we can logically conclude from these statements. It's not about solving problems. It's about understanding what conclusions we can make from some starting conditions. After you take a bunch of courses and graduate, you forget some of the definitions and axioms, but those formal logic and proof skills stick around.
+
+It wasn't until I finished all my math courses that I actually started wondering where those definitions and axioms came from. I mean, technically, you could come up with any set of logical statements and study their conclusions, so why did we study what we studied? Well, most of the axioms we cover are supposedly quite useful. Everything we learn comes from a sort of natural selection process that spans centuries of mathematics, filtering out the bad abstractions, leaving us with only the most useful tools. I wouldn't know anything about this, though, because my professors never told me why we were studying a particular set of axioms. I had to learn this later.
+
+My math degree didn't teach me blind trust, however. Quite the contrary, we had to rigorously justify every claim we made, no matter how trivial. I recall once having to prove that the square root of an even square was even, and as I sat there in tedious agony, our professor reminded us that his job was to break our intuition, because our intuition was wrong. So, following the completion of my math degree, I started practicing that skill of challenging my assumptions, but this time on the axioms themselves.
+
+Most axioms are broad abstractions for universal concepts, like distance or combining things or infinity (trust me, infinity is incredibly useful, but that's for another time). As useful as these were, I wanted to try something new. What if you started with a very specific object to study, like bread? Can you construct axioms about bread? And if you did, what could you prove? Doing math about bread sounds ridiculous, but that's [exactly what I did](/projects/optimal_slicing.pdf), because axioms are arbitrary.
+
+I really mean that; every axiom is arbitrary. You can just come up with anything you want, because the real work is not in the axioms, it's in proving things using those axioms. Axioms are everywhere, and in everything we do, because axioms are just assumptions. We assume the sun will rise each morning. We assume our relatives will say questionable things at the family gathering. We assume our favorite restaurant will always serve our favorite dish. Our lives are built on assuming certain things are true, because it's really hard to live life without assumptions.
+
+In our lives, one of the few choices we are given is the choice of what assumptions to make, and yet, we somehow get assigned very harmful axioms that we never question. Things like "I am not smart," or "I am not creative," or "I am not athletic," are all assumptions, nothing more, and yet, they shape our identities. The axioms of non-creativity and non-athleticism plagued me for many years, and dropping them didn't actually change my creativity or athleticism directly, but they changed what conclusions I could reach about myself.
+
+Not every axiom has been easy to change. Life has this way of making you feel like you are always behind, which just so happens to be an axiom. I suppose there is some sort of masochistic utility to this, because if you believe that working hard can get you ahead, then if you work hard, you will be ahead, and you're not ahead right now, but you want to be, so you should work hard. This, unfortunately, is flawed logic, because if you axiomatically believe you are always behind, then getting ahead contradicts your axiom, so "working hard can get you ahead" is a false statement. Working hard cannot get you ahead.
+
+You could try to avoid this contradiction by changing the axiom, but that only leads to more problems. If you start assuming you're always ahead, then your brain will fight you, because that's impossible—how could you always be ahead? If you take this to its logical conclusion, you start wondering why you would be ahead, and what exactly you're ahead of, and if anyone could ever actually be ahead. The axiom of being ahead might be more useful than the axiom of being behind, but the best option is likely to not be anywhere.
+
+Changing axioms isn't the same as maintaining delusional beliefs or lying to yourself. Axioms are only as useful as their conclusions, and if you keep concluding contradictions, then the axioms are useless. Assuming that you don't need your medication when you clearly do means your body is forced to pay the price of your contradiction. Your axioms should still be true, but that doesn't mean they have to be limiting. 
+
+This is what a math degree teaches you. Everything—even life itself—is a set of axioms and their conclusions. The work of a mathematician is to understand a set of axioms, to expand the system of logic, and to reach conclusions no one has grasped before. Looking back on what I learned at university, I am reminded of a piece of humorous wisdom I received in my youth, "Life is like a math textbook, full of problems." While I agree that life is like a math textbook, I disagree that this is because they are full of problems. Instead, as a system of axioms and conclusions, life is like a math textbook: full of strange assumptions, confusing logic, and wild possibilities. <p style="text-align: right;">□</p>
