@@ -95,22 +95,6 @@
 ]]></content>
   </entry>
   <entry>
-    <title>Celestial Navigation, Part 1</title>
-    <url>/celestial-navigation-part-1/</url>
-    <content><![CDATA[<p>Back in August of 2023, I grabbed my telescope, told my parents not to wait for me, and drove into the middle of nowhere. Stargazing has become essential to my life, and I hadn’t been in a few months, so I was ready to go. The nights I go stargazing, I feel free, spending a few hours alone with the universe. I’m no astronomer by any means, but I enjoy studying the night sky. I’ll usually pick one celestial body to focus on, whether that be Jupiter and its moons or some distant nebula I can barely see. That night, I decided to study Polaris.</p>
-<p>As I get out of the car, I pause to let my eyes adjust to the darkness. Carrying my telescope to the middle of the clearing, I’m careful not to trip on any rocks or step on any fireflies. I set my telescope down, close my eyes, and take a deep breath. As I open my eyes, I look up at the glittery sky above me.</p>
-<p>I could spend hours just aimlessly looking up at the sky, but I have a mission, so I get to work. First, I search for the Big Dipper. Once I find the Big Dipper, I follow it to the Little Dipper. As I trace along its handle, my eyes finally settle on Polaris, the last star in the Little Dipper.</p>
-<p>Apparently, Polaris is not one star, but three stars, all very close together. Hoping to see that for myself, I carefully aim and focus my telescope. Looking through the eyepiece, I find one bright point. My eyes dart around, desperately seeking a second and third point of light, but I find nothing. A younger version of me would have been discouraged, but I understand the limits of my telescope. I decide to wait for the moon to set, hoping the other stars will be easier to see without so much ambient light. </p>
-<p>Looking up at the sky, I think about the other facts I know about Polaris. I recall someone once telling me it’s called the North Star, so I pull out the compass app on my phone and point it in the direction of the star. The screen reads 0°, perfectly north. <em>That must be a coincidence,</em> I think to myself. <em>Once it moves, it won’t be perfectly north anymore.</em></p>
-<p>Over the next hour, I watch the stars move across the sky, occasionally pointing my telescope at whatever seems interesting. Every once in a while, I check on Polaris, which is still perfectly north. In fact, it hasn’t moved at all. <em>How has it not moved? Everything else is moving. Even the Little Dipper is moving, what’s going on with Polaris?</em></p>
-<p>I sit there confused for a while before I try a new approach to understand what’s going on. Rather than consider myself a stationary observer on Earth, I pretend I’m an observer from space, looking at the Earth. From my new perspective, I see the Earth rotate. Its axis of rotation goes through the North and South Poles. The rest of the Earth keeps spinning while that line stays still.</p>
-<p>And that’s when it hits me.</p>
-<p>If Polaris is a fixed point in the sky, then it lies along the Earth’s axis of rotation. That means, if you went to the North Pole and looked straight up, you would see Polaris. Anywhere else on Earth, Polaris acts like a beacon to the North Pole. That’s why Polaris never moves. That’s why it always points north. Satisfied, I lay down, enjoying my small victory. This peace lasts for approximately one minute before my brain starts asking questions again. This fixed point in the sky must have some interesting properties, so I close my eyes and think about Polaris geometrically. I can’t fully fathom how far away Polaris is, so I just pretend it’s infinitely far away. Under this assumption, if I draw a line from myself to Polaris, it’s parallel to the Earth’s axis of rotation. In this mental model, I draw a plane tangent to the Earth from where I am. The Earth may not be flat, but I can pretend it is locally for the sake of mathematics. With this little diagram in my head, I realize just how important the North Star is for navigation. If you can find the angle between Polaris and the horizon, that angle is your latitude. </p>
-<p>I pull out my notebook and a flashlight to make sure I did that calculation correctly. Yep, the angle between Polaris and the horizon is your latitude. <em>I can’t believe I just figured that out. Is this how astronomers figured out celestial navigation centuries ago?</em> I doubt I’ll have any more revelations for the rest of the night, so I relax on the ground, watching the other stars journey across the sky. As my watch passes midnight, I pack up my telescope, wave goodbye to the stars, and start heading home.</p>
-<p>I never did see the three stars that form Polaris, but it is a fixed point in the sky, so I’ll always know where to find it.</p>
-]]></content>
-  </entry>
-  <entry>
     <title>Breaking Language Models for Fun</title>
     <url>/breaking-language-models-for-fun/</url>
     <content><![CDATA[<p>Training a machine learning model is easy. Correctly training a machine learning model is hard. Every choice you make, from start to finish, has an impact on how your model will perform. You won’t know whether you trained it right or not until after you’re done, when someone finds an issue in your finished model. That someone is me.</p>
@@ -135,6 +119,22 @@
 <h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ol>
 <li><a href="https://www.profanity.dev/">the profanity detector in question</a></li>
 </ol>
+]]></content>
+  </entry>
+  <entry>
+    <title>Celestial Navigation, Part 1</title>
+    <url>/celestial-navigation-part-1/</url>
+    <content><![CDATA[<p>Back in August of 2023, I grabbed my telescope, told my parents not to wait for me, and drove into the middle of nowhere. Stargazing has become essential to my life, and I hadn’t been in a few months, so I was ready to go. The nights I go stargazing, I feel free, spending a few hours alone with the universe. I’m no astronomer by any means, but I enjoy studying the night sky. I’ll usually pick one celestial body to focus on, whether that be Jupiter and its moons or some distant nebula I can barely see. That night, I decided to study Polaris.</p>
+<p>As I get out of the car, I pause to let my eyes adjust to the darkness. Carrying my telescope to the middle of the clearing, I’m careful not to trip on any rocks or step on any fireflies. I set my telescope down, close my eyes, and take a deep breath. As I open my eyes, I look up at the glittery sky above me.</p>
+<p>I could spend hours just aimlessly looking up at the sky, but I have a mission, so I get to work. First, I search for the Big Dipper. Once I find the Big Dipper, I follow it to the Little Dipper. As I trace along its handle, my eyes finally settle on Polaris, the last star in the Little Dipper.</p>
+<p>Apparently, Polaris is not one star, but three stars, all very close together. Hoping to see that for myself, I carefully aim and focus my telescope. Looking through the eyepiece, I find one bright point. My eyes dart around, desperately seeking a second and third point of light, but I find nothing. A younger version of me would have been discouraged, but I understand the limits of my telescope. I decide to wait for the moon to set, hoping the other stars will be easier to see without so much ambient light. </p>
+<p>Looking up at the sky, I think about the other facts I know about Polaris. I recall someone once telling me it’s called the North Star, so I pull out the compass app on my phone and point it in the direction of the star. The screen reads 0°, perfectly north. <em>That must be a coincidence,</em> I think to myself. <em>Once it moves, it won’t be perfectly north anymore.</em></p>
+<p>Over the next hour, I watch the stars move across the sky, occasionally pointing my telescope at whatever seems interesting. Every once in a while, I check on Polaris, which is still perfectly north. In fact, it hasn’t moved at all. <em>How has it not moved? Everything else is moving. Even the Little Dipper is moving, what’s going on with Polaris?</em></p>
+<p>I sit there confused for a while before I try a new approach to understand what’s going on. Rather than consider myself a stationary observer on Earth, I pretend I’m an observer from space, looking at the Earth. From my new perspective, I see the Earth rotate. Its axis of rotation goes through the North and South Poles. The rest of the Earth keeps spinning while that line stays still.</p>
+<p>And that’s when it hits me.</p>
+<p>If Polaris is a fixed point in the sky, then it lies along the Earth’s axis of rotation. That means, if you went to the North Pole and looked straight up, you would see Polaris. Anywhere else on Earth, Polaris acts like a beacon to the North Pole. That’s why Polaris never moves. That’s why it always points north. Satisfied, I lay down, enjoying my small victory. This peace lasts for approximately one minute before my brain starts asking questions again. This fixed point in the sky must have some interesting properties, so I close my eyes and think about Polaris geometrically. I can’t fully fathom how far away Polaris is, so I just pretend it’s infinitely far away. Under this assumption, if I draw a line from myself to Polaris, it’s parallel to the Earth’s axis of rotation. In this mental model, I draw a plane tangent to the Earth from where I am. The Earth may not be flat, but I can pretend it is locally for the sake of mathematics. With this little diagram in my head, I realize just how important the North Star is for navigation. If you can find the angle between Polaris and the horizon, that angle is your latitude. </p>
+<p>I pull out my notebook and a flashlight to make sure I did that calculation correctly. Yep, the angle between Polaris and the horizon is your latitude. <em>I can’t believe I just figured that out. Is this how astronomers figured out celestial navigation centuries ago?</em> I doubt I’ll have any more revelations for the rest of the night, so I relax on the ground, watching the other stars journey across the sky. As my watch passes midnight, I pack up my telescope, wave goodbye to the stars, and start heading home.</p>
+<p>I never did see the three stars that form Polaris, but it is a fixed point in the sky, so I’ll always know where to find it.</p>
 ]]></content>
   </entry>
   <entry>
@@ -306,17 +306,6 @@
 ]]></content>
   </entry>
   <entry>
-    <title>Ex Libris: Sleepy</title>
-    <url>/ex-libris-sleepy/</url>
-    <content><![CDATA[<p>Known for incredibly concise storytelling, Anton Chekhov leaves no detail unresolved in his stories. Everything serves a purpose. The principle has been titled Chekhov’s Gun: if you introduce a gun, the audience expects it to be fired at some point. These details—these promises—build and interweave, and by the end of the story, every promise has reached a payoff that serves the ending. Mind you, these payoffs are rarely happily-ever-afters or neat, little bows wrapping up the story. They often include tragedy and death, but that doesn’t make them any less satisfying. </p>
-<p>In <em>Sleepy</em>, a story written in one day, Chekhov introduces a baby, a 13-year-old girl working as a servant, and a horrible family that fuels the young girl’s ongoing suffering. With a payoff of the servant killing the baby, the story resolves as the reader expects. Writing this masterful story in one day is already an incredible feat, but the more impressive feat is how Chekhov wove a secondary set of promises into the plot, all centered around a lamp, a pair of trousers, and a cricket.</p>
-<p>In the introduction, Chekhov introduces a lamp emitting green light, a pair of trousers on a clothesline, and a cricket in the stove. At first glance, these items only exist to enhance the setting, but he brings them up again and again and again. As I was doing my first reading, the purpose of these three items seemed quite unclear. No one wears the pants. No one puts out the lamp. No one complains about the cricket. They just sit there, doing nothing.</p>
-<p>The young girl, Varka, enters a few dreams throughout the short story, and each time she does, she first looks at the green light on the wall and the shadows. The flickering light and moving shadows and chirping cricket appear more and more hypnotic until eventually, the light and shadows wink at her. Chekhov builds on the personification until the end of the story. The three items laugh, and she laughs with them as she kills the baby.</p>
-<p>In the span of six pages, Chekhov created an entirely new character out of thin air and gave it a personality. This tricky, evil spirit laughing and dancing on the wall is made of no more than some green light, the shadow of a pair of trousers, and the chirp of a cricket. Its development represents Varka’s descent into madness, an integral component of the story. Chekhov promised to do something with these three items, and he overdelivered on the payoff. Without it, we wouldn’t see Varka lose her mind, just her frustration.</p>
-<p>Creating payoff is about more than finally using the promise. It’s about giving it a broader significance—a life of its own—in the story, one that serves the ending. Once you have that, the payoff can reflect its symbolism, even if you use the promise in an unconventional way. Just because you’ve introduced Chekhov’s Gun doesn’t mean you need to fire it.</p>
-]]></content>
-  </entry>
-  <entry>
     <title>Ex Libris: Select Poems by Emily Dickinson</title>
     <url>/ex-libris-select-poems-by-emily-dickinson/</url>
     <content><![CDATA[<p>I recently had the opportunity to visit Amherst, Massachusetts, USA. Amherst doesn’t have a lot going on; it’s mostly a college town surrounded by more colleges surrounded by rural Massachusetts. Amherst may be a relatively sleepy place, but it does have a notable past. Specifically, Amherst is the home of Emily Dickinson.  One of the most important American poets to ever live, Emily Dickinson spent her whole life in and around Amherst. She went to school at Amherst Academy, college at Mount Holyoke, and much of her adult life was spent in the Dickinson mansion in Amherst.</p>
@@ -340,6 +329,17 @@
 <p>The library is vast, but its volumes are not infinite. The narrator attempts to circumvent this by concluding that the library likely repeats itself. Infinity can be scary, but if the library were looking for new librarians, I have a suggestion for how to make the library truly infinite. If you still want all the books to fit in an infinite library, why limit yourself to 410 page books? For the sake of mathematical clarity, let’s assume that every book is the same thickness, no matter how many pages it has (pretend the pages get super thin). Then, if you allow books to be any finite length, then you will never need to repeat the library because there will always be enough books to fill the shelves without repeating. Assuming the library’s hexagonal galleries do continue forever, then every possible book of finite length will fit perfectly in the library. Finite length books are the way to go.</p>
 <p>Infinite length books, however, pose a huge issue. Let’s again assume that books of infinite length still have the same thickness as all the other books. If you allow every book of infinite length to enter the library, then you will run out of space. It’s hard to believe that an infinite library could run out of space, but it’s true. Cantor’s famous diagonal argument proves this isn’t possible, though his proof was about infinite, binary sequences. Applied here, no matter how you arrange the books, you can prove that at least one book of infinite length has been left out. Surely, the library wouldn’t want to leave any books out of its vast volumes, so I advise caution when tasking a librarian with constructing an infinite library.</p>
 <p>Regardless of how infinite you decide to make the library, the unfortunate problem remains that the Library of Babel is entirely useless as a library. Libraries function best as curators and disseminators of resources, working to best serve their community. Typically, this means the knowledge in the library should be relevant to the readers. At the very least, it should be true. Unfortunately, there is no curatorial process in the Library of Babel. Sure, one book might just so happen to contain the works of Shakespeare, but there will be countless others that look like works of Shakespeare that all get the endings wrong. Most comprehensible books will be wrong, and most books will be incomprehensible. Given how finite human knowledge is, the chances of finding something useful are essentially zero. Even if you do find something potentially useful, you would have to independently verify the source is credible, because no one is curating it for you. The Library of Babel is an interesting thought experiment, but I pity anyone that wastes more than a second in that building trying to find meaning in the empty volumes.</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>Ex Libris: Sleepy</title>
+    <url>/ex-libris-sleepy/</url>
+    <content><![CDATA[<p>Known for incredibly concise storytelling, Anton Chekhov leaves no detail unresolved in his stories. Everything serves a purpose. The principle has been titled Chekhov’s Gun: if you introduce a gun, the audience expects it to be fired at some point. These details—these promises—build and interweave, and by the end of the story, every promise has reached a payoff that serves the ending. Mind you, these payoffs are rarely happily-ever-afters or neat, little bows wrapping up the story. They often include tragedy and death, but that doesn’t make them any less satisfying. </p>
+<p>In <em>Sleepy</em>, a story written in one day, Chekhov introduces a baby, a 13-year-old girl working as a servant, and a horrible family that fuels the young girl’s ongoing suffering. With a payoff of the servant killing the baby, the story resolves as the reader expects. Writing this masterful story in one day is already an incredible feat, but the more impressive feat is how Chekhov wove a secondary set of promises into the plot, all centered around a lamp, a pair of trousers, and a cricket.</p>
+<p>In the introduction, Chekhov introduces a lamp emitting green light, a pair of trousers on a clothesline, and a cricket in the stove. At first glance, these items only exist to enhance the setting, but he brings them up again and again and again. As I was doing my first reading, the purpose of these three items seemed quite unclear. No one wears the pants. No one puts out the lamp. No one complains about the cricket. They just sit there, doing nothing.</p>
+<p>The young girl, Varka, enters a few dreams throughout the short story, and each time she does, she first looks at the green light on the wall and the shadows. The flickering light and moving shadows and chirping cricket appear more and more hypnotic until eventually, the light and shadows wink at her. Chekhov builds on the personification until the end of the story. The three items laugh, and she laughs with them as she kills the baby.</p>
+<p>In the span of six pages, Chekhov created an entirely new character out of thin air and gave it a personality. This tricky, evil spirit laughing and dancing on the wall is made of no more than some green light, the shadow of a pair of trousers, and the chirp of a cricket. Its development represents Varka’s descent into madness, an integral component of the story. Chekhov promised to do something with these three items, and he overdelivered on the payoff. Without it, we wouldn’t see Varka lose her mind, just her frustration.</p>
+<p>Creating payoff is about more than finally using the promise. It’s about giving it a broader significance—a life of its own—in the story, one that serves the ending. Once you have that, the payoff can reflect its symbolism, even if you use the promise in an unconventional way. Just because you’ve introduced Chekhov’s Gun doesn’t mean you need to fire it.</p>
 ]]></content>
   </entry>
   <entry>
@@ -493,6 +493,15 @@
 ]]></content>
   </entry>
   <entry>
+    <title>New Beginnings</title>
+    <url>/new-beginnings/</url>
+    <content><![CDATA[<p>Back when I was starting university, the institution made a huge fuss about orientation. There were days of programming filled with events and activities, each one an opportunity to make friends and memories. Being away from home, I was nervous and excited and nervous for the days ahead. That anticipation built until commencement day, on which all first-years would make their inaugural march through the university gates. As the clock reached 9, I opened my laptop, clicked the broadcast link, and watched as a lone bagpipe player walked around the university quad playing “Scotland the Brave.” There were a few speeches after, I think. I’m not too sure; I stopped watching pretty quickly. </p>
+<p>As I embark on a new beginning myself, I am reminded of the new beginnings gone past, particularly starting college in the middle of a global pandemic. That first year of college in particular was so strange. My orientation was virtual, my classes were virtual, and almost every conversation I had was virtual. Whenever someone would ask me how I was enjoying higher education, I would tell them that I had never been inside any of the academic buildings, but I knew what they all looked like on the outside.</p>
+<p>Eventually, things changed, and I attended in-person classes, sat next to people in dining halls, and high-fived someone for the first time in over a year. Still, those of us from the COVID era never were quite the same as our older or younger peers. We skipped out on traditions, ignored famous events, and fell in love with forgotten parts of the university. It didn’t matter that we were finally given a chance at a “normal” college experience. By that point, it was too late, and we had already developed our own expectations for what college meant to us.</p>
+<p>The beginning of our journey strongly controlled the trajectory of our college experience, and knowing that now, I realize these next few months will define so much of my PhD. I may already know the people and the place, but my purpose here is quite different from what it was four years ago. My purpose four years ago was to make it to today, and today, my purpose is to build the foundation of my academic career. There will be similarities between then and now, but I know one thing for sure. When commencement begins, I won’t just be watching on a live broadcast. I’ll be walking through those gates, ready to take on a new beginning.</p>
+]]></content>
+  </entry>
+  <entry>
     <title>Knowing Your Audience</title>
     <url>/knowing-your-audience/</url>
     <content><![CDATA[<p>A while back, I took an academic and professional writing class. It’s called Little Red Schoolhouse, and it’s one of the most famous classes at the university. Every week, we would submit a writing assignment based on a new prompt. Within that prompt, we could write about whatever field we wanted, but there was a catch. Before every assignment, we had to submit a reader’s statement. The reader’s statement was a paragraph summarizing the knowledge, background, and goals of the reader. Ideally, our submission would match the kind of writing best suited for our expected reader. Every decision we made about our writing, from jargon to pacing to structure, had to be made to the benefit of the reader described in the statement.</p>
@@ -507,12 +516,23 @@
 ]]></content>
   </entry>
   <entry>
-    <title>New Beginnings</title>
-    <url>/new-beginnings/</url>
-    <content><![CDATA[<p>Back when I was starting university, the institution made a huge fuss about orientation. There were days of programming filled with events and activities, each one an opportunity to make friends and memories. Being away from home, I was nervous and excited and nervous for the days ahead. That anticipation built until commencement day, on which all first-years would make their inaugural march through the university gates. As the clock reached 9, I opened my laptop, clicked the broadcast link, and watched as a lone bagpipe player walked around the university quad playing “Scotland the Brave.” There were a few speeches after, I think. I’m not too sure; I stopped watching pretty quickly. </p>
-<p>As I embark on a new beginning myself, I am reminded of the new beginnings gone past, particularly starting college in the middle of a global pandemic. That first year of college in particular was so strange. My orientation was virtual, my classes were virtual, and almost every conversation I had was virtual. Whenever someone would ask me how I was enjoying higher education, I would tell them that I had never been inside any of the academic buildings, but I knew what they all looked like on the outside.</p>
-<p>Eventually, things changed, and I attended in-person classes, sat next to people in dining halls, and high-fived someone for the first time in over a year. Still, those of us from the COVID era never were quite the same as our older or younger peers. We skipped out on traditions, ignored famous events, and fell in love with forgotten parts of the university. It didn’t matter that we were finally given a chance at a “normal” college experience. By that point, it was too late, and we had already developed our own expectations for what college meant to us.</p>
-<p>The beginning of our journey strongly controlled the trajectory of our college experience, and knowing that now, I realize these next few months will define so much of my PhD. I may already know the people and the place, but my purpose here is quite different from what it was four years ago. My purpose four years ago was to make it to today, and today, my purpose is to build the foundation of my academic career. There will be similarities between then and now, but I know one thing for sure. When commencement begins, I won’t just be watching on a live broadcast. I’ll be walking through those gates, ready to take on a new beginning.</p>
+    <title>On Repetition</title>
+    <url>/on-repetition/</url>
+    <content><![CDATA[<p>I can recall quite clearly a moment from five years ago. The blinding summer sun beamed through my open bedroom window. The smell of fresh flowers filled the air as the humidity clung tight around my body. I closed my eyes, breathed in the sweet, heavy air, and opened my laptop to study Python programming. I could have spent my summer an infinite number of ways, and I chose to learn Python through a practical course: Automate the Boring Stuff with Python. Python and automation were the future, so I had to be prepared. Automate the Boring Stuff began my five-year journey of automation. As I progressed through projects, internships, and a degree in computer science, automation became a sort of faith. Anything that felt remotely repetitive was automated, even if it didn’t need to be. For me, automation became… automatic.</p>
+<p>Over the past week, I worked on a project full of nonstop repetition, much to the dismay of my former self. Over the span of about 4 days, an artist and I cut 125 ft of fabric and stitched over 200 ft of seams. Those cuts and seams were all straight lines too: no variation. I worked long days for no pay on a project I will never see or be credited with. I carried around heavy rolls of material, got poked by pins, and performed the same, repetitive tasks over and over and over.</p>
+<p>And I loved it.</p>
+<p>To be clear, I didn’t enjoy the process because of the final product, nor did I gain anything I could put on my resume. I didn’t learn any skills or improve the ones I already had. If those hours I spent on the project did not exist, my life would not be at all different from what it is now. The process wasn’t particularly enjoyable, and while I care about my friend—the artist—I could still help him out without enjoying the process, but I didn’t.</p>
+<p>It doesn’t seem like I should have enjoyed such a repetitive project, yet I did because repetition did something five years of automation could never do. Repetition gave my mind a break. When you’re constantly automating systems, you trade mental energy for physical energy and time. Automation requires a lot of planning at the onset, but once it’s running, you’re free to spend your newfound free time however you please. For me, that meant more work. More work means more automation. This constant cycle of automation leaves only the most mentally demanding tasks left to complete—the ones with no repetition. Five years of automation meant that I spent the vast majority of my working time intensely using my brain while giving my body a break.</p>
+<p>This system works for a while, but eventually, your mind gets fatigued, and you can’t make progress without giving yourself a break. At first, I thought the only way to give my mind a break was to stop working, but I now realize that doesn’t have to be the case. While spending hours on repetitive tasks, my body went on autopilot. My hands learned the process, and my mind was left untethered. I felt like I was taking a break, yet I was still working.</p>
+<p>This feeling isn’t particularly uncommon in daily life. It’s the same feeling you get when you take a shower or drive your daily commute. In 2001, Dr. Marcus Raichle coined the term “default mode” for this resting-state brain function. To me, “default mode” feels like a misnomer because there is nothing default about this mode, my brain is rarely there. The default mode network has been shown to have countless functions in reflective thought and creative idea generation, invaluable processes for anyone. There are treasure troves of research on the default mode network and its countless functions, from moral reasoning to theory of mind. I highly recommend reading the literature if you’re interested.</p>
+<p>I have spent five years trying to give myself more time in default mode, to reflect and process ideas, to think without a fixed goal. I always thought the answer was automation. The more I automate, the more time I save, and the more time I have to do the things I want to do. In this endless pursuit of automation, I never stopped to wonder if there was a way to work while thinking about the things I wanted. Five years later, I finally have the solution. I’ll still take plenty of actual breaks, and I won’t stop automating, but I don’t need to fear repetition anymore. There’s a beautiful simplicity in repetition, one that I am ready to learn.</p>
+<hr>
+<h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ol>
+<li><a href="https://trends.google.com/trends/explore?date=today%205-y&geo=US&q=automate&hl=en">Google Trend for “automate” (it’s going up)</a></li>
+<li><a href="https://automatetheboringstuff.com/">Automate the Boring Stuff with Python</a></li>
+<li><a href="https://www.nationalgeographic.co.uk/history-and-civilisation/2022/08/the-science-of-why-you-have-great-ideas-in-the-shower">Nat Geo piece on Default Mode Network</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Default_mode_network">Default Mode Network</a></li>
+</ol>
 ]]></content>
   </entry>
   <entry>
@@ -618,26 +638,6 @@
 ]]></content>
   </entry>
   <entry>
-    <title>On Repetition</title>
-    <url>/on-repetition/</url>
-    <content><![CDATA[<p>I can recall quite clearly a moment from five years ago. The blinding summer sun beamed through my open bedroom window. The smell of fresh flowers filled the air as the humidity clung tight around my body. I closed my eyes, breathed in the sweet, heavy air, and opened my laptop to study Python programming. I could have spent my summer an infinite number of ways, and I chose to learn Python through a practical course: Automate the Boring Stuff with Python. Python and automation were the future, so I had to be prepared. Automate the Boring Stuff began my five-year journey of automation. As I progressed through projects, internships, and a degree in computer science, automation became a sort of faith. Anything that felt remotely repetitive was automated, even if it didn’t need to be. For me, automation became… automatic.</p>
-<p>Over the past week, I worked on a project full of nonstop repetition, much to the dismay of my former self. Over the span of about 4 days, an artist and I cut 125 ft of fabric and stitched over 200 ft of seams. Those cuts and seams were all straight lines too: no variation. I worked long days for no pay on a project I will never see or be credited with. I carried around heavy rolls of material, got poked by pins, and performed the same, repetitive tasks over and over and over.</p>
-<p>And I loved it.</p>
-<p>To be clear, I didn’t enjoy the process because of the final product, nor did I gain anything I could put on my resume. I didn’t learn any skills or improve the ones I already had. If those hours I spent on the project did not exist, my life would not be at all different from what it is now. The process wasn’t particularly enjoyable, and while I care about my friend—the artist—I could still help him out without enjoying the process, but I didn’t.</p>
-<p>It doesn’t seem like I should have enjoyed such a repetitive project, yet I did because repetition did something five years of automation could never do. Repetition gave my mind a break. When you’re constantly automating systems, you trade mental energy for physical energy and time. Automation requires a lot of planning at the onset, but once it’s running, you’re free to spend your newfound free time however you please. For me, that meant more work. More work means more automation. This constant cycle of automation leaves only the most mentally demanding tasks left to complete—the ones with no repetition. Five years of automation meant that I spent the vast majority of my working time intensely using my brain while giving my body a break.</p>
-<p>This system works for a while, but eventually, your mind gets fatigued, and you can’t make progress without giving yourself a break. At first, I thought the only way to give my mind a break was to stop working, but I now realize that doesn’t have to be the case. While spending hours on repetitive tasks, my body went on autopilot. My hands learned the process, and my mind was left untethered. I felt like I was taking a break, yet I was still working.</p>
-<p>This feeling isn’t particularly uncommon in daily life. It’s the same feeling you get when you take a shower or drive your daily commute. In 2001, Dr. Marcus Raichle coined the term “default mode” for this resting-state brain function. To me, “default mode” feels like a misnomer because there is nothing default about this mode, my brain is rarely there. The default mode network has been shown to have countless functions in reflective thought and creative idea generation, invaluable processes for anyone. There are treasure troves of research on the default mode network and its countless functions, from moral reasoning to theory of mind. I highly recommend reading the literature if you’re interested.</p>
-<p>I have spent five years trying to give myself more time in default mode, to reflect and process ideas, to think without a fixed goal. I always thought the answer was automation. The more I automate, the more time I save, and the more time I have to do the things I want to do. In this endless pursuit of automation, I never stopped to wonder if there was a way to work while thinking about the things I wanted. Five years later, I finally have the solution. I’ll still take plenty of actual breaks, and I won’t stop automating, but I don’t need to fear repetition anymore. There’s a beautiful simplicity in repetition, one that I am ready to learn.</p>
-<hr>
-<h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ol>
-<li><a href="https://trends.google.com/trends/explore?date=today%205-y&geo=US&q=automate&hl=en">Google Trend for “automate” (it’s going up)</a></li>
-<li><a href="https://automatetheboringstuff.com/">Automate the Boring Stuff with Python</a></li>
-<li><a href="https://www.nationalgeographic.co.uk/history-and-civilisation/2022/08/the-science-of-why-you-have-great-ideas-in-the-shower">Nat Geo piece on Default Mode Network</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Default_mode_network">Default Mode Network</a></li>
-</ol>
-]]></content>
-  </entry>
-  <entry>
     <title>Praise</title>
     <url>/praise/</url>
     <content><![CDATA[<p>Over the past few months, I’ve been sharing my art with a community of origamists called Origami-Dan. Origami-Dan is a server with over 4,000 members, and a few hundred are pretty active. Some of the best origamists in the world come here to talk about art and share their passion for paper-folding. Since I was getting into design work, I thought I’d start sharing what I make here. People could let me know what they liked, what they didn’t, potential improvements, etc. It seemed like a pretty innocuous idea.</p>
@@ -671,6 +671,25 @@
 <p>“Do you happen to know someone named—“</p>
 <p>“Yeah! How’d you find me?” I don’t need him to finish the sentence because I realize he’s one of my high school friend’s teammates. I do feel a little bad for cutting him off, but what happens happens. Turns out, he was sent a photo of me and told to find me at the tournament. After chatting for a bit, we take a photo together to send back to our friend. A few hours later, my team packs up, and we leave.</p>
 <p>Being confused and trying to learn for the whole day was much more exhausting than I expected, but it was entirely worth it. I won’t have a collegiate career for much longer, but hopefully, I can convince the rest of my team to start competing. I’ll share with them all the incredible stories I remember from that day in hopes that they want to experience it all firsthand. That may take a while, so for now, I’ll fill my time by reaching out to old friends.</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>Shortest English Sentence</title>
+    <url>/shortest-english-sentence/</url>
+    <content><![CDATA[<p>In a previous archive, I demonstrated how <a href="/run-on-sentences/">sentences can go on for as long as you want</a>, but today, I want to find out just how short they can get. </p>
+<p>Sentences are hard to define. They carry meaning (typically), contain words (I’m pretty sure), require punctuation (probably), etc. Rather than worrying about a universal definition of sentences, I’ll focus on one definition that is useful for our exploration. Specifically, I am defining sentences as a phrase or phrases, with at least one independent clause.</p>
+<p>I am requiring independent clauses because they constitute what most people imagine when they think of a “complete thought”. For example, “he walked,” an independent clause, is a complete thought, while “bananas” is not. Independent clauses typically consist of a noun phrase and a verb phrase. In Chomsky’s famous sentence, “Colorless green ideas sleep furiously,” “colorless green ideas” is the noun phrase, and “sleep furiously” is the verb phrase. Entirely meaningless, yet structurally sound.</p>
+<p>Obviously, a sentence with one phrase will be shorter than a sentence with more phrases, so I’ll stick to a single independent clause. The clause needs a noun phrase and a verb phrase, and we can get both of those down to a single word each. With just a noun and a verb, we can construct the sentence, “Giraffes abdicate.” </p>
+<p>Personally, I don’t know any giraffes that have abdicated, but a sentence is a sentence. As far as the word count goes, two is quite short, but the sentence requires a lot of characters. When written out, it is physically long. I can’t do much to get rid of the period, but I can find shorter words. There are no one-letter verbs, but there is a one-letter noun, which gave me an even shorter sentence: “I do.”</p>
+<p>I do. This short sentence brings tears to listeners’ eyes. It marks important moments. It speaks volumes, yet it doesn’t require volumes to speak. Saying so much with so little is inspiring.</p>
+<p>For a while, I believed this to be a sufficiently short sentence, but I recently remembered something about English. It is possible to have one-word sentences, but only in the command form. In the command form of English, you drop the subject of the sentence. This is common in recipe books, in instructions like “Mix until thoroughly combined.” The word “mix” starts the verb phrase, but there is no preceding noun. Without the condition at the end, you could have a complete sentence in just one word, “Mix.”</p>
+<p>The command form is special because it compels you to take action. Each instruction is a little shove, something to make you start moving. Commands can have any sentiment, but they don’t exist simply to convey information. They carry expectations. They want you to initiate. I have compiled three contenders for the shortest English sentences, and the weight they carry extends far beyond their few characters.</p>
+<p>Go. Do. Be.</p>
+<hr>
+<h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ol>
+<li><a href="https://www.ling.upenn.edu/courses/ling5700/Chomsky1957.pdf"><em>Syntactic Structures</em>, Noam Chomsky</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Sentence_(linguistics)">Sentence</a></li>
+</ol>
 ]]></content>
   </entry>
   <entry>
@@ -717,25 +736,6 @@
 ]]></content>
   </entry>
   <entry>
-    <title>Shortest English Sentence</title>
-    <url>/shortest-english-sentence/</url>
-    <content><![CDATA[<p>In a previous archive, I demonstrated how <a href="/run-on-sentences/">sentences can go on for as long as you want</a>, but today, I want to find out just how short they can get. </p>
-<p>Sentences are hard to define. They carry meaning (typically), contain words (I’m pretty sure), require punctuation (probably), etc. Rather than worrying about a universal definition of sentences, I’ll focus on one definition that is useful for our exploration. Specifically, I am defining sentences as a phrase or phrases, with at least one independent clause.</p>
-<p>I am requiring independent clauses because they constitute what most people imagine when they think of a “complete thought”. For example, “he walked,” an independent clause, is a complete thought, while “bananas” is not. Independent clauses typically consist of a noun phrase and a verb phrase. In Chomsky’s famous sentence, “Colorless green ideas sleep furiously,” “colorless green ideas” is the noun phrase, and “sleep furiously” is the verb phrase. Entirely meaningless, yet structurally sound.</p>
-<p>Obviously, a sentence with one phrase will be shorter than a sentence with more phrases, so I’ll stick to a single independent clause. The clause needs a noun phrase and a verb phrase, and we can get both of those down to a single word each. With just a noun and a verb, we can construct the sentence, “Giraffes abdicate.” </p>
-<p>Personally, I don’t know any giraffes that have abdicated, but a sentence is a sentence. As far as the word count goes, two is quite short, but the sentence requires a lot of characters. When written out, it is physically long. I can’t do much to get rid of the period, but I can find shorter words. There are no one-letter verbs, but there is a one-letter noun, which gave me an even shorter sentence: “I do.”</p>
-<p>I do. This short sentence brings tears to listeners’ eyes. It marks important moments. It speaks volumes, yet it doesn’t require volumes to speak. Saying so much with so little is inspiring.</p>
-<p>For a while, I believed this to be a sufficiently short sentence, but I recently remembered something about English. It is possible to have one-word sentences, but only in the command form. In the command form of English, you drop the subject of the sentence. This is common in recipe books, in instructions like “Mix until thoroughly combined.” The word “mix” starts the verb phrase, but there is no preceding noun. Without the condition at the end, you could have a complete sentence in just one word, “Mix.”</p>
-<p>The command form is special because it compels you to take action. Each instruction is a little shove, something to make you start moving. Commands can have any sentiment, but they don’t exist simply to convey information. They carry expectations. They want you to initiate. I have compiled three contenders for the shortest English sentences, and the weight they carry extends far beyond their few characters.</p>
-<p>Go. Do. Be.</p>
-<hr>
-<h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ol>
-<li><a href="https://www.ling.upenn.edu/courses/ling5700/Chomsky1957.pdf"><em>Syntactic Structures</em>, Noam Chomsky</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Sentence_(linguistics)">Sentence</a></li>
-</ol>
-]]></content>
-  </entry>
-  <entry>
     <title>Standardized Test Problems in Real Life</title>
     <url>/standardized-test-problems-in-real-life/</url>
     <content><![CDATA[<p>After almost two decades of taking standardized tests, I still don’t understand why the questions are so ridiculous. Why does Alice need 47 watermelons? Who put two trains on the same track in opposite directions? Does everyone in the room <em>really</em> need to shake hands?</p>
@@ -746,27 +746,6 @@
 <p>Solving the problem was fun, but it required a lot more processing than the short paragraph I wrote out. I had to know the unit conversion from gallons to liters. I had to assume the previous customer purchased low-octane fuel because it’s the most common choice. I had to understand how much rounding was just enough. I had to make assumptions about the gas tank. I had to package up all that real-world data into a pretty, little math problem. </p>
 <p>To the credit of all the people in math class that said, “we can use a calculator in the real world,” yes, yes we can. They’re in our pockets constantly. However, we still need to understand which numbers are important. Synthesizing that information efficiently is the first step to making math useful in the real world. We can use it whenever, but it only makes sense when we have a real problem to solve. Being able to gather the relevant information from a situation is a useful skill I’m grateful to have practiced through standardized tests, and I’m beginning to appreciate those problems more now.</p>
 <p>I still think the problems could be a bit more realistic though. I mean, <em>47</em> watermelons? Really?</p>
-]]></content>
-  </entry>
-  <entry>
-    <title>Taking Silly Ideas Seriously</title>
-    <url>/taking-silly-ideas-seriously/</url>
-    <content><![CDATA[<p>Since 2007, the Association for Computational Heresy has celebrated the sillier side of academic research through the annual SIGBOVIK conference. As their website states, “SIGBOVIK is an evening of tongue-in-cheek academic presentations, a venue for silly ideas and&#x2F;or executions.” This interdisciplinary computer science conference invites three categories of research: “joke realizations of joke ideas, joke realizations of serious ideas, and serious realizations of joke ideas.” While all three quadrants offer exciting opportunities, I’m particularly intrigued by the last one: serious realizations of joke ideas. Fully understanding this quadrant requires understanding the two parts individually.</p>
-<p>The first part, serious realizations, is relatively straightforward. Given some idea, a serious realization would offer results that answer some underlying questions or issues. One fantastic example of a serious realization is GradIEEEnt half decent, published in a previous SIGBOVIK. In GradIEEEnt half decent, Dr. Tom Murphy explores the idea of how computer rounding errors could be used on purpose. His realization includes creating a non-linear activation function using linear operations. He evaluates the effectiveness of his activation function on standard machine learning benchmark datasets like MNIST and CIFAR-10, comparing performance to other activation functions. Not all serious realizations require experimental results, but they do require going beyond just the initial idea.</p>
-<p>The second part, joke ideas, is less clear-cut. Plenty of ideas that start as jokes are later taken more seriously. For example, Schrödinger’s Cat was originally used to poke fun at the absurdity of quantum models of macroscopic objects. This ridiculous idea of a cat in a box is now the most well-known analogy for measurement in quantum systems. Similarly, Fred Hoyle coined the term “Big Bang” because he was poking fun at the idea of the universe expanding from a singularity. He never did accept the theory, but today, supporters and critics all use the term “Big Bang” seriously. Joke ideas frequently become serious, making them much more difficult to define.</p>
-<p>While Schrödinger and Hoyle made jokes out of disbelief, not all joke ideas come from disagreement. Jokes can come from a variety of sources, but for the purposes of SIGBOVIK and similar venues, there is one common unifier among joke ideas: they would not receive funding. This argument requires establishing a few premises. First, I will use the terms “joke” and “serious” as opposites, so not serious ideas are joke ideas. Next, it’s reasonable to assume that researchers publishing in most journals and conferences are addressing serious ideas. Researchers can do that work as their job because it is funded. Since funding agencies decide whether a researcher’s proposal gets funded, funding agencies thus decide if the work is serious. Note that I am not arguing that every serious idea gets funding. Instead, if a funding agency funds a proposal, then the idea is serious. By the contrapositive, if the idea is not serious, then it will not be funded.</p>
-<p>Using funding as this guiding principle elucidates how narrow the range of serious ideas really is. Joke ideas aren’t necessarily useless, they’re just a large portion of the ideas that academia doesn’t care about. Exploring them seriously can create opportunities for knowledge that would have never been known before. Research is about pushing the boundaries of human knowledge, and that can be done in all directions. I truly enjoy doing research, and while the majority of my work is focused on serious ideas, I’ve been exploring some joke ideas too. Most recently, I wrote a paper that formally analyzes bread slicing with rigorous mathematics. I don’t claim that it offers much utility to society, but it’s a nice piece of absurdist humor that pairs well with <a href="https://youtu.be/R6SYxpiGGJ0?si=PetWIvfnnBJfoWIo">this summary video</a>. </p>
-<p>SIGBOVIK is a fantastic venue for exploring serious realizations of joke ideas, but I would love to see this occurring more broadly. Granted, my worldview as a computer science research student is vastly limited, but most academics don’t seem to put effort into their silly ideas. If you have the time and resources to do so, why not? Push the boundaries of human knowledge, even in strange directions. Explore silly ideas with the effort you put into your publications. Take your jokes seriously.</p>
-<hr>
-<h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ol>
-<li><a href="http://sigbovik.org/">SIGBOVIK</a></li>
-<li><a href="http://tom7.org/grad/murphy2023grad.pdf">GradIEEEnt half decent</a></li>
-<li><a href="http://yann.lecun.com/exdb/mnist/">MNIST</a></li>
-<li><a href="https://www.cs.toronto.edu/~kriz/cifar.html">CIFAR-10</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Schr%C3%B6dinger%27s_cat">Schrödinger’s Cat</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Fred_Hoyle">Fred Hoyle</a></li>
-<li><a href="/projects/optimal_slicing.pdf">Optimal Bread Slicing</a></li>
-</ol>
 ]]></content>
   </entry>
   <entry>
@@ -789,6 +768,27 @@
 <li><a href="https://commoncrawl.org/">CommonCrawl</a></li>
 <li><a href="https://laion.ai/blog/laion-5b/">LAION-5B</a></li>
 <li><a href="https://twitter.com/KeatonPatti/status/1161284670601990146">AI Batman Script from 2019</a></li>
+</ol>
+]]></content>
+  </entry>
+  <entry>
+    <title>Taking Silly Ideas Seriously</title>
+    <url>/taking-silly-ideas-seriously/</url>
+    <content><![CDATA[<p>Since 2007, the Association for Computational Heresy has celebrated the sillier side of academic research through the annual SIGBOVIK conference. As their website states, “SIGBOVIK is an evening of tongue-in-cheek academic presentations, a venue for silly ideas and&#x2F;or executions.” This interdisciplinary computer science conference invites three categories of research: “joke realizations of joke ideas, joke realizations of serious ideas, and serious realizations of joke ideas.” While all three quadrants offer exciting opportunities, I’m particularly intrigued by the last one: serious realizations of joke ideas. Fully understanding this quadrant requires understanding the two parts individually.</p>
+<p>The first part, serious realizations, is relatively straightforward. Given some idea, a serious realization would offer results that answer some underlying questions or issues. One fantastic example of a serious realization is GradIEEEnt half decent, published in a previous SIGBOVIK. In GradIEEEnt half decent, Dr. Tom Murphy explores the idea of how computer rounding errors could be used on purpose. His realization includes creating a non-linear activation function using linear operations. He evaluates the effectiveness of his activation function on standard machine learning benchmark datasets like MNIST and CIFAR-10, comparing performance to other activation functions. Not all serious realizations require experimental results, but they do require going beyond just the initial idea.</p>
+<p>The second part, joke ideas, is less clear-cut. Plenty of ideas that start as jokes are later taken more seriously. For example, Schrödinger’s Cat was originally used to poke fun at the absurdity of quantum models of macroscopic objects. This ridiculous idea of a cat in a box is now the most well-known analogy for measurement in quantum systems. Similarly, Fred Hoyle coined the term “Big Bang” because he was poking fun at the idea of the universe expanding from a singularity. He never did accept the theory, but today, supporters and critics all use the term “Big Bang” seriously. Joke ideas frequently become serious, making them much more difficult to define.</p>
+<p>While Schrödinger and Hoyle made jokes out of disbelief, not all joke ideas come from disagreement. Jokes can come from a variety of sources, but for the purposes of SIGBOVIK and similar venues, there is one common unifier among joke ideas: they would not receive funding. This argument requires establishing a few premises. First, I will use the terms “joke” and “serious” as opposites, so not serious ideas are joke ideas. Next, it’s reasonable to assume that researchers publishing in most journals and conferences are addressing serious ideas. Researchers can do that work as their job because it is funded. Since funding agencies decide whether a researcher’s proposal gets funded, funding agencies thus decide if the work is serious. Note that I am not arguing that every serious idea gets funding. Instead, if a funding agency funds a proposal, then the idea is serious. By the contrapositive, if the idea is not serious, then it will not be funded.</p>
+<p>Using funding as this guiding principle elucidates how narrow the range of serious ideas really is. Joke ideas aren’t necessarily useless, they’re just a large portion of the ideas that academia doesn’t care about. Exploring them seriously can create opportunities for knowledge that would have never been known before. Research is about pushing the boundaries of human knowledge, and that can be done in all directions. I truly enjoy doing research, and while the majority of my work is focused on serious ideas, I’ve been exploring some joke ideas too. Most recently, I wrote a paper that formally analyzes bread slicing with rigorous mathematics. I don’t claim that it offers much utility to society, but it’s a nice piece of absurdist humor that pairs well with <a href="https://youtu.be/R6SYxpiGGJ0?si=PetWIvfnnBJfoWIo">this summary video</a>. </p>
+<p>SIGBOVIK is a fantastic venue for exploring serious realizations of joke ideas, but I would love to see this occurring more broadly. Granted, my worldview as a computer science research student is vastly limited, but most academics don’t seem to put effort into their silly ideas. If you have the time and resources to do so, why not? Push the boundaries of human knowledge, even in strange directions. Explore silly ideas with the effort you put into your publications. Take your jokes seriously.</p>
+<hr>
+<h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ol>
+<li><a href="http://sigbovik.org/">SIGBOVIK</a></li>
+<li><a href="http://tom7.org/grad/murphy2023grad.pdf">GradIEEEnt half decent</a></li>
+<li><a href="http://yann.lecun.com/exdb/mnist/">MNIST</a></li>
+<li><a href="https://www.cs.toronto.edu/~kriz/cifar.html">CIFAR-10</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Schr%C3%B6dinger%27s_cat">Schrödinger’s Cat</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Fred_Hoyle">Fred Hoyle</a></li>
+<li><a href="/projects/optimal_slicing.pdf">Optimal Bread Slicing</a></li>
 </ol>
 ]]></content>
   </entry>
@@ -838,6 +838,23 @@
 ]]></content>
   </entry>
   <entry>
+    <title>The Connoisseur of Random: Lava Lamps are Protecting your Data</title>
+    <url>/the-connoisseur-of-random-lava-lamps-are-protecting-your-data/</url>
+    <content><![CDATA[<p>Have you ever used the Canva website? How about Etsy, Walmart, or even Best Buy? If so, congrats! Your data is being protected by lava lamps.</p>
+<p>Cloudflare is one of the largest global networks, securely providing you access to many of your favorite websites. In an attempt to generate more secure encryption keys, they turned to lava lamps. More specifically, they take pictures of a massive wall of lava lamps, and the sequence of pixels in the image is used as a random number. While lava lamps are deterministic—they follow an exact set of rules in a particular order—they are mathematically chaotic, meaning that approximate initial conditions won’t tell you the final outcome. If you are even slightly off when trying to simulate a lava lamp, your results will be almost entirely inaccurate.</p>
+<p>Additionally, Cloudflare uses a double pendulum and uranium decay to generate chaos, but that’s beyond the scope of this archive.</p>
+<p>Using lava lamps to generate random numbers isn’t a new idea. Back in 1996, Lavarand began using lava lamps to generate random numbers. They took the data from images of lava lamp arrays, and used them as seeds for pseudorandom number generators. Naturally, the use of a pseudorandom number generator makes the process a bit less safe, but it’s nice to see they were taking precautions.</p>
+<p>Pseudorandom number generation is too well understood to be used in cryptography, so Cloudflare imposes two additional rules on their random number generation to keep your data secure. First, their numbers should pass statistical tests that prove unpredictability. If you can find patterns in your data, it’s hard to call it random (I have another archive on the way about this topic). Second, if someone knows how part—not all—of the program works, they still shouldn’t be able to predict the random numbers. </p>
+<p>So, the next time you’re shopping on Etsy or Walmart.com, remember that you’re safe. You have lava lamps protecting you. </p>
+<p><em>Disclaimer: I am not affiliated with Cloudflare in any way, and these statements are entirely my own.</em></p>
+<hr>
+<h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ol>
+<li><a href="https://www.cloudflare.com/learning/ssl/lava-lamp-encryption/">Cloudflare Uses Lava Lamps</a></li>
+<li><a href="https://web.archive.org/web/19971210213248/http://lavarand.sgi.com/">Lavarand Web Archive</a></li>
+</ol>
+]]></content>
+  </entry>
+  <entry>
     <title>The Connoisseur of Random: Before Computers</title>
     <url>/the-connoisseur-of-random-before-computers/</url>
     <content><![CDATA[<p>As we discussed last time, computers aren’t great at generating truly random numbers. Can you do any better? You have plenty of practice generating random numbers, I can promise you that, as long as you’ve played a few board games.</p>
@@ -854,23 +871,6 @@
 <li><a href="https://www.rand.org/content/dam/rand/pubs/papers/2008/P113.pdf">RAND Corporation’s History of Random Digits</a></li>
 <li><a href="https://www.amazon.com/Million-Random-Digits-Normal-Deviates/dp/0833030477">Book of A Million Random Digits</a></li>
 <li><a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjwx8Pt08D6AhU2lIkEHf8jAqcQFnoECAgQAQ&url=https://www.mdpi.com/2079-9292/10/13/1517/pdf&usg=AOvVaw1PiU7pbgXdIviYWLFI4TgC">Random Number Circuit Using Frequencies</a></li>
-</ol>
-]]></content>
-  </entry>
-  <entry>
-    <title>The Connoisseur of Random: Lava Lamps are Protecting your Data</title>
-    <url>/the-connoisseur-of-random-lava-lamps-are-protecting-your-data/</url>
-    <content><![CDATA[<p>Have you ever used the Canva website? How about Etsy, Walmart, or even Best Buy? If so, congrats! Your data is being protected by lava lamps.</p>
-<p>Cloudflare is one of the largest global networks, securely providing you access to many of your favorite websites. In an attempt to generate more secure encryption keys, they turned to lava lamps. More specifically, they take pictures of a massive wall of lava lamps, and the sequence of pixels in the image is used as a random number. While lava lamps are deterministic—they follow an exact set of rules in a particular order—they are mathematically chaotic, meaning that approximate initial conditions won’t tell you the final outcome. If you are even slightly off when trying to simulate a lava lamp, your results will be almost entirely inaccurate.</p>
-<p>Additionally, Cloudflare uses a double pendulum and uranium decay to generate chaos, but that’s beyond the scope of this archive.</p>
-<p>Using lava lamps to generate random numbers isn’t a new idea. Back in 1996, Lavarand began using lava lamps to generate random numbers. They took the data from images of lava lamp arrays, and used them as seeds for pseudorandom number generators. Naturally, the use of a pseudorandom number generator makes the process a bit less safe, but it’s nice to see they were taking precautions.</p>
-<p>Pseudorandom number generation is too well understood to be used in cryptography, so Cloudflare imposes two additional rules on their random number generation to keep your data secure. First, their numbers should pass statistical tests that prove unpredictability. If you can find patterns in your data, it’s hard to call it random (I have another archive on the way about this topic). Second, if someone knows how part—not all—of the program works, they still shouldn’t be able to predict the random numbers. </p>
-<p>So, the next time you’re shopping on Etsy or Walmart.com, remember that you’re safe. You have lava lamps protecting you. </p>
-<p><em>Disclaimer: I am not affiliated with Cloudflare in any way, and these statements are entirely my own.</em></p>
-<hr>
-<h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ol>
-<li><a href="https://www.cloudflare.com/learning/ssl/lava-lamp-encryption/">Cloudflare Uses Lava Lamps</a></li>
-<li><a href="https://web.archive.org/web/19971210213248/http://lavarand.sgi.com/">Lavarand Web Archive</a></li>
 </ol>
 ]]></content>
   </entry>
@@ -993,6 +993,25 @@
 ]]></content>
   </entry>
   <entry>
+    <title>The Mortifying Ordeal of Being Perceived</title>
+    <url>/the-mortifying-ordeal-of-being-perceived/</url>
+    <content><![CDATA[<p><em>The following is a transcript from a recent episode of the <a href="https://jonikpodcast.github.io/">Jonik Podcast</a>.</em></p>
+<p>Good morning, Jon. At the time of this recording, you are summiting the Half Dome, but given that you just took the MCAT, I’m sure this won’t be much of a challenge for you. In this episode, it’s just me. Like your Jonik episode back in April, I’ll be covering a more recent phrase, one that has its roots in meme culture and attempts to comment on the state of internet culture as a whole. As the title suggests, today, we will discuss the etymology of “being perceived.” </p>
+<p>After co-hosting this podcast for over six months now, my biggest concern isn’t that it’ll go down or that the hosting platform will lose our recordings. I’m not afraid of people breaking the things we’ve built or stealing it for themselves. What truly terrifies me is knowing that people actually listen to what we have to say.</p>
+<p>In 2013, Tim Kreider wrote “I Know What You Think of Me,” an opinion piece on the dread of hearing other people’s uncensored opinions about you. Kreider, who had recently bought a herd of goats, received an email that wasn’t meant for him that included some snyde remarks about his reckless spending. Personally, I can’t think of a better investment, but to each their own. The essay continues to comment on how the Internet Age makes it incredibly easy to overhear conversations you were never meant to know about. Ultimately, Kreider leaves the reader with this incredibly powerful line: “if we want the rewards of being loved, we have to submit to the mortifying ordeal of being known.”</p>
+<p>I never realized how easy it was to hear those uncensored opinions about you until I tried existing online for the first time. About a year ago, I created a website showcasing my projects and a few stories I wanted to share. I had a little visit counter on the page, and I was very proud of my 100 page visits. My sister, being the wonderful person she is, absolutely loved the website and decided more people should see my work. To spread the word, she went to what is historically the warmest, kindest internet platform there is: Reddit. After hitting up a few subreddits promoting my stuff, the comments started rolling in. Hate comment after hate comment, internet troll after internet troll, she just watched in horror. Mind you, I didn’t know any of this was happening. All I saw was in the span of about 15 minutes, my website had 200—300—400 hits. Eventually, the posts were deleted, and her account was banned for self-promotion. She later called me and sent me screenshots of some of the comments, explaining what happened. Reading through the ones she saved, I truly couldn’t fathom how people formed such intense judgements about me so quickly. To the one commenter that said I seemed thoughtful, thanks. I still have that screenshot saved.</p>
+<p>Kreider’s “mortifying ordeal of being known” quickly exploded onto meme pages across platforms. Plenty of the memes took the message seriously, including the duality of the rewards of being loved along with the mortifying ordeal of being known. Others focused solely on the mortification. A brief aside, “mortification” comes from the Latin word that means “death,” and I suppose it’s telling that we use it to describe great embarrassment, because on some level, that shame feels like a form of death. In late 2019, the next iteration of the “mortifying ordeal of being known” took over the Internet: being perceived. While “being perceived” is not a direct predecessor of the mortifying ordeal, they share a similar space in terms of meaning. Both comment on others being aware of you, but they differ in response. Heavily shaped by the mass quarantines at the beginning of the pandemic, “being perceived” led to a re-imagining of the self, one where in order to exist socially, you needed an online presence. That online presence took the form of Zoom meetings, Instagram stories, Tweets about toilet paper shortages, and plenty more. Suddenly, the mortifying ordeal of being known was no longer just the price you paid to enjoy the rewards of being loved, it was prerequisite to not living in total isolation. </p>
+<p>Jon, around the same time in 2019 that the “being perceived” meme became popular, you and I performed an Evolution of Music medley at our school benefit concert. We wore matching blue suits, and our band poster—along with saying Jonik—had a painting of a duck wearing a tuxedo. I remember grabbing dinner right before, I remember doing a practice run in the debate room, and I remember not being able to see during the performance. Just before we performed, we were off to the side of the stage when the MC announced us to the audience. I grabbed a chair for you to sit in because, well, cellists need chairs. As we reached the center of the stage, I handed you the chair, and I looked out at the audience. By that point, we’d stood before plenty of audiences, but that night, I felt seen in a way I hadn’t felt before. My brain decided, <em>Hey, I’m not really a fan of this. I don’t want to know that I’m being seen</em>, so I stopped. My eyes glazed over, and for the entire performance, I could not see a single thing. I couldn’t see you, I couldn’t see the audience, I could barely see my own hands. There was no real fear or embarrassment associated with performing, I just didn’t want to be perceived. I think we played well.</p>
+<p>The memes surrounding “being perceived” characterize it as something that just happens. You have no real control, you just have to be perceived, and that’s how it is. In my experience, that’s not how it actually works. Just like “the mortifying ordeal of being known” is the price you pay for “the rewards of being loved,” “being perceived” is in some ways transactional. Sure, my eyes may have been glazed over, but that night, the Jonik band was still perceived, and in exchange, we had an attentive audience right in front of us. I may have received some hateful comments about my website, but plenty of people actually stopped to read the things I wrote. Even today, as our podcast audience grows, every listener takes time out of their day to listen to what we have to say. Yes, our audience is perceiving us, but more importantly, the people perceiving us have become our audience. Were we never perceived, we wouldn’t have an audience. If you, wonderful listener, didn’t perceive us, this would just be Jonik speaking into the void. </p>
+<p>In an age where attention is the most valuable commodity, “being perceived” is the price you pay for an audience. That audience might be a random coworker or an actual auditorium full of people. Either way, make the most of that opportunity. Play some cool music, explain some interesting etymologies, just share something worth sharing. Sure, it’s terrifying, but most good things are at first. In the end, you’ll be grateful that they stopped to listen. I know I am. </p>
+<p>Jon, congrats on taking the MCAT. I’ll see you when I see you.</p>
+<hr>
+<h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ol>
+<li><a href="https://archive.nytimes.com/opinionator.blogs.nytimes.com/2013/06/15/i-know-what-you-think-of-me/?smid=pl-share">I Know What You Think of Me by Tim Kreider</a></li>
+</ol>
+]]></content>
+  </entry>
+  <entry>
     <title>The Flaw in Every Calculator</title>
     <url>/the-flaw-in-every-calculator/</url>
     <content><![CDATA[<p>Over the past few months, people have been approaching me as if I am an expert on security and AI. They ask me questions like, “Will you build an AI for my startup?”, “Is ChatGPT stealing my data?”, “How does Midjourney work?”.*</p>
@@ -1050,22 +1069,16 @@
 ]]></content>
   </entry>
   <entry>
-    <title>The Mortifying Ordeal of Being Perceived</title>
-    <url>/the-mortifying-ordeal-of-being-perceived/</url>
-    <content><![CDATA[<p><em>The following is a transcript from a recent episode of the <a href="https://jonikpodcast.github.io/">Jonik Podcast</a>.</em></p>
-<p>Good morning, Jon. At the time of this recording, you are summiting the Half Dome, but given that you just took the MCAT, I’m sure this won’t be much of a challenge for you. In this episode, it’s just me. Like your Jonik episode back in April, I’ll be covering a more recent phrase, one that has its roots in meme culture and attempts to comment on the state of internet culture as a whole. As the title suggests, today, we will discuss the etymology of “being perceived.” </p>
-<p>After co-hosting this podcast for over six months now, my biggest concern isn’t that it’ll go down or that the hosting platform will lose our recordings. I’m not afraid of people breaking the things we’ve built or stealing it for themselves. What truly terrifies me is knowing that people actually listen to what we have to say.</p>
-<p>In 2013, Tim Kreider wrote “I Know What You Think of Me,” an opinion piece on the dread of hearing other people’s uncensored opinions about you. Kreider, who had recently bought a herd of goats, received an email that wasn’t meant for him that included some snyde remarks about his reckless spending. Personally, I can’t think of a better investment, but to each their own. The essay continues to comment on how the Internet Age makes it incredibly easy to overhear conversations you were never meant to know about. Ultimately, Kreider leaves the reader with this incredibly powerful line: “if we want the rewards of being loved, we have to submit to the mortifying ordeal of being known.”</p>
-<p>I never realized how easy it was to hear those uncensored opinions about you until I tried existing online for the first time. About a year ago, I created a website showcasing my projects and a few stories I wanted to share. I had a little visit counter on the page, and I was very proud of my 100 page visits. My sister, being the wonderful person she is, absolutely loved the website and decided more people should see my work. To spread the word, she went to what is historically the warmest, kindest internet platform there is: Reddit. After hitting up a few subreddits promoting my stuff, the comments started rolling in. Hate comment after hate comment, internet troll after internet troll, she just watched in horror. Mind you, I didn’t know any of this was happening. All I saw was in the span of about 15 minutes, my website had 200—300—400 hits. Eventually, the posts were deleted, and her account was banned for self-promotion. She later called me and sent me screenshots of some of the comments, explaining what happened. Reading through the ones she saved, I truly couldn’t fathom how people formed such intense judgements about me so quickly. To the one commenter that said I seemed thoughtful, thanks. I still have that screenshot saved.</p>
-<p>Kreider’s “mortifying ordeal of being known” quickly exploded onto meme pages across platforms. Plenty of the memes took the message seriously, including the duality of the rewards of being loved along with the mortifying ordeal of being known. Others focused solely on the mortification. A brief aside, “mortification” comes from the Latin word that means “death,” and I suppose it’s telling that we use it to describe great embarrassment, because on some level, that shame feels like a form of death. In late 2019, the next iteration of the “mortifying ordeal of being known” took over the Internet: being perceived. While “being perceived” is not a direct predecessor of the mortifying ordeal, they share a similar space in terms of meaning. Both comment on others being aware of you, but they differ in response. Heavily shaped by the mass quarantines at the beginning of the pandemic, “being perceived” led to a re-imagining of the self, one where in order to exist socially, you needed an online presence. That online presence took the form of Zoom meetings, Instagram stories, Tweets about toilet paper shortages, and plenty more. Suddenly, the mortifying ordeal of being known was no longer just the price you paid to enjoy the rewards of being loved, it was prerequisite to not living in total isolation. </p>
-<p>Jon, around the same time in 2019 that the “being perceived” meme became popular, you and I performed an Evolution of Music medley at our school benefit concert. We wore matching blue suits, and our band poster—along with saying Jonik—had a painting of a duck wearing a tuxedo. I remember grabbing dinner right before, I remember doing a practice run in the debate room, and I remember not being able to see during the performance. Just before we performed, we were off to the side of the stage when the MC announced us to the audience. I grabbed a chair for you to sit in because, well, cellists need chairs. As we reached the center of the stage, I handed you the chair, and I looked out at the audience. By that point, we’d stood before plenty of audiences, but that night, I felt seen in a way I hadn’t felt before. My brain decided, <em>Hey, I’m not really a fan of this. I don’t want to know that I’m being seen</em>, so I stopped. My eyes glazed over, and for the entire performance, I could not see a single thing. I couldn’t see you, I couldn’t see the audience, I could barely see my own hands. There was no real fear or embarrassment associated with performing, I just didn’t want to be perceived. I think we played well.</p>
-<p>The memes surrounding “being perceived” characterize it as something that just happens. You have no real control, you just have to be perceived, and that’s how it is. In my experience, that’s not how it actually works. Just like “the mortifying ordeal of being known” is the price you pay for “the rewards of being loved,” “being perceived” is in some ways transactional. Sure, my eyes may have been glazed over, but that night, the Jonik band was still perceived, and in exchange, we had an attentive audience right in front of us. I may have received some hateful comments about my website, but plenty of people actually stopped to read the things I wrote. Even today, as our podcast audience grows, every listener takes time out of their day to listen to what we have to say. Yes, our audience is perceiving us, but more importantly, the people perceiving us have become our audience. Were we never perceived, we wouldn’t have an audience. If you, wonderful listener, didn’t perceive us, this would just be Jonik speaking into the void. </p>
-<p>In an age where attention is the most valuable commodity, “being perceived” is the price you pay for an audience. That audience might be a random coworker or an actual auditorium full of people. Either way, make the most of that opportunity. Play some cool music, explain some interesting etymologies, just share something worth sharing. Sure, it’s terrifying, but most good things are at first. In the end, you’ll be grateful that they stopped to listen. I know I am. </p>
-<p>Jon, congrats on taking the MCAT. I’ll see you when I see you.</p>
+    <title>The Pencil (Ex Libris: Works of Nikolai Gogol)</title>
+    <url>/the-pencil-ex-libris-works-of-nikolai-gogol/</url>
+    <content><![CDATA[<p><em>A true narrative inspired by my recent reading of the works of Nikolai Gogol. It’s not overtly Gogolian, but I tried to incorporate some elements of his style.</em></p>
 <hr>
-<h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ol>
-<li><a href="https://archive.nytimes.com/opinionator.blogs.nytimes.com/2013/06/15/i-know-what-you-think-of-me/?smid=pl-share">I Know What You Think of Me by Tim Kreider</a></li>
-</ol>
+<p>I’ve been using the same pencil for about 500 days now. My sister gave it to me. It’s a green, 0.5mm Twist-Erase, not that the details really matter. The branding is faded, and I replace the graphite and eraser pretty regularly. Still, it’s a good pencil. I use it to take notes in class. I use it on exams. I use it to journal, to diagram, to sketch, to scribble grocery lists, to write letters. Essentially, if I need to mark something with a pencil, I use this one.</p>
+<p>Holding onto this pencil hasn’t been easy. Back in grade school, I would buy packs of 48 pencils at the beginning of every school year because, by the end, I would have lost each and every one. If there were a leaderboard for losing pencils, I would be internationally ranked. Despite my penchant for losing pencils, I never seem to lose notebooks or journals. Knowing this, I fastened my pencil to my journal, and whenever I needed it, I would remove it from the elastic, use it, and return it to its place. When it was time for me to retire that journal, I simply replaced it with another, and I kept the pencil there.</p>
+<p>As of recently, I have discovered that my pencil is slightly shorter than my phone, so it fits in my pocket quite nicely. I like the idea of always having the pencil handy, but I still wanted a notebook for it, so I made one. The cover of the notebook is made from an old poster of Café Terrace at Night, and it fits snugly in my pocket, just between my leg and my phone. The pages of the notebook are covered in diagrams and equations from my observations of the <a href="/celestial-navigation-part-3">equinox sunset</a> and the <a href="/celestial-navigation-part-4">solar eclipse</a>, all drawn by the pencil. </p>
+<p>A brief aside, pen and pencil don’t have the same etymology. While pen comes from the Latin <em>penna</em>, meaning feather, pencil comes from the Latin <em>penicillus</em>, meaning brush. <em>Penicillus</em> has its roots in the Latin word for <em>tail</em>, not <em>feather</em>. As it turns out, <em>penicillus</em> is also the origin of the name of the antibiotic, penicillin. I like to imagine that Alexander Fleming was recording his observations with a pencil when he discovered penicillin, though that may just be wishful thinking.</p>
+<p>I don’t think my pencil will ever be used to document anything as monumental as the discovery of penicillin. The pencil is great—don’t get me wrong—but I do sometimes wonder what impact the pencil has had on my discoveries. How would my <a href="/publications/">research</a> be different without that pencil? What about my <a href="/a-phoenix-a-dragon-and-lots-of-humanoids-designs-from-the-last-two-months">art</a>? I suppose I can’t know for sure, but I doubt much would change. Pencils only mark what you tell them to mark, erase what you tell them to erase. They can’t tell you the answer or finish the story; that’s something you do. Besides some negligible improvements to quality-of-life, the pencil itself doesn’t do much of anything. </p>
+<p>I was hoping that after so many months using the same pencil, I would gain some profound insight, as if the pencil would reveal some previously unknown truth. I waited, diligently recording my thoughts and observations through this single instrument. I’ve carried it in my bag or on my person during every waking moment. Today, I’m writing this story because that day has finally come. I now know the truth. After 500 days, I’ve finally learned that it’s just a pencil.</p>
 ]]></content>
   </entry>
   <entry>
@@ -1085,19 +1098,6 @@
 <li><a href="https://arxiv.org/abs/2310.20216">ELIZA Beat GPT-3.5 in a Turing Test</a></li>
 </ol>
 <h2 id="The-ELIZA-Algorithm"><a href="#The-ELIZA-Algorithm" class="headerlink" title="The ELIZA Algorithm"></a>The ELIZA Algorithm</h2><figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">def</span> <span class="title function_">respond</span>(<span class="params">self, statement</span>):</span><br><span class="line">    <span class="keyword">for</span> pattern, responses <span class="keyword">in</span> self.patterns:</span><br><span class="line">        <span class="keyword">match</span> = re.search(pattern, statement.strip(<span class="string">&quot; .!?&quot;</span>), re.IGNORECASE)</span><br><span class="line">        <span class="keyword">if</span> <span class="keyword">match</span>:</span><br><span class="line">            response = random.choice(responses).<span class="built_in">format</span>(*<span class="keyword">match</span>.groups())</span><br><span class="line">            <span class="keyword">return</span> response</span><br><span class="line">    <span class="keyword">return</span> self.default</span><br></pre></td></tr></table></figure>]]></content>
-  </entry>
-  <entry>
-    <title>The Pencil (Ex Libris: Works of Nikolai Gogol)</title>
-    <url>/the-pencil-ex-libris-works-of-nikolai-gogol/</url>
-    <content><![CDATA[<p><em>A true narrative inspired by my recent reading of the works of Nikolai Gogol. It’s not overtly Gogolian, but I tried to incorporate some elements of his style.</em></p>
-<hr>
-<p>I’ve been using the same pencil for about 500 days now. My sister gave it to me. It’s a green, 0.5mm Twist-Erase, not that the details really matter. The branding is faded, and I replace the graphite and eraser pretty regularly. Still, it’s a good pencil. I use it to take notes in class. I use it on exams. I use it to journal, to diagram, to sketch, to scribble grocery lists, to write letters. Essentially, if I need to mark something with a pencil, I use this one.</p>
-<p>Holding onto this pencil hasn’t been easy. Back in grade school, I would buy packs of 48 pencils at the beginning of every school year because, by the end, I would have lost each and every one. If there were a leaderboard for losing pencils, I would be internationally ranked. Despite my penchant for losing pencils, I never seem to lose notebooks or journals. Knowing this, I fastened my pencil to my journal, and whenever I needed it, I would remove it from the elastic, use it, and return it to its place. When it was time for me to retire that journal, I simply replaced it with another, and I kept the pencil there.</p>
-<p>As of recently, I have discovered that my pencil is slightly shorter than my phone, so it fits in my pocket quite nicely. I like the idea of always having the pencil handy, but I still wanted a notebook for it, so I made one. The cover of the notebook is made from an old poster of Café Terrace at Night, and it fits snugly in my pocket, just between my leg and my phone. The pages of the notebook are covered in diagrams and equations from my observations of the <a href="/celestial-navigation-part-3">equinox sunset</a> and the <a href="/celestial-navigation-part-4">solar eclipse</a>, all drawn by the pencil. </p>
-<p>A brief aside, pen and pencil don’t have the same etymology. While pen comes from the Latin <em>penna</em>, meaning feather, pencil comes from the Latin <em>penicillus</em>, meaning brush. <em>Penicillus</em> has its roots in the Latin word for <em>tail</em>, not <em>feather</em>. As it turns out, <em>penicillus</em> is also the origin of the name of the antibiotic, penicillin. I like to imagine that Alexander Fleming was recording his observations with a pencil when he discovered penicillin, though that may just be wishful thinking.</p>
-<p>I don’t think my pencil will ever be used to document anything as monumental as the discovery of penicillin. The pencil is great—don’t get me wrong—but I do sometimes wonder what impact the pencil has had on my discoveries. How would my <a href="/publications/">research</a> be different without that pencil? What about my <a href="/a-phoenix-a-dragon-and-lots-of-humanoids-designs-from-the-last-two-months">art</a>? I suppose I can’t know for sure, but I doubt much would change. Pencils only mark what you tell them to mark, erase what you tell them to erase. They can’t tell you the answer or finish the story; that’s something you do. Besides some negligible improvements to quality-of-life, the pencil itself doesn’t do much of anything. </p>
-<p>I was hoping that after so many months using the same pencil, I would gain some profound insight, as if the pencil would reveal some previously unknown truth. I waited, diligently recording my thoughts and observations through this single instrument. I’ve carried it in my bag or on my person during every waking moment. Today, I’m writing this story because that day has finally come. I now know the truth. After 500 days, I’ve finally learned that it’s just a pencil.</p>
-]]></content>
   </entry>
   <entry>
     <title>The Test Tree</title>
@@ -1175,6 +1175,56 @@
 ]]></content>
   </entry>
   <entry>
+    <title>Using Math to Make Friends</title>
+    <url>/using-math-to-make-friends/</url>
+    <content><![CDATA[<p>About a year ago, I realized I was showing symptoms of the latest global epidemic. It developed slowly, but by the time I noticed, the condition had already taken hold. I had become the latest casualty of what is now being dubbed the Loneliness Epidemic. </p>
+<p>The symptoms were incessant: wallowing, restless solitude, and feeling alone on this planet. Fortunately, there are effective treatments, but you won’t find them at a pharmacy. Instead, researchers identified a class of active ingredients that can be synthesized at home and used for long-term treatment. Those ingredients are friends.</p>
+<p>Unfortunately, synthesizing friends is a laborious process, and I haven’t done organic lab work in years. So, rather than trying to brute-force the problem, I turned to mathematics to optimize the process. If friendship is the cure, then perhaps a mathematical approach could help optimize the production process.</p>
+<p>Standard treatment plans for loneliness typically recommend two, straightforward goals: have many friends and see them often. The goals are simple, but they’re not easy. To achieve these two goals, I developed three questions:</p>
+<ol>
+<li>Who should I befriend first?</li>
+<li>How can I build a friendship efficiently?</li>
+<li>Who should I befriend next?</li>
+</ol>
+<p>I decided on these questions because they create a natural strategy for approaching the problem. Once the questions are answered, I can start with step 1, then repeat steps 2 and 3 until I have synthesized a sufficient number of friends. </p>
+<h2 id="1-Selecting-the-First-Friend"><a href="#1-Selecting-the-First-Friend" class="headerlink" title="1. Selecting the First Friend"></a>1. Selecting the First Friend</h2><p>As someone with no friends at the moment, the first friend will be the hardest to make. This isn’t about feeling nervous—it’s mathematically more difficult, and I know that because of network theory. Network theory is the study of entities and their connections, and it’s used to study things like power grids, airports, and social networks. One of the most common principles in network theory is that social networks follow a hub-and-spoke structure. In a hub-and-spoke network, there are a few well-connected individuals (hubs), and most others are less connected (spokes). Hubs are statistically better at building new connections than spokes, and since I have no connections, that makes me a spoke. </p>
+<p>While the math says the odds are against me, I can actually use this knowledge to my advantage. Technically, my first friend could be anyone, but if I choose a hub as my first friend, then this will give me massive advantages going forward.</p>
+<p>The first advantage is triadic closure. Triadic closures are connections formed by mutual association. If I befriend person A, and person A knows person B, then A might say, “Hey, have you met my friend B?” and suddenly, I’ve made another friend. In this way, friendship is a positive feedback loop. The more friends you have, the easier it becomes to make even more friends. Befriending a hub accelerates this process. </p>
+<p>The second advantage is preferential attachment. Barabási and Albert showed that people who are already well-connected tend to gain new connections at a faster rate. This is separate from triadic closure, because even complete strangers to the network are still more likely to befriend hubs. If I befriend a hub, I will be exposed to more people at a faster rate simply by mutual association.</p>
+<p>For these two reasons, the best choice for a first friend is a hub: someone who has many connections and naturally attracts more. Choosing an optimal first friend is critical, as it will determine the trajectory of my social network development. </p>
+<h2 id="2-Modeling-Friendship-Dynamics"><a href="#2-Modeling-Friendship-Dynamics" class="headerlink" title="2. Modeling Friendship Dynamics"></a>2. Modeling Friendship Dynamics</h2><p>While network theory helps explain large-scale friendship patterns, it doesn’t tell us how to build connections on an individual level. For my plan, I need to understand how to actually build connections with people. Building and maintaining friendships requires time and energy, but knowing how to allocate those resources efficiently is still unclear. I need a way to analyze different friendship strategies and measure which one is most effective.</p>
+<p>To that end, I created a model for friendship strength, denoted by <em>f</em>, which varies over time <em>t</em> (in days). </p>
+<p>$$\frac{df}{dt} &#x3D; -\frac{\alpha}{f} + E(t)$$</p>
+<p>In this model, the first term represents <strong>friendship decay</strong>, because without effort, friendships will weaken over time. Strong friendships decay slowly, but weak ones fade quickly. The decay rate is determined by a constant <em>α &gt; 0</em>. The second term, <em>E(t)</em>, represents <strong>effort</strong>, which is the energy put into maintaining a friendship. Naturally, this assumes that the effort is well-received by the other person.</p>
+<p>A higher score means a stronger friendship, while a score of 0 means you’re strangers. This model is also compatible with standard social network models. Interpreted through the lens of a social network, if two people have a connection with a strength of <em>f</em>, then the inverse of <em>f</em> represents their distance in the network. Similarly, a friendship strength of 0 implies infinite distance, which again means they are complete strangers.</p>
+<p>Using this model, we can test different strategies for the effort <em>E(t)</em> to determine which one is the most effective for building and maintaining friendships. I began where all friendships begin—the first impression. In my model, the first impression is represented by <em>f(0)</em>, which I set to 1 for simplicity. Now that we have <em>f(0)</em>, we can also determine the decay constant. I will assume that if I never follow up with someone after the first impression, they will likely forget me in about a month. This requires a decay constant of <em>α</em> &#x3D; 0.0167.</p>
+<p>Assuming I can invest 12 units of effort per year, I tested three strategies:</p>
+<ol>
+<li>Frontloading: putting more effort at the beginning.</li>
+<li>Uniform: evenly spacing effort throughout the year.</li>
+<li>Backloading: starting slow, then increasing the effort over time.</li>
+</ol>
+<p>For this simulation, each interaction uses the same amount of effort as the initial impression. This is clearly not a lot of effort, but because I want to get useful information from this simulation, underestimating effort is safer than overestimating. Below are the results of simulating a year of friendship with each strategy.</p>
+<p><img src="/images/friend-data.png"></p>
+<p>While the equation and simulation may look abstract, the insight they reveal is deeply human: early effort matters most. Weak friendships decay too easily, but once the connection is strong enough, it decays very slowly. Thus, the optimal strategy is to invest heavily at the beginning of the friendship. Of course, it would be ridiculous for me to just stop seeing my friends, especially since one of my goals is to see them often, so the strategy will likely begin with frontloading, which will then transition to uniform effort after some period of time.</p>
+<h2 id="3-Expanding-the-Network"><a href="#3-Expanding-the-Network" class="headerlink" title="3. Expanding the Network"></a>3. Expanding the Network</h2><p>As mentioned earlier, one friend is not enough. In selecting my next friend, the most natural choice is someone in close proximity to my first friend. This is especially clear from the findings in section 1. However, while choosing someone close would be easy, that approach is suboptimal. Instead, I’ll do the opposite. I will seek connections outside my existing circles.</p>
+<p>Network theory shows that people tend to form local clusters, such as groups of coworkers or classmates. Befriending my first friend’s friends would likely keep me in the same cluster, limiting my exposure to new connections. </p>
+<p>Instead, I will use an observation from the Watts-Strogatz model, which demonstrates the importance of non-local connections. When a network has just a few non-local connections, this can expose entire communities to each other simply by mutual association. Because of their importance in bringing people together, these non-local connections cause the “small world” effect, in which people who should have been far apart are suddenly very close. Since the small world effect is so important when being exposed to new people, I should focus on building small world connections. </p>
+<p>Therefore, my next friend should be non-local. Additionally, they should also be a hub for the reasons outlined in section 1. To be clear, I can—and will—still be friends with my friends’ friends, but for optimal network expansion, I will prioritize well-connected people in entirely different social circles.</p>
+<h2 id="Evaluation"><a href="#Evaluation" class="headerlink" title="Evaluation"></a>Evaluation</h2><p>Part of me developed this optimized friendship strategy as a joke about being a lonely mathematician. However, this method turned out to be surprisingly effective. I won’t share every detail and outcome, but the results speak for themselves. I have friends, I spend time with them, and I no longer feel alone.</p>
+<p>Yes, my approach was calculated and mechanical—antithetical to the way we’re “supposed” to make friends, but in a world so heavily optimized for distraction and disconnection, it felt nice to fight back with a little optimization of my own. </p>
+<p>There are still days when I interact with no one, but now, I get to choose when those days happen. I don’t wallow, I enjoy solitude when it comes, and most importantly, I don’t feel alone on this planet. On the days I want to be with other people, I have friends I can turn to. Speaking of, if you’ll excuse me, I have some friends to meet.</p>
+<hr>
+<h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ol>
+<li><a href="https://en.wikipedia.org/wiki/Network_theory">Network Theory</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Barab%C3%A1si%E2%80%93Albert_model">Barabási-Albert Model</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Watts%E2%80%93Strogatz_model">Watts-Strogatz Model</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Triadic_closure">Triadic Closure</a></li>
+<li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10772224/">The Loneliness Epidemic</a></li>
+</ol>
+]]></content>
+  </entry>
+  <entry>
     <title>What is Gibberish?</title>
     <url>/what-is-gibberish/</url>
     <content><![CDATA[<p>Gibberish. Jibber-jabber. Gobbledygook. They’re all words for the same idea: nonsense speech. When someone is speaking gibberish, they make absolutely no sense. You can’t derive any meaning from their words. Despite the excessive amount of language being used, whether actual words or just random syllables, there is no information being conveyed. Even the message, “there is no information being conveyed” is not conveyed through gibberish. Gibberish is meaningless, and I want to know how.</p>
@@ -1184,6 +1234,22 @@
 <p>From a practical perspective, producing improbable speech may seem like a difficult task, but with the advent of LLMs, this becomes much easier. Modern LLMs trained on the majority of the readable internet are essentially fancy probability distributions of existing text. Unfortunately, asking ChatGPT to produce improbable speech wouldn’t work, because it must produce high-probability speech by default. Just to be sure, I tested this, and it basically came up with a list of silly nouns, mostly animals, food, and space stuff, but that’s not meaningless enough, since it’s a vaguely coherent list. Instead, I modified the behavior of GPT-2 to produce low-probability text while still sticking to English, kinda. I started with the seed, “The following is gibberish:”. Here’s what it came up with.</p>
 <p>The following is gibberish:iability interior markup markup Starship markup Starshipnever Afghansaviouraviour pastenever proclamation Netherlands circumstance Starship Computingaviour bould Jackie Lady Lady Lady daytime Lady Lady pulmonary drill Harbaugh forcefully partnering dissu disciplined contradict Harbaugh dissuclaimed 323 Afghanskeyes Narr interior Weather Cookies Cookies Cookies Cookies Cookies Cookies</p>
 <p>I still have to iron out some kinks, but I do think this is a promising start. My working theorem on meaningless speech will hopefully lead to the completion of GibberishGPT, because the world clearly needs more useless LLMs.</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>What My Math Degree Taught Me About Life</title>
+    <url>/what-my-math-degree-taught-me-about-life/</url>
+    <content><![CDATA[<p>I feel like most people don’t really understand what math students learn in university. Most people tend to assume we get really good at solving for 𝑥, and that we know all the calculus rules, and that we can tell you what an 18% tip would be for a $34.50 bill off the top of our heads. The truth is that most of us don’t learn any of this during the course of our degree, or if we do, it’s only in the first year, and then never again. Disclaimer: this is from the perspective of a pure mathematician.</p>
+<p>What you actually learn in a math degree is formal logic. Each course is meant to improve your logic and proof-writing skills through the same format. First, the professor gives us a list of axioms—fundamental statements we assume to be true. We don’t know why those axioms are important, but we don’t question them. We simply assume them to be true. Once we have the axioms, the rest of the course is about understanding what else we can logically conclude from these statements. It’s not about solving problems. It’s about understanding what conclusions we can make from some starting conditions. After you take a bunch of courses and graduate, you forget some of the definitions and axioms, but those formal logic and proof skills stick around.</p>
+<p>It wasn’t until I finished all my math courses that I actually started wondering where those definitions and axioms came from. I mean, technically, you could come up with any set of logical statements and study their conclusions, so why did we study what we studied? Well, most of the axioms we cover are supposedly quite useful. Everything we learn comes from a sort of natural selection process that spans centuries of mathematics, filtering out the bad abstractions, leaving us with only the most useful tools. I wouldn’t know anything about this, though, because my professors never told me why we were studying a particular set of axioms. I had to learn this later.</p>
+<p>My math degree didn’t teach me blind trust, however. Quite the contrary, we had to rigorously justify every claim we made, no matter how trivial. I recall once having to prove that the square root of an even square was even, and as I sat there in tedious agony, our professor reminded us that his job was to break our intuition, because our intuition was wrong. So, following the completion of my math degree, I started practicing that skill of challenging my assumptions, but this time on the axioms themselves.</p>
+<p>Most axioms are broad abstractions for universal concepts, like distance or combining things or infinity (trust me, infinity is incredibly useful, but that’s for another time). As useful as these were, I wanted to try something new. What if you started with a very specific object to study, like bread? Can you construct axioms about bread? And if you did, what could you prove? Doing math about bread sounds ridiculous, but that’s <a href="/projects/optimal_slicing.pdf">exactly what I did</a>, because axioms are arbitrary.</p>
+<p>I really mean that; every axiom is arbitrary. You can just come up with anything you want, because the real work is not in the axioms, it’s in proving things using those axioms. Axioms are everywhere, and in everything we do, because axioms are just assumptions. We assume the sun will rise each morning. We assume our relatives will say questionable things at the family gathering. We assume our favorite restaurant will always serve our favorite dish. Our lives are built on assuming certain things are true, because it’s really hard to live life without assumptions.</p>
+<p>In our lives, one of the few choices we are given is the choice of what assumptions to make, and yet, we somehow get assigned very harmful axioms that we never question. Things like “I am not smart,” or “I am not creative,” or “I am not athletic,” are all assumptions, nothing more, and yet, they shape our identities. The axioms of non-creativity and non-athleticism plagued me for many years, and dropping them didn’t actually change my creativity or athleticism directly, but they changed what conclusions I could reach about myself.</p>
+<p>Not every axiom has been easy to change. Life has this way of making you feel like you are always behind, which just so happens to be an axiom. I suppose there is some sort of masochistic utility to this, because if you believe that working hard can get you ahead, then if you work hard, you will be ahead, and you’re not ahead right now, but you want to be, so you should work hard. This, unfortunately, is flawed logic, because if you axiomatically believe you are always behind, then getting ahead contradicts your axiom, so “working hard can get you ahead” is a false statement. Working hard cannot get you ahead.</p>
+<p>You could try to avoid this contradiction by changing the axiom, but that only leads to more problems. If you start assuming you’re always ahead, then your brain will fight you, because that’s impossible—how could you always be ahead? If you take this to its logical conclusion, you start wondering why you would be ahead, and what exactly you’re ahead of, and if anyone could ever actually be ahead. The axiom of being ahead might be more useful than the axiom of being behind, but the best option is likely to not be anywhere.</p>
+<p>Changing axioms isn’t the same as maintaining delusional beliefs or lying to yourself. Axioms are only as useful as their conclusions, and if you keep concluding contradictions, then the axioms are useless. Assuming that you don’t need your medication when you clearly do means your body is forced to pay the price of your contradiction. Your axioms should still be true, but that doesn’t mean they have to be limiting. </p>
+<p>This is what a math degree teaches you. Everything—even life itself—is a set of axioms and their conclusions. The work of a mathematician is to understand a set of axioms, to expand the system of logic, and to reach conclusions no one has grasped before. Looking back on what I learned at university, I am reminded of a piece of humorous wisdom I received in my youth, “Life is like a math textbook, full of problems.” While I agree that life is like a math textbook, I disagree that this is because they are full of problems. Instead, as a system of axioms and conclusions, life is like a math textbook: full of strange assumptions, confusing logic, and wild possibilities. <p style="text-align: right;">□</p></p>
 ]]></content>
   </entry>
   <entry>
@@ -1209,6 +1275,68 @@
 <li><a href="https://www.forbes.com/sites/barrycollins/2024/01/31/the-tiny-caribbean-island-thats-making-a-fortune-from-ai/">The Tiny Caribbean Island That’s Making A Fortune From AI</a></li>
 </ol>
 ]]></content>
+  </entry>
+  <entry>
+    <title>Ronik Bhaskar</title>
+    <url>/about/index.html</url>
+    <content><![CDATA[<style>
+.profile-image-ronik {
+    width: 100%!important;
+    margin: 1rem;
+    margin-top: 0;
+    margin-left: 0;
+    float: left!important;
+}
+.side-bar-about {
+    width: min(max(25%,6rem),100%)!important;
+    /* height: 100dvh; */
+    padding: 1.5rem;
+    padding-top: 0;
+    padding-left: 0;
+    margin: 1rem;
+    margin-top: 0;
+    margin-left: 0;
+    float: left!important;
+}
+</style>
+
+<div class="side-bar-about">
+<img src="ronik_2.jpg" class="profile-image-ronik" alt="Ronik looking up at a plant."> 
+<h4>Quick Links:</h4>
+<div>
+    <a href="/publications/">Publications</a> </br>
+    <a href="https://scholar.google.com/citations?user=dqTwtegAAAAJ&hl=en&oi=ao">Google Scholar</a> </br>
+    <a href="/about/CV.pdf">CV</a> </br>
+    <a href="https://github.com/ronikbhaskar">GitHub</a>
+</div>
+</div>
+
+<p>I am a 1st year PhD student at the University of Chicago. I work in the <a href="https://sandlab.cs.uchicago.edu/index.html">SAND Lab</a> where I’m fortunate to be co-advised by Prof. <a href="http://people.cs.uchicago.edu/~htzheng/">Heather Zheng</a> and Prof. <a href="http://people.cs.uchicago.edu/~ravenben/">Ben Y. Zhao</a>. </p>
+<p>I study the security and privacy issues that arise as machine learning systems become more ubiquitous, and I leverage these insights to develop tools to empower individuals against unethical AI practices.</p>
+<!-- I'm broadly interested in security and privacy with a recent focus on adversarial machine learning. If you're a digital artist, or you're interested in generative AI, I recommend checking out [Glaze](https://glaze.cs.uchicago.edu). I'm proud to work on this project and hopefully similar ones in the future. -->
+
+<!-- While I am relatively new to research, I have made some observations. Computer security research exists in a delicate ethical space. Every discovered vulnerability is an opportunity for attack, but it is also a potential warning. Every defense offers protection to some group, but it also risks unintended side effects and consequences for future technology. As I continue my academic journey, I hope to learn how to meaningfully consider the implications of my work, regardless of the field I research. -->
+
+<h2 id="Recent-Publications"><a href="#Recent-Publications" class="headerlink" title="Recent Publications"></a>Recent Publications</h2><p>S. Wu, <strong>R, Bhaskar</strong>, A. Ha, S. Shan, H. Zheng, BY. Zhao. <a href="https://arxiv.org/abs/2506.21874">On the Feasibility of Poisoning Text-to-Image AI Models via Adversarial Mislabeling</a><br><em>Conference on Computer and Communications Security (CCS), 2025.</em></p>
+<!-- ```bash
+# My email:
+echo "cmJoYXNrYXJAdWNoaWNhZ28uZWR1Cg==" | base64 --decode
+``` -->
+
+<!-- I was never the creative one or the artistic one. I was always "that guy that's good at math." -->
+
+<!-- Then COVID hit. -->
+
+<!-- In December of 2020, a welcoming group of friends adopted me into their Discord server. We joked about building more friends, but some part of me kept whispering, *Maybe that's not a bad idea.* So, that month, I built a working [discord bot](/projects/discord_bot). His name was Igor, and despite the lack of functionality, he was full of life and personality. The server members loved him like a pet.  -->
+
+
+<!-- A few months later, while chatting about the chaos of life with some filmmakers, they mentioned the butterfly effect. I asked about the origin of the phrase, and a few hours later, I found myself stumbling down a rabbit hole of differential equations and strange attractors. A week later, I recreated Lorenz's Butterfly Effect—the beginnings of the [math art](/projects/math-art) project. -->
+
+<!-- This continued incessantly. Someone would throw out a phrase or idea, and I would run with it. As I continued creating, I started finding my voice in code. Despite everything I made, it took me months to finally call myself creative, which would have been impossible on my own. My friends reminded me that I was more than test scores and good grades, and I hope they know how grateful I am. -->
+
+<!-- Without the people closest to me providing constant support and inspiration and critiques, I wouldn't still be creating. If that's you, thanks.  -->
+
+<!-- *Add to the [dialogue](/chat), and become part of my story.* -->]]></content>
   </entry>
   <entry>
     <title>Gallery Ext</title>
@@ -1505,68 +1633,6 @@
 ]]></content>
   </entry>
   <entry>
-    <title>Ronik Bhaskar</title>
-    <url>/about/index.html</url>
-    <content><![CDATA[<style>
-.profile-image-ronik {
-    width: 100%!important;
-    margin: 1rem;
-    margin-top: 0;
-    margin-left: 0;
-    float: left!important;
-}
-.side-bar-about {
-    width: min(max(25%,6rem),100%)!important;
-    /* height: 100dvh; */
-    padding: 1.5rem;
-    padding-top: 0;
-    padding-left: 0;
-    margin: 1rem;
-    margin-top: 0;
-    margin-left: 0;
-    float: left!important;
-}
-</style>
-
-<div class="side-bar-about">
-<img src="ronik_2.jpg" class="profile-image-ronik" alt="Ronik looking up at a plant."> 
-<h4>Quick Links:</h4>
-<div>
-    <a href="/publications/">Publications</a> </br>
-    <a href="https://scholar.google.com/citations?user=dqTwtegAAAAJ&hl=en&oi=ao">Google Scholar</a> </br>
-    <a href="/about/CV.pdf">CV</a> </br>
-    <a href="https://github.com/ronikbhaskar">GitHub</a>
-</div>
-</div>
-
-<p>I am a 1st year PhD student at the University of Chicago. I work in the <a href="https://sandlab.cs.uchicago.edu/index.html">SAND Lab</a> where I’m fortunate to be co-advised by Prof. <a href="http://people.cs.uchicago.edu/~htzheng/">Heather Zheng</a> and Prof. <a href="http://people.cs.uchicago.edu/~ravenben/">Ben Y. Zhao</a>. </p>
-<p>I study the security and privacy issues that arise as machine learning systems become more ubiquitous, and I leverage these insights to develop tools to empower individuals against unethical AI practices.</p>
-<!-- I'm broadly interested in security and privacy with a recent focus on adversarial machine learning. If you're a digital artist, or you're interested in generative AI, I recommend checking out [Glaze](https://glaze.cs.uchicago.edu). I'm proud to work on this project and hopefully similar ones in the future. -->
-
-<!-- While I am relatively new to research, I have made some observations. Computer security research exists in a delicate ethical space. Every discovered vulnerability is an opportunity for attack, but it is also a potential warning. Every defense offers protection to some group, but it also risks unintended side effects and consequences for future technology. As I continue my academic journey, I hope to learn how to meaningfully consider the implications of my work, regardless of the field I research. -->
-
-<h2 id="Recent-Publications"><a href="#Recent-Publications" class="headerlink" title="Recent Publications"></a>Recent Publications</h2><p>S. Wu, <strong>R, Bhaskar</strong>, A. Ha, S. Shan, H. Zheng, BY. Zhao. <a href="https://arxiv.org/abs/2506.21874">On the Feasibility of Poisoning Text-to-Image AI Models via Adversarial Mislabeling</a><br><em>Conference on Computer and Communications Security (CCS), 2025.</em></p>
-<!-- ```bash
-# My email:
-echo "cmJoYXNrYXJAdWNoaWNhZ28uZWR1Cg==" | base64 --decode
-``` -->
-
-<!-- I was never the creative one or the artistic one. I was always "that guy that's good at math." -->
-
-<!-- Then COVID hit. -->
-
-<!-- In December of 2020, a welcoming group of friends adopted me into their Discord server. We joked about building more friends, but some part of me kept whispering, *Maybe that's not a bad idea.* So, that month, I built a working [discord bot](/projects/discord_bot). His name was Igor, and despite the lack of functionality, he was full of life and personality. The server members loved him like a pet.  -->
-
-
-<!-- A few months later, while chatting about the chaos of life with some filmmakers, they mentioned the butterfly effect. I asked about the origin of the phrase, and a few hours later, I found myself stumbling down a rabbit hole of differential equations and strange attractors. A week later, I recreated Lorenz's Butterfly Effect—the beginnings of the [math art](/projects/math-art) project. -->
-
-<!-- This continued incessantly. Someone would throw out a phrase or idea, and I would run with it. As I continued creating, I started finding my voice in code. Despite everything I made, it took me months to finally call myself creative, which would have been impossible on my own. My friends reminded me that I was more than test scores and good grades, and I hope they know how grateful I am. -->
-
-<!-- Without the people closest to me providing constant support and inspiration and critiques, I wouldn't still be creating. If that's you, thanks.  -->
-
-<!-- *Add to the [dialogue](/chat), and become part of my story.* -->]]></content>
-  </entry>
-  <entry>
     <title>Gallery</title>
     <url>/gallery/index.html</url>
     <content><![CDATA[<style>
@@ -1758,21 +1824,6 @@ echo "cmJoYXNrYXJAdWNoaWNhZ28uZWR1Cg==" | base64 --decode
 ]]></content>
   </entry>
   <entry>
-    <title>Full Stack Chat App</title>
-    <url>/projects/chat.html</url>
-    <content><![CDATA[<p>UPDATE: This project is very broken. It was fun while it lasted.</p>
-<p>Chat with me <a href="/chat">here</a>. (You’ll know it’s me because my name is <strong>bold</strong>.)</p>
-<h2 id="Designing-the-UI"><a href="#Designing-the-UI" class="headerlink" title="Designing the UI"></a>Designing the UI</h2><p>I don’t create in a vacuum. The people around me drastically influence my creations. Our conversations feel like dialogue in a script. There’s a purpose to everything being said. It’s driving the plot somewhere, and I would never reach the end without their help. </p>
-<p>My chat app doesn’t look like Messages or WhatsApp or Slack or Discord because I don’t see it as a chat app. It’s a continuation of the dialogue happening all around me, which is why <strong>I built the chat app to look like a movie script.</strong> The header has an act number, the location is specified, we get a general description, and the rest that follows is the dialogue.</p>
-<h2 id="Engineering-the-App"><a href="#Engineering-the-App" class="headerlink" title="Engineering the App"></a>Engineering the App</h2><p>I’m incredibly grateful for the power and flexibility of GitHub pages (as you can tell by the URL). That being said, the documentation says they only support static sites, or so they claim. Depending on how much functionality you want from the site, you can do user authentication and even have hooks checking for database updates, updating the UI in real-time. </p>
-<p><strong>For the backend, I used Google Firebase.</strong> Their free tier, the Spark plan, is incredibly powerful, and if you’re getting enough traffic to exceed its limits, you have the demand to monetize your product. I don’t expect heavy traffic, so the Spark plan is enough for me.</p>
-<p>Firebase allows for for Google Authentication, along with plenty of other auth providers. This makes it mildly more difficult to spam the site with fake accounts, and the authentication redirect keeps auth traffic away from GitHub. It’s a win-win.</p>
-<p><strong>For the frontend, I used React.</strong> This isn’t an incredibly intense, so vanilla JS was an option, but React’s libraries wrapping Firebase query snapshots made development much easier. </p>
-<p>There are tutorials and articles out there for building apps with React and Firebase, but relevant ones used Firebase v8 instead of v9, which transitions away from the namespacing. Luckily, Firebase’s documentation covers translating v8 into v9.</p>
-<hr>
-<p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
-  </entry>
-  <entry>
     <title>Anti-ELIZA</title>
     <url>/projects/anti-eliza.html</url>
     <content><![CDATA[<p><em>Conditioning away the human level of trust imparted to AI systems. Inspired by ELIZA. <a href="/anti-eliza/">Test it out.</a></em></p>
@@ -1790,6 +1841,21 @@ echo "cmJoYXNrYXJAdWNoaWNhZ28uZWR1Cg==" | base64 --decode
 <li><a href="https://arxiv.org/abs/2310.20216">ELIZA Beat GPT-3.5 in a Turing Test</a></li>
 </ol>
 <h2 id="The-ELIZA-Algorithm"><a href="#The-ELIZA-Algorithm" class="headerlink" title="The ELIZA Algorithm"></a>The ELIZA Algorithm</h2><figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">def</span> <span class="title function_">respond</span>(<span class="params">self, statement</span>):</span><br><span class="line">    <span class="keyword">for</span> pattern, responses <span class="keyword">in</span> self.patterns:</span><br><span class="line">        <span class="keyword">match</span> = re.search(pattern, statement.strip(<span class="string">&quot; .!?&quot;</span>), re.IGNORECASE)</span><br><span class="line">        <span class="keyword">if</span> <span class="keyword">match</span>:</span><br><span class="line">            response = random.choice(responses).<span class="built_in">format</span>(*<span class="keyword">match</span>.groups())</span><br><span class="line">            <span class="keyword">return</span> response</span><br><span class="line">    <span class="keyword">return</span> self.default</span><br></pre></td></tr></table></figure>]]></content>
+  </entry>
+  <entry>
+    <title>Full Stack Chat App</title>
+    <url>/projects/chat.html</url>
+    <content><![CDATA[<p>UPDATE: This project is very broken. It was fun while it lasted.</p>
+<p>Chat with me <a href="/chat">here</a>. (You’ll know it’s me because my name is <strong>bold</strong>.)</p>
+<h2 id="Designing-the-UI"><a href="#Designing-the-UI" class="headerlink" title="Designing the UI"></a>Designing the UI</h2><p>I don’t create in a vacuum. The people around me drastically influence my creations. Our conversations feel like dialogue in a script. There’s a purpose to everything being said. It’s driving the plot somewhere, and I would never reach the end without their help. </p>
+<p>My chat app doesn’t look like Messages or WhatsApp or Slack or Discord because I don’t see it as a chat app. It’s a continuation of the dialogue happening all around me, which is why <strong>I built the chat app to look like a movie script.</strong> The header has an act number, the location is specified, we get a general description, and the rest that follows is the dialogue.</p>
+<h2 id="Engineering-the-App"><a href="#Engineering-the-App" class="headerlink" title="Engineering the App"></a>Engineering the App</h2><p>I’m incredibly grateful for the power and flexibility of GitHub pages (as you can tell by the URL). That being said, the documentation says they only support static sites, or so they claim. Depending on how much functionality you want from the site, you can do user authentication and even have hooks checking for database updates, updating the UI in real-time. </p>
+<p><strong>For the backend, I used Google Firebase.</strong> Their free tier, the Spark plan, is incredibly powerful, and if you’re getting enough traffic to exceed its limits, you have the demand to monetize your product. I don’t expect heavy traffic, so the Spark plan is enough for me.</p>
+<p>Firebase allows for for Google Authentication, along with plenty of other auth providers. This makes it mildly more difficult to spam the site with fake accounts, and the authentication redirect keeps auth traffic away from GitHub. It’s a win-win.</p>
+<p><strong>For the frontend, I used React.</strong> This isn’t an incredibly intense, so vanilla JS was an option, but React’s libraries wrapping Firebase query snapshots made development much easier. </p>
+<p>There are tutorials and articles out there for building apps with React and Firebase, but relevant ones used Firebase v8 instead of v9, which transitions away from the namespacing. Luckily, Firebase’s documentation covers translating v8 into v9.</p>
+<hr>
+<p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
   </entry>
   <entry>
     <title>Discord Bot</title>
@@ -2353,24 +2419,22 @@ echo "cmJoYXNrYXJAdWNoaWNhZ28uZWR1Cg==" | base64 --decode
 ]]></content>
   </entry>
   <entry>
-    <title>A Compass That Can Take You Anywhere</title>
-    <url>/projects/locator.html</url>
-    <content><![CDATA[<p><em>Bringing back the fun and adventure of the journey. Link at the bottom of the article.</em></p>
-<h2 id="Map-Apps-aren’t-Maps"><a href="#Map-Apps-aren’t-Maps" class="headerlink" title="Map Apps aren’t Maps"></a>Map Apps aren’t Maps</h2><p>Finding my destination is too easy. Anytime I want to go anywhere, there are only two possibilities. Either I already know how to get there, or I use a map app. In no case am I likely to get lost or take a suboptimal route, and without those, there is no adventure in the journey. I’m simply following a fixed set of directions, either the ones I have memorized or the ones from my phone.</p>
-<p>This is mainly because map apps aren’t maps. With actual paper maps, you study the map. You locate yourself. You locate your own destination. You devise your own path with road names and landmarks, and inevitably, you get a little lost. </p>
-<p>With map apps, however, you do none of this. The app tells you where you are, where to go, and exactly how to get there. Every set of stairs, every bus number, every lane change, it’s all right there on the “map” on your phone. Sure, this method gets you to your destination, but it makes the journey harder to enjoy. Even if you’re going somewhere new, the “map” will tell you whether or not it’s open, where to enter, what the place is like. New places can’t surprise you, not really.</p>
-<h2 id="The-Case-for-Inefficiency"><a href="#The-Case-for-Inefficiency" class="headerlink" title="The Case for Inefficiency"></a>The Case for Inefficiency</h2><p>I understand there is a place and time for arriving promptly to your destination with perfect knowledge of where to go and what to do, but that shouldn’t have to be every time. If you’re going somewhere for fun, why not make the journey fun too? Take new routes, explore new places, be adventurous!</p>
-<p>Easier said than done. With almost no way to be lost, finding something new or unexpected during your journey isn’t common. When it does happen, it’s a treat, but that’s rare, and it shouldn’t be. There needs to be a way to navigate to new (or even old) places that makes the journey exciting while still getting you to your destination.</p>
-<h2 id="Introducing-the-Locator"><a href="#Introducing-the-Locator" class="headerlink" title="Introducing the Locator"></a>Introducing the Locator</h2><p>Inspired by the fake gadgets from Hollywood spy&#x2F;heist movies, I brought one to life. This Locator looks like a compass, but rather than pointing north, it points to your destination. It even tells you how far you are. These are the only two features. If you actually want to get to your destination, you need to figure out how. </p>
-<p>In theory, a locator device should easily get you straight to your destination, right? I mean, it’s pointing right at it. Unfortunately, while the Locator points right at your destination, roads and paths do not. While using the Locator, you have to contend with wide buildings, indirect roads, and difficult topography, all getting in your way. Simply going where the arrow points doesn’t work.</p>
-<p>And, once you’re at your destination, you need to figure out exactly what that is. Is it the shop over here? Maybe this spot here? In the process of figuring out where to go, you might find more places to explore along the way.</p>
-<h2 id="Sharing-the-Adventure"><a href="#Sharing-the-Adventure" class="headerlink" title="Sharing the Adventure"></a>Sharing the Adventure</h2><p>The adventures you have on journeys, big or small, are the ones worth sharing. Decipher a Locator with an accomplice, and watch as they pull you in directions you might have never considered. Or just give someone else a solo challenge by sending them a Locator and asking them to meet at the destination.</p>
-<p>All you need to do is use the <a href="/locator/creator/">Locator Creator</a> to make a new Locator with a new destination, and copy-paste the link into your phone’s browser. Once it’s up and running, it’ll take you wherever you want to go. The only question left is, where to next?</p>
+    <title>Math Art</title>
+    <url>/projects/math-art.html</url>
+    <content><![CDATA[<p>I discuss this project in my <a href="/about">about page</a>. The source code, along with an explanation of the project, can be found <a href="https://github.com/ronikbhaskar/math-art">here</a>.</p>
+<h2 id="Quick-Overview"><a href="#Quick-Overview" class="headerlink" title="Quick Overview"></a>Quick Overview</h2><p>The butterfly effect says that small changes can lead to drastically different results. This is the foundation of chaos theory. Sometimes, that chaos results in stunning patterns called strange attractors, and I’ve done my best to capture them here. It’s also what you see on the landing page of my site.</p>
+<h2 id="Strange-Attractors"><a href="#Strange-Attractors" class="headerlink" title="Strange Attractors"></a>Strange Attractors</h2><img src="math-art-gifs/static_halvorsen.gif" alt="The Halvorsen Attractor" />
+
+<br/>
+
+<img src="math-art-gifs/static_lorenz.gif" alt="The Lorenz Attractor" />
+
+<br/>
+
+<img src="math-art-gifs/static_aizawa.gif" alt="The Aizawa Attractor" />
+
 <hr>
-<h2 id="Similar-Projects"><a href="#Similar-Projects" class="headerlink" title="Similar Projects"></a>Similar Projects</h2><ol>
-<li><a href="/chatgpt-mini-projects/daylight/">a clock that only tells you how many hours of daylight you have left (meant for mobile)</a></li>
-</ol>
-]]></content>
+<p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
   </entry>
   <entry>
     <title>Turning Obsidian into a Markdown Editor</title>
@@ -2389,22 +2453,24 @@ echo "cmJoYXNrYXJAdWNoaWNhZ28uZWR1Cg==" | base64 --decode
 <p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
   </entry>
   <entry>
-    <title>Math Art</title>
-    <url>/projects/math-art.html</url>
-    <content><![CDATA[<p>I discuss this project in my <a href="/about">about page</a>. The source code, along with an explanation of the project, can be found <a href="https://github.com/ronikbhaskar/math-art">here</a>.</p>
-<h2 id="Quick-Overview"><a href="#Quick-Overview" class="headerlink" title="Quick Overview"></a>Quick Overview</h2><p>The butterfly effect says that small changes can lead to drastically different results. This is the foundation of chaos theory. Sometimes, that chaos results in stunning patterns called strange attractors, and I’ve done my best to capture them here. It’s also what you see on the landing page of my site.</p>
-<h2 id="Strange-Attractors"><a href="#Strange-Attractors" class="headerlink" title="Strange Attractors"></a>Strange Attractors</h2><img src="math-art-gifs/static_halvorsen.gif" alt="The Halvorsen Attractor" />
-
-<br/>
-
-<img src="math-art-gifs/static_lorenz.gif" alt="The Lorenz Attractor" />
-
-<br/>
-
-<img src="math-art-gifs/static_aizawa.gif" alt="The Aizawa Attractor" />
-
+    <title>A Compass That Can Take You Anywhere</title>
+    <url>/projects/locator.html</url>
+    <content><![CDATA[<p><em>Bringing back the fun and adventure of the journey. Link at the bottom of the article.</em></p>
+<h2 id="Map-Apps-aren’t-Maps"><a href="#Map-Apps-aren’t-Maps" class="headerlink" title="Map Apps aren’t Maps"></a>Map Apps aren’t Maps</h2><p>Finding my destination is too easy. Anytime I want to go anywhere, there are only two possibilities. Either I already know how to get there, or I use a map app. In no case am I likely to get lost or take a suboptimal route, and without those, there is no adventure in the journey. I’m simply following a fixed set of directions, either the ones I have memorized or the ones from my phone.</p>
+<p>This is mainly because map apps aren’t maps. With actual paper maps, you study the map. You locate yourself. You locate your own destination. You devise your own path with road names and landmarks, and inevitably, you get a little lost. </p>
+<p>With map apps, however, you do none of this. The app tells you where you are, where to go, and exactly how to get there. Every set of stairs, every bus number, every lane change, it’s all right there on the “map” on your phone. Sure, this method gets you to your destination, but it makes the journey harder to enjoy. Even if you’re going somewhere new, the “map” will tell you whether or not it’s open, where to enter, what the place is like. New places can’t surprise you, not really.</p>
+<h2 id="The-Case-for-Inefficiency"><a href="#The-Case-for-Inefficiency" class="headerlink" title="The Case for Inefficiency"></a>The Case for Inefficiency</h2><p>I understand there is a place and time for arriving promptly to your destination with perfect knowledge of where to go and what to do, but that shouldn’t have to be every time. If you’re going somewhere for fun, why not make the journey fun too? Take new routes, explore new places, be adventurous!</p>
+<p>Easier said than done. With almost no way to be lost, finding something new or unexpected during your journey isn’t common. When it does happen, it’s a treat, but that’s rare, and it shouldn’t be. There needs to be a way to navigate to new (or even old) places that makes the journey exciting while still getting you to your destination.</p>
+<h2 id="Introducing-the-Locator"><a href="#Introducing-the-Locator" class="headerlink" title="Introducing the Locator"></a>Introducing the Locator</h2><p>Inspired by the fake gadgets from Hollywood spy&#x2F;heist movies, I brought one to life. This Locator looks like a compass, but rather than pointing north, it points to your destination. It even tells you how far you are. These are the only two features. If you actually want to get to your destination, you need to figure out how. </p>
+<p>In theory, a locator device should easily get you straight to your destination, right? I mean, it’s pointing right at it. Unfortunately, while the Locator points right at your destination, roads and paths do not. While using the Locator, you have to contend with wide buildings, indirect roads, and difficult topography, all getting in your way. Simply going where the arrow points doesn’t work.</p>
+<p>And, once you’re at your destination, you need to figure out exactly what that is. Is it the shop over here? Maybe this spot here? In the process of figuring out where to go, you might find more places to explore along the way.</p>
+<h2 id="Sharing-the-Adventure"><a href="#Sharing-the-Adventure" class="headerlink" title="Sharing the Adventure"></a>Sharing the Adventure</h2><p>The adventures you have on journeys, big or small, are the ones worth sharing. Decipher a Locator with an accomplice, and watch as they pull you in directions you might have never considered. Or just give someone else a solo challenge by sending them a Locator and asking them to meet at the destination.</p>
+<p>All you need to do is use the <a href="/locator/creator/">Locator Creator</a> to make a new Locator with a new destination, and copy-paste the link into your phone’s browser. Once it’s up and running, it’ll take you wherever you want to go. The only question left is, where to next?</p>
 <hr>
-<p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
+<h2 id="Similar-Projects"><a href="#Similar-Projects" class="headerlink" title="Similar Projects"></a>Similar Projects</h2><ol>
+<li><a href="/chatgpt-mini-projects/daylight/">a clock that only tells you how many hours of daylight you have left (meant for mobile)</a></li>
+</ol>
+]]></content>
   </entry>
   <entry>
     <title>The Oracle Society</title>
