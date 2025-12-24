@@ -122,6 +122,16 @@
 ]]></content>
   </entry>
   <entry>
+    <title>Celestial Navigation, Part 2</title>
+    <url>/celestial-navigation-part-2/</url>
+    <content><![CDATA[<p>As a young person with little experience in the world, I am quite familiar with feeling unqualified. Far too often, I find myself given opportunities for which I have absolutely no preparation. It’s easier to recognize you’re unqualified for something when you meet the people who are qualified for the opportunity. I learned this a few years ago when I volunteered at an astronomy night for Cub Scouts. </p>
+<p>The event was run by the director of an institute doing cosmic microwave background experiments. Alongside the director, there were two student volunteers: myself and the president of the Ryerson Astronomical Society. Keep in mind, I knew next to nothing about astronomy at this point. I had seen some of Jupiter’s moons through a telescope, but that was about it. Naturally, whenever one of the scouts asked us a question about space, I would just defer to the president. Thankfully, the president was able to answer any questions the scouts had, and I ended up learning quite a bit through the answers.</p>
+<p>After a while, the scouts started working on an activity that didn’t require us to do much, so the president and I chatted for a bit. I had no reason to pretend like I knew anything about space, so I let myself ask very stupid questions. I probably could’ve googled how many constellations there were, but it ended up being a good way to start the conversation. As a bonus, I still remember there are 88 constellations, and I still remember a little about how the brightest stars in each constellation are named. The president also cracked a few jokes about Orion’s Sword which I thought were hilarious. If the old president ever sees this, thanks for being awesome.</p>
+<p>A few years later, I was in the middle of nowhere with my telescope, when I remembered those jokes about Orion’s Sword. Given the clear conditions, I decided to observe the three stars that make up the sword. Throughout the night, I watched as the sword moved across the sky when I noticed something strange. At its zenith, the sword appeared to be pointing straight down. By this point, I had already made my <a href="/student-of-life-celestial-navigation-part-1/">revelations about the north star</a>, so I quickly realized the sword was pointing south. When I pulled out my compass, the sword was a little off, but not by much, less than a degree. Living in the northern hemisphere, I wasn’t sure how this would hold for the rest of the night, so I waited a bit to observe it again. I followed the direction of the sword until I hit the horizon, and I checked the direction. This time, it was off by even more. As I expected, the Earth was getting in the way of being able to use Orion’s Sword to find south, but it still worked pretty well. With a bit of latitude correction, finding south using Orion’s Sword seemed absolutely possible, it would just require a bit of math. A project for another night, perhaps.</p>
+<p>It’s hard to believe that because of a joke I heard a few years ago, I learned about celestial navigation, but I suppose that’s what the student of life is about. A few years ago, I volunteered at an event for which I was extremely unqualified. I don’t quite know why I was given the opportunity, but I am extremely grateful. That opportunity, like so many others, has given me more than I could ever give. Even today, I’m still learning and growing from everything I have been given. Eventually, the day will come when I can offer more than I receive, but even then, I will still keep learning. I will still be a student of life.</p>
+]]></content>
+  </entry>
+  <entry>
     <title>Celestial Navigation, Part 1</title>
     <url>/celestial-navigation-part-1/</url>
     <content><![CDATA[<p>Back in August of 2023, I grabbed my telescope, told my parents not to wait for me, and drove into the middle of nowhere. Stargazing has become essential to my life, and I hadn’t been in a few months, so I was ready to go. The nights I go stargazing, I feel free, spending a few hours alone with the universe. I’m no astronomer by any means, but I enjoy studying the night sky. I’ll usually pick one celestial body to focus on, whether that be Jupiter and its moons or some distant nebula I can barely see. That night, I decided to study Polaris.</p>
@@ -135,16 +145,6 @@
 <p>If Polaris is a fixed point in the sky, then it lies along the Earth’s axis of rotation. That means, if you went to the North Pole and looked straight up, you would see Polaris. Anywhere else on Earth, Polaris acts like a beacon to the North Pole. That’s why Polaris never moves. That’s why it always points north. Satisfied, I lay down, enjoying my small victory. This peace lasts for approximately one minute before my brain starts asking questions again. This fixed point in the sky must have some interesting properties, so I close my eyes and think about Polaris geometrically. I can’t fully fathom how far away Polaris is, so I just pretend it’s infinitely far away. Under this assumption, if I draw a line from myself to Polaris, it’s parallel to the Earth’s axis of rotation. In this mental model, I draw a plane tangent to the Earth from where I am. The Earth may not be flat, but I can pretend it is locally for the sake of mathematics. With this little diagram in my head, I realize just how important the North Star is for navigation. If you can find the angle between Polaris and the horizon, that angle is your latitude. </p>
 <p>I pull out my notebook and a flashlight to make sure I did that calculation correctly. Yep, the angle between Polaris and the horizon is your latitude. <em>I can’t believe I just figured that out. Is this how astronomers figured out celestial navigation centuries ago?</em> I doubt I’ll have any more revelations for the rest of the night, so I relax on the ground, watching the other stars journey across the sky. As my watch passes midnight, I pack up my telescope, wave goodbye to the stars, and start heading home.</p>
 <p>I never did see the three stars that form Polaris, but it is a fixed point in the sky, so I’ll always know where to find it.</p>
-]]></content>
-  </entry>
-  <entry>
-    <title>Celestial Navigation, Part 2</title>
-    <url>/celestial-navigation-part-2/</url>
-    <content><![CDATA[<p>As a young person with little experience in the world, I am quite familiar with feeling unqualified. Far too often, I find myself given opportunities for which I have absolutely no preparation. It’s easier to recognize you’re unqualified for something when you meet the people who are qualified for the opportunity. I learned this a few years ago when I volunteered at an astronomy night for Cub Scouts. </p>
-<p>The event was run by the director of an institute doing cosmic microwave background experiments. Alongside the director, there were two student volunteers: myself and the president of the Ryerson Astronomical Society. Keep in mind, I knew next to nothing about astronomy at this point. I had seen some of Jupiter’s moons through a telescope, but that was about it. Naturally, whenever one of the scouts asked us a question about space, I would just defer to the president. Thankfully, the president was able to answer any questions the scouts had, and I ended up learning quite a bit through the answers.</p>
-<p>After a while, the scouts started working on an activity that didn’t require us to do much, so the president and I chatted for a bit. I had no reason to pretend like I knew anything about space, so I let myself ask very stupid questions. I probably could’ve googled how many constellations there were, but it ended up being a good way to start the conversation. As a bonus, I still remember there are 88 constellations, and I still remember a little about how the brightest stars in each constellation are named. The president also cracked a few jokes about Orion’s Sword which I thought were hilarious. If the old president ever sees this, thanks for being awesome.</p>
-<p>A few years later, I was in the middle of nowhere with my telescope, when I remembered those jokes about Orion’s Sword. Given the clear conditions, I decided to observe the three stars that make up the sword. Throughout the night, I watched as the sword moved across the sky when I noticed something strange. At its zenith, the sword appeared to be pointing straight down. By this point, I had already made my <a href="/student-of-life-celestial-navigation-part-1/">revelations about the north star</a>, so I quickly realized the sword was pointing south. When I pulled out my compass, the sword was a little off, but not by much, less than a degree. Living in the northern hemisphere, I wasn’t sure how this would hold for the rest of the night, so I waited a bit to observe it again. I followed the direction of the sword until I hit the horizon, and I checked the direction. This time, it was off by even more. As I expected, the Earth was getting in the way of being able to use Orion’s Sword to find south, but it still worked pretty well. With a bit of latitude correction, finding south using Orion’s Sword seemed absolutely possible, it would just require a bit of math. A project for another night, perhaps.</p>
-<p>It’s hard to believe that because of a joke I heard a few years ago, I learned about celestial navigation, but I suppose that’s what the student of life is about. A few years ago, I volunteered at an event for which I was extremely unqualified. I don’t quite know why I was given the opportunity, but I am extremely grateful. That opportunity, like so many others, has given me more than I could ever give. Even today, I’m still learning and growing from everything I have been given. Eventually, the day will come when I can offer more than I receive, but even then, I will still keep learning. I will still be a student of life.</p>
 ]]></content>
   </entry>
   <entry>
@@ -187,10 +187,13 @@
 <p>$$\frac{d}{dt}\tan(\theta) &#x3D; \frac{\left(r_{S}^{2}\omega_S-r_{E}r_{S}\left(\omega_S+\omega_E\right)\left(\sin\left(\omega_E t\right)\sin\left(\omega_S t\right)+\cos\left(\omega_E t\right)\cos\left(\omega_S t\right)\right)+r_{E}^{2}\omega_E\right)}{\left(r_{S}\cos\left(\omega_S t\right)-r_{E}\cos\left(\omega_E t\right)\right)^{2}}$$</p>
 <p>Well, that’s still a mess, despite our simplification, but we need this fraction to be less than zero. Retrograde occurs when the planets are passing, so their relative angles are small. Because the starting angle is arbitrary, we can let <em>t</em> be close to zero without loss of generality. Assuming you trust me to do the rest of the math unsupervised, we get the following condition for retrograde motion:</p>
 <p>$$ r_E \omega_E &gt; r_S \omega_S $$</p>
-<p>Since ω represents angular velocity, and <em>r</em> represents radius, these products are just the magnitude of linear velocity, so they’re just the planets’ speeds. Therefore, for two planets to be capable of being in retrograde with each other, you need the speed of the inner planet to be greater than the speed of the outer planet. </p>
+<p>Since ω represents angular velocity, and <em>r</em> represents radius, these products are just the magnitude of linear velocity, so they’re just the planets’ speeds. Therefore, for two planets to be capable of being in retrograde with each other, you need the speed of the inner planet to be greater than the speed of the outer planet. I made a simulation that you can access below to see for yourself.</p>
 <h2 id="3-Conclusion"><a href="#3-Conclusion" class="headerlink" title="3, Conclusion"></a>3, Conclusion</h2><p>So, as it turns out, “moving faster” really was the exact answer. However, like retrograde, that depends on your perspective. If you’re on the inner planet, you need to move faster. But if you’re on the outer planet, you need to move slower. The instructions are directly opposite, and yet they provide the exact same result.</p>
 <p>Recently, I went out to observe Saturn. At the time, it was moving forward—prograde, not retrograde. This wasn’t my Saturn return. I still have a few years until then. While I wait, I have a few options. I can move faster or slower or forward or backward, but in the end, no matter what I do, I will get there. </p>
 <p>At least, that’s what I assume. I’m no expert on astrology.</p>
+<hr>
+<h2 id="Simulation"><a href="#Simulation" class="headerlink" title="Simulation"></a>Simulation</h2><iframe src="https://www.desmos.com/calculator/ozpncvvu7y?embed" width="100%" height="500" style="border: 1px solid #ccc" frameborder=0></iframe>
+
 <hr>
 <h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ol>
 <li><a href="https://chicagomaroon.com/49019/news/netflix-film-saturn-return-shoots-on-uchicago-campus/">Filming on Campus</a></li>
@@ -259,6 +262,17 @@
 ]]></content>
   </entry>
   <entry>
+    <title>Everything Generates Text</title>
+    <url>/everything-generates-text/</url>
+    <content><![CDATA[<p>Most people always assume that making a machine to generate text is a difficult thing, and with the advent of ChatGPT, that assumption has only become stronger. Everyone is amazed at the staggering number of parameters—7 billion, 25 billion, 175 billion. Personally, I think we give too much credit to massive language models. Don’t get me wrong, talented scientists have designed and constructed incredibly powerful language models, but you don’t need millions of dollars worth of time and resources to build a text generator. Honestly, pretty much every machine-learning algorithm can be used to generate text.</p>
+<p>Over the past few months, I’ve been working on-and-off on a project to test this theory. Specifically, I’ve been working through some rather simple machine learning methods and figuring out ways to make them generate text. “Simple machine learning” may sound like any oxymoron, but there are very simple machine learning methods that you already know. One such example is linear regressions. The main idea is very straightforward. If you have a bunch of points scattered on a graph, draw a line that represents those points. In cases like this, you don’t even need any math to find simple trends. Just take your pen and draw a straight line roughly through the points.</p>
+<p>Linear regressions are clearly simple, but using this to generate text is another story. Luckily, linear regressions extends to multiple input variables and output variables. By turning each word into a 0-1 variable, we can predict each subsequent word. For example, starting with the word “once,” your model might predict the word “upon.” From there, you just make “upon” the input, and then you can generate the next word, which might be “a.” Continuing this process, you’ve generated text with just a linear regression.</p>
+<p>Linear regressions weren’t much of a problem for me since I had already built a text generator using Markov chains, so I was already familiar with transition matrices. KNNs however, were a different story. KNN, or k-nearest neighbors, is a method that takes an input, compares it to data points that are very similar to it, and uses their labels to inform the output. In theory, I could just take each word, analyze what typically comes after it, and use that, but that doesn’t make for a particularly interesting text generator. At that point, it’s no different than a Markov chain. </p>
+<p>Since I wanted to embrace the true spirit of kNNs and prove they could generate text, I began looking for a different approach. After exploring various mathematical approaches, I realized I could use character-wise prediction instead of token-wise prediction. Instead of predicting an entire word, I would just predict one letter at a time. This had the potential to fail miserably, but it would be phenomenal if it succeeded. By using character-wise prediction, I could embrace the distance metric at the heart of kNNs, but rather tha using standard Euclidean (straight-line) distance, I could use Hamming distance. By re-centering a binary vector space around the input word, I could position all the other words around it using exclusive-or to assign binary values based on whether or not the characters matched my input. From there, I just needed the vectors with the smallest Hamming norm, and I was good to go. </p>
+<p>If that all sounded like made-up, math word soup, then I’ll just have to ask you to trust me. The project is still ongoing, but once it’s at a point that I feel comfortable abandoning it, I’ll try to make things clearer, probably with a few examples. For now, things seem to be working as expected. Text generation isn’t hard because putting one word after the other has never been hard. The true challenge is in generating meaningful text. Generating meaningful text requires understanding truth, observable reality, intent, and so much more that we can’t properly encode the way we encode language. All of the meaning that comes from large language models is only present because we taught it with meaningful text, and we inject meaning back in when we read the output. Generating text is easy, but that doesn’t bring us any closer to generating meaning.</p>
+]]></content>
+  </entry>
+  <entry>
     <title>Ex Libris: Cat&#39;s Cradle</title>
     <url>/ex-libris-cats-cradle/</url>
     <content><![CDATA[<p>On Christmas this year, I read one of the most famous Christmas novels of all time: <em>Cat’s Cradle</em>, by Kurt Vonnegut. This book is so powerful, it constituted a master’s thesis in anthropology in the eyes of the University of Chicago. Countless experts have analyzed this book throughout the past 59 years. Following behind 59 years of thorough analysis, I do not believe I can meaningfully contribute to the discussion of this novel’s themes.</p>
@@ -286,17 +300,6 @@
 <li><a href="https://en.wikipedia.org/wiki/Therefore_sign">Therefore Symbol</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Logic">The Wiki Page for Logic Includes ∴ in the Image on the Right</a></li>
 </ol>
-]]></content>
-  </entry>
-  <entry>
-    <title>Everything Generates Text</title>
-    <url>/everything-generates-text/</url>
-    <content><![CDATA[<p>Most people always assume that making a machine to generate text is a difficult thing, and with the advent of ChatGPT, that assumption has only become stronger. Everyone is amazed at the staggering number of parameters—7 billion, 25 billion, 175 billion. Personally, I think we give too much credit to massive language models. Don’t get me wrong, talented scientists have designed and constructed incredibly powerful language models, but you don’t need millions of dollars worth of time and resources to build a text generator. Honestly, pretty much every machine-learning algorithm can be used to generate text.</p>
-<p>Over the past few months, I’ve been working on-and-off on a project to test this theory. Specifically, I’ve been working through some rather simple machine learning methods and figuring out ways to make them generate text. “Simple machine learning” may sound like any oxymoron, but there are very simple machine learning methods that you already know. One such example is linear regressions. The main idea is very straightforward. If you have a bunch of points scattered on a graph, draw a line that represents those points. In cases like this, you don’t even need any math to find simple trends. Just take your pen and draw a straight line roughly through the points.</p>
-<p>Linear regressions are clearly simple, but using this to generate text is another story. Luckily, linear regressions extends to multiple input variables and output variables. By turning each word into a 0-1 variable, we can predict each subsequent word. For example, starting with the word “once,” your model might predict the word “upon.” From there, you just make “upon” the input, and then you can generate the next word, which might be “a.” Continuing this process, you’ve generated text with just a linear regression.</p>
-<p>Linear regressions weren’t much of a problem for me since I had already built a text generator using Markov chains, so I was already familiar with transition matrices. KNNs however, were a different story. KNN, or k-nearest neighbors, is a method that takes an input, compares it to data points that are very similar to it, and uses their labels to inform the output. In theory, I could just take each word, analyze what typically comes after it, and use that, but that doesn’t make for a particularly interesting text generator. At that point, it’s no different than a Markov chain. </p>
-<p>Since I wanted to embrace the true spirit of kNNs and prove they could generate text, I began looking for a different approach. After exploring various mathematical approaches, I realized I could use character-wise prediction instead of token-wise prediction. Instead of predicting an entire word, I would just predict one letter at a time. This had the potential to fail miserably, but it would be phenomenal if it succeeded. By using character-wise prediction, I could embrace the distance metric at the heart of kNNs, but rather tha using standard Euclidean (straight-line) distance, I could use Hamming distance. By re-centering a binary vector space around the input word, I could position all the other words around it using exclusive-or to assign binary values based on whether or not the characters matched my input. From there, I just needed the vectors with the smallest Hamming norm, and I was good to go. </p>
-<p>If that all sounded like made-up, math word soup, then I’ll just have to ask you to trust me. The project is still ongoing, but once it’s at a point that I feel comfortable abandoning it, I’ll try to make things clearer, probably with a few examples. For now, things seem to be working as expected. Text generation isn’t hard because putting one word after the other has never been hard. The true challenge is in generating meaningful text. Generating meaningful text requires understanding truth, observable reality, intent, and so much more that we can’t properly encode the way we encode language. All of the meaning that comes from large language models is only present because we taught it with meaningful text, and we inject meaning back in when we read the output. Generating text is easy, but that doesn’t bring us any closer to generating meaning.</p>
 ]]></content>
   </entry>
   <entry>
@@ -335,17 +338,6 @@
 ]]></content>
   </entry>
   <entry>
-    <title>Ex Libris: Sleepy</title>
-    <url>/ex-libris-sleepy/</url>
-    <content><![CDATA[<p>Known for incredibly concise storytelling, Anton Chekhov leaves no detail unresolved in his stories. Everything serves a purpose. The principle has been titled Chekhov’s Gun: if you introduce a gun, the audience expects it to be fired at some point. These details—these promises—build and interweave, and by the end of the story, every promise has reached a payoff that serves the ending. Mind you, these payoffs are rarely happily-ever-afters or neat, little bows wrapping up the story. They often include tragedy and death, but that doesn’t make them any less satisfying. </p>
-<p>In <em>Sleepy</em>, a story written in one day, Chekhov introduces a baby, a 13-year-old girl working as a servant, and a horrible family that fuels the young girl’s ongoing suffering. With a payoff of the servant killing the baby, the story resolves as the reader expects. Writing this masterful story in one day is already an incredible feat, but the more impressive feat is how Chekhov wove a secondary set of promises into the plot, all centered around a lamp, a pair of trousers, and a cricket.</p>
-<p>In the introduction, Chekhov introduces a lamp emitting green light, a pair of trousers on a clothesline, and a cricket in the stove. At first glance, these items only exist to enhance the setting, but he brings them up again and again and again. As I was doing my first reading, the purpose of these three items seemed quite unclear. No one wears the pants. No one puts out the lamp. No one complains about the cricket. They just sit there, doing nothing.</p>
-<p>The young girl, Varka, enters a few dreams throughout the short story, and each time she does, she first looks at the green light on the wall and the shadows. The flickering light and moving shadows and chirping cricket appear more and more hypnotic until eventually, the light and shadows wink at her. Chekhov builds on the personification until the end of the story. The three items laugh, and she laughs with them as she kills the baby.</p>
-<p>In the span of six pages, Chekhov created an entirely new character out of thin air and gave it a personality. This tricky, evil spirit laughing and dancing on the wall is made of no more than some green light, the shadow of a pair of trousers, and the chirp of a cricket. Its development represents Varka’s descent into madness, an integral component of the story. Chekhov promised to do something with these three items, and he overdelivered on the payoff. Without it, we wouldn’t see Varka lose her mind, just her frustration.</p>
-<p>Creating payoff is about more than finally using the promise. It’s about giving it a broader significance—a life of its own—in the story, one that serves the ending. Once you have that, the payoff can reflect its symbolism, even if you use the promise in an unconventional way. Just because you’ve introduced Chekhov’s Gun doesn’t mean you need to fire it.</p>
-]]></content>
-  </entry>
-  <entry>
     <title>Ex Libris: Select Poems by Emily Dickinson</title>
     <url>/ex-libris-select-poems-by-emily-dickinson/</url>
     <content><![CDATA[<p>I recently had the opportunity to visit Amherst, Massachusetts, USA. Amherst doesn’t have a lot going on; it’s mostly a college town surrounded by more colleges surrounded by rural Massachusetts. Amherst may be a relatively sleepy place, but it does have a notable past. Specifically, Amherst is the home of Emily Dickinson.  One of the most important American poets to ever live, Emily Dickinson spent her whole life in and around Amherst. She went to school at Amherst Academy, college at Mount Holyoke, and much of her adult life was spent in the Dickinson mansion in Amherst.</p>
@@ -360,6 +352,17 @@
 <li><a href="https://www.emilydickinsonmuseum.org/">Emily Dickinson Museum</a></li>
 <li><a href="https://www.poetryfoundation.org/poets/emily-dickinson">Emily Dickinson on Poetry Foundation</a></li>
 </ol>
+]]></content>
+  </entry>
+  <entry>
+    <title>Ex Libris: Sleepy</title>
+    <url>/ex-libris-sleepy/</url>
+    <content><![CDATA[<p>Known for incredibly concise storytelling, Anton Chekhov leaves no detail unresolved in his stories. Everything serves a purpose. The principle has been titled Chekhov’s Gun: if you introduce a gun, the audience expects it to be fired at some point. These details—these promises—build and interweave, and by the end of the story, every promise has reached a payoff that serves the ending. Mind you, these payoffs are rarely happily-ever-afters or neat, little bows wrapping up the story. They often include tragedy and death, but that doesn’t make them any less satisfying. </p>
+<p>In <em>Sleepy</em>, a story written in one day, Chekhov introduces a baby, a 13-year-old girl working as a servant, and a horrible family that fuels the young girl’s ongoing suffering. With a payoff of the servant killing the baby, the story resolves as the reader expects. Writing this masterful story in one day is already an incredible feat, but the more impressive feat is how Chekhov wove a secondary set of promises into the plot, all centered around a lamp, a pair of trousers, and a cricket.</p>
+<p>In the introduction, Chekhov introduces a lamp emitting green light, a pair of trousers on a clothesline, and a cricket in the stove. At first glance, these items only exist to enhance the setting, but he brings them up again and again and again. As I was doing my first reading, the purpose of these three items seemed quite unclear. No one wears the pants. No one puts out the lamp. No one complains about the cricket. They just sit there, doing nothing.</p>
+<p>The young girl, Varka, enters a few dreams throughout the short story, and each time she does, she first looks at the green light on the wall and the shadows. The flickering light and moving shadows and chirping cricket appear more and more hypnotic until eventually, the light and shadows wink at her. Chekhov builds on the personification until the end of the story. The three items laugh, and she laughs with them as she kills the baby.</p>
+<p>In the span of six pages, Chekhov created an entirely new character out of thin air and gave it a personality. This tricky, evil spirit laughing and dancing on the wall is made of no more than some green light, the shadow of a pair of trousers, and the chirp of a cricket. Its development represents Varka’s descent into madness, an integral component of the story. Chekhov promised to do something with these three items, and he overdelivered on the payoff. Without it, we wouldn’t see Varka lose her mind, just her frustration.</p>
+<p>Creating payoff is about more than finally using the promise. It’s about giving it a broader significance—a life of its own—in the story, one that serves the ending. Once you have that, the payoff can reflect its symbolism, even if you use the promise in an unconventional way. Just because you’ve introduced Chekhov’s Gun doesn’t mean you need to fire it.</p>
 ]]></content>
   </entry>
   <entry>
@@ -431,28 +434,6 @@
 ]]></content>
   </entry>
   <entry>
-    <title>First Time for Everything</title>
-    <url>/first-time-for-everything/</url>
-    <content><![CDATA[<p>On July 21, 2023, that weekend when the Barbie and Oppenheimer movies came out, I invited my old mentor to watch Oppenheimer at the local theater. I did this partly to spend time with him, partly to push myself out of my social comfort zone, and I thought this might kill two birds with one stone. On the days we have long, rambling conversations, he eventually turns the topic to nuclear physics and the history of the atomic bomb. Occasionally, I sprinkle in details related to our university, given its position in the history of the Manhattan project, but for the most part, I listen. How he knows so much about the field, I’m not sure, but it’s one of our few conversation topics unrelated to research and our lab. </p>
-<p>Having ordered our tickets online, he follows me into the theater. The attendant tells us we’re good to go, and we’ll be in theater four. I start walking, though my mentor lags behind for a second before catching up.</p>
-<p>“Wait, there’s more than one theater?” he asks, turning from me to his ticket. </p>
-<p>“Yeah, there are four screening rooms.” I respond, still looking down the hall.</p>
-<p>“But, how will we know which one is ours?”</p>
-<p>“Oh, they have signs next to the doors.” I point to the metal “four” on the wall.</p>
-<p>We walk down the aisle, looking back and forth between the row numbers and our tickets until we reach the front of the auditorium. On arriving at our seats, I lean forward and brush the screen with my fingertips. Reclining in his chair, my mentor’s shoes stop mere inches away from kicking the trailers. We turn to each other and pause for a brief moment before breaking into laughter. I glance over my shoulder, checking if there were any empty seats we could switch to. There weren’t. </p>
-<p>“Hey,” I whisper, “let’s wait for the movie to start, then we can try and look for better seats.” He nods, and we lean back.</p>
-<p>Suddenly, the lights dim, and I see before me—in stunning black and white—the button of a suit jacket. I look up, first seeing a chin, then a mouth, a nose. I scan left-to-right as fast as I can without giving myself whiplash, catching two ears, two eyes, and two eyebrows. Before I can look above the forehead, the scene ends, and I’m left staring at someone else’s nose. A few scenes later, I finally notice Oppenheimer is wearing a hat.</p>
-<p>Hoping to give my neck a break, I turn my body to my mentor, watching his eyes dart back and forth in hopes of catching all the details on the screen. I turn back to the screen to play this lightning round of I Spy. This goes on for another 10 minutes before I finally gather the courage to move. I tap him on the shoulder and motion to the aisle. We crouch down and begin shuffling to the back. The view from the back wall doesn’t quite capture the level of detail available three feet from the screen, but at least we can see the whole frame at once. Satisfied, I sit down on the ground before looking up again, now finding a chair in the way. My mentor begins sitting down before I look up at him and shake my head as I stand back up. I scan through the crowd before finding two seats right next to each other. I quickly step through the rows of the audience before sitting in one of the seats. My heart races as I wait for the people on my left and right to tell me the seats are taken or shoot me a dirty look, but nothing happens. Finally at ease, I wave my mentor over. He hesitates, so I make a bigger motion. He starts walking over, and I turn back to the movie.</p>
-<p>“Can you see from there?” a voice whispers just behind my shoulder. Whipping around, I see my mentor and calm down.</p>
-<p>“Yes, of course. Come sit.” I turn back to the movie, hoping to catch up on all we missed. He takes his seat. While I enjoy the rest of the film, my mind can’t help feeling a little pride for dealing with that strangely new situation.</p>
-<p>Three hours later, the credits roll, and we get up to leave, immediately discussing historical accuracy and commenting on the references to the University. We continue talking while making our way past the “four” sign and out the doors of the theater. It’s raining, so we step under an awning, my mentor still discussing his plan to research every major character in the movie. I suggest he calls a Lyft, since the rain doesn’t look like it’s letting up soon. He pulls out his phone and we make a few jokes about sphere packing in a fish bowl and wine glass. I don’t quite know when, but at some point, he slips in that this is his first time going to the movies.</p>
-<p>“In the US, right?”</p>
-<p>“No, ever.”</p>
-<p>His Lyft pulls up, so he waves goodbye. I probably mumble something about seeing him in lab as I wave back. The sound of the rain cuts out as the gears whir in my head. I don’t know if it was a few seconds or a few minutes, but eventually, I put on my jacket and step out into the rain.</p>
-<p>I guess there’s a first time for everything.</p>
-]]></content>
-  </entry>
-  <entry>
     <title>FM Radio Frequencies are Lying to You</title>
     <url>/fm-radio-frequencies-are-lying-to-you/</url>
     <content><![CDATA[<p>The other day, I was driving to work when suddenly my radio started playing. I don’t typically listen to the radio, but the music was nice, so I let it keep playing. After the song finished, the radio announcer said, “You’re listening to 98.9* FM radio.”</p>
@@ -472,6 +453,28 @@
 <li><a href="https://en.wikipedia.org/wiki/FM_broadcasting">FM Broadcasting</a></li>
 <li><a href="/am/">AM (short piece I wrote)</a></li>
 </ol>
+]]></content>
+  </entry>
+  <entry>
+    <title>First Time for Everything</title>
+    <url>/first-time-for-everything/</url>
+    <content><![CDATA[<p>On July 21, 2023, that weekend when the Barbie and Oppenheimer movies came out, I invited my old mentor to watch Oppenheimer at the local theater. I did this partly to spend time with him, partly to push myself out of my social comfort zone, and I thought this might kill two birds with one stone. On the days we have long, rambling conversations, he eventually turns the topic to nuclear physics and the history of the atomic bomb. Occasionally, I sprinkle in details related to our university, given its position in the history of the Manhattan project, but for the most part, I listen. How he knows so much about the field, I’m not sure, but it’s one of our few conversation topics unrelated to research and our lab. </p>
+<p>Having ordered our tickets online, he follows me into the theater. The attendant tells us we’re good to go, and we’ll be in theater four. I start walking, though my mentor lags behind for a second before catching up.</p>
+<p>“Wait, there’s more than one theater?” he asks, turning from me to his ticket. </p>
+<p>“Yeah, there are four screening rooms.” I respond, still looking down the hall.</p>
+<p>“But, how will we know which one is ours?”</p>
+<p>“Oh, they have signs next to the doors.” I point to the metal “four” on the wall.</p>
+<p>We walk down the aisle, looking back and forth between the row numbers and our tickets until we reach the front of the auditorium. On arriving at our seats, I lean forward and brush the screen with my fingertips. Reclining in his chair, my mentor’s shoes stop mere inches away from kicking the trailers. We turn to each other and pause for a brief moment before breaking into laughter. I glance over my shoulder, checking if there were any empty seats we could switch to. There weren’t. </p>
+<p>“Hey,” I whisper, “let’s wait for the movie to start, then we can try and look for better seats.” He nods, and we lean back.</p>
+<p>Suddenly, the lights dim, and I see before me—in stunning black and white—the button of a suit jacket. I look up, first seeing a chin, then a mouth, a nose. I scan left-to-right as fast as I can without giving myself whiplash, catching two ears, two eyes, and two eyebrows. Before I can look above the forehead, the scene ends, and I’m left staring at someone else’s nose. A few scenes later, I finally notice Oppenheimer is wearing a hat.</p>
+<p>Hoping to give my neck a break, I turn my body to my mentor, watching his eyes dart back and forth in hopes of catching all the details on the screen. I turn back to the screen to play this lightning round of I Spy. This goes on for another 10 minutes before I finally gather the courage to move. I tap him on the shoulder and motion to the aisle. We crouch down and begin shuffling to the back. The view from the back wall doesn’t quite capture the level of detail available three feet from the screen, but at least we can see the whole frame at once. Satisfied, I sit down on the ground before looking up again, now finding a chair in the way. My mentor begins sitting down before I look up at him and shake my head as I stand back up. I scan through the crowd before finding two seats right next to each other. I quickly step through the rows of the audience before sitting in one of the seats. My heart races as I wait for the people on my left and right to tell me the seats are taken or shoot me a dirty look, but nothing happens. Finally at ease, I wave my mentor over. He hesitates, so I make a bigger motion. He starts walking over, and I turn back to the movie.</p>
+<p>“Can you see from there?” a voice whispers just behind my shoulder. Whipping around, I see my mentor and calm down.</p>
+<p>“Yes, of course. Come sit.” I turn back to the movie, hoping to catch up on all we missed. He takes his seat. While I enjoy the rest of the film, my mind can’t help feeling a little pride for dealing with that strangely new situation.</p>
+<p>Three hours later, the credits roll, and we get up to leave, immediately discussing historical accuracy and commenting on the references to the University. We continue talking while making our way past the “four” sign and out the doors of the theater. It’s raining, so we step under an awning, my mentor still discussing his plan to research every major character in the movie. I suggest he calls a Lyft, since the rain doesn’t look like it’s letting up soon. He pulls out his phone and we make a few jokes about sphere packing in a fish bowl and wine glass. I don’t quite know when, but at some point, he slips in that this is his first time going to the movies.</p>
+<p>“In the US, right?”</p>
+<p>“No, ever.”</p>
+<p>His Lyft pulls up, so he waves goodbye. I probably mumble something about seeing him in lab as I wave back. The sound of the rain cuts out as the gears whir in my head. I don’t know if it was a few seconds or a few minutes, but eventually, I put on my jacket and step out into the rain.</p>
+<p>I guess there’s a first time for everything.</p>
 ]]></content>
   </entry>
   <entry>
@@ -570,6 +573,28 @@
 <p>As I embark on a new beginning myself, I am reminded of the new beginnings gone past, particularly starting college in the middle of a global pandemic. That first year of college in particular was so strange. My orientation was virtual, my classes were virtual, and almost every conversation I had was virtual. Whenever someone would ask me how I was enjoying higher education, I would tell them that I had never been inside any of the academic buildings, but I knew what they all looked like on the outside.</p>
 <p>Eventually, things changed, and I attended in-person classes, sat next to people in dining halls, and high-fived someone for the first time in over a year. Still, those of us from the COVID era never were quite the same as our older or younger peers. We skipped out on traditions, ignored famous events, and fell in love with forgotten parts of the university. It didn’t matter that we were finally given a chance at a “normal” college experience. By that point, it was too late, and we had already developed our own expectations for what college meant to us.</p>
 <p>The beginning of our journey strongly controlled the trajectory of our college experience, and knowing that now, I realize these next few months will define so much of my PhD. I may already know the people and the place, but my purpose here is quite different from what it was four years ago. My purpose four years ago was to make it to today, and today, my purpose is to build the foundation of my academic career. There will be similarities between then and now, but I know one thing for sure. When commencement begins, I won’t just be watching on a live broadcast. I’ll be walking through those gates, ready to take on a new beginning.</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>Praise</title>
+    <url>/praise/</url>
+    <content><![CDATA[<p>Over the past few months, I’ve been sharing my art with a community of origamists called Origami-Dan. Origami-Dan is a server with over 4,000 members, and a few hundred are pretty active. Some of the best origamists in the world come here to talk about art and share their passion for paper-folding. Since I was getting into design work, I thought I’d start sharing what I make here. People could let me know what they liked, what they didn’t, potential improvements, etc. It seemed like a pretty innocuous idea.</p>
+<p>Before I became active in the community, I decided to take a quick skim through some recent works made by server members. In just a few minutes of scrolling, I saw more incredible origami than I had seen in the past year surfing the internet. These artists were absolutely phenomenal, doing things with paper I had never dreamed were possible. Seeing such incredible art made me want to improve my own, so I worked and I worked and I quickly got better.</p>
+<p>Eventually, it was time for my first post in the server. The server hosts monthly design competitions, so I decided to design a piece that fit the theme and submit it. The theme was “Lord of the Swamp,” a strange combination of Lord of the Ring and Swamp, which was really forcing artists to be creative with their work. I didn’t know how to design anything complicated, so I made a swamp ring. It was just a ring with a sprout and two leaves coming out the top. Nothing complicated, just a cute, little design. No one really paid much attention, but I did get one reply saying I hit the theme well.</p>
+<p>Fast-forward to July, when the contest theme was “Emotions.” I had this really silly idea of doing a literal interpretation of “hanging by a thread.” Rather than going for desperation, I aimed for a design that looked more defeated. The result was this person dangling from a balloon tied behind them. I put a lot of effort into it, and for a moment, I thought I made good art. That moment was rather brief. All that pride turned into self-criticism as I began seeing nothing but the flaws and imperfections in my design. </p>
+<p><em>Oh well,</em> I thought, <em>might as well submit it anyways</em>. I clicked the little send button, and it was off. By that time, I had made a few friends in the server, and they were kind enough to compliment my work. I even got a compliment from a super talented folder that I didn’t know personally, which was beyond encouraging. A few weeks later, I ended up winning that design contest, which should have cleared any doubts I had. </p>
+<p>It didn’t. I still felt like a fraud.</p>
+<p>As a brief aside, accepting compliments is a rather rare phenomenon for many people, at least in American English. According to a report by the Center for Advanced Research on Language Acquisition, in American English, we only accept compliments about a third of the time. The other two-thirds of the time, we might scale down the compliment, shift the credit, or just flat-out reject the praise altogether. I’ve seen this in other languages, but it’s particularly common in American English. I’ve tried learning to accept compliments, and saying “thank you” is easy, but truly believing a compliment is genuine remains rather difficult.</p>
+<p>All of that culminated to today, when I posted my piece titled Stargazing. At first, the response was pretty minimal. One guy really liked it, but there wasn’t much traction. I didn’t mind, since I wasn’t posting for attention, but a few hours later, my phone started dinging. Apparently, I had just entirely missed the time of day when origamists were active online. People loved my design. I was getting compliments from artists I had been admiring for months. It was honestly a bit overwhelming, but I was so happy, taking the time to thank people who said encouraging things.</p>
+<p>As I was responding to all of this, I got one comment that complimented me on my distinct style from an artist I really admired. I never thought I would develop a style as an artist, but seeing that comment really made me feel like I had actually become an artist. In my excitement, I decided to scroll up to my original post again, and suddenly all the cheering in my head quieted down. <em>This is what people are getting excited about? It’s so simple and messy. Obviously they think that too, right? Why would they say such nice things? Do they really mean all these compliments?</em> </p>
+<p>For a few minutes, I just sat there, the thought of praise making me feel bummed out. <em>I don’t deserve this kind of response. Other artists post way cooler stuff than I do, and people don’t get nearly as excited. It’s because I’m new, right? When the novelty wears off, it’ll quiet back down.</em> I don’t know when the novelty will wear off, since I’m still new, but I am convinced that’s part of it. I felt like such an imposter, such a fake, not a real artist.</p>
+<p>As I was settling into my despair, I saw a little circle appear on my Friends tab. It was a friend request from a really popular artist on the server, the same one that liked my style. Eventually, I had to come to the realization that they were being genuine when they complimented my work. Everyone was, probably. It was just so hard to fathom, and I don’t say this to sound self-centered. I genuinely could not imagine people liking my art. Instead, all I felt was perceived. Having never had such an enthusiastic audience, so I didn’t realize how intensely I felt perceived even when it was positive. I thought <a href="/the-mortifying-ordeal-of-being-perceived">the mortifying ordeal of being perceived</a> was the cost of an audience that maybe didn’t like you yet, but—in full naivete—I thought the feeling would subside once people liked me. That couldn’t be further from the truth.</p>
+<p>Sharing my art is a luxury, and having found such a receptive audience is a gift, but that hasn’t made it any easier. I will always openly welcome compliments and criticism, but actually taking either is no easy task. There are plenty of times when I post art, and it’s mostly ignored, and that’s how it usually will be. If I’m ever lucky enough to have people respond, I will probably panic as is my nature, but if imposter syndrome and being perceived and judgement is the price I have to pay, I’m more than willing. Any strong reaction is someone engaging with my art, and as an artist, that’s all I can really ask for.</p>
+<hr>
+<h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ol>
+<li><a href="https://carla.umn.edu/speechacts/compliments/american.html">American English Compliments Report</a></li>
+<li><a href="https://discord.com/invite/yU4Cvry">Origami-Dan Discord Server</a></li>
+</ol>
 ]]></content>
   </entry>
   <entry>
@@ -695,28 +720,6 @@
 ]]></content>
   </entry>
   <entry>
-    <title>Praise</title>
-    <url>/praise/</url>
-    <content><![CDATA[<p>Over the past few months, I’ve been sharing my art with a community of origamists called Origami-Dan. Origami-Dan is a server with over 4,000 members, and a few hundred are pretty active. Some of the best origamists in the world come here to talk about art and share their passion for paper-folding. Since I was getting into design work, I thought I’d start sharing what I make here. People could let me know what they liked, what they didn’t, potential improvements, etc. It seemed like a pretty innocuous idea.</p>
-<p>Before I became active in the community, I decided to take a quick skim through some recent works made by server members. In just a few minutes of scrolling, I saw more incredible origami than I had seen in the past year surfing the internet. These artists were absolutely phenomenal, doing things with paper I had never dreamed were possible. Seeing such incredible art made me want to improve my own, so I worked and I worked and I quickly got better.</p>
-<p>Eventually, it was time for my first post in the server. The server hosts monthly design competitions, so I decided to design a piece that fit the theme and submit it. The theme was “Lord of the Swamp,” a strange combination of Lord of the Ring and Swamp, which was really forcing artists to be creative with their work. I didn’t know how to design anything complicated, so I made a swamp ring. It was just a ring with a sprout and two leaves coming out the top. Nothing complicated, just a cute, little design. No one really paid much attention, but I did get one reply saying I hit the theme well.</p>
-<p>Fast-forward to July, when the contest theme was “Emotions.” I had this really silly idea of doing a literal interpretation of “hanging by a thread.” Rather than going for desperation, I aimed for a design that looked more defeated. The result was this person dangling from a balloon tied behind them. I put a lot of effort into it, and for a moment, I thought I made good art. That moment was rather brief. All that pride turned into self-criticism as I began seeing nothing but the flaws and imperfections in my design. </p>
-<p><em>Oh well,</em> I thought, <em>might as well submit it anyways</em>. I clicked the little send button, and it was off. By that time, I had made a few friends in the server, and they were kind enough to compliment my work. I even got a compliment from a super talented folder that I didn’t know personally, which was beyond encouraging. A few weeks later, I ended up winning that design contest, which should have cleared any doubts I had. </p>
-<p>It didn’t. I still felt like a fraud.</p>
-<p>As a brief aside, accepting compliments is a rather rare phenomenon for many people, at least in American English. According to a report by the Center for Advanced Research on Language Acquisition, in American English, we only accept compliments about a third of the time. The other two-thirds of the time, we might scale down the compliment, shift the credit, or just flat-out reject the praise altogether. I’ve seen this in other languages, but it’s particularly common in American English. I’ve tried learning to accept compliments, and saying “thank you” is easy, but truly believing a compliment is genuine remains rather difficult.</p>
-<p>All of that culminated to today, when I posted my piece titled Stargazing. At first, the response was pretty minimal. One guy really liked it, but there wasn’t much traction. I didn’t mind, since I wasn’t posting for attention, but a few hours later, my phone started dinging. Apparently, I had just entirely missed the time of day when origamists were active online. People loved my design. I was getting compliments from artists I had been admiring for months. It was honestly a bit overwhelming, but I was so happy, taking the time to thank people who said encouraging things.</p>
-<p>As I was responding to all of this, I got one comment that complimented me on my distinct style from an artist I really admired. I never thought I would develop a style as an artist, but seeing that comment really made me feel like I had actually become an artist. In my excitement, I decided to scroll up to my original post again, and suddenly all the cheering in my head quieted down. <em>This is what people are getting excited about? It’s so simple and messy. Obviously they think that too, right? Why would they say such nice things? Do they really mean all these compliments?</em> </p>
-<p>For a few minutes, I just sat there, the thought of praise making me feel bummed out. <em>I don’t deserve this kind of response. Other artists post way cooler stuff than I do, and people don’t get nearly as excited. It’s because I’m new, right? When the novelty wears off, it’ll quiet back down.</em> I don’t know when the novelty will wear off, since I’m still new, but I am convinced that’s part of it. I felt like such an imposter, such a fake, not a real artist.</p>
-<p>As I was settling into my despair, I saw a little circle appear on my Friends tab. It was a friend request from a really popular artist on the server, the same one that liked my style. Eventually, I had to come to the realization that they were being genuine when they complimented my work. Everyone was, probably. It was just so hard to fathom, and I don’t say this to sound self-centered. I genuinely could not imagine people liking my art. Instead, all I felt was perceived. Having never had such an enthusiastic audience, so I didn’t realize how intensely I felt perceived even when it was positive. I thought <a href="/the-mortifying-ordeal-of-being-perceived">the mortifying ordeal of being perceived</a> was the cost of an audience that maybe didn’t like you yet, but—in full naivete—I thought the feeling would subside once people liked me. That couldn’t be further from the truth.</p>
-<p>Sharing my art is a luxury, and having found such a receptive audience is a gift, but that hasn’t made it any easier. I will always openly welcome compliments and criticism, but actually taking either is no easy task. There are plenty of times when I post art, and it’s mostly ignored, and that’s how it usually will be. If I’m ever lucky enough to have people respond, I will probably panic as is my nature, but if imposter syndrome and being perceived and judgement is the price I have to pay, I’m more than willing. Any strong reaction is someone engaging with my art, and as an artist, that’s all I can really ask for.</p>
-<hr>
-<h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ol>
-<li><a href="https://carla.umn.edu/speechacts/compliments/american.html">American English Compliments Report</a></li>
-<li><a href="https://discord.com/invite/yU4Cvry">Origami-Dan Discord Server</a></li>
-</ol>
-]]></content>
-  </entry>
-  <entry>
     <title>Reaching Out to Old Friends</title>
     <url>/reaching-out-to-old-friends/</url>
     <content><![CDATA[<p>Around March of 2020, I lost contact with a lot of friends. High school was ending, COVID was starting, and so many people I kept up with were no longer in my life. One of those people lives on the East Coast, and we compete in the same sport. I had the opportunity to compete in a tournament in the Eastern League, so I texted him, asking if he would be there. Unfortunately, he couldn’t make it, so we texted for a bit, but that was about it. </p>
@@ -775,6 +778,19 @@
 ]]></content>
   </entry>
   <entry>
+    <title>Standardized Test Problems in Real Life</title>
+    <url>/standardized-test-problems-in-real-life/</url>
+    <content><![CDATA[<p>After almost two decades of taking standardized tests, I still don’t understand why the questions are so ridiculous. Why does Alice need 47 watermelons? Who put two trains on the same track in opposite directions? Does everyone in the room <em>really</em> need to shake hands?</p>
+<p>The questions are weird, but I can’t really complain. My test-taking skills got me into college, through college, and even made me some money along the way through tutoring. I’m not half bad at figuring out the probability you pick a red marble out of the bag, which came in handy a little while back.</p>
+<p>I was in the passenger seat of a car in a different country, and the time came to fill the tank. When we got to the station, we clicked the button to pay for gas, and the screen instantly lit up with seven different payment amounts for pre-approval. Admittedly, we just kinda stared blankly at it for a minute. You see, as bald-eagle-loving Americans, we were used to the ability to let the pump just fill the tank and just hope it didn’t run over budget, but that wasn’t an option here. Instead, we were forced to select just how much we would approve. I started putting all the details together, and I came up with the following problem:</p>
+<p>You are at a gas pump, and you need to fill your tank. Your tank size is roughly 20 gallons, and it is 3&#x2F;4 empty. There are 3.8 liters in a gallon. The price of gas per liter isn’t listed anywhere, but you see on the screen that the previous customer paid 91 dollars for 54 liters. The options for pre-approval are 20, 30, 50, 70, 90, 100, and 110 dollars. What is the smallest amount you can pre-approve such that your tank will be completely full?</p>
+<p>Before I give you the answer, try it yourself with a calculator. To be clear, when I solved it, I didn’t write out the problem; those details are just what was swirling in my head at that moment. I pulled out the calculator app on my phone, pressed a few buttons, and in about 30 seconds, I had my final answer of 100 dollars. We hit the button, started filling the tank, and the actual amount of gas needed to fill the car was worth 97 dollars, which meant my calculations were spot-on. </p>
+<p>Solving the problem was fun, but it required a lot more processing than the short paragraph I wrote out. I had to know the unit conversion from gallons to liters. I had to assume the previous customer purchased low-octane fuel because it’s the most common choice. I had to understand how much rounding was just enough. I had to make assumptions about the gas tank. I had to package up all that real-world data into a pretty, little math problem. </p>
+<p>To the credit of all the people in math class that said, “we can use a calculator in the real world,” yes, yes we can. They’re in our pockets constantly. However, we still need to understand which numbers are important. Synthesizing that information efficiently is the first step to making math useful in the real world. We can use it whenever, but it only makes sense when we have a real problem to solve. Being able to gather the relevant information from a situation is a useful skill I’m grateful to have practiced through standardized tests, and I’m beginning to appreciate those problems more now.</p>
+<p>I still think the problems could be a bit more realistic though. I mean, <em>47</em> watermelons? Really?</p>
+]]></content>
+  </entry>
+  <entry>
     <title>Square One</title>
     <url>/square-one/</url>
     <content><![CDATA[<p>After another set of fruitless experiments and abandoned ideas, my mentor told me we were back to square one.</p>
@@ -790,19 +806,6 @@
 <li><a href="https://en.wikipedia.org/wiki/Square-1_(puzzle)">Square-1 Puzzle</a></li>
 <li>The discourse surrounding the etymology of “square one” lacks enough rigor to warrant any particular links. Instead, a Google search for “origin of square one” will provide plenty of questionable sources offering one of the three explanations listed above.</li>
 </ol>
-]]></content>
-  </entry>
-  <entry>
-    <title>Standardized Test Problems in Real Life</title>
-    <url>/standardized-test-problems-in-real-life/</url>
-    <content><![CDATA[<p>After almost two decades of taking standardized tests, I still don’t understand why the questions are so ridiculous. Why does Alice need 47 watermelons? Who put two trains on the same track in opposite directions? Does everyone in the room <em>really</em> need to shake hands?</p>
-<p>The questions are weird, but I can’t really complain. My test-taking skills got me into college, through college, and even made me some money along the way through tutoring. I’m not half bad at figuring out the probability you pick a red marble out of the bag, which came in handy a little while back.</p>
-<p>I was in the passenger seat of a car in a different country, and the time came to fill the tank. When we got to the station, we clicked the button to pay for gas, and the screen instantly lit up with seven different payment amounts for pre-approval. Admittedly, we just kinda stared blankly at it for a minute. You see, as bald-eagle-loving Americans, we were used to the ability to let the pump just fill the tank and just hope it didn’t run over budget, but that wasn’t an option here. Instead, we were forced to select just how much we would approve. I started putting all the details together, and I came up with the following problem:</p>
-<p>You are at a gas pump, and you need to fill your tank. Your tank size is roughly 20 gallons, and it is 3&#x2F;4 empty. There are 3.8 liters in a gallon. The price of gas per liter isn’t listed anywhere, but you see on the screen that the previous customer paid 91 dollars for 54 liters. The options for pre-approval are 20, 30, 50, 70, 90, 100, and 110 dollars. What is the smallest amount you can pre-approve such that your tank will be completely full?</p>
-<p>Before I give you the answer, try it yourself with a calculator. To be clear, when I solved it, I didn’t write out the problem; those details are just what was swirling in my head at that moment. I pulled out the calculator app on my phone, pressed a few buttons, and in about 30 seconds, I had my final answer of 100 dollars. We hit the button, started filling the tank, and the actual amount of gas needed to fill the car was worth 97 dollars, which meant my calculations were spot-on. </p>
-<p>Solving the problem was fun, but it required a lot more processing than the short paragraph I wrote out. I had to know the unit conversion from gallons to liters. I had to assume the previous customer purchased low-octane fuel because it’s the most common choice. I had to understand how much rounding was just enough. I had to make assumptions about the gas tank. I had to package up all that real-world data into a pretty, little math problem. </p>
-<p>To the credit of all the people in math class that said, “we can use a calculator in the real world,” yes, yes we can. They’re in our pockets constantly. However, we still need to understand which numbers are important. Synthesizing that information efficiently is the first step to making math useful in the real world. We can use it whenever, but it only makes sense when we have a real problem to solve. Being able to gather the relevant information from a situation is a useful skill I’m grateful to have practiced through standardized tests, and I’m beginning to appreciate those problems more now.</p>
-<p>I still think the problems could be a bit more realistic though. I mean, <em>47</em> watermelons? Really?</p>
 ]]></content>
   </entry>
   <entry>
@@ -827,25 +830,26 @@
 ]]></content>
   </entry>
   <entry>
-    <title>The AI Summer: Part 1</title>
-    <url>/the-ai-summer-part-1/</url>
-    <content><![CDATA[<p>Well, my little cousin is using large language models to do his homework for him, my aunt makes Facebook posts with images from diffusion models, and I just deepfaked my voice in 5 minutes. That sentence sounds impossible, but the AI revolution has made it all too real. Some argue the AI revolution started in November of 2022, when ChatGPT was first released. Others say it started with Dall-E in early 2021. I say it started in 1958, but not with any big, fancy machine learning models. It started with the Perceptron.</p>
-<p>The Perceptron is the predecessor of all deep learning models. Before our modern neural networks with hundreds of hidden layers and fancy activation functions, there was a single-layer, linear network called the Perceptron. Designed by Warren McCulloch and Walter Pitts in 1943, it took 15 years before it was actually built by Frank Rosenblatt in 1958. Made to be a standalone machine, the Mark 1 Perceptron used an array of 20x20 photocells for the input, potentiometers to encode the weights, and electric motors to adjust the weights. One of the first things it learned was how to tell left from right. </p>
-<p>Rosenblatt envisioned a future, one where machines could understand language and see the world around us. His innovative work sparked uncertainty for the future, and where there is uncertainty, there is skepticism. Minsky and Papert provided a strong counterexample to the power of the Perceptron: it could not learn the XOR gate. Essentially, given two objects—each one either a “yes” or a “no”—the Perceptron would not be able to tell you whether they were the same. Even for problems it could solve, the Perceptron required far more computing power than was possible at the time. This gave skeptics the upper hand. A few years later, scientists entered the first AI winter. Funding was down and interest was low. The field stalled.</p>
-<p>The AI winter provided no incentive to consider the impacts of the potentially groundbreaking field. Companies didn’t anticipate how AI might impact them, and the law gave no specific consideration to such technologies. Because no one really cared to make any decisions, an AI future remained entirely uncertain. Rather than consider the implications and consequences, almost everyone deemed such decision-making unnecessary. Sure, calling Rosenblatt’s future nonsense sounded strong and resolute, but no problem has ever been answered by pretending it didn’t exist. The uncertain future of AI remained, but it was pawned off to the next generations as a problem for later.</p>
-<p>To the dismay of many, Rosenblatt was right. We are living through the AI revolution. Everyone with internet has access to state-of-the-art models, and they continue to transform how so many of us approach work and play in our everyday lives. Conversations about AI are no longer hypothetical. Businesses are transforming, the Senate is having hearings, and grassroots movements are growing because AI hit us hard, and we didn’t anticipate the impact. The uncertainty built over 60 years has finally broken free from the chains of hypotheticals and entered reality. </p>
-<p>And now, in our AI summer, we are woefully underprepared to deal with any of the consequences of AI. Yes, we have money and resources and attention pointing directly at this technology, but we remain almost as uncertain as we were a few decades ago. In this time, plenty have created theories about approaches to AI, but most were in the context of sentient machines. While I’m certainly thankful for that preparation for when the time comes, AI right now isn’t alive, it’s just fancy statistics. Issues of copyright and stolen data and plagiarism plague modern discussions of AI, and almost none have truly been resolved.   </p>
-<p>I sometimes wonder if this uncertainty is the price we pay for technological advancement. Almost no one batted an eyelid when LAION and CommonCrawl started building their massive datasets. Before ChatGPT, GPT-3 was already wildly powerful, writing an entire Batman movie script. GANs could do text-to-image generation well before Stable Diffusion. Few people asked if we should stop to reflect on these developments. I suppose, the longer we ignored the voices telling us to stop, the faster we could develop this technology. We paid for our speed by ignoring the uncertainty. When organizations released AI into the wild with few provisions or plans, it was already too late.</p>
-<p>To be clear, I would never expect anyone to anticipate everything that AI would bring. For the average internet user, the limits of what is possible have changed dramatically, and the evolutions of this technology continue to be unfathomable. Besides, we got a head start on some issues—like self-driving cars—but that still isn’t enough. With AI accessible to all, everyone is left to answer the uncertainty. Schools, healthcare, legislatures, companies small and large, everyone must now grapple with how to continue their lives in this once impossible future—in Rosenblatt’s future.</p>
-<p>The AI summer is heating up, and we’re flying too close to the sun. Try not to get burned.</p>
+    <title>The Beginning of Tau</title>
+    <url>/the-beginning-of-tau/</url>
+    <content><![CDATA[<p>Happy Tau Day, the day when you’re supposed to eat two pies. As an avid Pi Day enthusiast, June 28th provides the perfect opportunity to celebrate twice! All the major festivities you see on Pi Day, from memorizing digits to making music to baking fruit manifolds with crust boundaries, it’s all there on Tau Day. Ultimate Tau Day (6&#x2F;28&#x2F;31) is only eight years away, so start preparing before it’s too late.</p>
+<p>Part of the beauty of Tau (τ) is that it has a life outside of being the ratio of a circle’s circumference to its radius. π has been featured in too many blockbuster equations and gets recognized everywhere. While τ is a lesser known celebrity, it can explore other fields, like particle physics and neuroscience and programming languages.</p>
+<p>Pi and Tau day are wonderful, but they’re not alone. Mathematically wonderful dates are everywhere. Other than just being Tau Day, the numbers in today’s date (6&#x2F;28&#x2F;23) provide a beautiful equation—</p>
+<p>$$\Gamma(6) &#x3D; (28 - 23)!$$</p>
+<p>—with ! denoting factorial, but also excitement because this is exciting. Tomorrow gives us an even simpler equation:</p>
+<p>$$6 &#x3D; 29 - 23$$</p>
+<p>And yesterday worked out quite nicely as well:</p>
+<p>$$6 &#x3D; \Gamma(27 - 23)$$</p>
+<p>For years, I’ve played this little game with the date, trying to insert non-digit symbols around and between the numbers, creating a valid equation while preserving their order from left to right. I recommend you try it too, it’s a nice way to spend a few minutes. Today, I built a toy programming language (thanks τ) whose programs are valid date equations. Then I wrote a script that searched through a finite space of potential programs to find valid ones for the given date. It generated the solutions for the dates I just listed.</p>
+<p>After playing this game for years, I’ve realized that finding an equation for the date is always possible. In fact, there are universal solutions, though they’re not always very exciting. For example, by taking advantage of properties of the sine function:</p>
+<p>$$ \forall m, d, y \in \mathbb{N}, \sin((m + d)\tau) &#x3D; \sin(y\tau) $$</p>
+<p>Strangely, celebrating τ allows us to celebrate other days of the year rather mathematically. Yes, τ is a superstar, but it allows us to celebrate others through its mere presence. </p>
+<p>The Tau Manifesto was written in 2010, spreading the voices of those who carried τ on their backs for years in relative silence. While the Tau Day community has certainly come a far way since then, τ is far from the spotlight it deserves. Until that moment, celebrate each day mathematically. This is just the beginning.</p>
 <hr>
 <h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ol>
-<li><a href="https://doi.org/10.1177/030631296026003005">A Sociological Study of the Official History of the Perceptrons Controversy</a></li>
-<li><a href="https://archive.org/details/perceptronsintro00mins">Perceptrons. Minsky and Papert.</a></li>
-<li><a href="https://news.cornell.edu/stories/2019/09/professors-perceptron-paved-way-ai-60-years-too-soon">Professor’s Perceptron Paved the Way for AI – 60 Years Too Soon</a></li>
-<li><a href="https://commoncrawl.org/">CommonCrawl</a></li>
-<li><a href="https://laion.ai/blog/laion-5b/">LAION-5B</a></li>
-<li><a href="https://twitter.com/KeatonPatti/status/1161284670601990146">AI Batman Script from 2019</a></li>
+<li><a href="https://tauday.com/">The Official Tau Day Website</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Tau_(particle)">The Tau Particle</a></li>
+<li><a href="https://www.alz.org/media/Documents/alzheimers-dementia-tau-ts.pdf">Tau in Alzheimer’s Research</a></li>
 </ol>
 ]]></content>
   </entry>
@@ -871,26 +875,25 @@
 ]]></content>
   </entry>
   <entry>
-    <title>The Beginning of Tau</title>
-    <url>/the-beginning-of-tau/</url>
-    <content><![CDATA[<p>Happy Tau Day, the day when you’re supposed to eat two pies. As an avid Pi Day enthusiast, June 28th provides the perfect opportunity to celebrate twice! All the major festivities you see on Pi Day, from memorizing digits to making music to baking fruit manifolds with crust boundaries, it’s all there on Tau Day. Ultimate Tau Day (6&#x2F;28&#x2F;31) is only eight years away, so start preparing before it’s too late.</p>
-<p>Part of the beauty of Tau (τ) is that it has a life outside of being the ratio of a circle’s circumference to its radius. π has been featured in too many blockbuster equations and gets recognized everywhere. While τ is a lesser known celebrity, it can explore other fields, like particle physics and neuroscience and programming languages.</p>
-<p>Pi and Tau day are wonderful, but they’re not alone. Mathematically wonderful dates are everywhere. Other than just being Tau Day, the numbers in today’s date (6&#x2F;28&#x2F;23) provide a beautiful equation—</p>
-<p>$$\Gamma(6) &#x3D; (28 - 23)!$$</p>
-<p>—with ! denoting factorial, but also excitement because this is exciting. Tomorrow gives us an even simpler equation:</p>
-<p>$$6 &#x3D; 29 - 23$$</p>
-<p>And yesterday worked out quite nicely as well:</p>
-<p>$$6 &#x3D; \Gamma(27 - 23)$$</p>
-<p>For years, I’ve played this little game with the date, trying to insert non-digit symbols around and between the numbers, creating a valid equation while preserving their order from left to right. I recommend you try it too, it’s a nice way to spend a few minutes. Today, I built a toy programming language (thanks τ) whose programs are valid date equations. Then I wrote a script that searched through a finite space of potential programs to find valid ones for the given date. It generated the solutions for the dates I just listed.</p>
-<p>After playing this game for years, I’ve realized that finding an equation for the date is always possible. In fact, there are universal solutions, though they’re not always very exciting. For example, by taking advantage of properties of the sine function:</p>
-<p>$$ \forall m, d, y \in \mathbb{N}, \sin((m + d)\tau) &#x3D; \sin(y\tau) $$</p>
-<p>Strangely, celebrating τ allows us to celebrate other days of the year rather mathematically. Yes, τ is a superstar, but it allows us to celebrate others through its mere presence. </p>
-<p>The Tau Manifesto was written in 2010, spreading the voices of those who carried τ on their backs for years in relative silence. While the Tau Day community has certainly come a far way since then, τ is far from the spotlight it deserves. Until that moment, celebrate each day mathematically. This is just the beginning.</p>
+    <title>The AI Summer: Part 1</title>
+    <url>/the-ai-summer-part-1/</url>
+    <content><![CDATA[<p>Well, my little cousin is using large language models to do his homework for him, my aunt makes Facebook posts with images from diffusion models, and I just deepfaked my voice in 5 minutes. That sentence sounds impossible, but the AI revolution has made it all too real. Some argue the AI revolution started in November of 2022, when ChatGPT was first released. Others say it started with Dall-E in early 2021. I say it started in 1958, but not with any big, fancy machine learning models. It started with the Perceptron.</p>
+<p>The Perceptron is the predecessor of all deep learning models. Before our modern neural networks with hundreds of hidden layers and fancy activation functions, there was a single-layer, linear network called the Perceptron. Designed by Warren McCulloch and Walter Pitts in 1943, it took 15 years before it was actually built by Frank Rosenblatt in 1958. Made to be a standalone machine, the Mark 1 Perceptron used an array of 20x20 photocells for the input, potentiometers to encode the weights, and electric motors to adjust the weights. One of the first things it learned was how to tell left from right. </p>
+<p>Rosenblatt envisioned a future, one where machines could understand language and see the world around us. His innovative work sparked uncertainty for the future, and where there is uncertainty, there is skepticism. Minsky and Papert provided a strong counterexample to the power of the Perceptron: it could not learn the XOR gate. Essentially, given two objects—each one either a “yes” or a “no”—the Perceptron would not be able to tell you whether they were the same. Even for problems it could solve, the Perceptron required far more computing power than was possible at the time. This gave skeptics the upper hand. A few years later, scientists entered the first AI winter. Funding was down and interest was low. The field stalled.</p>
+<p>The AI winter provided no incentive to consider the impacts of the potentially groundbreaking field. Companies didn’t anticipate how AI might impact them, and the law gave no specific consideration to such technologies. Because no one really cared to make any decisions, an AI future remained entirely uncertain. Rather than consider the implications and consequences, almost everyone deemed such decision-making unnecessary. Sure, calling Rosenblatt’s future nonsense sounded strong and resolute, but no problem has ever been answered by pretending it didn’t exist. The uncertain future of AI remained, but it was pawned off to the next generations as a problem for later.</p>
+<p>To the dismay of many, Rosenblatt was right. We are living through the AI revolution. Everyone with internet has access to state-of-the-art models, and they continue to transform how so many of us approach work and play in our everyday lives. Conversations about AI are no longer hypothetical. Businesses are transforming, the Senate is having hearings, and grassroots movements are growing because AI hit us hard, and we didn’t anticipate the impact. The uncertainty built over 60 years has finally broken free from the chains of hypotheticals and entered reality. </p>
+<p>And now, in our AI summer, we are woefully underprepared to deal with any of the consequences of AI. Yes, we have money and resources and attention pointing directly at this technology, but we remain almost as uncertain as we were a few decades ago. In this time, plenty have created theories about approaches to AI, but most were in the context of sentient machines. While I’m certainly thankful for that preparation for when the time comes, AI right now isn’t alive, it’s just fancy statistics. Issues of copyright and stolen data and plagiarism plague modern discussions of AI, and almost none have truly been resolved.   </p>
+<p>I sometimes wonder if this uncertainty is the price we pay for technological advancement. Almost no one batted an eyelid when LAION and CommonCrawl started building their massive datasets. Before ChatGPT, GPT-3 was already wildly powerful, writing an entire Batman movie script. GANs could do text-to-image generation well before Stable Diffusion. Few people asked if we should stop to reflect on these developments. I suppose, the longer we ignored the voices telling us to stop, the faster we could develop this technology. We paid for our speed by ignoring the uncertainty. When organizations released AI into the wild with few provisions or plans, it was already too late.</p>
+<p>To be clear, I would never expect anyone to anticipate everything that AI would bring. For the average internet user, the limits of what is possible have changed dramatically, and the evolutions of this technology continue to be unfathomable. Besides, we got a head start on some issues—like self-driving cars—but that still isn’t enough. With AI accessible to all, everyone is left to answer the uncertainty. Schools, healthcare, legislatures, companies small and large, everyone must now grapple with how to continue their lives in this once impossible future—in Rosenblatt’s future.</p>
+<p>The AI summer is heating up, and we’re flying too close to the sun. Try not to get burned.</p>
 <hr>
 <h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ol>
-<li><a href="https://tauday.com/">The Official Tau Day Website</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Tau_(particle)">The Tau Particle</a></li>
-<li><a href="https://www.alz.org/media/Documents/alzheimers-dementia-tau-ts.pdf">Tau in Alzheimer’s Research</a></li>
+<li><a href="https://doi.org/10.1177/030631296026003005">A Sociological Study of the Official History of the Perceptrons Controversy</a></li>
+<li><a href="https://archive.org/details/perceptronsintro00mins">Perceptrons. Minsky and Papert.</a></li>
+<li><a href="https://news.cornell.edu/stories/2019/09/professors-perceptron-paved-way-ai-60-years-too-soon">Professor’s Perceptron Paved the Way for AI – 60 Years Too Soon</a></li>
+<li><a href="https://commoncrawl.org/">CommonCrawl</a></li>
+<li><a href="https://laion.ai/blog/laion-5b/">LAION-5B</a></li>
+<li><a href="https://twitter.com/KeatonPatti/status/1161284670601990146">AI Batman Script from 2019</a></li>
 </ol>
 ]]></content>
   </entry>
@@ -1232,18 +1235,6 @@
 ]]></content>
   </entry>
   <entry>
-    <title>What is Gibberish?</title>
-    <url>/what-is-gibberish/</url>
-    <content><![CDATA[<p>Gibberish. Jibber-jabber. Gobbledygook. They’re all words for the same idea: nonsense speech. When someone is speaking gibberish, they make absolutely no sense. You can’t derive any meaning from their words. Despite the excessive amount of language being used, whether actual words or just random syllables, there is no information being conveyed. Even the message, “there is no information being conveyed” is not conveyed through gibberish. Gibberish is meaningless, and I want to know how.</p>
-<p>How is it possible to communicate nothing through your use of language? Even in the most convoluted scenarios, sequences of words always seem to carry some meaning. Take, for example, Shakespeare’s sonnets. For so many teenagers sitting in English class, Shakespeare’s sonnets are nothing but 400-year-old word vomit, yet those sonnets have shared beautiful stories to countless ears. Despite his penchant for inventing new words, Shakespeare wasn’t producing gibberish. Far from it, his works are literary masterpieces. Either that or someone is paying a lot of money to force teenagers to read his works for no reason.</p>
-<p>I don’t think gibberish is characterized by how outlandish the speech seems. Like with Shakespeare, most speech is only meaningful for the intended audience. Normal people listening to legal or medical jargon would have no idea what it means, yet legal and medical jargon are entirely meaningful. It seems that in order to produce meaningless speech, you must produce speech that has no possible audience. If there is no one that can extract meaning from the speech, then it must be meaningless.</p>
-<p>Consider the other side of this. Any speech that has an audience is meaningful, and given how much has been said over so many centuries, meaningful speech must have some relatively high probability of aligning with things that have already been said. By the contrapositive, any speech that has a low probability of aligning with things that have been said before is likely meaningless. </p>
-<p>From a practical perspective, producing improbable speech may seem like a difficult task, but with the advent of LLMs, this becomes much easier. Modern LLMs trained on the majority of the readable internet are essentially fancy probability distributions of existing text. Unfortunately, asking ChatGPT to produce improbable speech wouldn’t work, because it must produce high-probability speech by default. Just to be sure, I tested this, and it basically came up with a list of silly nouns, mostly animals, food, and space stuff, but that’s not meaningless enough, since it’s a vaguely coherent list. Instead, I modified the behavior of GPT-2 to produce low-probability text while still sticking to English, kinda. I started with the seed, “The following is gibberish:”. Here’s what it came up with.</p>
-<p>The following is gibberish:iability interior markup markup Starship markup Starshipnever Afghansaviouraviour pastenever proclamation Netherlands circumstance Starship Computingaviour bould Jackie Lady Lady Lady daytime Lady Lady pulmonary drill Harbaugh forcefully partnering dissu disciplined contradict Harbaugh dissuclaimed 323 Afghanskeyes Narr interior Weather Cookies Cookies Cookies Cookies Cookies Cookies</p>
-<p>I still have to iron out some kinks, but I do think this is a promising start. My working theorem on meaningless speech will hopefully lead to the completion of GibberishGPT, because the world clearly needs more useless LLMs.</p>
-]]></content>
-  </entry>
-  <entry>
     <title>Using Math to Make Friends</title>
     <url>/using-math-to-make-friends/</url>
     <content><![CDATA[<p>About a year ago, I realized I was showing symptoms of the latest global epidemic. It developed slowly, but by the time I noticed, the condition had already taken hold. I had become the latest casualty of what is now being dubbed the Loneliness Epidemic. </p>
@@ -1291,6 +1282,18 @@
 <li><a href="https://en.wikipedia.org/wiki/Triadic_closure">Triadic Closure</a></li>
 <li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10772224/">The Loneliness Epidemic</a></li>
 </ol>
+]]></content>
+  </entry>
+  <entry>
+    <title>What is Gibberish?</title>
+    <url>/what-is-gibberish/</url>
+    <content><![CDATA[<p>Gibberish. Jibber-jabber. Gobbledygook. They’re all words for the same idea: nonsense speech. When someone is speaking gibberish, they make absolutely no sense. You can’t derive any meaning from their words. Despite the excessive amount of language being used, whether actual words or just random syllables, there is no information being conveyed. Even the message, “there is no information being conveyed” is not conveyed through gibberish. Gibberish is meaningless, and I want to know how.</p>
+<p>How is it possible to communicate nothing through your use of language? Even in the most convoluted scenarios, sequences of words always seem to carry some meaning. Take, for example, Shakespeare’s sonnets. For so many teenagers sitting in English class, Shakespeare’s sonnets are nothing but 400-year-old word vomit, yet those sonnets have shared beautiful stories to countless ears. Despite his penchant for inventing new words, Shakespeare wasn’t producing gibberish. Far from it, his works are literary masterpieces. Either that or someone is paying a lot of money to force teenagers to read his works for no reason.</p>
+<p>I don’t think gibberish is characterized by how outlandish the speech seems. Like with Shakespeare, most speech is only meaningful for the intended audience. Normal people listening to legal or medical jargon would have no idea what it means, yet legal and medical jargon are entirely meaningful. It seems that in order to produce meaningless speech, you must produce speech that has no possible audience. If there is no one that can extract meaning from the speech, then it must be meaningless.</p>
+<p>Consider the other side of this. Any speech that has an audience is meaningful, and given how much has been said over so many centuries, meaningful speech must have some relatively high probability of aligning with things that have already been said. By the contrapositive, any speech that has a low probability of aligning with things that have been said before is likely meaningless. </p>
+<p>From a practical perspective, producing improbable speech may seem like a difficult task, but with the advent of LLMs, this becomes much easier. Modern LLMs trained on the majority of the readable internet are essentially fancy probability distributions of existing text. Unfortunately, asking ChatGPT to produce improbable speech wouldn’t work, because it must produce high-probability speech by default. Just to be sure, I tested this, and it basically came up with a list of silly nouns, mostly animals, food, and space stuff, but that’s not meaningless enough, since it’s a vaguely coherent list. Instead, I modified the behavior of GPT-2 to produce low-probability text while still sticking to English, kinda. I started with the seed, “The following is gibberish:”. Here’s what it came up with.</p>
+<p>The following is gibberish:iability interior markup markup Starship markup Starshipnever Afghansaviouraviour pastenever proclamation Netherlands circumstance Starship Computingaviour bould Jackie Lady Lady Lady daytime Lady Lady pulmonary drill Harbaugh forcefully partnering dissu disciplined contradict Harbaugh dissuclaimed 323 Afghanskeyes Narr interior Weather Cookies Cookies Cookies Cookies Cookies Cookies</p>
+<p>I still have to iron out some kinks, but I do think this is a promising start. My working theorem on meaningless speech will hopefully lead to the completion of GibberishGPT, because the world clearly needs more useless LLMs.</p>
 ]]></content>
   </entry>
   <entry>
@@ -1396,478 +1399,13 @@ echo "cmJoYXNrYXJAdWNoaWNhZ28uZWR1Cg==" | base64 --decode
 <!-- *Add to the [dialogue](/chat), and become part of my story.* -->]]></content>
   </entry>
   <entry>
-    <title>Gallery Ext</title>
-    <url>/gallery/ext.html</url>
-    <content><![CDATA[<style>
-.simple-wrapper {
-    text-align: center!important;
-    display: flex;
-    /* align-items: center; Vertically center the content */
-    margin-bottom: 20px; /* Space between text and image container */
-}
-
-/* Ensure the image container and images are responsive */
-.image-container {
-    display: flex;
-    flex-wrap: wrap; /* Allows images to wrap if needed */
-    max-width: 50%; /* Adjust this as needed */
-}
-
-.image-container img {
-    width: 100%; /* Images take up full width of the container */
-    height: auto;
-}
-
-.text-wrapper {
-  margin-top: 3rem;
-  margin-right: 1rem;
-}
-
-@media (max-width: 768px) {
-    .simple-wrapper {
-        flex-direction: column; /* Stack text and image container on smaller screens */
-        align-items: flex-start; /* Align text and images to the left */
-    }
-
-    .image-container {
-        max-width: 100%; /* Image container takes full width on smaller screens */
-    }
-}
-
-
-</style>
-
-<p>An extended gallery of my original origami designs. They are in chronological order by the date designed. Please contact me before distributing or teaching these models.</p>
-<h2 id="Index"><a href="#Index" class="headerlink" title="Index"></a>Index</h2><p><a href="#phishing">Phishing - 32x32 Grid</a><br><a href="#walking-red-flag">Walking Red Flag - 18x18 Grid</a><br><a href="#hanging-up-the-mask">Hanging up the Mask - 10x10 Grid</a><br><a href="#ship-in-a-bottle">Ship in a Bottle - 18x18 Grid</a><br><a href="#ermine">Ermine - 14x14 Grid</a><br><a href="#skys-the-limit">Sky’s the Limit - 18x18 Grid</a><br><a href="#sinking-feeling">Sinking Feeling - 18x18 Grid</a><br><a href="#stargazing">Stargazing - 16x16 Grid</a><br><a href="#whitetail-fawn">Whitetail Fawn - 22.5</a><br><a href="#fish-out-of-water">Fish out of Water - 14x14 Grid (Partial 28ths)</a><br><a href="#hanging-by-a-thread">Hanging by a Thread - 20x20 Grid</a><br><a href="#even-littler-dragon">Even Littler Dragon - 6x6 Grid</a><br><a href="#mandrake">Mandrake - 16x16 Grid</a><br><a href="#sea-serpent">Sea Serpent - Grafted Fish Base</a><br><a href="#mermaid">Mermaid - 16x16 Grid</a><br><a href="#phoenix">Phoenix - Grafted Bird Base</a><br><a href="#trophy-hunting">Trophy Hunting - Fish Base</a><br><a href="#fairy">Fairy - 16x16 Grid</a><br><a href="#wss">Wikipedia Sword and Shield - 16x16 Grid</a></p>
-<div class="simple-wrapper">
-  <div class="text-wrapper">
-    <a id="phishing"></a>
-    <h1>Phishing - 32x32 Grid</h1>
-    <p>Phishing is a cyber crime that typically involves baiting people with malicious emails. Here, instead of an actual fisherman doing the phishing, it's a siren, as sirens were known for using song to lure sailors to their deaths. This is by far my most complex design to date.</p>
-    <p>Designed: 08/21/25</p>
-  </div>
-  <div class="image-container">
-  <img src="gallery/phishing.jpg" alt="Origami phishing."> 
-  <img src="gallery/phishing-cp.png" alt="Crease pattern of origami phishing."> 
-  </div>
-</div>
-
-<div class="simple-wrapper">
-  <div class="text-wrapper">
-    <a id="walking-red-flag"></a>
-    <h1>Walking Red Flag - 18x18 Grid</h1>
-    <p>Some things are better left avoided, and if you're lucky, they'll tell you to stay away. Most of this model is pretty straightforward to fold, except for the arm holding a smaller red flag.</p>
-    <p>Designed: 07/17/25</p>
-  </div>
-  <div class="image-container">
-  <img src="gallery/walking-red-flag.jpg" alt="Origami red flag.">
-  <img src="gallery/walking-red-flag-cp.png" alt="Crease pattern of origami red flag."> 
-  </div>
-</div>
-
-<div class="simple-wrapper">
-  <div class="text-wrapper">
-    <a id="hanging-up-the-mask"></a>
-    <h1>Hanging up the Mask - 10x10 Grid</h1>
-    <p>Comedy never looked so grim. On a related note, properly shaping this model is a nightmare, probably because I'm bad at masks.</p>
-    <p>Designed: 06/28/25</p>
-  </div>
-  <div class="image-container">
-  <img src="gallery/hanging-up-the-mask.jpg" alt="Origami comedy mask."> 
-  <img src="gallery/hanging-up-the-mask-cp.png" alt="Crease pattern of origami comedy mask."> 
-  </div>
-</div>
-
-<div class="simple-wrapper">
-  <div class="text-wrapper">
-    <a id="ship-in-a-bottle"></a>
-    <h1>Ship in a Bottle - 18x18 Grid</h1>
-    <p>I suppose it's technically only half a bottle, but if I made the whole bottle, then you wouldn't be able to see the ship.</p>
-    <p>Designed: 06/02/25</p>
-  </div>
-  <div class="image-container">
-  <img src="gallery/ship-in-a-bottle.jpg" alt="Origami ship in a bottle."> 
-  <img src="gallery/ship-in-a-bottle-cp.png" alt="Crease pattern of origami ship in a bottle."> 
-  </div>
-</div>
-
-<div class="simple-wrapper">
-  <div class="text-wrapper">
-    <a id="ermine"></a>
-    <h1>Ermine - 14x14 Grid</h1>
-    <p>Is it a stoat or an ermine? Never could figure out the difference. In any case, the design is excessively difficult for something so simple.</p>
-    <p>Designed: 05/28/25</p>
-  </div>
-  <div class="image-container">
-  <img src="gallery/ermine.jpg" alt="Origami ermine/stoat."> 
-  <img src="gallery/ermine-cp.png" alt="Crease pattern of origami ermine/stoat."> 
-  </div>
-</div>
-
-<div class="simple-wrapper">
-  <div class="text-wrapper">
-    <a id="skys-the-limit"></a>
-    <h1>Sky's the Limit - 18x18 Grid</h1>
-    <p>In the same vein as Sinking Feeling, this is meta origami with a non-standard model. I wanted this model to focus on youthful imagination, as I know I would have loved this as a kid. Also, yes, it does fly.</p>
-    <p>Designed: 05/10/25</p>
-  </div>
-  <div class="image-container">
-  <img src="gallery/skys-the-limit.jpg" alt="Origami plane and pilot."> 
-  <img src="gallery/skys-the-limit-cp.png" alt="Crease pattern of origami plane and pilot."> 
-  </div>
-</div>
-
-<div class="simple-wrapper">
-  <div class="text-wrapper">
-    <a id="sinking-feeling"></a>
-    <h1>Sinking Feeling - 18x18 Grid</h1>
-    <p>Meta origami models are so fun, but they typically focus on cranes or blank pieces of paper. There are very few models that incorporate the traditional boat, so I designed a model that had two. The title is a double entendre for the sink fold.</p>
-    <p>Designed: 09/20/24</p>
-  </div>
-  <div class="image-container">
-  <img src="gallery/sinking-feeling.jpg" alt="Origami boat and sailor."> 
-  <img src="gallery/sinking-feeling-cp.png" alt="Crease pattern of origami boat and sailor."> 
-  </div>
-</div>
-
-<div class="simple-wrapper">
-  <div class="text-wrapper">
-    <a id="stargazing"></a>
-    <h1>Stargazing - 16x16 Grid</h1>
-    <p>Alternate title: the universe observing itself. Origami seems like a fitting medium for this idea, since both the observer (telescope) and the universe (night sky) are folded from the same sheet of paper. Designing a piece that is its own background was an interesting challenge.</p>
-    <p>Designed: 09/06/24</p>
-  </div>
-  <div class="image-container">
-  <img src="gallery/stargazing.jpg" alt="Origami telescope and night sky."> 
-  <img src="gallery/stargazing-cp.png" alt="Crease pattern of origami telescope and night sky."> 
-  </div>
-</div>
-
-<div class="simple-wrapper">
-  <div class="text-wrapper">
-    <a id="whitetail-fawn"></a>
-    <h1>Whitetail Fawn - 22.5&deg;</h1>
-    <p>Designed as a celebration of the past summer, I took a slight departure from my previous subjects and paradigms. The result is this simple baby deer.</p>
-    <p>Designed: 08/18/24</p>
-  </div>
-  <div class="image-container">
-  <img src="gallery/fawn.jpg" alt="Origami whitetail fawn."> 
-  <img src="gallery/fawn-cp.png" alt="Crease pattern of origami whitetail fawn."> 
-  </div>
-</div>
-
-<div class="simple-wrapper">
-  <div class="text-wrapper">
-    <a id="fish-out-of-water"></a>
-    <h1>Fish out of Water - 14x14 Grid (Partial 28ths)</h1>
-    <p>A bit of an absurdist take on the phrase, I wanted to use my humanoid design skills to make the fish vaguely anthropomorphic. The partial 28ths can be treated as open sinks during the folding sequence, though I still recommend precreasing them. The umbrella uses a similar structure to the one in "Walking in the Rain" by Chen Xiao.</p>
-    <p>Designed: 08/14/24</p>
-  </div>
-  <div class="image-container">
-  <img src="gallery/fish-out-of-water.jpg" alt="Origami fish holding an umbrella."> 
-  <img src="gallery/fish-out-of-water-cp.png" alt="Crease pattern of origami fish holding an umbrella."> 
-  </div>
-</div>
-
-<div class="simple-wrapper">
-  <div class="text-wrapper">
-    <a id="hanging-by-a-thread"></a>
-    <h1>Hanging by a Thread - 20x20 Grid</h1>
-    <p>Won the July 2024 Origami-Dan design contest. To some degree, I was inspired by Banksy's "Girl with Balloon", which informed my color choice in the final fold.</p>
-    <p>Designed: 07/24/24</p>
-  </div>
-  <div class="image-container">
-  <img src="gallery/hanging-by-a-thread.jpg" alt="Origami person hanging by balloon."> 
-  <img src="gallery/hanging-by-a-thread-cp.png" alt="Crease pattern of origami person hanging by balloon."> 
-  </div>
-</div>
-
-<div class="simple-wrapper">
-  <div class="text-wrapper">
-    <a id="even-littler-dragon"></a>
-    <h1>Even Littler Dragon - 6x6 Grid</h1>
-    <p>Designed at the OUSA 2024 convention. After seeing that Boice Wong was selling diagrams for his Little Dragon (8-grid), I wanted to see if I could design a dragon even smaller. This one is very efficient, but if you're looking for a fun, low-grid origami dragon, just go buy his diagrams.</p>
-    <p>Designed: 07/20/24</p>
-  </div>
-  <div class="image-container">
-  <img src="gallery/even-littler-dragon.jpg" alt="Origami dragon."> 
-  <img src="gallery/even-littler-dragon-cp.png" alt="Crease pattern of origami dragon."> 
-  </div>
-</div>
-
-<div class="simple-wrapper">
-  <div class="text-wrapper">
-    <a id="mandrake"></a>
-    <h1>Mandrake - 16x16 Grid</h1>
-    <p>A cute, little asymmetric root vegetable. This design focuses more heavily on the mythical interpretation of the plant, but you could just as easily shape it to look like a potato.</p>
-    <p>Designed: 06/07/24</p>
-  </div>
-  <div class="image-container">
-  <img src="gallery/mandrake.jpg" alt="Origami mandrake."> 
-  <img src="gallery/mandrake-cp.png" alt="Crease pattern of origami mandrake."> 
-  </div>
-</div>
-
-<div class="simple-wrapper">
-  <div class="text-wrapper">
-    <a id="sea-serpent"></a>
-    <h1>Sea Serpent - Grafted Fish Base</h1>
-    <p>It took a while to nail down the final structure and proportions, but it was time well spent. The reference for the grafts on the top and left of the CP is 3/16ths the width of the paper. Finished the design on the same day as my mermaid.</p>
-    <p>Designed: 05/11/24</p>
-  </div>
-  <div class="image-container">
-  <img src="gallery/sea-serpent.jpg" alt="Origami sea serpent."> 
-  <img src="gallery/sea-serpent-cp.png" alt="Crease pattern of origami sea serpent."> 
-  </div>
-</div>
-
-<div class="simple-wrapper">
-  <div class="text-wrapper">
-    <a id="mermaid"></a>
-    <h1>Mermaid - 16x16 Grid</h1>
-    <p>I suppose this is is technically a merperson, since I didn't aim to imply a particular gender with this design. The trident makes the structure very asymmetrical. Finished the design on the same day as my sea dragon.</p>
-    <p>Designed: 05/11/24</p>
-  </div>
-  <div class="image-container">
-  <img src="gallery/mermaid.jpg" alt="No good photos at the moment."> 
-  <img src="gallery/mermaid-cp.png" alt="Crease pattern of origami mermaid."> 
-  </div>
-</div>
-
-<div class="simple-wrapper">
-  <div class="text-wrapper">
-    <a id="trophy-hunting"></a>
-    <h1>Trophy Hunting - Fish Base</h1>
-    <p>What started as a sketch of an elephant head turned into something much more. Trophy hunting as a broader concept is a contentious subject with a lot of philosophical nuance. Admittedly, this piece doesn't really engage much of that discourse; it's a paper elephant head.</p>
-    <p>Designed: 05/01/24</p>
-  </div>
-  <div class="image-container">
-  <img src="gallery/trophy-hunting.jpg" alt="Origami trophy hunting."> 
-  <img src="gallery/trophy-hunting-cp.png" alt="Crease pattern of origami trophy hunting."> 
-  </div>
-</div>
-
-<div class="simple-wrapper">
-  <div class="text-wrapper">
-    <a id="phoenix"></a>
-    <h1>Phoenix - Grafted Bird Base</h1>
-    <p>Designed for university graduation, I wanted to render our school's mascot using origami. The braided tail uses the same structure as Satoshi Kamiya's phoenix. The references for the CP are that the corners of the bird base lie on the 1st and 5th grid lines of an 8-grid.</p>
-    <p>Designed: 04/28/24</p>
-  </div>
-  <div class="image-container">
-  <img src="gallery/phoenix.jpg" alt="Origami phoenix."> 
-  <img src="gallery/phoenix-cp.png" alt="Crease pattern of origami phoenix."> 
-  </div>
-</div>
-
-<div class="simple-wrapper">
-  <div class="text-wrapper">
-    <a id="fairy"></a>
-    <h1>Fairy - 16x16 Grid</h1>
-    <p>I received a lot of negative feedback on this design, which was ultimately for the best. I've used the criticisms to improve subsequent designs. </p>
-    <p>Designed: 04/06/24</p>
-  </div>
-  <div class="image-container">
-  <img src="gallery/fairy.jpg" alt="Origami fairy."> 
-  <img src="gallery/fairy-cp.png" alt="Crease pattern of origami fairy."> 
-  </div>
-</div>
-
-<div class="simple-wrapper">
-  <div class="text-wrapper">
-    <a id="wss"></a>
-    <h1>Wikipedia Sword and Shield - 16x16 Grid</h1>
-    <p>I don't claim this design as my own. On the Wikipedia page for Crease Patterns, there's this unfinished CP of a swordman. It was added by the user Nicoguaro, but I couldn't find the original shaping, so I took a crack at finishing the CP and folding it myself.</p>
-    <p>Found: 03/29/24</p>
-  </div>
-  <div class="image-container">
-  <img src="gallery/wikipedia-sword-and-shield.jpg" alt="Origami sword and shield."> 
-  <img src="gallery/wikipedia-sword-and-shield-cp.png" alt="Crease pattern of origami sword and shield."> 
-  </div>
-</div>
-
-<p>Gallery layout credit to <a href="https://www.obb.design/c">Boice Wong</a>.</p>
-]]></content>
-  </entry>
-  <entry>
-    <title>Gallery</title>
-    <url>/gallery/index.html</url>
-    <content><![CDATA[<style>
-.simple-wrapper {
-    text-align: center!important;
-    display: flex;
-    /* align-items: center; Vertically center the content */
-    margin-bottom: 20px; /* Space between text and image container */
-}
-
-/* Ensure the image container and images are responsive */
-.image-container {
-    display: flex;
-    flex-wrap: wrap; /* Allows images to wrap if needed */
-    max-width: 50%; /* Adjust this as needed */
-    
-}
-
-.image-container img {
-    width: 100%; /* Images take up full width of the container */
-    height: auto;
-}
-
-.text-wrapper {
-  margin-right: auto!important;
-  margin-left: auto!important;
-  margin-top: 1rem;
-  padding-right: 1rem;
-}
-
-@media (max-width: 768px) {
-    .simple-wrapper {
-        flex-direction: column; /* Stack text and image container on smaller screens */
-        align-items: flex-start; /* Align text and images to the left */
-    }
-
-    .image-container {
-        max-width: 100%; /* Image container takes full width on smaller screens */
-    }
-}
-
-
-</style>
-
-<p>I am a Chicago based origami artist. I create figurative models, often incorporating multiple subjects into a single piece. Everything here is from a single sheet of paper, no cuts.</p>
-<p>Please contact me before distributing or teaching any of my works.</p>
-<h2 id="Index"><a href="#Index" class="headerlink" title="Index"></a>Index</h2><p><a href="#phishing">Phishing</a><br><a href="#walking-red-flag">Walking Red Flag</a><br><a href="#hanging-up-the-mask">Hanging up the Mask</a><br><a href="#ship-in-a-bottle">Ship in a Bottle</a><br><a href="#skys-the-limit">Sky’s the Limit</a><br><a href="#sinking-feeling">Sinking Feeling</a><br><a href="#stargazing">Stargazing</a><br><a href="#whitetail-fawn">Whitetail Fawn</a><br><a href="#fish-out-of-water">Fish out of Water</a><br><a href="#hanging-by-a-thread">Hanging by a Thread</a></p>
-<div class="simple-wrapper">
-  <div class="text-wrapper">
-    <a id="phishing"></a>
-    <h1>Phishing</h1>
-    <p>Phishing is a cyber crime that typically involves baiting people with malicious emails. Here, instead of an actual fisherman doing the phishing, it's a siren, as sirens were known for using song to lure sailors to their deaths.</p>
-    <p>Designed: 08/21/25</p>
-  </div>
-  <div class="image-container">
-  <img src="gallery/phishing.jpg" alt="Origami phishing."> 
-  <img src="gallery/phishing-cp.png" alt="Crease pattern of origami phishing."> 
-  </div>
-</div>
-
-<div class="simple-wrapper">
-  <div class="text-wrapper">
-    <a id="walking-red-flag"></a>
-    <h1>Walking Red Flag</h1>
-    <p>Some things are better left avoided, and if you're lucky, they'll tell you to stay away. Most of this model is pretty straightforward to fold, except for the arm holding a smaller red flag.</p>
-    <p>Designed: 07/17/25</p>
-  </div>
-  <div class="image-container">
-  <img src="gallery/walking-red-flag.jpg" alt="Origami red flag."> 
-  <img src="gallery/walking-red-flag-cp.png" alt="Crease pattern of origami red flag."> 
-  </div>
-</div>
-
-<div class="simple-wrapper">
-  <div class="text-wrapper">
-    <a id="hanging-up-the-mask"></a>
-    <h1>Hanging up the Mask</h1>
-    <p>Comedy never looked so tragic. On a related note, properly shaping this model is a nightmare, probably because I'm bad at masks.</p>
-    <p>Designed: 06/28/25</p>
-  </div>
-  <div class="image-container">
-  <img src="gallery/hanging-up-the-mask.jpg" alt="Origami comedy mask."> 
-  <img src="gallery/hanging-up-the-mask-cp.png" alt="Crease pattern of origami comedy mask."> 
-  </div>
-</div>
-
-<div class="simple-wrapper">
-  <div class="text-wrapper">
-    <a id="ship-in-a-bottle"></a>
-    <h1>Ship in a Bottle</h1>
-    <p>Sometimes, I can still see that ship braving the ocean waves. I suppose it's technically only half a bottle, but if I made the whole bottle, then you wouldn't be able to see the ship.</p>
-    <p>Designed: 06/02/25</p>
-  </div>
-  <div class="image-container">
-  <img src="gallery/ship-in-a-bottle.jpg" alt="Origami ship in a bottle."> 
-  <img src="gallery/ship-in-a-bottle-cp.png" alt="Crease pattern of origami ship in a bottle."> 
-  </div>
-</div>
-
-<div class="simple-wrapper">
-  <div class="text-wrapper">
-    <a id="skys-the-limit"></a>
-    <h1>Sky's the Limit</h1>
-    <p>In series with Sinking Feeling, this is meta origami with a non-standard model. Also, yes, it does fly.</p>
-    <p>Designed: 05/10/25</p>
-  </div>
-  <div class="image-container">
-  <img src="gallery/skys-the-limit.jpg" alt="Origami plane and pilot."> 
-  <img src="gallery/skys-the-limit-cp.png" alt="Crease pattern of origami plane and pilot."> 
-  </div>
-</div>
-
-<div class="simple-wrapper">
-  <div class="text-wrapper">
-    <a id="sinking-feeling"></a>
-    <h1>Sinking Feeling</h1>
-    <p>In series with Sky's the Limit. Meta origami models are so fun, but they typically focus on cranes or blank pieces of paper. There are very few models that incorporate the traditional boat, so I designed a model that had two.</p>
-    <p>Designed: 09/20/24</p>
-  </div>
-  <div class="image-container">
-  <img src="gallery/sinking-feeling.jpg" alt="Origami boat and sailor."> 
-  <img src="gallery/sinking-feeling-cp.png" alt="Crease pattern of origami boat and sailor."> 
-  </div>
-</div>
-
-<div class="simple-wrapper">
-  <div class="text-wrapper">
-    <a id="stargazing"></a>
-    <h1>Stargazing</h1>
-    <p>Alternate title: the universe observing itself. Origami seems like a fitting medium for this idea, since both the observer (telescope) and the universe (night sky) are folded from the same sheet of paper.</p>
-    <p>Designed: 09/06/24</p>
-  </div>
-  <div class="image-container">
-  <img src="gallery/stargazing.jpg" alt="Origami telescope and night sky."> 
-  <img src="gallery/stargazing-cp.png" alt="Crease pattern of origami telescope and night sky."> 
-  </div>
-</div>
-
-<div class="simple-wrapper">
-  <div class="text-wrapper">
-    <a id="whitetail-fawn"></a>
-    <h1>Whitetail Fawn</h1>
-    <p>Designed as a celebration of the past summer, I took a slight departure from my previous subjects and paradigms. The result is this simple baby deer.</p>
-    <p>Designed: 08/18/24</p>
-  </div>
-  <div class="image-container">
-  <img src="gallery/fawn.jpg" alt="Origami whitetail fawn."> 
-  <img src="gallery/fawn-cp.png" alt="Crease pattern of origami whitetail fawn."> 
-  </div>
-</div>
-
-<div class="simple-wrapper">
-  <div class="text-wrapper">
-    <a id="fish-out-of-water"></a>
-    <h1>Fish out of Water</h1>
-    <p>A bit of an absurdist take on the phrase, I wanted to use my humanoid design skills to make the fish vaguely anthropomorphic. The umbrella uses a similar structure to the one in "Walking in the Rain" by Chen Xiao.</p>
-    <p>Designed: 08/14/24</p>
-  </div>
-  <div class="image-container">
-  <img src="gallery/fish-out-of-water.jpg" alt="Origami fish holding an umbrella."> 
-  <img src="gallery/fish-out-of-water-cp.png" alt="Crease pattern of origami fish holding an umbrella."> 
-  </div>
-</div>
-
-<div class="simple-wrapper">
-  <div class="text-wrapper">
-    <a id="hanging-by-a-thread"></a>
-    <h1>Hanging by a Thread</h1>
-    <p>Won the July 2024 Origami-Dan design contest. To some degree, I was inspired by Banksy's "Girl with Balloon", which informed my color choice in the final fold.</p>
-    <p>Designed: 07/24/24</p>
-  </div>
-  <div class="image-container">
-  <img src="gallery/hanging-by-a-thread.jpg" alt="Origami person hanging by balloon."> 
-  <img src="gallery/hanging-by-a-thread-cp.png" alt="Crease pattern of origami person hanging by balloon."> 
-  </div>
-</div>
-
-<p>These are just my most recent works. Older ones can be found <a href="/gallery/ext">here</a>.</p>
+    <title>Publications</title>
+    <url>/publications/index.html</url>
+    <content><![CDATA[<p>Also see my: <a href="https://scholar.google.com/citations?user=dqTwtegAAAAJ&hl=en&oi=ao">Google Scholar</a></p>
+<h3 id="Refereed"><a href="#Refereed" class="headerlink" title="Refereed"></a>Refereed</h3><p><a href="https://arxiv.org/abs/2506.21874">On the Feasibility of Poisoning Text-to-Image AI Models via Adversarial Mislabeling</a><br>Stanley Wu, <strong>Ronik Bhaskar</strong>, Anna Yoo Jeong Ha, Shawn Shan, Haitao Zheng, Ben Y. Zhao<br><em>Conference on Computer and Communications Security (CCS), 2025.</em> </p>
+<p><a href="https://arxiv.org/abs/2402.03214">Organic or Diffused: Can We Distinguish Human Art from AI-generated Images?</a><br>Anna Yoo Jeong Ha*, Josephine Passananti*, <strong>Ronik Bhaskar</strong>, Shawn Shan, Reid Southen, Haitao Zheng, Ben Y. Zhao.<br><em>Conference on Computer and Communications Security (CCS), 2024.</em><br>☆ Distinguished Paper Award.</p>
+<p><a href="https://www.usenix.org/system/files/sec23winter-prepub-116-yang-zhuolin.pdf">Can Virtual Reality Protect Users from Keystroke Inference Attacks?</a><br>Zhuolin Yang, Zain Sarwar, Iris Hwang, <strong>Ronik Bhaskar</strong>, Ben Y. Zhao, Haitao Zheng.<br><em>USENIX Security Symposium, 2024.</em><br><a href="https://www.newscientist.com/article/2401929-ai-can-steal-passwords-in-virtual-reality-from-avatar-hand-motions/">Media Coverage</a><br><br></p>
+<h3 id="Recreational"><a href="#Recreational" class="headerlink" title="Recreational"></a>Recreational</h3><p><a href="/projects/PizzaLang.pdf">PizzaLang: A Language for Hungry Developers</a><br><strong>Ronik Bhaskar</strong>, Dawson Ren.<br><em>Proc. of SIGBOVIK, 2023.</em></p>
 ]]></content>
   </entry>
   <entry>
@@ -1888,21 +1426,6 @@ echo "cmJoYXNrYXJAdWNoaWNhZ28uZWR1Cg==" | base64 --decode
 <li><a href="https://arxiv.org/abs/2310.20216">ELIZA Beat GPT-3.5 in a Turing Test</a></li>
 </ol>
 <h2 id="The-ELIZA-Algorithm"><a href="#The-ELIZA-Algorithm" class="headerlink" title="The ELIZA Algorithm"></a>The ELIZA Algorithm</h2><figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">def</span> <span class="title function_">respond</span>(<span class="params">self, statement</span>):</span><br><span class="line">    <span class="keyword">for</span> pattern, responses <span class="keyword">in</span> self.patterns:</span><br><span class="line">        <span class="keyword">match</span> = re.search(pattern, statement.strip(<span class="string">&quot; .!?&quot;</span>), re.IGNORECASE)</span><br><span class="line">        <span class="keyword">if</span> <span class="keyword">match</span>:</span><br><span class="line">            response = random.choice(responses).<span class="built_in">format</span>(*<span class="keyword">match</span>.groups())</span><br><span class="line">            <span class="keyword">return</span> response</span><br><span class="line">    <span class="keyword">return</span> self.default</span><br></pre></td></tr></table></figure>]]></content>
-  </entry>
-  <entry>
-    <title>Full Stack Chat App</title>
-    <url>/projects/chat.html</url>
-    <content><![CDATA[<p>UPDATE: This project is very broken. It was fun while it lasted.</p>
-<p>Chat with me <a href="/chat">here</a>. (You’ll know it’s me because my name is <strong>bold</strong>.)</p>
-<h2 id="Designing-the-UI"><a href="#Designing-the-UI" class="headerlink" title="Designing the UI"></a>Designing the UI</h2><p>I don’t create in a vacuum. The people around me drastically influence my creations. Our conversations feel like dialogue in a script. There’s a purpose to everything being said. It’s driving the plot somewhere, and I would never reach the end without their help. </p>
-<p>My chat app doesn’t look like Messages or WhatsApp or Slack or Discord because I don’t see it as a chat app. It’s a continuation of the dialogue happening all around me, which is why <strong>I built the chat app to look like a movie script.</strong> The header has an act number, the location is specified, we get a general description, and the rest that follows is the dialogue.</p>
-<h2 id="Engineering-the-App"><a href="#Engineering-the-App" class="headerlink" title="Engineering the App"></a>Engineering the App</h2><p>I’m incredibly grateful for the power and flexibility of GitHub pages (as you can tell by the URL). That being said, the documentation says they only support static sites, or so they claim. Depending on how much functionality you want from the site, you can do user authentication and even have hooks checking for database updates, updating the UI in real-time. </p>
-<p><strong>For the backend, I used Google Firebase.</strong> Their free tier, the Spark plan, is incredibly powerful, and if you’re getting enough traffic to exceed its limits, you have the demand to monetize your product. I don’t expect heavy traffic, so the Spark plan is enough for me.</p>
-<p>Firebase allows for for Google Authentication, along with plenty of other auth providers. This makes it mildly more difficult to spam the site with fake accounts, and the authentication redirect keeps auth traffic away from GitHub. It’s a win-win.</p>
-<p><strong>For the frontend, I used React.</strong> This isn’t an incredibly intense, so vanilla JS was an option, but React’s libraries wrapping Firebase query snapshots made development much easier. </p>
-<p>There are tutorials and articles out there for building apps with React and Firebase, but relevant ones used Firebase v8 instead of v9, which transitions away from the namespacing. Luckily, Firebase’s documentation covers translating v8 into v9.</p>
-<hr>
-<p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
   </entry>
   <entry>
     <title>Discord Bot</title>
@@ -1931,6 +1454,21 @@ echo "cmJoYXNrYXJAdWNoaWNhZ28uZWR1Cg==" | base64 --decode
 <ul>
 <li>just @ mention Igor in your message and maybe you’ll get a response</li>
 </ul>
+<hr>
+<p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>Full Stack Chat App</title>
+    <url>/projects/chat.html</url>
+    <content><![CDATA[<p>UPDATE: This project is very broken. It was fun while it lasted.</p>
+<p>Chat with me <a href="/chat">here</a>. (You’ll know it’s me because my name is <strong>bold</strong>.)</p>
+<h2 id="Designing-the-UI"><a href="#Designing-the-UI" class="headerlink" title="Designing the UI"></a>Designing the UI</h2><p>I don’t create in a vacuum. The people around me drastically influence my creations. Our conversations feel like dialogue in a script. There’s a purpose to everything being said. It’s driving the plot somewhere, and I would never reach the end without their help. </p>
+<p>My chat app doesn’t look like Messages or WhatsApp or Slack or Discord because I don’t see it as a chat app. It’s a continuation of the dialogue happening all around me, which is why <strong>I built the chat app to look like a movie script.</strong> The header has an act number, the location is specified, we get a general description, and the rest that follows is the dialogue.</p>
+<h2 id="Engineering-the-App"><a href="#Engineering-the-App" class="headerlink" title="Engineering the App"></a>Engineering the App</h2><p>I’m incredibly grateful for the power and flexibility of GitHub pages (as you can tell by the URL). That being said, the documentation says they only support static sites, or so they claim. Depending on how much functionality you want from the site, you can do user authentication and even have hooks checking for database updates, updating the UI in real-time. </p>
+<p><strong>For the backend, I used Google Firebase.</strong> Their free tier, the Spark plan, is incredibly powerful, and if you’re getting enough traffic to exceed its limits, you have the demand to monetize your product. I don’t expect heavy traffic, so the Spark plan is enough for me.</p>
+<p>Firebase allows for for Google Authentication, along with plenty of other auth providers. This makes it mildly more difficult to spam the site with fake accounts, and the authentication redirect keeps auth traffic away from GitHub. It’s a win-win.</p>
+<p><strong>For the frontend, I used React.</strong> This isn’t an incredibly intense, so vanilla JS was an option, but React’s libraries wrapping Firebase query snapshots made development much easier. </p>
+<p>There are tutorials and articles out there for building apps with React and Firebase, but relevant ones used Firebase v8 instead of v9, which transitions away from the namespacing. Luckily, Firebase’s documentation covers translating v8 into v9.</p>
 <hr>
 <p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
   </entry>
@@ -2658,13 +2196,478 @@ table, th {
 <p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
   </entry>
   <entry>
-    <title>Publications</title>
-    <url>/publications/index.html</url>
-    <content><![CDATA[<p>Also see my: <a href="https://scholar.google.com/citations?user=dqTwtegAAAAJ&hl=en&oi=ao">Google Scholar</a></p>
-<h3 id="Refereed"><a href="#Refereed" class="headerlink" title="Refereed"></a>Refereed</h3><p><a href="https://arxiv.org/abs/2506.21874">On the Feasibility of Poisoning Text-to-Image AI Models via Adversarial Mislabeling</a><br>Stanley Wu, <strong>Ronik Bhaskar</strong>, Anna Yoo Jeong Ha, Shawn Shan, Haitao Zheng, Ben Y. Zhao<br><em>Conference on Computer and Communications Security (CCS), 2025.</em> </p>
-<p><a href="https://arxiv.org/abs/2402.03214">Organic or Diffused: Can We Distinguish Human Art from AI-generated Images?</a><br>Anna Yoo Jeong Ha*, Josephine Passananti*, <strong>Ronik Bhaskar</strong>, Shawn Shan, Reid Southen, Haitao Zheng, Ben Y. Zhao.<br><em>Conference on Computer and Communications Security (CCS), 2024.</em><br>☆ Distinguished Paper Award.</p>
-<p><a href="https://www.usenix.org/system/files/sec23winter-prepub-116-yang-zhuolin.pdf">Can Virtual Reality Protect Users from Keystroke Inference Attacks?</a><br>Zhuolin Yang, Zain Sarwar, Iris Hwang, <strong>Ronik Bhaskar</strong>, Ben Y. Zhao, Haitao Zheng.<br><em>USENIX Security Symposium, 2024.</em><br><a href="https://www.newscientist.com/article/2401929-ai-can-steal-passwords-in-virtual-reality-from-avatar-hand-motions/">Media Coverage</a><br><br></p>
-<h3 id="Recreational"><a href="#Recreational" class="headerlink" title="Recreational"></a>Recreational</h3><p><a href="/projects/PizzaLang.pdf">PizzaLang: A Language for Hungry Developers</a><br><strong>Ronik Bhaskar</strong>, Dawson Ren.<br><em>Proc. of SIGBOVIK, 2023.</em></p>
+    <title>Gallery Ext</title>
+    <url>/gallery/ext.html</url>
+    <content><![CDATA[<style>
+.simple-wrapper {
+    text-align: center!important;
+    display: flex;
+    /* align-items: center; Vertically center the content */
+    margin-bottom: 20px; /* Space between text and image container */
+}
+
+/* Ensure the image container and images are responsive */
+.image-container {
+    display: flex;
+    flex-wrap: wrap; /* Allows images to wrap if needed */
+    max-width: 50%; /* Adjust this as needed */
+}
+
+.image-container img {
+    width: 100%; /* Images take up full width of the container */
+    height: auto;
+}
+
+.text-wrapper {
+  margin-top: 3rem;
+  margin-right: 1rem;
+}
+
+@media (max-width: 768px) {
+    .simple-wrapper {
+        flex-direction: column; /* Stack text and image container on smaller screens */
+        align-items: flex-start; /* Align text and images to the left */
+    }
+
+    .image-container {
+        max-width: 100%; /* Image container takes full width on smaller screens */
+    }
+}
+
+
+</style>
+
+<p>An extended gallery of my original origami designs. They are in chronological order by the date designed. Please contact me before distributing or teaching these models.</p>
+<h2 id="Index"><a href="#Index" class="headerlink" title="Index"></a>Index</h2><p><a href="#phishing">Phishing - 32x32 Grid</a><br><a href="#walking-red-flag">Walking Red Flag - 18x18 Grid</a><br><a href="#hanging-up-the-mask">Hanging up the Mask - 10x10 Grid</a><br><a href="#ship-in-a-bottle">Ship in a Bottle - 18x18 Grid</a><br><a href="#ermine">Ermine - 14x14 Grid</a><br><a href="#skys-the-limit">Sky’s the Limit - 18x18 Grid</a><br><a href="#sinking-feeling">Sinking Feeling - 18x18 Grid</a><br><a href="#stargazing">Stargazing - 16x16 Grid</a><br><a href="#whitetail-fawn">Whitetail Fawn - 22.5</a><br><a href="#fish-out-of-water">Fish out of Water - 14x14 Grid (Partial 28ths)</a><br><a href="#hanging-by-a-thread">Hanging by a Thread - 20x20 Grid</a><br><a href="#even-littler-dragon">Even Littler Dragon - 6x6 Grid</a><br><a href="#mandrake">Mandrake - 16x16 Grid</a><br><a href="#sea-serpent">Sea Serpent - Grafted Fish Base</a><br><a href="#mermaid">Mermaid - 16x16 Grid</a><br><a href="#phoenix">Phoenix - Grafted Bird Base</a><br><a href="#trophy-hunting">Trophy Hunting - Fish Base</a><br><a href="#fairy">Fairy - 16x16 Grid</a><br><a href="#wss">Wikipedia Sword and Shield - 16x16 Grid</a></p>
+<div class="simple-wrapper">
+  <div class="text-wrapper">
+    <a id="phishing"></a>
+    <h1>Phishing - 32x32 Grid</h1>
+    <p>Phishing is a cyber crime that typically involves baiting people with malicious emails. Here, instead of an actual fisherman doing the phishing, it's a siren, as sirens were known for using song to lure sailors to their deaths. This is by far my most complex design to date.</p>
+    <p>Designed: 08/21/25</p>
+  </div>
+  <div class="image-container">
+  <img src="gallery/phishing.jpg" alt="Origami phishing."> 
+  <img src="gallery/phishing-cp.png" alt="Crease pattern of origami phishing."> 
+  </div>
+</div>
+
+<div class="simple-wrapper">
+  <div class="text-wrapper">
+    <a id="walking-red-flag"></a>
+    <h1>Walking Red Flag - 18x18 Grid</h1>
+    <p>Some things are better left avoided, and if you're lucky, they'll tell you to stay away. Most of this model is pretty straightforward to fold, except for the arm holding a smaller red flag.</p>
+    <p>Designed: 07/17/25</p>
+  </div>
+  <div class="image-container">
+  <img src="gallery/walking-red-flag.jpg" alt="Origami red flag.">
+  <img src="gallery/walking-red-flag-cp.png" alt="Crease pattern of origami red flag."> 
+  </div>
+</div>
+
+<div class="simple-wrapper">
+  <div class="text-wrapper">
+    <a id="hanging-up-the-mask"></a>
+    <h1>Hanging up the Mask - 10x10 Grid</h1>
+    <p>Comedy never looked so grim. On a related note, properly shaping this model is a nightmare, probably because I'm bad at masks.</p>
+    <p>Designed: 06/28/25</p>
+  </div>
+  <div class="image-container">
+  <img src="gallery/hanging-up-the-mask.jpg" alt="Origami comedy mask."> 
+  <img src="gallery/hanging-up-the-mask-cp.png" alt="Crease pattern of origami comedy mask."> 
+  </div>
+</div>
+
+<div class="simple-wrapper">
+  <div class="text-wrapper">
+    <a id="ship-in-a-bottle"></a>
+    <h1>Ship in a Bottle - 18x18 Grid</h1>
+    <p>I suppose it's technically only half a bottle, but if I made the whole bottle, then you wouldn't be able to see the ship.</p>
+    <p>Designed: 06/02/25</p>
+  </div>
+  <div class="image-container">
+  <img src="gallery/ship-in-a-bottle.jpg" alt="Origami ship in a bottle."> 
+  <img src="gallery/ship-in-a-bottle-cp.png" alt="Crease pattern of origami ship in a bottle."> 
+  </div>
+</div>
+
+<div class="simple-wrapper">
+  <div class="text-wrapper">
+    <a id="ermine"></a>
+    <h1>Ermine - 14x14 Grid</h1>
+    <p>Is it a stoat or an ermine? Never could figure out the difference. In any case, the design is excessively difficult for something so simple.</p>
+    <p>Designed: 05/28/25</p>
+  </div>
+  <div class="image-container">
+  <img src="gallery/ermine.jpg" alt="Origami ermine/stoat."> 
+  <img src="gallery/ermine-cp.png" alt="Crease pattern of origami ermine/stoat."> 
+  </div>
+</div>
+
+<div class="simple-wrapper">
+  <div class="text-wrapper">
+    <a id="skys-the-limit"></a>
+    <h1>Sky's the Limit - 18x18 Grid</h1>
+    <p>In the same vein as Sinking Feeling, this is meta origami with a non-standard model. I wanted this model to focus on youthful imagination, as I know I would have loved this as a kid. Also, yes, it does fly.</p>
+    <p>Designed: 05/10/25</p>
+  </div>
+  <div class="image-container">
+  <img src="gallery/skys-the-limit.jpg" alt="Origami plane and pilot."> 
+  <img src="gallery/skys-the-limit-cp.png" alt="Crease pattern of origami plane and pilot."> 
+  </div>
+</div>
+
+<div class="simple-wrapper">
+  <div class="text-wrapper">
+    <a id="sinking-feeling"></a>
+    <h1>Sinking Feeling - 18x18 Grid</h1>
+    <p>Meta origami models are so fun, but they typically focus on cranes or blank pieces of paper. There are very few models that incorporate the traditional boat, so I designed a model that had two. The title is a double entendre for the sink fold.</p>
+    <p>Designed: 09/20/24</p>
+  </div>
+  <div class="image-container">
+  <img src="gallery/sinking-feeling.jpg" alt="Origami boat and sailor."> 
+  <img src="gallery/sinking-feeling-cp.png" alt="Crease pattern of origami boat and sailor."> 
+  </div>
+</div>
+
+<div class="simple-wrapper">
+  <div class="text-wrapper">
+    <a id="stargazing"></a>
+    <h1>Stargazing - 16x16 Grid</h1>
+    <p>Alternate title: the universe observing itself. Origami seems like a fitting medium for this idea, since both the observer (telescope) and the universe (night sky) are folded from the same sheet of paper. Designing a piece that is its own background was an interesting challenge.</p>
+    <p>Designed: 09/06/24</p>
+  </div>
+  <div class="image-container">
+  <img src="gallery/stargazing.jpg" alt="Origami telescope and night sky."> 
+  <img src="gallery/stargazing-cp.png" alt="Crease pattern of origami telescope and night sky."> 
+  </div>
+</div>
+
+<div class="simple-wrapper">
+  <div class="text-wrapper">
+    <a id="whitetail-fawn"></a>
+    <h1>Whitetail Fawn - 22.5&deg;</h1>
+    <p>Designed as a celebration of the past summer, I took a slight departure from my previous subjects and paradigms. The result is this simple baby deer.</p>
+    <p>Designed: 08/18/24</p>
+  </div>
+  <div class="image-container">
+  <img src="gallery/fawn.jpg" alt="Origami whitetail fawn."> 
+  <img src="gallery/fawn-cp.png" alt="Crease pattern of origami whitetail fawn."> 
+  </div>
+</div>
+
+<div class="simple-wrapper">
+  <div class="text-wrapper">
+    <a id="fish-out-of-water"></a>
+    <h1>Fish out of Water - 14x14 Grid (Partial 28ths)</h1>
+    <p>A bit of an absurdist take on the phrase, I wanted to use my humanoid design skills to make the fish vaguely anthropomorphic. The partial 28ths can be treated as open sinks during the folding sequence, though I still recommend precreasing them. The umbrella uses a similar structure to the one in "Walking in the Rain" by Chen Xiao.</p>
+    <p>Designed: 08/14/24</p>
+  </div>
+  <div class="image-container">
+  <img src="gallery/fish-out-of-water.jpg" alt="Origami fish holding an umbrella."> 
+  <img src="gallery/fish-out-of-water-cp.png" alt="Crease pattern of origami fish holding an umbrella."> 
+  </div>
+</div>
+
+<div class="simple-wrapper">
+  <div class="text-wrapper">
+    <a id="hanging-by-a-thread"></a>
+    <h1>Hanging by a Thread - 20x20 Grid</h1>
+    <p>Won the July 2024 Origami-Dan design contest. To some degree, I was inspired by Banksy's "Girl with Balloon", which informed my color choice in the final fold.</p>
+    <p>Designed: 07/24/24</p>
+  </div>
+  <div class="image-container">
+  <img src="gallery/hanging-by-a-thread.jpg" alt="Origami person hanging by balloon."> 
+  <img src="gallery/hanging-by-a-thread-cp.png" alt="Crease pattern of origami person hanging by balloon."> 
+  </div>
+</div>
+
+<div class="simple-wrapper">
+  <div class="text-wrapper">
+    <a id="even-littler-dragon"></a>
+    <h1>Even Littler Dragon - 6x6 Grid</h1>
+    <p>Designed at the OUSA 2024 convention. After seeing that Boice Wong was selling diagrams for his Little Dragon (8-grid), I wanted to see if I could design a dragon even smaller. This one is very efficient, but if you're looking for a fun, low-grid origami dragon, just go buy his diagrams.</p>
+    <p>Designed: 07/20/24</p>
+  </div>
+  <div class="image-container">
+  <img src="gallery/even-littler-dragon.jpg" alt="Origami dragon."> 
+  <img src="gallery/even-littler-dragon-cp.png" alt="Crease pattern of origami dragon."> 
+  </div>
+</div>
+
+<div class="simple-wrapper">
+  <div class="text-wrapper">
+    <a id="mandrake"></a>
+    <h1>Mandrake - 16x16 Grid</h1>
+    <p>A cute, little asymmetric root vegetable. This design focuses more heavily on the mythical interpretation of the plant, but you could just as easily shape it to look like a potato.</p>
+    <p>Designed: 06/07/24</p>
+  </div>
+  <div class="image-container">
+  <img src="gallery/mandrake.jpg" alt="Origami mandrake."> 
+  <img src="gallery/mandrake-cp.png" alt="Crease pattern of origami mandrake."> 
+  </div>
+</div>
+
+<div class="simple-wrapper">
+  <div class="text-wrapper">
+    <a id="sea-serpent"></a>
+    <h1>Sea Serpent - Grafted Fish Base</h1>
+    <p>It took a while to nail down the final structure and proportions, but it was time well spent. The reference for the grafts on the top and left of the CP is 3/16ths the width of the paper. Finished the design on the same day as my mermaid.</p>
+    <p>Designed: 05/11/24</p>
+  </div>
+  <div class="image-container">
+  <img src="gallery/sea-serpent.jpg" alt="Origami sea serpent."> 
+  <img src="gallery/sea-serpent-cp.png" alt="Crease pattern of origami sea serpent."> 
+  </div>
+</div>
+
+<div class="simple-wrapper">
+  <div class="text-wrapper">
+    <a id="mermaid"></a>
+    <h1>Mermaid - 16x16 Grid</h1>
+    <p>I suppose this is is technically a merperson, since I didn't aim to imply a particular gender with this design. The trident makes the structure very asymmetrical. Finished the design on the same day as my sea dragon.</p>
+    <p>Designed: 05/11/24</p>
+  </div>
+  <div class="image-container">
+  <img src="gallery/mermaid.jpg" alt="No good photos at the moment."> 
+  <img src="gallery/mermaid-cp.png" alt="Crease pattern of origami mermaid."> 
+  </div>
+</div>
+
+<div class="simple-wrapper">
+  <div class="text-wrapper">
+    <a id="trophy-hunting"></a>
+    <h1>Trophy Hunting - Fish Base</h1>
+    <p>What started as a sketch of an elephant head turned into something much more. Trophy hunting as a broader concept is a contentious subject with a lot of philosophical nuance. Admittedly, this piece doesn't really engage much of that discourse; it's a paper elephant head.</p>
+    <p>Designed: 05/01/24</p>
+  </div>
+  <div class="image-container">
+  <img src="gallery/trophy-hunting.jpg" alt="Origami trophy hunting."> 
+  <img src="gallery/trophy-hunting-cp.png" alt="Crease pattern of origami trophy hunting."> 
+  </div>
+</div>
+
+<div class="simple-wrapper">
+  <div class="text-wrapper">
+    <a id="phoenix"></a>
+    <h1>Phoenix - Grafted Bird Base</h1>
+    <p>Designed for university graduation, I wanted to render our school's mascot using origami. The braided tail uses the same structure as Satoshi Kamiya's phoenix. The references for the CP are that the corners of the bird base lie on the 1st and 5th grid lines of an 8-grid.</p>
+    <p>Designed: 04/28/24</p>
+  </div>
+  <div class="image-container">
+  <img src="gallery/phoenix.jpg" alt="Origami phoenix."> 
+  <img src="gallery/phoenix-cp.png" alt="Crease pattern of origami phoenix."> 
+  </div>
+</div>
+
+<div class="simple-wrapper">
+  <div class="text-wrapper">
+    <a id="fairy"></a>
+    <h1>Fairy - 16x16 Grid</h1>
+    <p>I received a lot of negative feedback on this design, which was ultimately for the best. I've used the criticisms to improve subsequent designs. </p>
+    <p>Designed: 04/06/24</p>
+  </div>
+  <div class="image-container">
+  <img src="gallery/fairy.jpg" alt="Origami fairy."> 
+  <img src="gallery/fairy-cp.png" alt="Crease pattern of origami fairy."> 
+  </div>
+</div>
+
+<div class="simple-wrapper">
+  <div class="text-wrapper">
+    <a id="wss"></a>
+    <h1>Wikipedia Sword and Shield - 16x16 Grid</h1>
+    <p>I don't claim this design as my own. On the Wikipedia page for Crease Patterns, there's this unfinished CP of a swordman. It was added by the user Nicoguaro, but I couldn't find the original shaping, so I took a crack at finishing the CP and folding it myself.</p>
+    <p>Found: 03/29/24</p>
+  </div>
+  <div class="image-container">
+  <img src="gallery/wikipedia-sword-and-shield.jpg" alt="Origami sword and shield."> 
+  <img src="gallery/wikipedia-sword-and-shield-cp.png" alt="Crease pattern of origami sword and shield."> 
+  </div>
+</div>
+
+<p>Gallery layout credit to <a href="https://www.obb.design/c">Boice Wong</a>.</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>Gallery</title>
+    <url>/gallery/index.html</url>
+    <content><![CDATA[<style>
+.simple-wrapper {
+    text-align: center!important;
+    display: flex;
+    /* align-items: center; Vertically center the content */
+    margin-bottom: 20px; /* Space between text and image container */
+}
+
+/* Ensure the image container and images are responsive */
+.image-container {
+    display: flex;
+    flex-wrap: wrap; /* Allows images to wrap if needed */
+    max-width: 50%; /* Adjust this as needed */
+    
+}
+
+.image-container img {
+    width: 100%; /* Images take up full width of the container */
+    height: auto;
+}
+
+.text-wrapper {
+  margin-right: auto!important;
+  margin-left: auto!important;
+  margin-top: 1rem;
+  padding-right: 1rem;
+}
+
+@media (max-width: 768px) {
+    .simple-wrapper {
+        flex-direction: column; /* Stack text and image container on smaller screens */
+        align-items: flex-start; /* Align text and images to the left */
+    }
+
+    .image-container {
+        max-width: 100%; /* Image container takes full width on smaller screens */
+    }
+}
+
+
+</style>
+
+<p>I am a Chicago based origami artist. I create figurative models, often incorporating multiple subjects into a single piece. Everything here is from a single sheet of paper, no cuts.</p>
+<p>Please contact me before distributing or teaching any of my works.</p>
+<h2 id="Index"><a href="#Index" class="headerlink" title="Index"></a>Index</h2><p><a href="#phishing">Phishing</a><br><a href="#walking-red-flag">Walking Red Flag</a><br><a href="#hanging-up-the-mask">Hanging up the Mask</a><br><a href="#ship-in-a-bottle">Ship in a Bottle</a><br><a href="#skys-the-limit">Sky’s the Limit</a><br><a href="#sinking-feeling">Sinking Feeling</a><br><a href="#stargazing">Stargazing</a><br><a href="#whitetail-fawn">Whitetail Fawn</a><br><a href="#fish-out-of-water">Fish out of Water</a><br><a href="#hanging-by-a-thread">Hanging by a Thread</a></p>
+<div class="simple-wrapper">
+  <div class="text-wrapper">
+    <a id="phishing"></a>
+    <h1>Phishing</h1>
+    <p>Phishing is a cyber crime that typically involves baiting people with malicious emails. Here, instead of an actual fisherman doing the phishing, it's a siren, as sirens were known for using song to lure sailors to their deaths.</p>
+    <p>Designed: 08/21/25</p>
+  </div>
+  <div class="image-container">
+  <img src="gallery/phishing.jpg" alt="Origami phishing."> 
+  <img src="gallery/phishing-cp.png" alt="Crease pattern of origami phishing."> 
+  </div>
+</div>
+
+<div class="simple-wrapper">
+  <div class="text-wrapper">
+    <a id="walking-red-flag"></a>
+    <h1>Walking Red Flag</h1>
+    <p>Some things are better left avoided, and if you're lucky, they'll tell you to stay away. Most of this model is pretty straightforward to fold, except for the arm holding a smaller red flag.</p>
+    <p>Designed: 07/17/25</p>
+  </div>
+  <div class="image-container">
+  <img src="gallery/walking-red-flag.jpg" alt="Origami red flag."> 
+  <img src="gallery/walking-red-flag-cp.png" alt="Crease pattern of origami red flag."> 
+  </div>
+</div>
+
+<div class="simple-wrapper">
+  <div class="text-wrapper">
+    <a id="hanging-up-the-mask"></a>
+    <h1>Hanging up the Mask</h1>
+    <p>Comedy never looked so tragic. On a related note, properly shaping this model is a nightmare, probably because I'm bad at masks.</p>
+    <p>Designed: 06/28/25</p>
+  </div>
+  <div class="image-container">
+  <img src="gallery/hanging-up-the-mask.jpg" alt="Origami comedy mask."> 
+  <img src="gallery/hanging-up-the-mask-cp.png" alt="Crease pattern of origami comedy mask."> 
+  </div>
+</div>
+
+<div class="simple-wrapper">
+  <div class="text-wrapper">
+    <a id="ship-in-a-bottle"></a>
+    <h1>Ship in a Bottle</h1>
+    <p>Sometimes, I can still see that ship braving the ocean waves. I suppose it's technically only half a bottle, but if I made the whole bottle, then you wouldn't be able to see the ship.</p>
+    <p>Designed: 06/02/25</p>
+  </div>
+  <div class="image-container">
+  <img src="gallery/ship-in-a-bottle.jpg" alt="Origami ship in a bottle."> 
+  <img src="gallery/ship-in-a-bottle-cp.png" alt="Crease pattern of origami ship in a bottle."> 
+  </div>
+</div>
+
+<div class="simple-wrapper">
+  <div class="text-wrapper">
+    <a id="skys-the-limit"></a>
+    <h1>Sky's the Limit</h1>
+    <p>In series with Sinking Feeling, this is meta origami with a non-standard model. Also, yes, it does fly.</p>
+    <p>Designed: 05/10/25</p>
+  </div>
+  <div class="image-container">
+  <img src="gallery/skys-the-limit.jpg" alt="Origami plane and pilot."> 
+  <img src="gallery/skys-the-limit-cp.png" alt="Crease pattern of origami plane and pilot."> 
+  </div>
+</div>
+
+<div class="simple-wrapper">
+  <div class="text-wrapper">
+    <a id="sinking-feeling"></a>
+    <h1>Sinking Feeling</h1>
+    <p>In series with Sky's the Limit. Meta origami models are so fun, but they typically focus on cranes or blank pieces of paper. There are very few models that incorporate the traditional boat, so I designed a model that had two.</p>
+    <p>Designed: 09/20/24</p>
+  </div>
+  <div class="image-container">
+  <img src="gallery/sinking-feeling.jpg" alt="Origami boat and sailor."> 
+  <img src="gallery/sinking-feeling-cp.png" alt="Crease pattern of origami boat and sailor."> 
+  </div>
+</div>
+
+<div class="simple-wrapper">
+  <div class="text-wrapper">
+    <a id="stargazing"></a>
+    <h1>Stargazing</h1>
+    <p>Alternate title: the universe observing itself. Origami seems like a fitting medium for this idea, since both the observer (telescope) and the universe (night sky) are folded from the same sheet of paper.</p>
+    <p>Designed: 09/06/24</p>
+  </div>
+  <div class="image-container">
+  <img src="gallery/stargazing.jpg" alt="Origami telescope and night sky."> 
+  <img src="gallery/stargazing-cp.png" alt="Crease pattern of origami telescope and night sky."> 
+  </div>
+</div>
+
+<div class="simple-wrapper">
+  <div class="text-wrapper">
+    <a id="whitetail-fawn"></a>
+    <h1>Whitetail Fawn</h1>
+    <p>Designed as a celebration of the past summer, I took a slight departure from my previous subjects and paradigms. The result is this simple baby deer.</p>
+    <p>Designed: 08/18/24</p>
+  </div>
+  <div class="image-container">
+  <img src="gallery/fawn.jpg" alt="Origami whitetail fawn."> 
+  <img src="gallery/fawn-cp.png" alt="Crease pattern of origami whitetail fawn."> 
+  </div>
+</div>
+
+<div class="simple-wrapper">
+  <div class="text-wrapper">
+    <a id="fish-out-of-water"></a>
+    <h1>Fish out of Water</h1>
+    <p>A bit of an absurdist take on the phrase, I wanted to use my humanoid design skills to make the fish vaguely anthropomorphic. The umbrella uses a similar structure to the one in "Walking in the Rain" by Chen Xiao.</p>
+    <p>Designed: 08/14/24</p>
+  </div>
+  <div class="image-container">
+  <img src="gallery/fish-out-of-water.jpg" alt="Origami fish holding an umbrella."> 
+  <img src="gallery/fish-out-of-water-cp.png" alt="Crease pattern of origami fish holding an umbrella."> 
+  </div>
+</div>
+
+<div class="simple-wrapper">
+  <div class="text-wrapper">
+    <a id="hanging-by-a-thread"></a>
+    <h1>Hanging by a Thread</h1>
+    <p>Won the July 2024 Origami-Dan design contest. To some degree, I was inspired by Banksy's "Girl with Balloon", which informed my color choice in the final fold.</p>
+    <p>Designed: 07/24/24</p>
+  </div>
+  <div class="image-container">
+  <img src="gallery/hanging-by-a-thread.jpg" alt="Origami person hanging by balloon."> 
+  <img src="gallery/hanging-by-a-thread-cp.png" alt="Crease pattern of origami person hanging by balloon."> 
+  </div>
+</div>
+
+<p>These are just my most recent works. Older ones can be found <a href="/gallery/ext">here</a>.</p>
 ]]></content>
   </entry>
 </search>
