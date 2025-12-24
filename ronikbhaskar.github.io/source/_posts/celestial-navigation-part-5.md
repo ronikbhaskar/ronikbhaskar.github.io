@@ -39,7 +39,7 @@ Well, that's still a mess, despite our simplification, but we need this fraction
 
 $$ r_E \omega_E > r_S \omega_S $$
 
-Since ω represents angular velocity, and *r* represents radius, these products are just the magnitude of linear velocity, so they're just the planets' speeds. Therefore, for two planets to be capable of being in retrograde with each other, you need the speed of the inner planet to be greater than the speed of the outer planet. 
+Since ω represents angular velocity, and *r* represents radius, these products are just the magnitude of linear velocity, so they're just the planets' speeds. Therefore, for two planets to be capable of being in retrograde with each other, you need the speed of the inner planet to be greater than the speed of the outer planet. I made a simulation that you can access below to see for yourself.
 
 ## 3, Conclusion
 
@@ -48,6 +48,12 @@ So, as it turns out, "moving faster" really was the exact answer. However, like 
 Recently, I went out to observe Saturn. At the time, it was moving forward—prograde, not retrograde. This wasn't my Saturn return. I still have a few years until then. While I wait, I have a few options. I can move faster or slower or forward or backward, but in the end, no matter what I do, I will get there. 
 
 At least, that's what I assume. I'm no expert on astrology.
+
+---
+
+## Simulation
+
+<iframe src="https://www.desmos.com/calculator/ozpncvvu7y?embed" width="100%" height="500" style="border: 1px solid #ccc" frameborder=0></iframe>
 
 ---
 
