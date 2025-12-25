@@ -26,7 +26,7 @@ We buy the ticket, and as we're driving back, he starts reading off some of the 
 
 This question really stuck with me, so I started digging. There's a theorem that says every number can be expressed as the sum of 4 squares, but that doesn't help because those squares can repeat, so you could say 7 is 4 + 1 + 1 + 1. 
 
-I could have looked up the answer to my question and realized it was solved over 60 years ago, but that's boring. Instead, I made my computer solve it—kinda. I figured I would look at the numbers that aren't sums of squares and hopefully find a pattern.
+I could have looked up the answer to my question and realized it was solved over 60 years ago, but that's boring. Instead, I made my computer solve it—kinda. I figured I would look at the numbers that aren't sums of unique squares and hopefully find a pattern.
 
 `>>> 2, 3, 6, 7, 8, ... 128`
 
