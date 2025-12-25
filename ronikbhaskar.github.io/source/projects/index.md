@@ -190,7 +190,7 @@ I like to think all of my strange creations could be considered art, but these a
   <p><em>My occasionally-coherent ramblings.</em></p>
   <p>
     <a class="project-link" href="/archives">Table of Contents</a>
-    <a class="project-link" href="/finding-joy-is-a-mathematically-difficult-problem">Random Article</a>
+    <a class="project-link" href="/celestial-navigation-part-5">Random Article</a>
   </p>
 </div>
 </a>
@@ -260,6 +260,19 @@ Math is cool, and you can't convince me otherwise.
   <p>
     <a class="project-link" href="/projects/math-art">Summary</a>
     <a class="project-link" href="https://github.com/ronikbhaskar/math-art">GitHub</a>
+  </p>
+</div>
+</a>
+
+<a href="/sum-of-squares">
+<div class="project-card">
+  <img src="misc_images/sum-of-squares.jpg" alt="A game of sum of squares."> 
+  <h3>Sum of Squares</h3>
+  <p><em>It's possible, but can you find the answer?</em></p>
+  <p>
+    <a class="project-link" href="/sum-of-squares">Website</a>
+    <a class="project-link" href="/projects/sum-of-squares">Summary</a>
+    <a class="project-link" href="https://github.com/ronikbhaskar/sum-of-squares">GitHub</a>
   </p>
 </div>
 </a>

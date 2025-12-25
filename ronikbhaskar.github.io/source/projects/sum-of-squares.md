@@ -1,12 +1,13 @@
 ---
-title: Some Squares
-date: 2025-12-24 19:54:01
-tags:
+title: Sum of Squares
 description: >-
     If you're good at statistics, you aren't supposed to buy lottery tickets. The jackpot is never worth the odds. However, it turns out there's a lot more to gain than just the jackpot. You just need to go in with the right people. 
 keywords: 'sum of squares, sum of unique squares, lottery ticket, lottery, sum of squares game, story'
 ---
 
+Play the finished game [here](/sum-of-squares/).
+
+---
 
 If you're good at statistics, you aren't supposed to buy lottery tickets. The jackpot is never worth the odds. However, that doesn't stop my friend, who picks up a ticket every time the jackpot is over $1 billion.
 
