@@ -122,16 +122,6 @@
 ]]></content>
   </entry>
   <entry>
-    <title>Celestial Navigation, Part 2</title>
-    <url>/celestial-navigation-part-2/</url>
-    <content><![CDATA[<p>As a young person with little experience in the world, I am quite familiar with feeling unqualified. Far too often, I find myself given opportunities for which I have absolutely no preparation. It’s easier to recognize you’re unqualified for something when you meet the people who are qualified for the opportunity. I learned this a few years ago when I volunteered at an astronomy night for Cub Scouts. </p>
-<p>The event was run by the director of an institute doing cosmic microwave background experiments. Alongside the director, there were two student volunteers: myself and the president of the Ryerson Astronomical Society. Keep in mind, I knew next to nothing about astronomy at this point. I had seen some of Jupiter’s moons through a telescope, but that was about it. Naturally, whenever one of the scouts asked us a question about space, I would just defer to the president. Thankfully, the president was able to answer any questions the scouts had, and I ended up learning quite a bit through the answers.</p>
-<p>After a while, the scouts started working on an activity that didn’t require us to do much, so the president and I chatted for a bit. I had no reason to pretend like I knew anything about space, so I let myself ask very stupid questions. I probably could’ve googled how many constellations there were, but it ended up being a good way to start the conversation. As a bonus, I still remember there are 88 constellations, and I still remember a little about how the brightest stars in each constellation are named. The president also cracked a few jokes about Orion’s Sword which I thought were hilarious. If the old president ever sees this, thanks for being awesome.</p>
-<p>A few years later, I was in the middle of nowhere with my telescope, when I remembered those jokes about Orion’s Sword. Given the clear conditions, I decided to observe the three stars that make up the sword. Throughout the night, I watched as the sword moved across the sky when I noticed something strange. At its zenith, the sword appeared to be pointing straight down. By this point, I had already made my <a href="/student-of-life-celestial-navigation-part-1/">revelations about the north star</a>, so I quickly realized the sword was pointing south. When I pulled out my compass, the sword was a little off, but not by much, less than a degree. Living in the northern hemisphere, I wasn’t sure how this would hold for the rest of the night, so I waited a bit to observe it again. I followed the direction of the sword until I hit the horizon, and I checked the direction. This time, it was off by even more. As I expected, the Earth was getting in the way of being able to use Orion’s Sword to find south, but it still worked pretty well. With a bit of latitude correction, finding south using Orion’s Sword seemed absolutely possible, it would just require a bit of math. A project for another night, perhaps.</p>
-<p>It’s hard to believe that because of a joke I heard a few years ago, I learned about celestial navigation, but I suppose that’s what the student of life is about. A few years ago, I volunteered at an event for which I was extremely unqualified. I don’t quite know why I was given the opportunity, but I am extremely grateful. That opportunity, like so many others, has given me more than I could ever give. Even today, I’m still learning and growing from everything I have been given. Eventually, the day will come when I can offer more than I receive, but even then, I will still keep learning. I will still be a student of life.</p>
-]]></content>
-  </entry>
-  <entry>
     <title>Celestial Navigation, Part 1</title>
     <url>/celestial-navigation-part-1/</url>
     <content><![CDATA[<p>Back in August of 2023, I grabbed my telescope, told my parents not to wait for me, and drove into the middle of nowhere. Stargazing has become essential to my life, and I hadn’t been in a few months, so I was ready to go. The nights I go stargazing, I feel free, spending a few hours alone with the universe. I’m no astronomer by any means, but I enjoy studying the night sky. I’ll usually pick one celestial body to focus on, whether that be Jupiter and its moons or some distant nebula I can barely see. That night, I decided to study Polaris.</p>
@@ -145,6 +135,16 @@
 <p>If Polaris is a fixed point in the sky, then it lies along the Earth’s axis of rotation. That means, if you went to the North Pole and looked straight up, you would see Polaris. Anywhere else on Earth, Polaris acts like a beacon to the North Pole. That’s why Polaris never moves. That’s why it always points north. Satisfied, I lay down, enjoying my small victory. This peace lasts for approximately one minute before my brain starts asking questions again. This fixed point in the sky must have some interesting properties, so I close my eyes and think about Polaris geometrically. I can’t fully fathom how far away Polaris is, so I just pretend it’s infinitely far away. Under this assumption, if I draw a line from myself to Polaris, it’s parallel to the Earth’s axis of rotation. In this mental model, I draw a plane tangent to the Earth from where I am. The Earth may not be flat, but I can pretend it is locally for the sake of mathematics. With this little diagram in my head, I realize just how important the North Star is for navigation. If you can find the angle between Polaris and the horizon, that angle is your latitude. </p>
 <p>I pull out my notebook and a flashlight to make sure I did that calculation correctly. Yep, the angle between Polaris and the horizon is your latitude. <em>I can’t believe I just figured that out. Is this how astronomers figured out celestial navigation centuries ago?</em> I doubt I’ll have any more revelations for the rest of the night, so I relax on the ground, watching the other stars journey across the sky. As my watch passes midnight, I pack up my telescope, wave goodbye to the stars, and start heading home.</p>
 <p>I never did see the three stars that form Polaris, but it is a fixed point in the sky, so I’ll always know where to find it.</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>Celestial Navigation, Part 2</title>
+    <url>/celestial-navigation-part-2/</url>
+    <content><![CDATA[<p>As a young person with little experience in the world, I am quite familiar with feeling unqualified. Far too often, I find myself given opportunities for which I have absolutely no preparation. It’s easier to recognize you’re unqualified for something when you meet the people who are qualified for the opportunity. I learned this a few years ago when I volunteered at an astronomy night for Cub Scouts. </p>
+<p>The event was run by the director of an institute doing cosmic microwave background experiments. Alongside the director, there were two student volunteers: myself and the president of the Ryerson Astronomical Society. Keep in mind, I knew next to nothing about astronomy at this point. I had seen some of Jupiter’s moons through a telescope, but that was about it. Naturally, whenever one of the scouts asked us a question about space, I would just defer to the president. Thankfully, the president was able to answer any questions the scouts had, and I ended up learning quite a bit through the answers.</p>
+<p>After a while, the scouts started working on an activity that didn’t require us to do much, so the president and I chatted for a bit. I had no reason to pretend like I knew anything about space, so I let myself ask very stupid questions. I probably could’ve googled how many constellations there were, but it ended up being a good way to start the conversation. As a bonus, I still remember there are 88 constellations, and I still remember a little about how the brightest stars in each constellation are named. The president also cracked a few jokes about Orion’s Sword which I thought were hilarious. If the old president ever sees this, thanks for being awesome.</p>
+<p>A few years later, I was in the middle of nowhere with my telescope, when I remembered those jokes about Orion’s Sword. Given the clear conditions, I decided to observe the three stars that make up the sword. Throughout the night, I watched as the sword moved across the sky when I noticed something strange. At its zenith, the sword appeared to be pointing straight down. By this point, I had already made my <a href="/student-of-life-celestial-navigation-part-1/">revelations about the north star</a>, so I quickly realized the sword was pointing south. When I pulled out my compass, the sword was a little off, but not by much, less than a degree. Living in the northern hemisphere, I wasn’t sure how this would hold for the rest of the night, so I waited a bit to observe it again. I followed the direction of the sword until I hit the horizon, and I checked the direction. This time, it was off by even more. As I expected, the Earth was getting in the way of being able to use Orion’s Sword to find south, but it still worked pretty well. With a bit of latitude correction, finding south using Orion’s Sword seemed absolutely possible, it would just require a bit of math. A project for another night, perhaps.</p>
+<p>It’s hard to believe that because of a joke I heard a few years ago, I learned about celestial navigation, but I suppose that’s what the student of life is about. A few years ago, I volunteered at an event for which I was extremely unqualified. I don’t quite know why I was given the opportunity, but I am extremely grateful. That opportunity, like so many others, has given me more than I could ever give. Even today, I’m still learning and growing from everything I have been given. Eventually, the day will come when I can offer more than I receive, but even then, I will still keep learning. I will still be a student of life.</p>
 ]]></content>
   </entry>
   <entry>
@@ -168,38 +168,6 @@
 <p>Speaking of crescents, a solar crescent from an eclipse will never match the shape of a real crescent moon in the night sky. This is because of how the crescents are formed. For a crescent moon, we’re looking at a half-lit sphere, which is similar to looking at a moon-sized circle partially covered by a larger black circle. Constructing the shape requires two different-sized circles. For a solar crescent, we can use another two circle construction, except the black circle is the same size as the sun, not bigger, so the shape is different. There are more nuances to the full argument, which you can prove mathematically by comparing the distances between the corners of the crescents. Ultimately, solar crescents and crescent moons cannot look the same if the sun and moon are the same size in the sky.</p>
 <p>During a total solar eclipse, you can see celestial bodies you would only see at night. For example, I saw Jupiter and Venus during totality today. Since I’m so used to thinking about when they’ll be above the horizon at night, I really wasn’t expecting to see them during the day. Even in the dark twilight of totality, with no time for my eyes to adjust, the two planets were very easily visible. I should have brought my telescope.</p>
 <p>Typically in Celestial Navigation, I’ll discuss some ways in which we can use the stars to find directions and calculate locations, but so much of that relies on the parallel rays assumption. Light from space hits Earth in the same direction for everyone, no matter where you are. Today, however, that assumption breaks down. Total solar eclipses are focused on small areas. They take advantage of the fact that you are a single observer, looking out, so the rays are radial, not parallel, and you are at the focus. You aren’t meant to find anything during the eclipse. Instead, it’s a brief moment when the sun and the moon find you.</p>
-]]></content>
-  </entry>
-  <entry>
-    <title>Celestial Navigation, Part 5</title>
-    <url>/celestial-navigation-part-5/</url>
-    <content><![CDATA[<h2 id="1-Curiosity"><a href="#1-Curiosity" class="headerlink" title="1, Curiosity"></a>1, Curiosity</h2><p>Recently, a Hollywood studio filmed a movie on the university campus. Being stuck in the lab all day, I never saw any of the scenes being filmed, but the crew was a delight to talk to. The film is called <em>Saturn Return</em>, which is a reference to astrology and Saturn returning to the same position from when you were born (every ~29 years). I’m no expert on astrology, but the one thing I do know is that they really care about retrogrades.</p>
-<p>Retrograde is a celestial problem where things in the sky move backwards. It arises when you assume everything revolves around the Earth—aka geocentrism. Under geocentrism, the planets will occasionally move backwards in the sky relative to the stars. This is just a perspective illusion, because the planets don’t revolve around the Earth and are actually always moving forward, but it’s a good illusion. It’s such a good illusion, it fooled early astronomers like Ptolemy, who were forced to construct outrageously complex models for planetary motion because they assumed the Earth was the center of the universe. </p>
-<p>Saturn has a very noticeable retrograde period because it moves so slow relative to Earth. For a planet to appear retrograde to another, the planet closer to the Sun needs to be moving faster than the planet farther from the Sun. This way, the inner planet passes the outer planet, and the result looks like a planet moving backward. It’s similar to passing someone on the highway; from your perspective, the other car is going backward, even though you’re both moving forward on the road.</p>
-<p>“Moving faster” isn’t enough, though. I want to know the exact conditions for retrograde. What must be true of two planets to make retrograde possible? </p>
-<h2 id="2-Excessive-Mathematics"><a href="#2-Excessive-Mathematics" class="headerlink" title="2, Excessive Mathematics"></a>2, Excessive Mathematics</h2><p>To figure this out, I decided to model it mathematically. For this, I’ll use the Earth as the inner planet and Saturn as the outer planet. Both of them are some distance from the Sun, and like the hands of a clock, their angle with respect to the Sun (the center) changes at constant rates. I’ll model their motion as circular (astrophysicists, feel free to laugh) and represent them with polar coordinates, parameterized by time. Here, <em>E</em> means Earth and <em>S</em> means Saturn. </p>
-<p>$$(r_E, \omega_E t) \text{  and  } (r_S, \omega_S t)$$</p>
-<p>Now, we want to define retrograde. If retrograde means one planet looks like it’s moving backward relative to the other, then the angle of the second planet to the first decreases. We can find the vector between the two and calculate its angle. Then, when the derivative of the angle with respect to time is negative, the planets are in retrograde with each other. Unfortunately, the angle is a bit messy.</p>
-<p>$$\theta &#x3D; \arctan \left ( \frac{r_S \sin (\omega_S t) - r_E \sin (\omega_E t)}{r_S \cos (\omega_S t) - r_E \cos (\omega_E t)}\right )$$</p>
-<p>The first derivative w.r.t. time is messy, but we just want to know when the derivative is negative, not its exact value. Thus, by applying a function that is monotonic increasing on its continuous intervals, we can simplify everything. Essentially, I’ll be using this statement.</p>
-<p>$$ \frac{d\theta}{dt} &lt; 0 \iff \frac{d \tan(\theta)}{dt} &lt; 0$$</p>
-<p>Using this, we get the following derivative:</p>
-<p>$$\frac{d}{dt}\tan(\theta) &#x3D; \frac{\left(r_{S}^{2}\omega_S-r_{E}r_{S}\left(\omega_S+\omega_E\right)\left(\sin\left(\omega_E t\right)\sin\left(\omega_S t\right)+\cos\left(\omega_E t\right)\cos\left(\omega_S t\right)\right)+r_{E}^{2}\omega_E\right)}{\left(r_{S}\cos\left(\omega_S t\right)-r_{E}\cos\left(\omega_E t\right)\right)^{2}}$$</p>
-<p>Well, that’s still a mess, despite our simplification, but we need this fraction to be less than zero. Retrograde occurs when the planets are passing, so their relative angles are small. Because the starting angle is arbitrary, we can let <em>t</em> be close to zero without loss of generality. Assuming you trust me to do the rest of the math unsupervised, we get the following condition for retrograde motion:</p>
-<p>$$ r_E \omega_E &gt; r_S \omega_S $$</p>
-<p>Since ω represents angular velocity, and <em>r</em> represents radius, these products are just the magnitude of linear velocity, so they’re just the planets’ speeds. Therefore, for two planets to be capable of being in retrograde with each other, you need the speed of the inner planet to be greater than the speed of the outer planet. I made a simulation that you can access below to see for yourself.</p>
-<h2 id="3-Conclusion"><a href="#3-Conclusion" class="headerlink" title="3, Conclusion"></a>3, Conclusion</h2><p>So, as it turns out, “moving faster” really was the exact answer. However, like retrograde, that depends on your perspective. If you’re on the inner planet, you need to move faster. But if you’re on the outer planet, you need to move slower. The instructions are directly opposite, and yet they provide the exact same result.</p>
-<p>Recently, I went out to observe Saturn. At the time, it was moving forward—prograde, not retrograde. This wasn’t my Saturn return. I still have a few years until then. While I wait, I have a few options. I can move faster or slower or forward or backward, but in the end, no matter what I do, I will get there. </p>
-<p>At least, that’s what I assume. I’m no expert on astrology.</p>
-<hr>
-<h2 id="Simulation"><a href="#Simulation" class="headerlink" title="Simulation"></a>Simulation</h2><iframe src="https://www.desmos.com/calculator/ozpncvvu7y?embed" width="100%" height="500" style="border: 1px solid #ccc" frameborder=0></iframe>
-
-<hr>
-<h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ol>
-<li><a href="https://chicagomaroon.com/49019/news/netflix-film-saturn-return-shoots-on-uchicago-campus/">Filming on Campus</a></li>
-<li><a href="https://web.archive.org/web/20151222074912/http://astrology.about.com/od/advancedastrology/p/SaturnReturn.htm">Saturn Return Astrology</a></li>
-<li><a href="https://www.loc.gov/collections/finding-our-place-in-the-cosmos-with-carl-sagan/articles-and-essays/modeling-the-cosmos/ancient-greek-astronomy-and-cosmology">Ancient Greek Astronomy</a></li>
-</ol>
 ]]></content>
   </entry>
   <entry>
@@ -338,6 +306,38 @@
 ]]></content>
   </entry>
   <entry>
+    <title>Celestial Navigation, Part 5</title>
+    <url>/celestial-navigation-part-5/</url>
+    <content><![CDATA[<h2 id="1-Curiosity"><a href="#1-Curiosity" class="headerlink" title="1, Curiosity"></a>1, Curiosity</h2><p>Recently, a Hollywood studio filmed a movie on the university campus. Being stuck in the lab all day, I never saw any of the scenes being filmed, but the crew was a delight to talk to. The film is called <em>Saturn Return</em>, which is a reference to astrology and Saturn returning to the same position from when you were born (every ~29 years). I’m no expert on astrology, but the one thing I do know is that they really care about retrogrades.</p>
+<p>Retrograde is a celestial problem where things in the sky move backwards. It arises when you assume everything revolves around the Earth—aka geocentrism. Under geocentrism, the planets will occasionally move backwards in the sky relative to the stars. This is just a perspective illusion, because the planets don’t revolve around the Earth and are actually always moving forward, but it’s a good illusion. It’s such a good illusion, it fooled early astronomers like Ptolemy, who were forced to construct outrageously complex models for planetary motion because they assumed the Earth was the center of the universe. </p>
+<p>Saturn has a very noticeable retrograde period because it moves so slow relative to Earth. For a planet to appear retrograde to another, the planet closer to the Sun needs to be moving faster than the planet farther from the Sun. This way, the inner planet passes the outer planet, and the result looks like a planet moving backward. It’s similar to passing someone on the highway; from your perspective, the other car is going backward, even though you’re both moving forward on the road.</p>
+<p>“Moving faster” isn’t enough, though. I want to know the exact conditions for retrograde. What must be true of two planets to make retrograde possible? </p>
+<h2 id="2-Excessive-Mathematics"><a href="#2-Excessive-Mathematics" class="headerlink" title="2, Excessive Mathematics"></a>2, Excessive Mathematics</h2><p>To figure this out, I decided to model it mathematically. For this, I’ll use the Earth as the inner planet and Saturn as the outer planet. Both of them are some distance from the Sun, and like the hands of a clock, their angle with respect to the Sun (the center) changes at constant rates. I’ll model their motion as circular (astrophysicists, feel free to laugh) and represent them with polar coordinates, parameterized by time. Here, <em>E</em> means Earth and <em>S</em> means Saturn. </p>
+<p>$$(r_E, \omega_E t) \text{  and  } (r_S, \omega_S t)$$</p>
+<p>Now, we want to define retrograde. If retrograde means one planet looks like it’s moving backward relative to the other, then the angle of the second planet to the first decreases. We can find the vector between the two and calculate its angle. Then, when the derivative of the angle with respect to time is negative, the planets are in retrograde with each other. Unfortunately, the angle is a bit messy.</p>
+<p>$$\theta &#x3D; \arctan \left ( \frac{r_S \sin (\omega_S t) - r_E \sin (\omega_E t)}{r_S \cos (\omega_S t) - r_E \cos (\omega_E t)}\right )$$</p>
+<p>The first derivative w.r.t. time is messy, but we just want to know when the derivative is negative, not its exact value. Thus, by applying a function that is monotonic increasing on its continuous intervals, we can simplify everything. Essentially, I’ll be using this statement.</p>
+<p>$$ \frac{d\theta}{dt} &lt; 0 \iff \frac{d \tan(\theta)}{dt} &lt; 0$$</p>
+<p>Using this, we get the following derivative:</p>
+<p>$$\frac{d}{dt}\tan(\theta) &#x3D; \frac{\left(r_{S}^{2}\omega_S-r_{E}r_{S}\left(\omega_S+\omega_E\right)\left(\sin\left(\omega_E t\right)\sin\left(\omega_S t\right)+\cos\left(\omega_E t\right)\cos\left(\omega_S t\right)\right)+r_{E}^{2}\omega_E\right)}{\left(r_{S}\cos\left(\omega_S t\right)-r_{E}\cos\left(\omega_E t\right)\right)^{2}}$$</p>
+<p>Well, that’s still a mess, despite our simplification, but we need this fraction to be less than zero. Retrograde occurs when the planets are passing, so their relative angles are small. Because the starting angle is arbitrary, we can let <em>t</em> be close to zero without loss of generality. Assuming you trust me to do the rest of the math unsupervised, we get the following condition for retrograde motion:</p>
+<p>$$ r_E \omega_E &gt; r_S \omega_S $$</p>
+<p>Since ω represents angular velocity, and <em>r</em> represents radius, these products are just the magnitude of linear velocity, so they’re just the planets’ speeds. Therefore, for two planets to be capable of being in retrograde with each other, you need the speed of the inner planet to be greater than the speed of the outer planet. I made a simulation that you can access below to see for yourself.</p>
+<h2 id="3-Conclusion"><a href="#3-Conclusion" class="headerlink" title="3, Conclusion"></a>3, Conclusion</h2><p>So, as it turns out, “moving faster” really was the exact answer. However, like retrograde, that depends on your perspective. If you’re on the inner planet, you need to move faster. But if you’re on the outer planet, you need to move slower. The instructions are directly opposite, and yet they provide the exact same result.</p>
+<p>Recently, I went out to observe Saturn. At the time, it was moving forward—prograde, not retrograde. This wasn’t my Saturn return. I still have a few years until then. While I wait, I have a few options. I can move faster or slower or forward or backward, but in the end, no matter what I do, I will get there. </p>
+<p>At least, that’s what I assume. I’m no expert on astrology.</p>
+<hr>
+<h2 id="Simulation"><a href="#Simulation" class="headerlink" title="Simulation"></a>Simulation</h2><iframe src="https://www.desmos.com/calculator/ozpncvvu7y?embed" width="100%" height="500" style="border: 1px solid #ccc" frameborder=0></iframe>
+
+<hr>
+<h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ol>
+<li><a href="https://chicagomaroon.com/49019/news/netflix-film-saturn-return-shoots-on-uchicago-campus/">Filming on Campus</a></li>
+<li><a href="https://web.archive.org/web/20151222074912/http://astrology.about.com/od/advancedastrology/p/SaturnReturn.htm">Saturn Return Astrology</a></li>
+<li><a href="https://www.loc.gov/collections/finding-our-place-in-the-cosmos-with-carl-sagan/articles-and-essays/modeling-the-cosmos/ancient-greek-astronomy-and-cosmology">Ancient Greek Astronomy</a></li>
+</ol>
+]]></content>
+  </entry>
+  <entry>
     <title>Ex Libris: Select Poems by Emily Dickinson</title>
     <url>/ex-libris-select-poems-by-emily-dickinson/</url>
     <content><![CDATA[<p>I recently had the opportunity to visit Amherst, Massachusetts, USA. Amherst doesn’t have a lot going on; it’s mostly a college town surrounded by more colleges surrounded by rural Massachusetts. Amherst may be a relatively sleepy place, but it does have a notable past. Specifically, Amherst is the home of Emily Dickinson.  One of the most important American poets to ever live, Emily Dickinson spent her whole life in and around Amherst. She went to school at Amherst Academy, college at Mount Holyoke, and much of her adult life was spent in the Dickinson mansion in Amherst.</p>
@@ -355,6 +355,15 @@
 ]]></content>
   </entry>
   <entry>
+    <title>Ex Libris: The Library of Babel</title>
+    <url>/ex-libris-the-library-of-babel/</url>
+    <content><![CDATA[<p>In Jorge Luis Borges’ <em>The Library of Babel</em>, the narrator describes a never-ending world of hexagonal galleries, all filled with books. Each book is 410 pages, 40 lines per page, 80 characters per line, 25 characters in the script. Doing some quick calculations, that number of books is approximately a 1 with 1.8 million zeros behind it. For reference, the number of atoms in the known universe is a 1 with 80 zeros behind it, which is essentially nothing compared to the scale of the library.</p>
+<p>The library is vast, but its volumes are not infinite. The narrator attempts to circumvent this by concluding that the library likely repeats itself. Infinity can be scary, but if the library were looking for new librarians, I have a suggestion for how to make the library truly infinite. If you still want all the books to fit in an infinite library, why limit yourself to 410 page books? For the sake of mathematical clarity, let’s assume that every book is the same thickness, no matter how many pages it has (pretend the pages get super thin). Then, if you allow books to be any finite length, then you will never need to repeat the library because there will always be enough books to fill the shelves without repeating. Assuming the library’s hexagonal galleries do continue forever, then every possible book of finite length will fit perfectly in the library. Finite length books are the way to go.</p>
+<p>Infinite length books, however, pose a huge issue. Let’s again assume that books of infinite length still have the same thickness as all the other books. If you allow every book of infinite length to enter the library, then you will run out of space. It’s hard to believe that an infinite library could run out of space, but it’s true. Cantor’s famous diagonal argument proves this isn’t possible, though his proof was about infinite, binary sequences. Applied here, no matter how you arrange the books, you can prove that at least one book of infinite length has been left out. Surely, the library wouldn’t want to leave any books out of its vast volumes, so I advise caution when tasking a librarian with constructing an infinite library.</p>
+<p>Regardless of how infinite you decide to make the library, the unfortunate problem remains that the Library of Babel is entirely useless as a library. Libraries function best as curators and disseminators of resources, working to best serve their community. Typically, this means the knowledge in the library should be relevant to the readers. At the very least, it should be true. Unfortunately, there is no curatorial process in the Library of Babel. Sure, one book might just so happen to contain the works of Shakespeare, but there will be countless others that look like works of Shakespeare that all get the endings wrong. Most comprehensible books will be wrong, and most books will be incomprehensible. Given how finite human knowledge is, the chances of finding something useful are essentially zero. Even if you do find something potentially useful, you would have to independently verify the source is credible, because no one is curating it for you. The Library of Babel is an interesting thought experiment, but I pity anyone that wastes more than a second in that building trying to find meaning in the empty volumes.</p>
+]]></content>
+  </entry>
+  <entry>
     <title>Ex Libris: Sleepy</title>
     <url>/ex-libris-sleepy/</url>
     <content><![CDATA[<p>Known for incredibly concise storytelling, Anton Chekhov leaves no detail unresolved in his stories. Everything serves a purpose. The principle has been titled Chekhov’s Gun: if you introduce a gun, the audience expects it to be fired at some point. These details—these promises—build and interweave, and by the end of the story, every promise has reached a payoff that serves the ending. Mind you, these payoffs are rarely happily-ever-afters or neat, little bows wrapping up the story. They often include tragedy and death, but that doesn’t make them any less satisfying. </p>
@@ -363,15 +372,6 @@
 <p>The young girl, Varka, enters a few dreams throughout the short story, and each time she does, she first looks at the green light on the wall and the shadows. The flickering light and moving shadows and chirping cricket appear more and more hypnotic until eventually, the light and shadows wink at her. Chekhov builds on the personification until the end of the story. The three items laugh, and she laughs with them as she kills the baby.</p>
 <p>In the span of six pages, Chekhov created an entirely new character out of thin air and gave it a personality. This tricky, evil spirit laughing and dancing on the wall is made of no more than some green light, the shadow of a pair of trousers, and the chirp of a cricket. Its development represents Varka’s descent into madness, an integral component of the story. Chekhov promised to do something with these three items, and he overdelivered on the payoff. Without it, we wouldn’t see Varka lose her mind, just her frustration.</p>
 <p>Creating payoff is about more than finally using the promise. It’s about giving it a broader significance—a life of its own—in the story, one that serves the ending. Once you have that, the payoff can reflect its symbolism, even if you use the promise in an unconventional way. Just because you’ve introduced Chekhov’s Gun doesn’t mean you need to fire it.</p>
-]]></content>
-  </entry>
-  <entry>
-    <title>Ex Libris: The Library of Babel</title>
-    <url>/ex-libris-the-library-of-babel/</url>
-    <content><![CDATA[<p>In Jorge Luis Borges’ <em>The Library of Babel</em>, the narrator describes a never-ending world of hexagonal galleries, all filled with books. Each book is 410 pages, 40 lines per page, 80 characters per line, 25 characters in the script. Doing some quick calculations, that number of books is approximately a 1 with 1.8 million zeros behind it. For reference, the number of atoms in the known universe is a 1 with 80 zeros behind it, which is essentially nothing compared to the scale of the library.</p>
-<p>The library is vast, but its volumes are not infinite. The narrator attempts to circumvent this by concluding that the library likely repeats itself. Infinity can be scary, but if the library were looking for new librarians, I have a suggestion for how to make the library truly infinite. If you still want all the books to fit in an infinite library, why limit yourself to 410 page books? For the sake of mathematical clarity, let’s assume that every book is the same thickness, no matter how many pages it has (pretend the pages get super thin). Then, if you allow books to be any finite length, then you will never need to repeat the library because there will always be enough books to fill the shelves without repeating. Assuming the library’s hexagonal galleries do continue forever, then every possible book of finite length will fit perfectly in the library. Finite length books are the way to go.</p>
-<p>Infinite length books, however, pose a huge issue. Let’s again assume that books of infinite length still have the same thickness as all the other books. If you allow every book of infinite length to enter the library, then you will run out of space. It’s hard to believe that an infinite library could run out of space, but it’s true. Cantor’s famous diagonal argument proves this isn’t possible, though his proof was about infinite, binary sequences. Applied here, no matter how you arrange the books, you can prove that at least one book of infinite length has been left out. Surely, the library wouldn’t want to leave any books out of its vast volumes, so I advise caution when tasking a librarian with constructing an infinite library.</p>
-<p>Regardless of how infinite you decide to make the library, the unfortunate problem remains that the Library of Babel is entirely useless as a library. Libraries function best as curators and disseminators of resources, working to best serve their community. Typically, this means the knowledge in the library should be relevant to the readers. At the very least, it should be true. Unfortunately, there is no curatorial process in the Library of Babel. Sure, one book might just so happen to contain the works of Shakespeare, but there will be countless others that look like works of Shakespeare that all get the endings wrong. Most comprehensible books will be wrong, and most books will be incomprehensible. Given how finite human knowledge is, the chances of finding something useful are essentially zero. Even if you do find something potentially useful, you would have to independently verify the source is credible, because no one is curating it for you. The Library of Babel is an interesting thought experiment, but I pity anyone that wastes more than a second in that building trying to find meaning in the empty volumes.</p>
 ]]></content>
   </entry>
   <entry>
@@ -434,28 +434,6 @@
 ]]></content>
   </entry>
   <entry>
-    <title>FM Radio Frequencies are Lying to You</title>
-    <url>/fm-radio-frequencies-are-lying-to-you/</url>
-    <content><![CDATA[<p>The other day, I was driving to work when suddenly my radio started playing. I don’t typically listen to the radio, but the music was nice, so I let it keep playing. After the song finished, the radio announcer said, “You’re listening to 98.9* FM radio.”</p>
-<p>And that’s when my brain broke a little.</p>
-<p>Up until this point, I knew very little about how radio worked. All I knew was that somehow, sound waves turned into electromagnetic waves and back into sound waves, and my brain was okay with this limited understanding because it seemed intuitive. The whole process was just waves becoming waves becoming waves. All waves have frequency and amplitude, so taking that information from one wave and putting it on another wave didn’t seem so strange.</p>
-<p>The only problem is that my intuition was wrong. When you read a radio station number, that station number is the frequency of the radio station. Hearing the announcer’s voice, I realized that if the radio station number is fixed, then the station has a fixed electromagnetic frequency, so the station has to encode sound frequency and amplitude without changing their electromagnetic frequency. </p>
-<p>AM radio uses a very elegant process for encoding sound. They do this through amplitude modulation. Amplitude modulation imposes the shape of one wave onto the amplitude of a carrier wave. Ideally, the carrier wave has a much higher frequency than the broadcast wave. The slowest AM carrier waves oscillate over 540 thousand times per second, which is roughly 30 times faster than the highest frequencies audible to adult humans, so AM carrier waves are definitely going fast enough. By imposing the broadcast wave over the carrier wave, AM radio stations can broadcast full audio waves without changing frequency. </p>
-<p>AM radio is great, but for the vast majority of people, the last time they listened to music on the radio, it was FM radio. Unlike AM radio, FM radio uses a fixed amplitude. This is where I really got confused. If the amplitude and frequency are constant, then how do you convey any information? It turns out, the frequency is not constant. FM—frequency modulation—radio stations vary the frequency of the carrier wave to encode information. A higher frequency corresponds to a peak, and a lower frequency corresponds to a trough. When you listen to 98.9, you’re not actually receiving 98.9 MHz radio waves. Instead, your radio is listening to all frequencies between 98.8 MHz and 90.0 MHz. The vast majority of the time that your screen says 98.9, you’re not actually listening to 98.9. You could be listening to 98.89 or 98.91, but 98.9 is incredibly rare. Radio stations are lying about their station number. They almost never send you radio waves at their channel’s frequency.</p>
-<p>Realizing this, I felt betrayed. I didn’t listen to FM radio to begin with, but I certainly wasn’t going to start. Why number your station off a frequency you almost never broadcast? Radio is an incredible medium, but this burden is too much to bear. Listen to anything else, even a <a href="https://jonikpodcast.github.io/">podcast exploring life through etymology</a>, but beware the lies of FM radio.</p>
-<!-- After realizing this bitter truth about FM radio, I have stopped listening to it altogether. I am not the only one. Countless people have stopped listening to FM radio, and each one realized the same truth I did. Retract your radio antennas. Shut off your receivers. Stop listening to the radio, because they stopped listening to you a long time ago. -->
-
-<hr>
-<p>*<em>not a real radio station</em></p>
-<h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ol>
-<li><a href="https://www.fcc.gov/media/radio/fm-frequencies-end-odd-decimal">AM and FM Radio Frequency Details</a></li>
-<li><a href="https://en.wikipedia.org/wiki/AM_broadcasting">AM Broadcasting</a></li>
-<li><a href="https://en.wikipedia.org/wiki/FM_broadcasting">FM Broadcasting</a></li>
-<li><a href="/am/">AM (short piece I wrote)</a></li>
-</ol>
-]]></content>
-  </entry>
-  <entry>
     <title>First Time for Everything</title>
     <url>/first-time-for-everything/</url>
     <content><![CDATA[<p>On July 21, 2023, that weekend when the Barbie and Oppenheimer movies came out, I invited my old mentor to watch Oppenheimer at the local theater. I did this partly to spend time with him, partly to push myself out of my social comfort zone, and I thought this might kill two birds with one stone. On the days we have long, rambling conversations, he eventually turns the topic to nuclear physics and the history of the atomic bomb. Occasionally, I sprinkle in details related to our university, given its position in the history of the Manhattan project, but for the most part, I listen. How he knows so much about the field, I’m not sure, but it’s one of our few conversation topics unrelated to research and our lab. </p>
@@ -475,6 +453,28 @@
 <p>“No, ever.”</p>
 <p>His Lyft pulls up, so he waves goodbye. I probably mumble something about seeing him in lab as I wave back. The sound of the rain cuts out as the gears whir in my head. I don’t know if it was a few seconds or a few minutes, but eventually, I put on my jacket and step out into the rain.</p>
 <p>I guess there’s a first time for everything.</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>FM Radio Frequencies are Lying to You</title>
+    <url>/fm-radio-frequencies-are-lying-to-you/</url>
+    <content><![CDATA[<p>The other day, I was driving to work when suddenly my radio started playing. I don’t typically listen to the radio, but the music was nice, so I let it keep playing. After the song finished, the radio announcer said, “You’re listening to 98.9* FM radio.”</p>
+<p>And that’s when my brain broke a little.</p>
+<p>Up until this point, I knew very little about how radio worked. All I knew was that somehow, sound waves turned into electromagnetic waves and back into sound waves, and my brain was okay with this limited understanding because it seemed intuitive. The whole process was just waves becoming waves becoming waves. All waves have frequency and amplitude, so taking that information from one wave and putting it on another wave didn’t seem so strange.</p>
+<p>The only problem is that my intuition was wrong. When you read a radio station number, that station number is the frequency of the radio station. Hearing the announcer’s voice, I realized that if the radio station number is fixed, then the station has a fixed electromagnetic frequency, so the station has to encode sound frequency and amplitude without changing their electromagnetic frequency. </p>
+<p>AM radio uses a very elegant process for encoding sound. They do this through amplitude modulation. Amplitude modulation imposes the shape of one wave onto the amplitude of a carrier wave. Ideally, the carrier wave has a much higher frequency than the broadcast wave. The slowest AM carrier waves oscillate over 540 thousand times per second, which is roughly 30 times faster than the highest frequencies audible to adult humans, so AM carrier waves are definitely going fast enough. By imposing the broadcast wave over the carrier wave, AM radio stations can broadcast full audio waves without changing frequency. </p>
+<p>AM radio is great, but for the vast majority of people, the last time they listened to music on the radio, it was FM radio. Unlike AM radio, FM radio uses a fixed amplitude. This is where I really got confused. If the amplitude and frequency are constant, then how do you convey any information? It turns out, the frequency is not constant. FM—frequency modulation—radio stations vary the frequency of the carrier wave to encode information. A higher frequency corresponds to a peak, and a lower frequency corresponds to a trough. When you listen to 98.9, you’re not actually receiving 98.9 MHz radio waves. Instead, your radio is listening to all frequencies between 98.8 MHz and 90.0 MHz. The vast majority of the time that your screen says 98.9, you’re not actually listening to 98.9. You could be listening to 98.89 or 98.91, but 98.9 is incredibly rare. Radio stations are lying about their station number. They almost never send you radio waves at their channel’s frequency.</p>
+<p>Realizing this, I felt betrayed. I didn’t listen to FM radio to begin with, but I certainly wasn’t going to start. Why number your station off a frequency you almost never broadcast? Radio is an incredible medium, but this burden is too much to bear. Listen to anything else, even a <a href="https://jonikpodcast.github.io/">podcast exploring life through etymology</a>, but beware the lies of FM radio.</p>
+<!-- After realizing this bitter truth about FM radio, I have stopped listening to it altogether. I am not the only one. Countless people have stopped listening to FM radio, and each one realized the same truth I did. Retract your radio antennas. Shut off your receivers. Stop listening to the radio, because they stopped listening to you a long time ago. -->
+
+<hr>
+<p>*<em>not a real radio station</em></p>
+<h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ol>
+<li><a href="https://www.fcc.gov/media/radio/fm-frequencies-end-odd-decimal">AM and FM Radio Frequency Details</a></li>
+<li><a href="https://en.wikipedia.org/wiki/AM_broadcasting">AM Broadcasting</a></li>
+<li><a href="https://en.wikipedia.org/wiki/FM_broadcasting">FM Broadcasting</a></li>
+<li><a href="/am/">AM (short piece I wrote)</a></li>
+</ol>
 ]]></content>
   </entry>
   <entry>
@@ -573,28 +573,6 @@
 <p>As I embark on a new beginning myself, I am reminded of the new beginnings gone past, particularly starting college in the middle of a global pandemic. That first year of college in particular was so strange. My orientation was virtual, my classes were virtual, and almost every conversation I had was virtual. Whenever someone would ask me how I was enjoying higher education, I would tell them that I had never been inside any of the academic buildings, but I knew what they all looked like on the outside.</p>
 <p>Eventually, things changed, and I attended in-person classes, sat next to people in dining halls, and high-fived someone for the first time in over a year. Still, those of us from the COVID era never were quite the same as our older or younger peers. We skipped out on traditions, ignored famous events, and fell in love with forgotten parts of the university. It didn’t matter that we were finally given a chance at a “normal” college experience. By that point, it was too late, and we had already developed our own expectations for what college meant to us.</p>
 <p>The beginning of our journey strongly controlled the trajectory of our college experience, and knowing that now, I realize these next few months will define so much of my PhD. I may already know the people and the place, but my purpose here is quite different from what it was four years ago. My purpose four years ago was to make it to today, and today, my purpose is to build the foundation of my academic career. There will be similarities between then and now, but I know one thing for sure. When commencement begins, I won’t just be watching on a live broadcast. I’ll be walking through those gates, ready to take on a new beginning.</p>
-]]></content>
-  </entry>
-  <entry>
-    <title>Praise</title>
-    <url>/praise/</url>
-    <content><![CDATA[<p>Over the past few months, I’ve been sharing my art with a community of origamists called Origami-Dan. Origami-Dan is a server with over 4,000 members, and a few hundred are pretty active. Some of the best origamists in the world come here to talk about art and share their passion for paper-folding. Since I was getting into design work, I thought I’d start sharing what I make here. People could let me know what they liked, what they didn’t, potential improvements, etc. It seemed like a pretty innocuous idea.</p>
-<p>Before I became active in the community, I decided to take a quick skim through some recent works made by server members. In just a few minutes of scrolling, I saw more incredible origami than I had seen in the past year surfing the internet. These artists were absolutely phenomenal, doing things with paper I had never dreamed were possible. Seeing such incredible art made me want to improve my own, so I worked and I worked and I quickly got better.</p>
-<p>Eventually, it was time for my first post in the server. The server hosts monthly design competitions, so I decided to design a piece that fit the theme and submit it. The theme was “Lord of the Swamp,” a strange combination of Lord of the Ring and Swamp, which was really forcing artists to be creative with their work. I didn’t know how to design anything complicated, so I made a swamp ring. It was just a ring with a sprout and two leaves coming out the top. Nothing complicated, just a cute, little design. No one really paid much attention, but I did get one reply saying I hit the theme well.</p>
-<p>Fast-forward to July, when the contest theme was “Emotions.” I had this really silly idea of doing a literal interpretation of “hanging by a thread.” Rather than going for desperation, I aimed for a design that looked more defeated. The result was this person dangling from a balloon tied behind them. I put a lot of effort into it, and for a moment, I thought I made good art. That moment was rather brief. All that pride turned into self-criticism as I began seeing nothing but the flaws and imperfections in my design. </p>
-<p><em>Oh well,</em> I thought, <em>might as well submit it anyways</em>. I clicked the little send button, and it was off. By that time, I had made a few friends in the server, and they were kind enough to compliment my work. I even got a compliment from a super talented folder that I didn’t know personally, which was beyond encouraging. A few weeks later, I ended up winning that design contest, which should have cleared any doubts I had. </p>
-<p>It didn’t. I still felt like a fraud.</p>
-<p>As a brief aside, accepting compliments is a rather rare phenomenon for many people, at least in American English. According to a report by the Center for Advanced Research on Language Acquisition, in American English, we only accept compliments about a third of the time. The other two-thirds of the time, we might scale down the compliment, shift the credit, or just flat-out reject the praise altogether. I’ve seen this in other languages, but it’s particularly common in American English. I’ve tried learning to accept compliments, and saying “thank you” is easy, but truly believing a compliment is genuine remains rather difficult.</p>
-<p>All of that culminated to today, when I posted my piece titled Stargazing. At first, the response was pretty minimal. One guy really liked it, but there wasn’t much traction. I didn’t mind, since I wasn’t posting for attention, but a few hours later, my phone started dinging. Apparently, I had just entirely missed the time of day when origamists were active online. People loved my design. I was getting compliments from artists I had been admiring for months. It was honestly a bit overwhelming, but I was so happy, taking the time to thank people who said encouraging things.</p>
-<p>As I was responding to all of this, I got one comment that complimented me on my distinct style from an artist I really admired. I never thought I would develop a style as an artist, but seeing that comment really made me feel like I had actually become an artist. In my excitement, I decided to scroll up to my original post again, and suddenly all the cheering in my head quieted down. <em>This is what people are getting excited about? It’s so simple and messy. Obviously they think that too, right? Why would they say such nice things? Do they really mean all these compliments?</em> </p>
-<p>For a few minutes, I just sat there, the thought of praise making me feel bummed out. <em>I don’t deserve this kind of response. Other artists post way cooler stuff than I do, and people don’t get nearly as excited. It’s because I’m new, right? When the novelty wears off, it’ll quiet back down.</em> I don’t know when the novelty will wear off, since I’m still new, but I am convinced that’s part of it. I felt like such an imposter, such a fake, not a real artist.</p>
-<p>As I was settling into my despair, I saw a little circle appear on my Friends tab. It was a friend request from a really popular artist on the server, the same one that liked my style. Eventually, I had to come to the realization that they were being genuine when they complimented my work. Everyone was, probably. It was just so hard to fathom, and I don’t say this to sound self-centered. I genuinely could not imagine people liking my art. Instead, all I felt was perceived. Having never had such an enthusiastic audience, so I didn’t realize how intensely I felt perceived even when it was positive. I thought <a href="/the-mortifying-ordeal-of-being-perceived">the mortifying ordeal of being perceived</a> was the cost of an audience that maybe didn’t like you yet, but—in full naivete—I thought the feeling would subside once people liked me. That couldn’t be further from the truth.</p>
-<p>Sharing my art is a luxury, and having found such a receptive audience is a gift, but that hasn’t made it any easier. I will always openly welcome compliments and criticism, but actually taking either is no easy task. There are plenty of times when I post art, and it’s mostly ignored, and that’s how it usually will be. If I’m ever lucky enough to have people respond, I will probably panic as is my nature, but if imposter syndrome and being perceived and judgement is the price I have to pay, I’m more than willing. Any strong reaction is someone engaging with my art, and as an artist, that’s all I can really ask for.</p>
-<hr>
-<h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ol>
-<li><a href="https://carla.umn.edu/speechacts/compliments/american.html">American English Compliments Report</a></li>
-<li><a href="https://discord.com/invite/yU4Cvry">Origami-Dan Discord Server</a></li>
-</ol>
 ]]></content>
   </entry>
   <entry>
@@ -720,6 +698,28 @@
 ]]></content>
   </entry>
   <entry>
+    <title>Praise</title>
+    <url>/praise/</url>
+    <content><![CDATA[<p>Over the past few months, I’ve been sharing my art with a community of origamists called Origami-Dan. Origami-Dan is a server with over 4,000 members, and a few hundred are pretty active. Some of the best origamists in the world come here to talk about art and share their passion for paper-folding. Since I was getting into design work, I thought I’d start sharing what I make here. People could let me know what they liked, what they didn’t, potential improvements, etc. It seemed like a pretty innocuous idea.</p>
+<p>Before I became active in the community, I decided to take a quick skim through some recent works made by server members. In just a few minutes of scrolling, I saw more incredible origami than I had seen in the past year surfing the internet. These artists were absolutely phenomenal, doing things with paper I had never dreamed were possible. Seeing such incredible art made me want to improve my own, so I worked and I worked and I quickly got better.</p>
+<p>Eventually, it was time for my first post in the server. The server hosts monthly design competitions, so I decided to design a piece that fit the theme and submit it. The theme was “Lord of the Swamp,” a strange combination of Lord of the Ring and Swamp, which was really forcing artists to be creative with their work. I didn’t know how to design anything complicated, so I made a swamp ring. It was just a ring with a sprout and two leaves coming out the top. Nothing complicated, just a cute, little design. No one really paid much attention, but I did get one reply saying I hit the theme well.</p>
+<p>Fast-forward to July, when the contest theme was “Emotions.” I had this really silly idea of doing a literal interpretation of “hanging by a thread.” Rather than going for desperation, I aimed for a design that looked more defeated. The result was this person dangling from a balloon tied behind them. I put a lot of effort into it, and for a moment, I thought I made good art. That moment was rather brief. All that pride turned into self-criticism as I began seeing nothing but the flaws and imperfections in my design. </p>
+<p><em>Oh well,</em> I thought, <em>might as well submit it anyways</em>. I clicked the little send button, and it was off. By that time, I had made a few friends in the server, and they were kind enough to compliment my work. I even got a compliment from a super talented folder that I didn’t know personally, which was beyond encouraging. A few weeks later, I ended up winning that design contest, which should have cleared any doubts I had. </p>
+<p>It didn’t. I still felt like a fraud.</p>
+<p>As a brief aside, accepting compliments is a rather rare phenomenon for many people, at least in American English. According to a report by the Center for Advanced Research on Language Acquisition, in American English, we only accept compliments about a third of the time. The other two-thirds of the time, we might scale down the compliment, shift the credit, or just flat-out reject the praise altogether. I’ve seen this in other languages, but it’s particularly common in American English. I’ve tried learning to accept compliments, and saying “thank you” is easy, but truly believing a compliment is genuine remains rather difficult.</p>
+<p>All of that culminated to today, when I posted my piece titled Stargazing. At first, the response was pretty minimal. One guy really liked it, but there wasn’t much traction. I didn’t mind, since I wasn’t posting for attention, but a few hours later, my phone started dinging. Apparently, I had just entirely missed the time of day when origamists were active online. People loved my design. I was getting compliments from artists I had been admiring for months. It was honestly a bit overwhelming, but I was so happy, taking the time to thank people who said encouraging things.</p>
+<p>As I was responding to all of this, I got one comment that complimented me on my distinct style from an artist I really admired. I never thought I would develop a style as an artist, but seeing that comment really made me feel like I had actually become an artist. In my excitement, I decided to scroll up to my original post again, and suddenly all the cheering in my head quieted down. <em>This is what people are getting excited about? It’s so simple and messy. Obviously they think that too, right? Why would they say such nice things? Do they really mean all these compliments?</em> </p>
+<p>For a few minutes, I just sat there, the thought of praise making me feel bummed out. <em>I don’t deserve this kind of response. Other artists post way cooler stuff than I do, and people don’t get nearly as excited. It’s because I’m new, right? When the novelty wears off, it’ll quiet back down.</em> I don’t know when the novelty will wear off, since I’m still new, but I am convinced that’s part of it. I felt like such an imposter, such a fake, not a real artist.</p>
+<p>As I was settling into my despair, I saw a little circle appear on my Friends tab. It was a friend request from a really popular artist on the server, the same one that liked my style. Eventually, I had to come to the realization that they were being genuine when they complimented my work. Everyone was, probably. It was just so hard to fathom, and I don’t say this to sound self-centered. I genuinely could not imagine people liking my art. Instead, all I felt was perceived. Having never had such an enthusiastic audience, so I didn’t realize how intensely I felt perceived even when it was positive. I thought <a href="/the-mortifying-ordeal-of-being-perceived">the mortifying ordeal of being perceived</a> was the cost of an audience that maybe didn’t like you yet, but—in full naivete—I thought the feeling would subside once people liked me. That couldn’t be further from the truth.</p>
+<p>Sharing my art is a luxury, and having found such a receptive audience is a gift, but that hasn’t made it any easier. I will always openly welcome compliments and criticism, but actually taking either is no easy task. There are plenty of times when I post art, and it’s mostly ignored, and that’s how it usually will be. If I’m ever lucky enough to have people respond, I will probably panic as is my nature, but if imposter syndrome and being perceived and judgement is the price I have to pay, I’m more than willing. Any strong reaction is someone engaging with my art, and as an artist, that’s all I can really ask for.</p>
+<hr>
+<h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ol>
+<li><a href="https://carla.umn.edu/speechacts/compliments/american.html">American English Compliments Report</a></li>
+<li><a href="https://discord.com/invite/yU4Cvry">Origami-Dan Discord Server</a></li>
+</ol>
+]]></content>
+  </entry>
+  <entry>
     <title>Reaching Out to Old Friends</title>
     <url>/reaching-out-to-old-friends/</url>
     <content><![CDATA[<p>Around March of 2020, I lost contact with a lot of friends. High school was ending, COVID was starting, and so many people I kept up with were no longer in my life. One of those people lives on the East Coast, and we compete in the same sport. I had the opportunity to compete in a tournament in the Eastern League, so I texted him, asking if he would be there. Unfortunately, he couldn’t make it, so we texted for a bit, but that was about it. </p>
@@ -778,16 +778,45 @@
 ]]></content>
   </entry>
   <entry>
-    <title>Standardized Test Problems in Real Life</title>
-    <url>/standardized-test-problems-in-real-life/</url>
-    <content><![CDATA[<p>After almost two decades of taking standardized tests, I still don’t understand why the questions are so ridiculous. Why does Alice need 47 watermelons? Who put two trains on the same track in opposite directions? Does everyone in the room <em>really</em> need to shake hands?</p>
-<p>The questions are weird, but I can’t really complain. My test-taking skills got me into college, through college, and even made me some money along the way through tutoring. I’m not half bad at figuring out the probability you pick a red marble out of the bag, which came in handy a little while back.</p>
-<p>I was in the passenger seat of a car in a different country, and the time came to fill the tank. When we got to the station, we clicked the button to pay for gas, and the screen instantly lit up with seven different payment amounts for pre-approval. Admittedly, we just kinda stared blankly at it for a minute. You see, as bald-eagle-loving Americans, we were used to the ability to let the pump just fill the tank and just hope it didn’t run over budget, but that wasn’t an option here. Instead, we were forced to select just how much we would approve. I started putting all the details together, and I came up with the following problem:</p>
-<p>You are at a gas pump, and you need to fill your tank. Your tank size is roughly 20 gallons, and it is 3&#x2F;4 empty. There are 3.8 liters in a gallon. The price of gas per liter isn’t listed anywhere, but you see on the screen that the previous customer paid 91 dollars for 54 liters. The options for pre-approval are 20, 30, 50, 70, 90, 100, and 110 dollars. What is the smallest amount you can pre-approve such that your tank will be completely full?</p>
-<p>Before I give you the answer, try it yourself with a calculator. To be clear, when I solved it, I didn’t write out the problem; those details are just what was swirling in my head at that moment. I pulled out the calculator app on my phone, pressed a few buttons, and in about 30 seconds, I had my final answer of 100 dollars. We hit the button, started filling the tank, and the actual amount of gas needed to fill the car was worth 97 dollars, which meant my calculations were spot-on. </p>
-<p>Solving the problem was fun, but it required a lot more processing than the short paragraph I wrote out. I had to know the unit conversion from gallons to liters. I had to assume the previous customer purchased low-octane fuel because it’s the most common choice. I had to understand how much rounding was just enough. I had to make assumptions about the gas tank. I had to package up all that real-world data into a pretty, little math problem. </p>
-<p>To the credit of all the people in math class that said, “we can use a calculator in the real world,” yes, yes we can. They’re in our pockets constantly. However, we still need to understand which numbers are important. Synthesizing that information efficiently is the first step to making math useful in the real world. We can use it whenever, but it only makes sense when we have a real problem to solve. Being able to gather the relevant information from a situation is a useful skill I’m grateful to have practiced through standardized tests, and I’m beginning to appreciate those problems more now.</p>
-<p>I still think the problems could be a bit more realistic though. I mean, <em>47</em> watermelons? Really?</p>
+    <title>Some Squares</title>
+    <url>/some-squares/</url>
+    <content><![CDATA[<p>If you’re good at statistics, you aren’t supposed to buy lottery tickets. However, that doesn’t stop my friend, who picks up a ticket every time the jackpot is over $1 billion.</p>
+<p>“If it’s over a billion, then I figure it’s worth daydreaming about for a week,” he’ll say.</p>
+<p>The ticket is only two dollars, so I decide to indulge him. I offer to pay for half of the ticket—$1—in exchange for 0% of his winnings. This is a lot of money we’re talking about, so we make it official. We draft a contract and everything.</p>
+<p>We buy the ticket, and as we’re driving back, he starts reading off some of the numbers.</p>
+<p>“22, 37—ooh, that’s a sum of squares. 41, that’s a sum of squares too. 43 isn’t a sum of squares, is it?”</p>
+<p>“Of course it is. 25 plus 16 plus 1 plus 1.”</p>
+<p>“Ugh, FINE, but you repeated the 1. That’s cheating. What about unique squares?”</p>
+<p><em>What about unique squares?</em></p>
+<p>This question really stuck with me, so I started digging. There’s a theorem that says every number can be expressed as the sum of 4 squares, but that doesn’t help because those squares can repeat, so you could say 7 is 4 + 1 + 1 + 1. </p>
+<p>I could have looked up the answer to my question and realized it was solved over 60 years ago, but that’s boring. Instead, I made my computer solve it—kinda. I figured I would look at the numbers that aren’t sums of squares and hopefully find a pattern.</p>
+<p><code>&gt;&gt;&gt; 2, 3, 6, 7, 8, ... 128</code></p>
+<p><em>Huh, why did it stop at 128? Let me run the program up to 1,000.</em></p>
+<p><code>&gt;&gt;&gt; Maximum: 128</code></p>
+<p><em>Still 128. How about 10,000?</em></p>
+<p><code>&gt;&gt;&gt; Maximum: 128</code></p>
+<p><em>Alright, let’s really push it. 1 million.</em></p>
+<p><code>&gt;&gt;&gt; Maximum: 128</code></p>
+<p>I’m positive I made a mistake in my code, so I check it a few times and run a bunch of tests, but it seems alright, so I tell my friend what I found.</p>
+<p><code>ME: yo, I think the list of numbers that can&#39;t be sums of unique squares is finite</code></p>
+<p><code>FRIEND: wait no way its finite</code></p>
+<p><code>ME: ¯\_(ツ)_/¯ it stops at 128</code></p>
+<p><code>FRIEND: so what squares add to 129?</code></p>
+<p><code>ME: 10, 5, 2</code></p>
+<p><code>FRIEND: oh nice</code></p>
+<p><code>ME: yeah, i kinda wanna make this a game now</code></p>
+<p><code>FRIEND: right? try and figure out what squares add to the number? sell that to the nyt</code></p>
+<p>So that’s what I do. Build the game, that is, not sell it to the NYT (yet… if you work at the Times, hit me up). It’s <a href="/sum-of-squares/">here</a> in case you wanted to play. It has a share feature, animations, sound effects, and it’s surprisingly addicting. I daresay it’s the best game I’ve built to date.</p>
+<p>If you’re good at statistics, you aren’t supposed to buy lottery tickets. The jackpot is never worth the odds. However, it turns out there’s a lot more to gain than just the jackpot. You just need to go in with the right people. </p>
+<hr>
+<p><em>Disclaimer: This story contains references to the lottery for narrative purposes only. The author does not endorse gambling or any related activities.</em></p>
+<hr>
+<h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ol>
+<li><a href="https://www.powerball.com/previous-results?gc=powerball&ed=2025-12-24&sd=2025-12-24">Powerball 12&#x2F;24&#x2F;25</a></li>
+<li><a href="https://oeis.org/A001422">OEIS entry on all numbers that are not the sum of distinct squares</a></li>
+<li><a href="https://mathweb.ucsd.edu/~ronspubs/64_04_polynomial.pdf">Complete Sequences of Polynomial Values</a></li>
+<li><a href="/sum-of-squares/">Sum of Squares Game</a></li>
+</ol>
 ]]></content>
   </entry>
   <entry>
@@ -805,6 +834,42 @@
 <h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ol>
 <li><a href="https://en.wikipedia.org/wiki/Square-1_(puzzle)">Square-1 Puzzle</a></li>
 <li>The discourse surrounding the etymology of “square one” lacks enough rigor to warrant any particular links. Instead, a Google search for “origin of square one” will provide plenty of questionable sources offering one of the three explanations listed above.</li>
+</ol>
+]]></content>
+  </entry>
+  <entry>
+    <title>Standardized Test Problems in Real Life</title>
+    <url>/standardized-test-problems-in-real-life/</url>
+    <content><![CDATA[<p>After almost two decades of taking standardized tests, I still don’t understand why the questions are so ridiculous. Why does Alice need 47 watermelons? Who put two trains on the same track in opposite directions? Does everyone in the room <em>really</em> need to shake hands?</p>
+<p>The questions are weird, but I can’t really complain. My test-taking skills got me into college, through college, and even made me some money along the way through tutoring. I’m not half bad at figuring out the probability you pick a red marble out of the bag, which came in handy a little while back.</p>
+<p>I was in the passenger seat of a car in a different country, and the time came to fill the tank. When we got to the station, we clicked the button to pay for gas, and the screen instantly lit up with seven different payment amounts for pre-approval. Admittedly, we just kinda stared blankly at it for a minute. You see, as bald-eagle-loving Americans, we were used to the ability to let the pump just fill the tank and just hope it didn’t run over budget, but that wasn’t an option here. Instead, we were forced to select just how much we would approve. I started putting all the details together, and I came up with the following problem:</p>
+<p>You are at a gas pump, and you need to fill your tank. Your tank size is roughly 20 gallons, and it is 3&#x2F;4 empty. There are 3.8 liters in a gallon. The price of gas per liter isn’t listed anywhere, but you see on the screen that the previous customer paid 91 dollars for 54 liters. The options for pre-approval are 20, 30, 50, 70, 90, 100, and 110 dollars. What is the smallest amount you can pre-approve such that your tank will be completely full?</p>
+<p>Before I give you the answer, try it yourself with a calculator. To be clear, when I solved it, I didn’t write out the problem; those details are just what was swirling in my head at that moment. I pulled out the calculator app on my phone, pressed a few buttons, and in about 30 seconds, I had my final answer of 100 dollars. We hit the button, started filling the tank, and the actual amount of gas needed to fill the car was worth 97 dollars, which meant my calculations were spot-on. </p>
+<p>Solving the problem was fun, but it required a lot more processing than the short paragraph I wrote out. I had to know the unit conversion from gallons to liters. I had to assume the previous customer purchased low-octane fuel because it’s the most common choice. I had to understand how much rounding was just enough. I had to make assumptions about the gas tank. I had to package up all that real-world data into a pretty, little math problem. </p>
+<p>To the credit of all the people in math class that said, “we can use a calculator in the real world,” yes, yes we can. They’re in our pockets constantly. However, we still need to understand which numbers are important. Synthesizing that information efficiently is the first step to making math useful in the real world. We can use it whenever, but it only makes sense when we have a real problem to solve. Being able to gather the relevant information from a situation is a useful skill I’m grateful to have practiced through standardized tests, and I’m beginning to appreciate those problems more now.</p>
+<p>I still think the problems could be a bit more realistic though. I mean, <em>47</em> watermelons? Really?</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>The AI Summer: Part 1</title>
+    <url>/the-ai-summer-part-1/</url>
+    <content><![CDATA[<p>Well, my little cousin is using large language models to do his homework for him, my aunt makes Facebook posts with images from diffusion models, and I just deepfaked my voice in 5 minutes. That sentence sounds impossible, but the AI revolution has made it all too real. Some argue the AI revolution started in November of 2022, when ChatGPT was first released. Others say it started with Dall-E in early 2021. I say it started in 1958, but not with any big, fancy machine learning models. It started with the Perceptron.</p>
+<p>The Perceptron is the predecessor of all deep learning models. Before our modern neural networks with hundreds of hidden layers and fancy activation functions, there was a single-layer, linear network called the Perceptron. Designed by Warren McCulloch and Walter Pitts in 1943, it took 15 years before it was actually built by Frank Rosenblatt in 1958. Made to be a standalone machine, the Mark 1 Perceptron used an array of 20x20 photocells for the input, potentiometers to encode the weights, and electric motors to adjust the weights. One of the first things it learned was how to tell left from right. </p>
+<p>Rosenblatt envisioned a future, one where machines could understand language and see the world around us. His innovative work sparked uncertainty for the future, and where there is uncertainty, there is skepticism. Minsky and Papert provided a strong counterexample to the power of the Perceptron: it could not learn the XOR gate. Essentially, given two objects—each one either a “yes” or a “no”—the Perceptron would not be able to tell you whether they were the same. Even for problems it could solve, the Perceptron required far more computing power than was possible at the time. This gave skeptics the upper hand. A few years later, scientists entered the first AI winter. Funding was down and interest was low. The field stalled.</p>
+<p>The AI winter provided no incentive to consider the impacts of the potentially groundbreaking field. Companies didn’t anticipate how AI might impact them, and the law gave no specific consideration to such technologies. Because no one really cared to make any decisions, an AI future remained entirely uncertain. Rather than consider the implications and consequences, almost everyone deemed such decision-making unnecessary. Sure, calling Rosenblatt’s future nonsense sounded strong and resolute, but no problem has ever been answered by pretending it didn’t exist. The uncertain future of AI remained, but it was pawned off to the next generations as a problem for later.</p>
+<p>To the dismay of many, Rosenblatt was right. We are living through the AI revolution. Everyone with internet has access to state-of-the-art models, and they continue to transform how so many of us approach work and play in our everyday lives. Conversations about AI are no longer hypothetical. Businesses are transforming, the Senate is having hearings, and grassroots movements are growing because AI hit us hard, and we didn’t anticipate the impact. The uncertainty built over 60 years has finally broken free from the chains of hypotheticals and entered reality. </p>
+<p>And now, in our AI summer, we are woefully underprepared to deal with any of the consequences of AI. Yes, we have money and resources and attention pointing directly at this technology, but we remain almost as uncertain as we were a few decades ago. In this time, plenty have created theories about approaches to AI, but most were in the context of sentient machines. While I’m certainly thankful for that preparation for when the time comes, AI right now isn’t alive, it’s just fancy statistics. Issues of copyright and stolen data and plagiarism plague modern discussions of AI, and almost none have truly been resolved.   </p>
+<p>I sometimes wonder if this uncertainty is the price we pay for technological advancement. Almost no one batted an eyelid when LAION and CommonCrawl started building their massive datasets. Before ChatGPT, GPT-3 was already wildly powerful, writing an entire Batman movie script. GANs could do text-to-image generation well before Stable Diffusion. Few people asked if we should stop to reflect on these developments. I suppose, the longer we ignored the voices telling us to stop, the faster we could develop this technology. We paid for our speed by ignoring the uncertainty. When organizations released AI into the wild with few provisions or plans, it was already too late.</p>
+<p>To be clear, I would never expect anyone to anticipate everything that AI would bring. For the average internet user, the limits of what is possible have changed dramatically, and the evolutions of this technology continue to be unfathomable. Besides, we got a head start on some issues—like self-driving cars—but that still isn’t enough. With AI accessible to all, everyone is left to answer the uncertainty. Schools, healthcare, legislatures, companies small and large, everyone must now grapple with how to continue their lives in this once impossible future—in Rosenblatt’s future.</p>
+<p>The AI summer is heating up, and we’re flying too close to the sun. Try not to get burned.</p>
+<hr>
+<h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ol>
+<li><a href="https://doi.org/10.1177/030631296026003005">A Sociological Study of the Official History of the Perceptrons Controversy</a></li>
+<li><a href="https://archive.org/details/perceptronsintro00mins">Perceptrons. Minsky and Papert.</a></li>
+<li><a href="https://news.cornell.edu/stories/2019/09/professors-perceptron-paved-way-ai-60-years-too-soon">Professor’s Perceptron Paved the Way for AI – 60 Years Too Soon</a></li>
+<li><a href="https://commoncrawl.org/">CommonCrawl</a></li>
+<li><a href="https://laion.ai/blog/laion-5b/">LAION-5B</a></li>
+<li><a href="https://twitter.com/KeatonPatti/status/1161284670601990146">AI Batman Script from 2019</a></li>
 </ol>
 ]]></content>
   </entry>
@@ -830,30 +895,6 @@
 ]]></content>
   </entry>
   <entry>
-    <title>The Beginning of Tau</title>
-    <url>/the-beginning-of-tau/</url>
-    <content><![CDATA[<p>Happy Tau Day, the day when you’re supposed to eat two pies. As an avid Pi Day enthusiast, June 28th provides the perfect opportunity to celebrate twice! All the major festivities you see on Pi Day, from memorizing digits to making music to baking fruit manifolds with crust boundaries, it’s all there on Tau Day. Ultimate Tau Day (6&#x2F;28&#x2F;31) is only eight years away, so start preparing before it’s too late.</p>
-<p>Part of the beauty of Tau (τ) is that it has a life outside of being the ratio of a circle’s circumference to its radius. π has been featured in too many blockbuster equations and gets recognized everywhere. While τ is a lesser known celebrity, it can explore other fields, like particle physics and neuroscience and programming languages.</p>
-<p>Pi and Tau day are wonderful, but they’re not alone. Mathematically wonderful dates are everywhere. Other than just being Tau Day, the numbers in today’s date (6&#x2F;28&#x2F;23) provide a beautiful equation—</p>
-<p>$$\Gamma(6) &#x3D; (28 - 23)!$$</p>
-<p>—with ! denoting factorial, but also excitement because this is exciting. Tomorrow gives us an even simpler equation:</p>
-<p>$$6 &#x3D; 29 - 23$$</p>
-<p>And yesterday worked out quite nicely as well:</p>
-<p>$$6 &#x3D; \Gamma(27 - 23)$$</p>
-<p>For years, I’ve played this little game with the date, trying to insert non-digit symbols around and between the numbers, creating a valid equation while preserving their order from left to right. I recommend you try it too, it’s a nice way to spend a few minutes. Today, I built a toy programming language (thanks τ) whose programs are valid date equations. Then I wrote a script that searched through a finite space of potential programs to find valid ones for the given date. It generated the solutions for the dates I just listed.</p>
-<p>After playing this game for years, I’ve realized that finding an equation for the date is always possible. In fact, there are universal solutions, though they’re not always very exciting. For example, by taking advantage of properties of the sine function:</p>
-<p>$$ \forall m, d, y \in \mathbb{N}, \sin((m + d)\tau) &#x3D; \sin(y\tau) $$</p>
-<p>Strangely, celebrating τ allows us to celebrate other days of the year rather mathematically. Yes, τ is a superstar, but it allows us to celebrate others through its mere presence. </p>
-<p>The Tau Manifesto was written in 2010, spreading the voices of those who carried τ on their backs for years in relative silence. While the Tau Day community has certainly come a far way since then, τ is far from the spotlight it deserves. Until that moment, celebrate each day mathematically. This is just the beginning.</p>
-<hr>
-<h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ol>
-<li><a href="https://tauday.com/">The Official Tau Day Website</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Tau_(particle)">The Tau Particle</a></li>
-<li><a href="https://www.alz.org/media/Documents/alzheimers-dementia-tau-ts.pdf">Tau in Alzheimer’s Research</a></li>
-</ol>
-]]></content>
-  </entry>
-  <entry>
     <title>The AI Summer: Part 2</title>
     <url>/the-ai-summer-part-2/</url>
     <content><![CDATA[<p>When OpenAI first released ChatGPT, I was in the middle of a project on large language model security. My advisor and I discussed, and I pivoted to a security project focused on ChatGPT. For weeks, I worked to reveal its flaws—to uncover its vulnerabilities. </p>
@@ -875,25 +916,26 @@
 ]]></content>
   </entry>
   <entry>
-    <title>The AI Summer: Part 1</title>
-    <url>/the-ai-summer-part-1/</url>
-    <content><![CDATA[<p>Well, my little cousin is using large language models to do his homework for him, my aunt makes Facebook posts with images from diffusion models, and I just deepfaked my voice in 5 minutes. That sentence sounds impossible, but the AI revolution has made it all too real. Some argue the AI revolution started in November of 2022, when ChatGPT was first released. Others say it started with Dall-E in early 2021. I say it started in 1958, but not with any big, fancy machine learning models. It started with the Perceptron.</p>
-<p>The Perceptron is the predecessor of all deep learning models. Before our modern neural networks with hundreds of hidden layers and fancy activation functions, there was a single-layer, linear network called the Perceptron. Designed by Warren McCulloch and Walter Pitts in 1943, it took 15 years before it was actually built by Frank Rosenblatt in 1958. Made to be a standalone machine, the Mark 1 Perceptron used an array of 20x20 photocells for the input, potentiometers to encode the weights, and electric motors to adjust the weights. One of the first things it learned was how to tell left from right. </p>
-<p>Rosenblatt envisioned a future, one where machines could understand language and see the world around us. His innovative work sparked uncertainty for the future, and where there is uncertainty, there is skepticism. Minsky and Papert provided a strong counterexample to the power of the Perceptron: it could not learn the XOR gate. Essentially, given two objects—each one either a “yes” or a “no”—the Perceptron would not be able to tell you whether they were the same. Even for problems it could solve, the Perceptron required far more computing power than was possible at the time. This gave skeptics the upper hand. A few years later, scientists entered the first AI winter. Funding was down and interest was low. The field stalled.</p>
-<p>The AI winter provided no incentive to consider the impacts of the potentially groundbreaking field. Companies didn’t anticipate how AI might impact them, and the law gave no specific consideration to such technologies. Because no one really cared to make any decisions, an AI future remained entirely uncertain. Rather than consider the implications and consequences, almost everyone deemed such decision-making unnecessary. Sure, calling Rosenblatt’s future nonsense sounded strong and resolute, but no problem has ever been answered by pretending it didn’t exist. The uncertain future of AI remained, but it was pawned off to the next generations as a problem for later.</p>
-<p>To the dismay of many, Rosenblatt was right. We are living through the AI revolution. Everyone with internet has access to state-of-the-art models, and they continue to transform how so many of us approach work and play in our everyday lives. Conversations about AI are no longer hypothetical. Businesses are transforming, the Senate is having hearings, and grassroots movements are growing because AI hit us hard, and we didn’t anticipate the impact. The uncertainty built over 60 years has finally broken free from the chains of hypotheticals and entered reality. </p>
-<p>And now, in our AI summer, we are woefully underprepared to deal with any of the consequences of AI. Yes, we have money and resources and attention pointing directly at this technology, but we remain almost as uncertain as we were a few decades ago. In this time, plenty have created theories about approaches to AI, but most were in the context of sentient machines. While I’m certainly thankful for that preparation for when the time comes, AI right now isn’t alive, it’s just fancy statistics. Issues of copyright and stolen data and plagiarism plague modern discussions of AI, and almost none have truly been resolved.   </p>
-<p>I sometimes wonder if this uncertainty is the price we pay for technological advancement. Almost no one batted an eyelid when LAION and CommonCrawl started building their massive datasets. Before ChatGPT, GPT-3 was already wildly powerful, writing an entire Batman movie script. GANs could do text-to-image generation well before Stable Diffusion. Few people asked if we should stop to reflect on these developments. I suppose, the longer we ignored the voices telling us to stop, the faster we could develop this technology. We paid for our speed by ignoring the uncertainty. When organizations released AI into the wild with few provisions or plans, it was already too late.</p>
-<p>To be clear, I would never expect anyone to anticipate everything that AI would bring. For the average internet user, the limits of what is possible have changed dramatically, and the evolutions of this technology continue to be unfathomable. Besides, we got a head start on some issues—like self-driving cars—but that still isn’t enough. With AI accessible to all, everyone is left to answer the uncertainty. Schools, healthcare, legislatures, companies small and large, everyone must now grapple with how to continue their lives in this once impossible future—in Rosenblatt’s future.</p>
-<p>The AI summer is heating up, and we’re flying too close to the sun. Try not to get burned.</p>
+    <title>The Beginning of Tau</title>
+    <url>/the-beginning-of-tau/</url>
+    <content><![CDATA[<p>Happy Tau Day, the day when you’re supposed to eat two pies. As an avid Pi Day enthusiast, June 28th provides the perfect opportunity to celebrate twice! All the major festivities you see on Pi Day, from memorizing digits to making music to baking fruit manifolds with crust boundaries, it’s all there on Tau Day. Ultimate Tau Day (6&#x2F;28&#x2F;31) is only eight years away, so start preparing before it’s too late.</p>
+<p>Part of the beauty of Tau (τ) is that it has a life outside of being the ratio of a circle’s circumference to its radius. π has been featured in too many blockbuster equations and gets recognized everywhere. While τ is a lesser known celebrity, it can explore other fields, like particle physics and neuroscience and programming languages.</p>
+<p>Pi and Tau day are wonderful, but they’re not alone. Mathematically wonderful dates are everywhere. Other than just being Tau Day, the numbers in today’s date (6&#x2F;28&#x2F;23) provide a beautiful equation—</p>
+<p>$$\Gamma(6) &#x3D; (28 - 23)!$$</p>
+<p>—with ! denoting factorial, but also excitement because this is exciting. Tomorrow gives us an even simpler equation:</p>
+<p>$$6 &#x3D; 29 - 23$$</p>
+<p>And yesterday worked out quite nicely as well:</p>
+<p>$$6 &#x3D; \Gamma(27 - 23)$$</p>
+<p>For years, I’ve played this little game with the date, trying to insert non-digit symbols around and between the numbers, creating a valid equation while preserving their order from left to right. I recommend you try it too, it’s a nice way to spend a few minutes. Today, I built a toy programming language (thanks τ) whose programs are valid date equations. Then I wrote a script that searched through a finite space of potential programs to find valid ones for the given date. It generated the solutions for the dates I just listed.</p>
+<p>After playing this game for years, I’ve realized that finding an equation for the date is always possible. In fact, there are universal solutions, though they’re not always very exciting. For example, by taking advantage of properties of the sine function:</p>
+<p>$$ \forall m, d, y \in \mathbb{N}, \sin((m + d)\tau) &#x3D; \sin(y\tau) $$</p>
+<p>Strangely, celebrating τ allows us to celebrate other days of the year rather mathematically. Yes, τ is a superstar, but it allows us to celebrate others through its mere presence. </p>
+<p>The Tau Manifesto was written in 2010, spreading the voices of those who carried τ on their backs for years in relative silence. While the Tau Day community has certainly come a far way since then, τ is far from the spotlight it deserves. Until that moment, celebrate each day mathematically. This is just the beginning.</p>
 <hr>
 <h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ol>
-<li><a href="https://doi.org/10.1177/030631296026003005">A Sociological Study of the Official History of the Perceptrons Controversy</a></li>
-<li><a href="https://archive.org/details/perceptronsintro00mins">Perceptrons. Minsky and Papert.</a></li>
-<li><a href="https://news.cornell.edu/stories/2019/09/professors-perceptron-paved-way-ai-60-years-too-soon">Professor’s Perceptron Paved the Way for AI – 60 Years Too Soon</a></li>
-<li><a href="https://commoncrawl.org/">CommonCrawl</a></li>
-<li><a href="https://laion.ai/blog/laion-5b/">LAION-5B</a></li>
-<li><a href="https://twitter.com/KeatonPatti/status/1161284670601990146">AI Batman Script from 2019</a></li>
+<li><a href="https://tauday.com/">The Official Tau Day Website</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Tau_(particle)">The Tau Particle</a></li>
+<li><a href="https://www.alz.org/media/Documents/alzheimers-dementia-tau-ts.pdf">Tau in Alzheimer’s Research</a></li>
 </ol>
 ]]></content>
   </entry>
@@ -1014,6 +1056,23 @@
 ]]></content>
   </entry>
   <entry>
+    <title>The End of Pi</title>
+    <url>/the-end-of-pi/</url>
+    <content><![CDATA[<p>I’m fed up with you, π. I get it, you’re the ratio of the circumference to the diameter, good for you. But that isn’t enough for you, is it? No, you need to make sure <strong>everyone</strong> knows exactly who you are. You needed a day in your honor and competitions just for you. Was memorizing 100,000 of your digits not enough? No, of course not. It will never be enough. You are never ending.</p>
+<p>If human memorization isn’t enough, surely calculating trillions of digits should suffice. Is 663 terabytes enough space for you? Is 864 GB of RAM enough memory for you? Is nearly half a year of continuous computing enough time for you? Calculating digits of you has cost humans thousands of computing hours on the world’s best cloud servers, and I don’t blame them. They, like everyone else, have become sucked into this never-ending cycle of discovering more, learning more, doing more for you.</p>
+<p>You know what I think, π? I don’t think this is actually what you want. Clearly, there is a hole in you, a circular void, but these fruitless attempts at getting closer to the end aren’t what you truly desire. Everyone knows 3.14, and a lot of people know 3.1415, but how many people care that the next digit is 9? Even for those that do, they will still say 3.1415, and I’m sure that stings. Rather than appreciate a nice approximation and round to 3.1416, your loving followers are blinded by your never-ending being. Every digit we calculate gives us exponentially less information. All the while, we ignore the beauty in front of us. How many can say they have truly appreciated the 9 in the fifth decimal place of your expansion?</p>
+<p>Every approximation we can fathom is finite. They will all be finite because your decimal expansion contains more information than we could store in every atom of the universe. Rather than fail to attempt to appreciate your unending presence, we should enjoy the finite. Bask in the glory of the approximations and reflect on how even good things can end. Round to the fourth decimal place rather than forever waiting for the fifth. Maybe then, we can finally see the end of π.</p>
+<hr>
+<h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ol>
+<li><a href="https://en.wikipedia.org/wiki/Chronology_of_computation_of_%CF%80">Chronology of Computation of π</a></li>
+<li><a href="http://www.numberworld.org/y-cruncher/">y-cruncher for computing π</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Emma_Haruka_Iwao">Emma Haruka Iwao, Current Record Holder for Computing Digits</a></li>
+<li><a href="https://www.theguardian.com/science/alexs-adventures-in-numberland/2015/mar/13/pi-day-2015-memory-memorisation-world-record-japanese-akira-haraguchi">Akira Haraguchi Memorized +100k digits</a></li>
+<li><a href="https://blog.timothymullican.com/calculating-pi-my-attempt-breaking-pi-record">Timothy Mullican, Prev Record Holder for Computing Digits</a></li>
+</ol>
+]]></content>
+  </entry>
+  <entry>
     <title>The Current Paradigm of Origami</title>
     <url>/the-current-paradigm-of-origami/</url>
     <content><![CDATA[<p>Throughout the centuries, science has undergone drastic revolutions. Time and time again, we have re-evaluated basic concepts, fundamental beliefs, and ultimately what constitutes good science. Thomas Kuhn first presented the idea of a paradigm shift—a transition between two ways of thinking—in 1962. As a philosopher of science, Kuhn could turn to history to see paradigm shifts unfold, but contemporary scientists don’t have the luxury of seeing paradigm shifts before they come. Instead, they must wait until the paradigm shift is over to witness the changes, and even then, they may not see everything that has truly happened.</p>
@@ -1033,23 +1092,6 @@
 <h2 id="Expectations-of-Complexity"><a href="#Expectations-of-Complexity" class="headerlink" title="Expectations of Complexity"></a>Expectations of Complexity</h2><p>Complexity is harder to describe in objective terms, but as a broad statement, more folders are capable of doing complex origami. The growth of internet communities and online resources has made it easier for origamists to get more into complex origami. As an example, there is a growing sentiment that the Ryujin 3.5 is potentially accessible to extremely skilled folders, rather than just flat-out impossible. To be clear, we still consider Ryujin 3.5 an incredible feat of skill, but folding it doesn’t make you stand out among the best.</p>
 <h2 id="Community"><a href="#Community" class="headerlink" title="Community"></a>Community</h2><p>With the rise of internet communities, origami has become less solitary, though it is still primarily an independent practice. Collaborative design and folding aren’t very common, as every finished model typically only has one designer and one folder. Still, origamists talk and share ideas on various social platforms, and universities and big cities typically have origami groups that meet in person.</p>
 <h2 id="There’s-Probably-More…"><a href="#There’s-Probably-More…" class="headerlink" title="There’s Probably More…"></a>There’s Probably More…</h2><p>…but I don’t know what you need to know. Maybe I’ll add some updates, but I still want to focus on the fundamental ideals and overarching themes of origami today, rather than delve into specific details.</p>
-]]></content>
-  </entry>
-  <entry>
-    <title>The End of Pi</title>
-    <url>/the-end-of-pi/</url>
-    <content><![CDATA[<p>I’m fed up with you, π. I get it, you’re the ratio of the circumference to the diameter, good for you. But that isn’t enough for you, is it? No, you need to make sure <strong>everyone</strong> knows exactly who you are. You needed a day in your honor and competitions just for you. Was memorizing 100,000 of your digits not enough? No, of course not. It will never be enough. You are never ending.</p>
-<p>If human memorization isn’t enough, surely calculating trillions of digits should suffice. Is 663 terabytes enough space for you? Is 864 GB of RAM enough memory for you? Is nearly half a year of continuous computing enough time for you? Calculating digits of you has cost humans thousands of computing hours on the world’s best cloud servers, and I don’t blame them. They, like everyone else, have become sucked into this never-ending cycle of discovering more, learning more, doing more for you.</p>
-<p>You know what I think, π? I don’t think this is actually what you want. Clearly, there is a hole in you, a circular void, but these fruitless attempts at getting closer to the end aren’t what you truly desire. Everyone knows 3.14, and a lot of people know 3.1415, but how many people care that the next digit is 9? Even for those that do, they will still say 3.1415, and I’m sure that stings. Rather than appreciate a nice approximation and round to 3.1416, your loving followers are blinded by your never-ending being. Every digit we calculate gives us exponentially less information. All the while, we ignore the beauty in front of us. How many can say they have truly appreciated the 9 in the fifth decimal place of your expansion?</p>
-<p>Every approximation we can fathom is finite. They will all be finite because your decimal expansion contains more information than we could store in every atom of the universe. Rather than fail to attempt to appreciate your unending presence, we should enjoy the finite. Bask in the glory of the approximations and reflect on how even good things can end. Round to the fourth decimal place rather than forever waiting for the fifth. Maybe then, we can finally see the end of π.</p>
-<hr>
-<h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ol>
-<li><a href="https://en.wikipedia.org/wiki/Chronology_of_computation_of_%CF%80">Chronology of Computation of π</a></li>
-<li><a href="http://www.numberworld.org/y-cruncher/">y-cruncher for computing π</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Emma_Haruka_Iwao">Emma Haruka Iwao, Current Record Holder for Computing Digits</a></li>
-<li><a href="https://www.theguardian.com/science/alexs-adventures-in-numberland/2015/mar/13/pi-day-2015-memory-memorisation-world-record-japanese-akira-haraguchi">Akira Haraguchi Memorized +100k digits</a></li>
-<li><a href="https://blog.timothymullican.com/calculating-pi-my-attempt-breaking-pi-record">Timothy Mullican, Prev Record Holder for Computing Digits</a></li>
-</ol>
 ]]></content>
   </entry>
   <entry>
@@ -1285,18 +1327,6 @@
 ]]></content>
   </entry>
   <entry>
-    <title>What is Gibberish?</title>
-    <url>/what-is-gibberish/</url>
-    <content><![CDATA[<p>Gibberish. Jibber-jabber. Gobbledygook. They’re all words for the same idea: nonsense speech. When someone is speaking gibberish, they make absolutely no sense. You can’t derive any meaning from their words. Despite the excessive amount of language being used, whether actual words or just random syllables, there is no information being conveyed. Even the message, “there is no information being conveyed” is not conveyed through gibberish. Gibberish is meaningless, and I want to know how.</p>
-<p>How is it possible to communicate nothing through your use of language? Even in the most convoluted scenarios, sequences of words always seem to carry some meaning. Take, for example, Shakespeare’s sonnets. For so many teenagers sitting in English class, Shakespeare’s sonnets are nothing but 400-year-old word vomit, yet those sonnets have shared beautiful stories to countless ears. Despite his penchant for inventing new words, Shakespeare wasn’t producing gibberish. Far from it, his works are literary masterpieces. Either that or someone is paying a lot of money to force teenagers to read his works for no reason.</p>
-<p>I don’t think gibberish is characterized by how outlandish the speech seems. Like with Shakespeare, most speech is only meaningful for the intended audience. Normal people listening to legal or medical jargon would have no idea what it means, yet legal and medical jargon are entirely meaningful. It seems that in order to produce meaningless speech, you must produce speech that has no possible audience. If there is no one that can extract meaning from the speech, then it must be meaningless.</p>
-<p>Consider the other side of this. Any speech that has an audience is meaningful, and given how much has been said over so many centuries, meaningful speech must have some relatively high probability of aligning with things that have already been said. By the contrapositive, any speech that has a low probability of aligning with things that have been said before is likely meaningless. </p>
-<p>From a practical perspective, producing improbable speech may seem like a difficult task, but with the advent of LLMs, this becomes much easier. Modern LLMs trained on the majority of the readable internet are essentially fancy probability distributions of existing text. Unfortunately, asking ChatGPT to produce improbable speech wouldn’t work, because it must produce high-probability speech by default. Just to be sure, I tested this, and it basically came up with a list of silly nouns, mostly animals, food, and space stuff, but that’s not meaningless enough, since it’s a vaguely coherent list. Instead, I modified the behavior of GPT-2 to produce low-probability text while still sticking to English, kinda. I started with the seed, “The following is gibberish:”. Here’s what it came up with.</p>
-<p>The following is gibberish:iability interior markup markup Starship markup Starshipnever Afghansaviouraviour pastenever proclamation Netherlands circumstance Starship Computingaviour bould Jackie Lady Lady Lady daytime Lady Lady pulmonary drill Harbaugh forcefully partnering dissu disciplined contradict Harbaugh dissuclaimed 323 Afghanskeyes Narr interior Weather Cookies Cookies Cookies Cookies Cookies Cookies</p>
-<p>I still have to iron out some kinks, but I do think this is a promising start. My working theorem on meaningless speech will hopefully lead to the completion of GibberishGPT, because the world clearly needs more useless LLMs.</p>
-]]></content>
-  </entry>
-  <entry>
     <title>What My Math Degree Taught Me About Life</title>
     <url>/what-my-math-degree-taught-me-about-life/</url>
     <content><![CDATA[<p>I feel like most people don’t really understand what math students learn in university. Most people tend to assume we get really good at solving for 𝑥, and that we know all the calculus rules, and that we can tell you what an 18% tip would be for a $34.50 bill off the top of our heads. The truth is that most of us don’t learn any of this during the course of our degree, or if we do, it’s only in the first year, and then never again. Disclaimer: this is from the perspective of a pure mathematician.</p>
@@ -1310,6 +1340,18 @@
 <p>You could try to avoid this contradiction by changing the axiom, but that only leads to more problems. If you start assuming you’re always ahead, then your brain will fight you, because that’s impossible—how could you always be ahead? If you take this to its logical conclusion, you start wondering why you would be ahead, and what exactly you’re ahead of, and if anyone could ever actually be ahead. The axiom of being ahead might be more useful than the axiom of being behind, but the best option is likely to not be anywhere.</p>
 <p>Changing axioms isn’t the same as maintaining delusional beliefs or lying to yourself. Axioms are only as useful as their conclusions, and if you keep concluding contradictions, then the axioms are useless. Assuming that you don’t need your medication when you clearly do means your body is forced to pay the price of your contradiction. Your axioms should still be true, but that doesn’t mean they have to be limiting. </p>
 <p>This is what a math degree teaches you. Everything—even life itself—is a set of axioms and their conclusions. The work of a mathematician is to understand a set of axioms, to expand the system of logic, and to reach conclusions no one has grasped before. Looking back on what I learned at university, I am reminded of a piece of humorous wisdom I received in my youth, “Life is like a math textbook, full of problems.” While I agree that life is like a math textbook, I disagree that this is because they are full of problems. Instead, as a system of axioms and conclusions, life is like a math textbook: full of strange assumptions, confusing logic, and wild possibilities. <p style="text-align: right;">□</p></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>What is Gibberish?</title>
+    <url>/what-is-gibberish/</url>
+    <content><![CDATA[<p>Gibberish. Jibber-jabber. Gobbledygook. They’re all words for the same idea: nonsense speech. When someone is speaking gibberish, they make absolutely no sense. You can’t derive any meaning from their words. Despite the excessive amount of language being used, whether actual words or just random syllables, there is no information being conveyed. Even the message, “there is no information being conveyed” is not conveyed through gibberish. Gibberish is meaningless, and I want to know how.</p>
+<p>How is it possible to communicate nothing through your use of language? Even in the most convoluted scenarios, sequences of words always seem to carry some meaning. Take, for example, Shakespeare’s sonnets. For so many teenagers sitting in English class, Shakespeare’s sonnets are nothing but 400-year-old word vomit, yet those sonnets have shared beautiful stories to countless ears. Despite his penchant for inventing new words, Shakespeare wasn’t producing gibberish. Far from it, his works are literary masterpieces. Either that or someone is paying a lot of money to force teenagers to read his works for no reason.</p>
+<p>I don’t think gibberish is characterized by how outlandish the speech seems. Like with Shakespeare, most speech is only meaningful for the intended audience. Normal people listening to legal or medical jargon would have no idea what it means, yet legal and medical jargon are entirely meaningful. It seems that in order to produce meaningless speech, you must produce speech that has no possible audience. If there is no one that can extract meaning from the speech, then it must be meaningless.</p>
+<p>Consider the other side of this. Any speech that has an audience is meaningful, and given how much has been said over so many centuries, meaningful speech must have some relatively high probability of aligning with things that have already been said. By the contrapositive, any speech that has a low probability of aligning with things that have been said before is likely meaningless. </p>
+<p>From a practical perspective, producing improbable speech may seem like a difficult task, but with the advent of LLMs, this becomes much easier. Modern LLMs trained on the majority of the readable internet are essentially fancy probability distributions of existing text. Unfortunately, asking ChatGPT to produce improbable speech wouldn’t work, because it must produce high-probability speech by default. Just to be sure, I tested this, and it basically came up with a list of silly nouns, mostly animals, food, and space stuff, but that’s not meaningless enough, since it’s a vaguely coherent list. Instead, I modified the behavior of GPT-2 to produce low-probability text while still sticking to English, kinda. I started with the seed, “The following is gibberish:”. Here’s what it came up with.</p>
+<p>The following is gibberish:iability interior markup markup Starship markup Starshipnever Afghansaviouraviour pastenever proclamation Netherlands circumstance Starship Computingaviour bould Jackie Lady Lady Lady daytime Lady Lady pulmonary drill Harbaugh forcefully partnering dissu disciplined contradict Harbaugh dissuclaimed 323 Afghanskeyes Narr interior Weather Cookies Cookies Cookies Cookies Cookies Cookies</p>
+<p>I still have to iron out some kinks, but I do think this is a promising start. My working theorem on meaningless speech will hopefully lead to the completion of GibberishGPT, because the world clearly needs more useless LLMs.</p>
 ]]></content>
   </entry>
   <entry>
@@ -1337,78 +1379,6 @@
 ]]></content>
   </entry>
   <entry>
-    <title>Ronik Bhaskar</title>
-    <url>/about/index.html</url>
-    <content><![CDATA[<style>
-.profile-image-ronik {
-    width: 100%!important;
-    margin: 1rem;
-    margin-top: 0;
-    margin-left: 0;
-    float: left!important;
-}
-.side-bar-about {
-    width: min(max(25%,6rem),100%)!important;
-    /* height: 100dvh; */
-    padding: 1.5rem;
-    padding-top: 0;
-    padding-left: 0;
-    margin: 1rem;
-    margin-top: 0;
-    margin-left: 0;
-    float: left!important;
-}
-</style>
-
-<div class="side-bar-about">
-<img src="ronik_2.jpg" class="profile-image-ronik" alt="Ronik looking up at a plant."> 
-<h4>Quick Links:</h4>
-<div>
-    <a href="/publications/">Publications</a> </br>
-    <a href="https://scholar.google.com/citations?user=dqTwtegAAAAJ&hl=en&oi=ao">Google Scholar</a> </br>
-    <a href="/about/CV.pdf">CV</a> </br>
-    <a href="https://github.com/ronikbhaskar">GitHub</a>
-</div>
-</div>
-
-<p>I am a 1st year PhD student at the University of Chicago. I work in the <a href="https://sandlab.cs.uchicago.edu/index.html">SAND Lab</a> where I’m fortunate to be co-advised by Prof. <a href="http://people.cs.uchicago.edu/~htzheng/">Heather Zheng</a> and Prof. <a href="http://people.cs.uchicago.edu/~ravenben/">Ben Y. Zhao</a>. </p>
-<p>I study the security and privacy issues that arise as machine learning systems become more ubiquitous, and I leverage these insights to develop tools to empower individuals against unethical AI practices.</p>
-<!-- I'm broadly interested in security and privacy with a recent focus on adversarial machine learning. If you're a digital artist, or you're interested in generative AI, I recommend checking out [Glaze](https://glaze.cs.uchicago.edu). I'm proud to work on this project and hopefully similar ones in the future. -->
-
-<!-- While I am relatively new to research, I have made some observations. Computer security research exists in a delicate ethical space. Every discovered vulnerability is an opportunity for attack, but it is also a potential warning. Every defense offers protection to some group, but it also risks unintended side effects and consequences for future technology. As I continue my academic journey, I hope to learn how to meaningfully consider the implications of my work, regardless of the field I research. -->
-
-<h2 id="Recent-Publications"><a href="#Recent-Publications" class="headerlink" title="Recent Publications"></a>Recent Publications</h2><p>S. Wu, <strong>R, Bhaskar</strong>, A. Ha, S. Shan, H. Zheng, BY. Zhao. <a href="https://arxiv.org/abs/2506.21874">On the Feasibility of Poisoning Text-to-Image AI Models via Adversarial Mislabeling</a><br><em>Conference on Computer and Communications Security (CCS), 2025.</em></p>
-<!-- ```bash
-# My email:
-echo "cmJoYXNrYXJAdWNoaWNhZ28uZWR1Cg==" | base64 --decode
-``` -->
-
-<!-- I was never the creative one or the artistic one. I was always "that guy that's good at math." -->
-
-<!-- Then COVID hit. -->
-
-<!-- In December of 2020, a welcoming group of friends adopted me into their Discord server. We joked about building more friends, but some part of me kept whispering, *Maybe that's not a bad idea.* So, that month, I built a working [discord bot](/projects/discord_bot). His name was Igor, and despite the lack of functionality, he was full of life and personality. The server members loved him like a pet.  -->
-
-
-<!-- A few months later, while chatting about the chaos of life with some filmmakers, they mentioned the butterfly effect. I asked about the origin of the phrase, and a few hours later, I found myself stumbling down a rabbit hole of differential equations and strange attractors. A week later, I recreated Lorenz's Butterfly Effect—the beginnings of the [math art](/projects/math-art) project. -->
-
-<!-- This continued incessantly. Someone would throw out a phrase or idea, and I would run with it. As I continued creating, I started finding my voice in code. Despite everything I made, it took me months to finally call myself creative, which would have been impossible on my own. My friends reminded me that I was more than test scores and good grades, and I hope they know how grateful I am. -->
-
-<!-- Without the people closest to me providing constant support and inspiration and critiques, I wouldn't still be creating. If that's you, thanks.  -->
-
-<!-- *Add to the [dialogue](/chat), and become part of my story.* -->]]></content>
-  </entry>
-  <entry>
-    <title>Publications</title>
-    <url>/publications/index.html</url>
-    <content><![CDATA[<p>Also see my: <a href="https://scholar.google.com/citations?user=dqTwtegAAAAJ&hl=en&oi=ao">Google Scholar</a></p>
-<h3 id="Refereed"><a href="#Refereed" class="headerlink" title="Refereed"></a>Refereed</h3><p><a href="https://arxiv.org/abs/2506.21874">On the Feasibility of Poisoning Text-to-Image AI Models via Adversarial Mislabeling</a><br>Stanley Wu, <strong>Ronik Bhaskar</strong>, Anna Yoo Jeong Ha, Shawn Shan, Haitao Zheng, Ben Y. Zhao<br><em>Conference on Computer and Communications Security (CCS), 2025.</em> </p>
-<p><a href="https://arxiv.org/abs/2402.03214">Organic or Diffused: Can We Distinguish Human Art from AI-generated Images?</a><br>Anna Yoo Jeong Ha*, Josephine Passananti*, <strong>Ronik Bhaskar</strong>, Shawn Shan, Reid Southen, Haitao Zheng, Ben Y. Zhao.<br><em>Conference on Computer and Communications Security (CCS), 2024.</em><br>☆ Distinguished Paper Award.</p>
-<p><a href="https://www.usenix.org/system/files/sec23winter-prepub-116-yang-zhuolin.pdf">Can Virtual Reality Protect Users from Keystroke Inference Attacks?</a><br>Zhuolin Yang, Zain Sarwar, Iris Hwang, <strong>Ronik Bhaskar</strong>, Ben Y. Zhao, Haitao Zheng.<br><em>USENIX Security Symposium, 2024.</em><br><a href="https://www.newscientist.com/article/2401929-ai-can-steal-passwords-in-virtual-reality-from-avatar-hand-motions/">Media Coverage</a><br><br></p>
-<h3 id="Recreational"><a href="#Recreational" class="headerlink" title="Recreational"></a>Recreational</h3><p><a href="/projects/PizzaLang.pdf">PizzaLang: A Language for Hungry Developers</a><br><strong>Ronik Bhaskar</strong>, Dawson Ren.<br><em>Proc. of SIGBOVIK, 2023.</em></p>
-]]></content>
-  </entry>
-  <entry>
     <title>Anti-ELIZA</title>
     <url>/projects/anti-eliza.html</url>
     <content><![CDATA[<p><em>Conditioning away the human level of trust imparted to AI systems. Inspired by ELIZA. <a href="/anti-eliza/">Test it out.</a></em></p>
@@ -1426,6 +1396,21 @@ echo "cmJoYXNrYXJAdWNoaWNhZ28uZWR1Cg==" | base64 --decode
 <li><a href="https://arxiv.org/abs/2310.20216">ELIZA Beat GPT-3.5 in a Turing Test</a></li>
 </ol>
 <h2 id="The-ELIZA-Algorithm"><a href="#The-ELIZA-Algorithm" class="headerlink" title="The ELIZA Algorithm"></a>The ELIZA Algorithm</h2><figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">def</span> <span class="title function_">respond</span>(<span class="params">self, statement</span>):</span><br><span class="line">    <span class="keyword">for</span> pattern, responses <span class="keyword">in</span> self.patterns:</span><br><span class="line">        <span class="keyword">match</span> = re.search(pattern, statement.strip(<span class="string">&quot; .!?&quot;</span>), re.IGNORECASE)</span><br><span class="line">        <span class="keyword">if</span> <span class="keyword">match</span>:</span><br><span class="line">            response = random.choice(responses).<span class="built_in">format</span>(*<span class="keyword">match</span>.groups())</span><br><span class="line">            <span class="keyword">return</span> response</span><br><span class="line">    <span class="keyword">return</span> self.default</span><br></pre></td></tr></table></figure>]]></content>
+  </entry>
+  <entry>
+    <title>Full Stack Chat App</title>
+    <url>/projects/chat.html</url>
+    <content><![CDATA[<p>UPDATE: This project is very broken. It was fun while it lasted.</p>
+<p>Chat with me <a href="/chat">here</a>. (You’ll know it’s me because my name is <strong>bold</strong>.)</p>
+<h2 id="Designing-the-UI"><a href="#Designing-the-UI" class="headerlink" title="Designing the UI"></a>Designing the UI</h2><p>I don’t create in a vacuum. The people around me drastically influence my creations. Our conversations feel like dialogue in a script. There’s a purpose to everything being said. It’s driving the plot somewhere, and I would never reach the end without their help. </p>
+<p>My chat app doesn’t look like Messages or WhatsApp or Slack or Discord because I don’t see it as a chat app. It’s a continuation of the dialogue happening all around me, which is why <strong>I built the chat app to look like a movie script.</strong> The header has an act number, the location is specified, we get a general description, and the rest that follows is the dialogue.</p>
+<h2 id="Engineering-the-App"><a href="#Engineering-the-App" class="headerlink" title="Engineering the App"></a>Engineering the App</h2><p>I’m incredibly grateful for the power and flexibility of GitHub pages (as you can tell by the URL). That being said, the documentation says they only support static sites, or so they claim. Depending on how much functionality you want from the site, you can do user authentication and even have hooks checking for database updates, updating the UI in real-time. </p>
+<p><strong>For the backend, I used Google Firebase.</strong> Their free tier, the Spark plan, is incredibly powerful, and if you’re getting enough traffic to exceed its limits, you have the demand to monetize your product. I don’t expect heavy traffic, so the Spark plan is enough for me.</p>
+<p>Firebase allows for for Google Authentication, along with plenty of other auth providers. This makes it mildly more difficult to spam the site with fake accounts, and the authentication redirect keeps auth traffic away from GitHub. It’s a win-win.</p>
+<p><strong>For the frontend, I used React.</strong> This isn’t an incredibly intense, so vanilla JS was an option, but React’s libraries wrapping Firebase query snapshots made development much easier. </p>
+<p>There are tutorials and articles out there for building apps with React and Firebase, but relevant ones used Firebase v8 instead of v9, which transitions away from the namespacing. Luckily, Firebase’s documentation covers translating v8 into v9.</p>
+<hr>
+<p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
   </entry>
   <entry>
     <title>Discord Bot</title>
@@ -1454,21 +1439,6 @@ echo "cmJoYXNrYXJAdWNoaWNhZ28uZWR1Cg==" | base64 --decode
 <ul>
 <li>just @ mention Igor in your message and maybe you’ll get a response</li>
 </ul>
-<hr>
-<p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>Full Stack Chat App</title>
-    <url>/projects/chat.html</url>
-    <content><![CDATA[<p>UPDATE: This project is very broken. It was fun while it lasted.</p>
-<p>Chat with me <a href="/chat">here</a>. (You’ll know it’s me because my name is <strong>bold</strong>.)</p>
-<h2 id="Designing-the-UI"><a href="#Designing-the-UI" class="headerlink" title="Designing the UI"></a>Designing the UI</h2><p>I don’t create in a vacuum. The people around me drastically influence my creations. Our conversations feel like dialogue in a script. There’s a purpose to everything being said. It’s driving the plot somewhere, and I would never reach the end without their help. </p>
-<p>My chat app doesn’t look like Messages or WhatsApp or Slack or Discord because I don’t see it as a chat app. It’s a continuation of the dialogue happening all around me, which is why <strong>I built the chat app to look like a movie script.</strong> The header has an act number, the location is specified, we get a general description, and the rest that follows is the dialogue.</p>
-<h2 id="Engineering-the-App"><a href="#Engineering-the-App" class="headerlink" title="Engineering the App"></a>Engineering the App</h2><p>I’m incredibly grateful for the power and flexibility of GitHub pages (as you can tell by the URL). That being said, the documentation says they only support static sites, or so they claim. Depending on how much functionality you want from the site, you can do user authentication and even have hooks checking for database updates, updating the UI in real-time. </p>
-<p><strong>For the backend, I used Google Firebase.</strong> Their free tier, the Spark plan, is incredibly powerful, and if you’re getting enough traffic to exceed its limits, you have the demand to monetize your product. I don’t expect heavy traffic, so the Spark plan is enough for me.</p>
-<p>Firebase allows for for Google Authentication, along with plenty of other auth providers. This makes it mildly more difficult to spam the site with fake accounts, and the authentication redirect keeps auth traffic away from GitHub. It’s a win-win.</p>
-<p><strong>For the frontend, I used React.</strong> This isn’t an incredibly intense, so vanilla JS was an option, but React’s libraries wrapping Firebase query snapshots made development much easier. </p>
-<p>There are tutorials and articles out there for building apps with React and Firebase, but relevant ones used Firebase v8 instead of v9, which transitions away from the namespacing. Luckily, Firebase’s documentation covers translating v8 into v9.</p>
 <hr>
 <p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
   </entry>
@@ -1974,6 +1944,26 @@ echo "cmJoYXNrYXJAdWNoaWNhZ28uZWR1Cg==" | base64 --decode
 <p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
   </entry>
   <entry>
+    <title>A Compass That Can Take You Anywhere</title>
+    <url>/projects/locator.html</url>
+    <content><![CDATA[<p><em>Bringing back the fun and adventure of the journey. Link at the bottom of the article.</em></p>
+<h2 id="Map-Apps-aren’t-Maps"><a href="#Map-Apps-aren’t-Maps" class="headerlink" title="Map Apps aren’t Maps"></a>Map Apps aren’t Maps</h2><p>Finding my destination is too easy. Anytime I want to go anywhere, there are only two possibilities. Either I already know how to get there, or I use a map app. In no case am I likely to get lost or take a suboptimal route, and without those, there is no adventure in the journey. I’m simply following a fixed set of directions, either the ones I have memorized or the ones from my phone.</p>
+<p>This is mainly because map apps aren’t maps. With actual paper maps, you study the map. You locate yourself. You locate your own destination. You devise your own path with road names and landmarks, and inevitably, you get a little lost. </p>
+<p>With map apps, however, you do none of this. The app tells you where you are, where to go, and exactly how to get there. Every set of stairs, every bus number, every lane change, it’s all right there on the “map” on your phone. Sure, this method gets you to your destination, but it makes the journey harder to enjoy. Even if you’re going somewhere new, the “map” will tell you whether or not it’s open, where to enter, what the place is like. New places can’t surprise you, not really.</p>
+<h2 id="The-Case-for-Inefficiency"><a href="#The-Case-for-Inefficiency" class="headerlink" title="The Case for Inefficiency"></a>The Case for Inefficiency</h2><p>I understand there is a place and time for arriving promptly to your destination with perfect knowledge of where to go and what to do, but that shouldn’t have to be every time. If you’re going somewhere for fun, why not make the journey fun too? Take new routes, explore new places, be adventurous!</p>
+<p>Easier said than done. With almost no way to be lost, finding something new or unexpected during your journey isn’t common. When it does happen, it’s a treat, but that’s rare, and it shouldn’t be. There needs to be a way to navigate to new (or even old) places that makes the journey exciting while still getting you to your destination.</p>
+<h2 id="Introducing-the-Locator"><a href="#Introducing-the-Locator" class="headerlink" title="Introducing the Locator"></a>Introducing the Locator</h2><p>Inspired by the fake gadgets from Hollywood spy&#x2F;heist movies, I brought one to life. This Locator looks like a compass, but rather than pointing north, it points to your destination. It even tells you how far you are. These are the only two features. If you actually want to get to your destination, you need to figure out how. </p>
+<p>In theory, a locator device should easily get you straight to your destination, right? I mean, it’s pointing right at it. Unfortunately, while the Locator points right at your destination, roads and paths do not. While using the Locator, you have to contend with wide buildings, indirect roads, and difficult topography, all getting in your way. Simply going where the arrow points doesn’t work.</p>
+<p>And, once you’re at your destination, you need to figure out exactly what that is. Is it the shop over here? Maybe this spot here? In the process of figuring out where to go, you might find more places to explore along the way.</p>
+<h2 id="Sharing-the-Adventure"><a href="#Sharing-the-Adventure" class="headerlink" title="Sharing the Adventure"></a>Sharing the Adventure</h2><p>The adventures you have on journeys, big or small, are the ones worth sharing. Decipher a Locator with an accomplice, and watch as they pull you in directions you might have never considered. Or just give someone else a solo challenge by sending them a Locator and asking them to meet at the destination.</p>
+<p>All you need to do is use the <a href="/locator/creator/">Locator Creator</a> to make a new Locator with a new destination, and copy-paste the link into your phone’s browser. Once it’s up and running, it’ll take you wherever you want to go. The only question left is, where to next?</p>
+<hr>
+<h2 id="Similar-Projects"><a href="#Similar-Projects" class="headerlink" title="Similar Projects"></a>Similar Projects</h2><ol>
+<li><a href="/chatgpt-mini-projects/daylight/">a clock that only tells you how many hours of daylight you have left (meant for mobile)</a></li>
+</ol>
+]]></content>
+  </entry>
+  <entry>
     <title>Literature DB (WIP)</title>
     <url>/projects/literature-db.html</url>
     <content><![CDATA[<p>The code can be found <a href="https://github.com/ronikbhaskar/literature-db">here</a>.</p>
@@ -2001,26 +1991,6 @@ echo "cmJoYXNrYXJAdWNoaWNhZ28uZWR1Cg==" | base64 --decode
 <figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="meta">&gt;&gt;&gt; </span>render_doc_id(doc_id)</span><br><span class="line"><span class="meta">&gt;&gt;&gt; </span>render(entry) <span class="comment"># entry must be of the Entry class, not Document</span></span><br></pre></td></tr></table></figure>
 
 <p>The function will print the location of the saved <code>index.html</code>, though it can also be found in the <code>litdb</code> directory.</p>
-]]></content>
-  </entry>
-  <entry>
-    <title>A Compass That Can Take You Anywhere</title>
-    <url>/projects/locator.html</url>
-    <content><![CDATA[<p><em>Bringing back the fun and adventure of the journey. Link at the bottom of the article.</em></p>
-<h2 id="Map-Apps-aren’t-Maps"><a href="#Map-Apps-aren’t-Maps" class="headerlink" title="Map Apps aren’t Maps"></a>Map Apps aren’t Maps</h2><p>Finding my destination is too easy. Anytime I want to go anywhere, there are only two possibilities. Either I already know how to get there, or I use a map app. In no case am I likely to get lost or take a suboptimal route, and without those, there is no adventure in the journey. I’m simply following a fixed set of directions, either the ones I have memorized or the ones from my phone.</p>
-<p>This is mainly because map apps aren’t maps. With actual paper maps, you study the map. You locate yourself. You locate your own destination. You devise your own path with road names and landmarks, and inevitably, you get a little lost. </p>
-<p>With map apps, however, you do none of this. The app tells you where you are, where to go, and exactly how to get there. Every set of stairs, every bus number, every lane change, it’s all right there on the “map” on your phone. Sure, this method gets you to your destination, but it makes the journey harder to enjoy. Even if you’re going somewhere new, the “map” will tell you whether or not it’s open, where to enter, what the place is like. New places can’t surprise you, not really.</p>
-<h2 id="The-Case-for-Inefficiency"><a href="#The-Case-for-Inefficiency" class="headerlink" title="The Case for Inefficiency"></a>The Case for Inefficiency</h2><p>I understand there is a place and time for arriving promptly to your destination with perfect knowledge of where to go and what to do, but that shouldn’t have to be every time. If you’re going somewhere for fun, why not make the journey fun too? Take new routes, explore new places, be adventurous!</p>
-<p>Easier said than done. With almost no way to be lost, finding something new or unexpected during your journey isn’t common. When it does happen, it’s a treat, but that’s rare, and it shouldn’t be. There needs to be a way to navigate to new (or even old) places that makes the journey exciting while still getting you to your destination.</p>
-<h2 id="Introducing-the-Locator"><a href="#Introducing-the-Locator" class="headerlink" title="Introducing the Locator"></a>Introducing the Locator</h2><p>Inspired by the fake gadgets from Hollywood spy&#x2F;heist movies, I brought one to life. This Locator looks like a compass, but rather than pointing north, it points to your destination. It even tells you how far you are. These are the only two features. If you actually want to get to your destination, you need to figure out how. </p>
-<p>In theory, a locator device should easily get you straight to your destination, right? I mean, it’s pointing right at it. Unfortunately, while the Locator points right at your destination, roads and paths do not. While using the Locator, you have to contend with wide buildings, indirect roads, and difficult topography, all getting in your way. Simply going where the arrow points doesn’t work.</p>
-<p>And, once you’re at your destination, you need to figure out exactly what that is. Is it the shop over here? Maybe this spot here? In the process of figuring out where to go, you might find more places to explore along the way.</p>
-<h2 id="Sharing-the-Adventure"><a href="#Sharing-the-Adventure" class="headerlink" title="Sharing the Adventure"></a>Sharing the Adventure</h2><p>The adventures you have on journeys, big or small, are the ones worth sharing. Decipher a Locator with an accomplice, and watch as they pull you in directions you might have never considered. Or just give someone else a solo challenge by sending them a Locator and asking them to meet at the destination.</p>
-<p>All you need to do is use the <a href="/locator/creator/">Locator Creator</a> to make a new Locator with a new destination, and copy-paste the link into your phone’s browser. Once it’s up and running, it’ll take you wherever you want to go. The only question left is, where to next?</p>
-<hr>
-<h2 id="Similar-Projects"><a href="#Similar-Projects" class="headerlink" title="Similar Projects"></a>Similar Projects</h2><ol>
-<li><a href="/chatgpt-mini-projects/daylight/">a clock that only tells you how many hours of daylight you have left (meant for mobile)</a></li>
-</ol>
 ]]></content>
   </entry>
   <entry>
@@ -2194,6 +2164,16 @@ table, th {
 </ul>
 <hr>
 <p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>Publications</title>
+    <url>/publications/index.html</url>
+    <content><![CDATA[<p>Also see my: <a href="https://scholar.google.com/citations?user=dqTwtegAAAAJ&hl=en&oi=ao">Google Scholar</a></p>
+<h3 id="Refereed"><a href="#Refereed" class="headerlink" title="Refereed"></a>Refereed</h3><p><a href="https://arxiv.org/abs/2506.21874">On the Feasibility of Poisoning Text-to-Image AI Models via Adversarial Mislabeling</a><br>Stanley Wu, <strong>Ronik Bhaskar</strong>, Anna Yoo Jeong Ha, Shawn Shan, Haitao Zheng, Ben Y. Zhao<br><em>Conference on Computer and Communications Security (CCS), 2025.</em> </p>
+<p><a href="https://arxiv.org/abs/2402.03214">Organic or Diffused: Can We Distinguish Human Art from AI-generated Images?</a><br>Anna Yoo Jeong Ha*, Josephine Passananti*, <strong>Ronik Bhaskar</strong>, Shawn Shan, Reid Southen, Haitao Zheng, Ben Y. Zhao.<br><em>Conference on Computer and Communications Security (CCS), 2024.</em><br>☆ Distinguished Paper Award.</p>
+<p><a href="https://www.usenix.org/system/files/sec23winter-prepub-116-yang-zhuolin.pdf">Can Virtual Reality Protect Users from Keystroke Inference Attacks?</a><br>Zhuolin Yang, Zain Sarwar, Iris Hwang, <strong>Ronik Bhaskar</strong>, Ben Y. Zhao, Haitao Zheng.<br><em>USENIX Security Symposium, 2024.</em><br><a href="https://www.newscientist.com/article/2401929-ai-can-steal-passwords-in-virtual-reality-from-avatar-hand-motions/">Media Coverage</a><br><br></p>
+<h3 id="Recreational"><a href="#Recreational" class="headerlink" title="Recreational"></a>Recreational</h3><p><a href="/projects/PizzaLang.pdf">PizzaLang: A Language for Hungry Developers</a><br><strong>Ronik Bhaskar</strong>, Dawson Ren.<br><em>Proc. of SIGBOVIK, 2023.</em></p>
+]]></content>
   </entry>
   <entry>
     <title>Gallery Ext</title>
@@ -2669,5 +2649,67 @@ table, th {
 
 <p>These are just my most recent works. Older ones can be found <a href="/gallery/ext">here</a>.</p>
 ]]></content>
+  </entry>
+  <entry>
+    <title>Ronik Bhaskar</title>
+    <url>/about/index.html</url>
+    <content><![CDATA[<style>
+.profile-image-ronik {
+    width: 100%!important;
+    margin: 1rem;
+    margin-top: 0;
+    margin-left: 0;
+    float: left!important;
+}
+.side-bar-about {
+    width: min(max(25%,6rem),100%)!important;
+    /* height: 100dvh; */
+    padding: 1.5rem;
+    padding-top: 0;
+    padding-left: 0;
+    margin: 1rem;
+    margin-top: 0;
+    margin-left: 0;
+    float: left!important;
+}
+</style>
+
+<div class="side-bar-about">
+<img src="ronik_2.jpg" class="profile-image-ronik" alt="Ronik looking up at a plant."> 
+<h4>Quick Links:</h4>
+<div>
+    <a href="/publications/">Publications</a> </br>
+    <a href="https://scholar.google.com/citations?user=dqTwtegAAAAJ&hl=en&oi=ao">Google Scholar</a> </br>
+    <a href="/about/CV.pdf">CV</a> </br>
+    <a href="https://github.com/ronikbhaskar">GitHub</a>
+</div>
+</div>
+
+<p>I am a 1st year PhD student at the University of Chicago. I work in the <a href="https://sandlab.cs.uchicago.edu/index.html">SAND Lab</a> where I’m fortunate to be co-advised by Prof. <a href="http://people.cs.uchicago.edu/~htzheng/">Heather Zheng</a> and Prof. <a href="http://people.cs.uchicago.edu/~ravenben/">Ben Y. Zhao</a>. </p>
+<p>I study the security and privacy issues that arise as machine learning systems become more ubiquitous, and I leverage these insights to develop tools to empower individuals against unethical AI practices.</p>
+<!-- I'm broadly interested in security and privacy with a recent focus on adversarial machine learning. If you're a digital artist, or you're interested in generative AI, I recommend checking out [Glaze](https://glaze.cs.uchicago.edu). I'm proud to work on this project and hopefully similar ones in the future. -->
+
+<!-- While I am relatively new to research, I have made some observations. Computer security research exists in a delicate ethical space. Every discovered vulnerability is an opportunity for attack, but it is also a potential warning. Every defense offers protection to some group, but it also risks unintended side effects and consequences for future technology. As I continue my academic journey, I hope to learn how to meaningfully consider the implications of my work, regardless of the field I research. -->
+
+<h2 id="Recent-Publications"><a href="#Recent-Publications" class="headerlink" title="Recent Publications"></a>Recent Publications</h2><p>S. Wu, <strong>R, Bhaskar</strong>, A. Ha, S. Shan, H. Zheng, BY. Zhao. <a href="https://arxiv.org/abs/2506.21874">On the Feasibility of Poisoning Text-to-Image AI Models via Adversarial Mislabeling</a><br><em>Conference on Computer and Communications Security (CCS), 2025.</em></p>
+<!-- ```bash
+# My email:
+echo "cmJoYXNrYXJAdWNoaWNhZ28uZWR1Cg==" | base64 --decode
+``` -->
+
+<!-- I was never the creative one or the artistic one. I was always "that guy that's good at math." -->
+
+<!-- Then COVID hit. -->
+
+<!-- In December of 2020, a welcoming group of friends adopted me into their Discord server. We joked about building more friends, but some part of me kept whispering, *Maybe that's not a bad idea.* So, that month, I built a working [discord bot](/projects/discord_bot). His name was Igor, and despite the lack of functionality, he was full of life and personality. The server members loved him like a pet.  -->
+
+
+<!-- A few months later, while chatting about the chaos of life with some filmmakers, they mentioned the butterfly effect. I asked about the origin of the phrase, and a few hours later, I found myself stumbling down a rabbit hole of differential equations and strange attractors. A week later, I recreated Lorenz's Butterfly Effect—the beginnings of the [math art](/projects/math-art) project. -->
+
+<!-- This continued incessantly. Someone would throw out a phrase or idea, and I would run with it. As I continued creating, I started finding my voice in code. Despite everything I made, it took me months to finally call myself creative, which would have been impossible on my own. My friends reminded me that I was more than test scores and good grades, and I hope they know how grateful I am. -->
+
+<!-- Without the people closest to me providing constant support and inspiration and critiques, I wouldn't still be creating. If that's you, thanks.  -->
+
+<!-- *Add to the [dialogue](/chat), and become part of my story.* -->]]></content>
   </entry>
 </search>
