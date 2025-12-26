@@ -58,33 +58,6 @@
 ]]></content>
   </entry>
   <entry>
-    <title>Breaking Language Models for Fun</title>
-    <url>/breaking-language-models-for-fun/</url>
-    <content><![CDATA[<p>Training a machine learning model is easy. Correctly training a machine learning model is hard. Every choice you make, from start to finish, has an impact on how your model will perform. You won’t know whether you trained it right or not until after you’re done, when someone finds an issue in your finished model. That someone is me.</p>
-<p>The other day, I stumbled across a free-to-use profanity detector. The developer made an API so you can use his model for free without running anything locally. If nothing else, I applaud the developer’s effort to create free, accessible software. </p>
-<p>While I was using the software, I did make some observations about its behavior. As expected, standard profanity is flagged as such. There were, however a few innocuous phrases that were flagged as profane. Here are some examples:</p>
-<ul>
-<li>“do not prick yourself with that pin”</li>
-<li>“asdfasdf asdf”</li>
-<li>“a son of”</li>
-<li>“asldfjlas lsjaflks asldfl;a sf”</li>
-<li>“this profanity detector is just so incredibly, horribly”</li>
-<li>“son of a”</li>
-<li>“oh god, this is a total”</li>
-<li>“you absolute piece of”</li>
-<li>“censor this”</li>
-</ul>
-<p>I have more, but this seems like a representative sample. There are some actual sentences, some phrases with negative sentiment, and plain gibberish. It took me maybe 10 minutes to find these, and that was without any automation. I can understand that in some extreme cases, you may want to flag a few of these, but most of these phrases are nowhere near as bad as the model thinks they are. </p>
-<p>To be clear, this is a very popular project. It has over 1,000 stars on GitHub. I’m not trying to belittle the project. I’m just trying to use it as an example that others may be able to learn from. Hopefully, what others will learn is that machine learning can be tricky. In this case, the model is skewed towards expecting profanity, which has resulted in some level of bias. This may come from a skewed dataset, an improper loss function, or just the inherent randomness in stochastic training processes. </p>
-<p>The exact specifics of the problem aren’t particularly important because there is no perfect fix to this problem. Instead, understand the scope of your machine learning model. Define proper use cases. Use thorough testing to understand its limitations. Realize that statistical machines are occasionally wrong, and you need to calculate how much a wrong prediction could cost you or someone else. </p>
-<p>It’s possible the developer went through all this, and this model was the final result. In that case, congrats on such a popular project. Regardless, the next time you hear someone building a profanity detector, make sure it doesn’t get fooled by phrases like “asdfasdf asdf”.</p>
-<hr>
-<h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ol>
-<li><a href="https://www.profanity.dev/">the profanity detector in question</a></li>
-</ol>
-]]></content>
-  </entry>
-  <entry>
     <title>Adventure is Out There</title>
     <url>/adventure-is-out-there/</url>
     <content><![CDATA[<p>Recently, I had the opportunity to look at my college diploma for the first time. I expected to feel excited or proud, but instead, I felt a pit drop in my stomach. Not wanting to concern those around me, I put on a brave face and beamed a smile, but deep down, I couldn’t look at this paper and see the end. The only thing I could see was a terrifying beginning.</p>
@@ -122,6 +95,33 @@
 ]]></content>
   </entry>
   <entry>
+    <title>Breaking Language Models for Fun</title>
+    <url>/breaking-language-models-for-fun/</url>
+    <content><![CDATA[<p>Training a machine learning model is easy. Correctly training a machine learning model is hard. Every choice you make, from start to finish, has an impact on how your model will perform. You won’t know whether you trained it right or not until after you’re done, when someone finds an issue in your finished model. That someone is me.</p>
+<p>The other day, I stumbled across a free-to-use profanity detector. The developer made an API so you can use his model for free without running anything locally. If nothing else, I applaud the developer’s effort to create free, accessible software. </p>
+<p>While I was using the software, I did make some observations about its behavior. As expected, standard profanity is flagged as such. There were, however a few innocuous phrases that were flagged as profane. Here are some examples:</p>
+<ul>
+<li>“do not prick yourself with that pin”</li>
+<li>“asdfasdf asdf”</li>
+<li>“a son of”</li>
+<li>“asldfjlas lsjaflks asldfl;a sf”</li>
+<li>“this profanity detector is just so incredibly, horribly”</li>
+<li>“son of a”</li>
+<li>“oh god, this is a total”</li>
+<li>“you absolute piece of”</li>
+<li>“censor this”</li>
+</ul>
+<p>I have more, but this seems like a representative sample. There are some actual sentences, some phrases with negative sentiment, and plain gibberish. It took me maybe 10 minutes to find these, and that was without any automation. I can understand that in some extreme cases, you may want to flag a few of these, but most of these phrases are nowhere near as bad as the model thinks they are. </p>
+<p>To be clear, this is a very popular project. It has over 1,000 stars on GitHub. I’m not trying to belittle the project. I’m just trying to use it as an example that others may be able to learn from. Hopefully, what others will learn is that machine learning can be tricky. In this case, the model is skewed towards expecting profanity, which has resulted in some level of bias. This may come from a skewed dataset, an improper loss function, or just the inherent randomness in stochastic training processes. </p>
+<p>The exact specifics of the problem aren’t particularly important because there is no perfect fix to this problem. Instead, understand the scope of your machine learning model. Define proper use cases. Use thorough testing to understand its limitations. Realize that statistical machines are occasionally wrong, and you need to calculate how much a wrong prediction could cost you or someone else. </p>
+<p>It’s possible the developer went through all this, and this model was the final result. In that case, congrats on such a popular project. Regardless, the next time you hear someone building a profanity detector, make sure it doesn’t get fooled by phrases like “asdfasdf asdf”.</p>
+<hr>
+<h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ol>
+<li><a href="https://www.profanity.dev/">the profanity detector in question</a></li>
+</ol>
+]]></content>
+  </entry>
+  <entry>
     <title>Celestial Navigation, Part 1</title>
     <url>/celestial-navigation-part-1/</url>
     <content><![CDATA[<p>Back in August of 2023, I grabbed my telescope, told my parents not to wait for me, and drove into the middle of nowhere. Stargazing has become essential to my life, and I hadn’t been in a few months, so I was ready to go. The nights I go stargazing, I feel free, spending a few hours alone with the universe. I’m no astronomer by any means, but I enjoy studying the night sky. I’ll usually pick one celestial body to focus on, whether that be Jupiter and its moons or some distant nebula I can barely see. That night, I decided to study Polaris.</p>
@@ -148,17 +148,6 @@
 ]]></content>
   </entry>
   <entry>
-    <title>Celestial Navigation, Part 4</title>
-    <url>/celestial-navigation-part-4/</url>
-    <content><![CDATA[<p>Today, I had the pleasure of witnessing the total solar eclipse, a twice-in-a-lifetime opportunity. Yes, I’ve already seen a solar eclipse, and I’ve seen a handful of lunar eclipses, but I had to see this eclipse too. If you’ve met me, you know I get excited <a href="/celestial-navigation-part-3">when the sun aligns with some buildings</a>, so of course I was going to drive 200 miles to see the sun align with the moon. It was spectacular, but plenty of people will share their life-changing experiences with the eclipse. Instead, here are a few things I learned about eclipses while observing this one.</p>
-<p>You can safely observe a partial eclipse with just your hand and a flat surface. Curl your index finger so as to make a tiny hole, and let sunlight pass through it onto the flat surface. Congrats! You just projected an image of the sun, and with any luck, you’ll see a crescent-shaped sliver of sun instead of the normal circle. This hand projection uses the same principle as a pinhole camera. I was going to make a pinhole camera, but I forgot to bring the materials with me, so I opted for this instead.</p>
-<p>Outdoor lens flares from the sun during an eclipse will be crescents instead of circles. Lens flares are just images of the light source caused by lens imperfections. Turns out, they don’t always have to be circles. Typically, the lens flare is the shape of the light source. Since the light source—the sun—will appear as a crescent, your lens flares will be crescents too.</p>
-<p>Speaking of crescents, a solar crescent from an eclipse will never match the shape of a real crescent moon in the night sky. This is because of how the crescents are formed. For a crescent moon, we’re looking at a half-lit sphere, which is similar to looking at a moon-sized circle partially covered by a larger black circle. Constructing the shape requires two different-sized circles. For a solar crescent, we can use another two circle construction, except the black circle is the same size as the sun, not bigger, so the shape is different. There are more nuances to the full argument, which you can prove mathematically by comparing the distances between the corners of the crescents. Ultimately, solar crescents and crescent moons cannot look the same if the sun and moon are the same size in the sky.</p>
-<p>During a total solar eclipse, you can see celestial bodies you would only see at night. For example, I saw Jupiter and Venus during totality today. Since I’m so used to thinking about when they’ll be above the horizon at night, I really wasn’t expecting to see them during the day. Even in the dark twilight of totality, with no time for my eyes to adjust, the two planets were very easily visible. I should have brought my telescope.</p>
-<p>Typically in Celestial Navigation, I’ll discuss some ways in which we can use the stars to find directions and calculate locations, but so much of that relies on the parallel rays assumption. Light from space hits Earth in the same direction for everyone, no matter where you are. Today, however, that assumption breaks down. Total solar eclipses are focused on small areas. They take advantage of the fact that you are a single observer, looking out, so the rays are radial, not parallel, and you are at the focus. You aren’t meant to find anything during the eclipse. Instead, it’s a brief moment when the sun and the moon find you.</p>
-]]></content>
-  </entry>
-  <entry>
     <title>Celestial Navigation, Part 3</title>
     <url>/celestial-navigation-part-3/</url>
     <content><![CDATA[<p>In the spirit of April Fools’ Day, I’d like to tell a story of trickery and deceit. This is a story of how I was fooled, or rather, how I will be fooled.</p>
@@ -168,6 +157,17 @@
 <p>And therein lies the problem. I use math to check my senses and my intuition, but I have no system to disprove math when math fails. I trust formal logic entirely, but blind faith is a dangerous game, no matter how rational. Even the philosophy of mathematics cautions against finding complete truth in a fixed set of axioms. Gödel’s incompleteness theorems highlight the existence of mathematical statements that can never be proven true or false, so finding absolute truth in mathematics is impossible.</p>
 <p>Any source of “absolute” truth has its risks. While I’ve decided to place considerable trust in mathematics, any system of truth can deceive you. Your senses fall victim to illusions, and your intuition won’t always be right. No finite number of observations will ever be complete, and no gut feeling can guarantee correctness. Even when you’re doing something as simple as watching the sun rise over your city, you might be fooled, and that’s alright. The truth was never guaranteed anyway.</p>
 <p>$$(4 \cdot 1)! &#x3D; 24$$</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>Celestial Navigation, Part 4</title>
+    <url>/celestial-navigation-part-4/</url>
+    <content><![CDATA[<p>Today, I had the pleasure of witnessing the total solar eclipse, a twice-in-a-lifetime opportunity. Yes, I’ve already seen a solar eclipse, and I’ve seen a handful of lunar eclipses, but I had to see this eclipse too. If you’ve met me, you know I get excited <a href="/celestial-navigation-part-3">when the sun aligns with some buildings</a>, so of course I was going to drive 200 miles to see the sun align with the moon. It was spectacular, but plenty of people will share their life-changing experiences with the eclipse. Instead, here are a few things I learned about eclipses while observing this one.</p>
+<p>You can safely observe a partial eclipse with just your hand and a flat surface. Curl your index finger so as to make a tiny hole, and let sunlight pass through it onto the flat surface. Congrats! You just projected an image of the sun, and with any luck, you’ll see a crescent-shaped sliver of sun instead of the normal circle. This hand projection uses the same principle as a pinhole camera. I was going to make a pinhole camera, but I forgot to bring the materials with me, so I opted for this instead.</p>
+<p>Outdoor lens flares from the sun during an eclipse will be crescents instead of circles. Lens flares are just images of the light source caused by lens imperfections. Turns out, they don’t always have to be circles. Typically, the lens flare is the shape of the light source. Since the light source—the sun—will appear as a crescent, your lens flares will be crescents too.</p>
+<p>Speaking of crescents, a solar crescent from an eclipse will never match the shape of a real crescent moon in the night sky. This is because of how the crescents are formed. For a crescent moon, we’re looking at a half-lit sphere, which is similar to looking at a moon-sized circle partially covered by a larger black circle. Constructing the shape requires two different-sized circles. For a solar crescent, we can use another two circle construction, except the black circle is the same size as the sun, not bigger, so the shape is different. There are more nuances to the full argument, which you can prove mathematically by comparing the distances between the corners of the crescents. Ultimately, solar crescents and crescent moons cannot look the same if the sun and moon are the same size in the sky.</p>
+<p>During a total solar eclipse, you can see celestial bodies you would only see at night. For example, I saw Jupiter and Venus during totality today. Since I’m so used to thinking about when they’ll be above the horizon at night, I really wasn’t expecting to see them during the day. Even in the dark twilight of totality, with no time for my eyes to adjust, the two planets were very easily visible. I should have brought my telescope.</p>
+<p>Typically in Celestial Navigation, I’ll discuss some ways in which we can use the stars to find directions and calculate locations, but so much of that relies on the parallel rays assumption. Light from space hits Earth in the same direction for everyone, no matter where you are. Today, however, that assumption breaks down. Total solar eclipses are focused on small areas. They take advantage of the fact that you are a single observer, looking out, so the rays are radial, not parallel, and you are at the focus. You aren’t meant to find anything during the eclipse. Instead, it’s a brief moment when the sun and the moon find you.</p>
 ]]></content>
   </entry>
   <entry>
@@ -199,6 +199,29 @@
 <li><a href="https://chicagomaroon.com/49019/news/netflix-film-saturn-return-shoots-on-uchicago-campus/">Filming on Campus</a></li>
 <li><a href="https://web.archive.org/web/20151222074912/http://astrology.about.com/od/advancedastrology/p/SaturnReturn.htm">Saturn Return Astrology</a></li>
 <li><a href="https://www.loc.gov/collections/finding-our-place-in-the-cosmos-with-carl-sagan/articles-and-essays/modeling-the-cosmos/ancient-greek-astronomy-and-cosmology">Ancient Greek Astronomy</a></li>
+</ol>
+]]></content>
+  </entry>
+  <entry>
+    <title>Conservation and the Trolley Problem</title>
+    <url>/conservation-and-the-trolley-problem/</url>
+    <content><![CDATA[<p>The Trolley Problem has become a staple of modern media culture. It has made rounds through film and television, memes, and even absurdist video games. Unfortunately, in this meteoric rise in fame, the Trolley Problem has lost its meaning. The once-respected ethical dilemma now often seems overly simplistic and detached from reality. It no longer holds the same significance it did in the 70’s.</p>
+<p>In Phillipa Foot’s original article, the Trolley Problem is posed as follows. Suppose you are the driver of a runaway tram, and the tram is headed towards five rail workers. There is another track you could turn on instead. On it is someone tied to the rails. If you turn, you will kill the one. If you do nothing, you will kill the five.</p>
+<p>Foot posits that the obvious choice is to turn. In fact, she finds this so obvious that she doesn’t even spend enough words to explain the action-versus-inaction issue. That comes later, when Judith Jarvis Thomson popularizes the dilemma, giving it its famous title. Foot briefly introduces the dilemma to discuss the nuances of double-effect morality and an ethical algorithm called the “doctrine of double effect”. She discusses other scenarios, such as a surgeon harvesting organs from one patient to save five, a judge framing an innocent person for an unsolvable crime to prevent bloody riots, and abortion.</p>
+<p>Foot and Thomson both propose interesting dilemmas with nuanced arguments. Though I recommend reading them, I will refrain from making any comments on the conclusions they reach. What I will say is that their work demonstrates what the Trolley Problem truly symbolizes: one example in a network of nuanced ethical dilemmas. Each dilemma offers a new situation to test ethical frameworks, such as the doctrine of double effect.</p>
+<p>In line with these ethical problems, I would like to propose one more, but with one, key difference. My problem is about non-human animals. This is the trophy hunting problem.</p>
+<p>Suppose you are a conservationist working with local populations in Africa. As it stands, rampant poaching and habitat destruction will decimate the local wildlife. However, a trophy hunter has approached you, offering you lots of money to let them kill exactly one of the animals. If you take this money, it will go to conservation and protection efforts, saving many more animals. Do you take the trophy hunter’s offer?</p>
+<p>When the trophy hunting problem was first presented to me, it wasn’t presented as an open question. Over a decade ago, in a very strange grade school lesson, I listened to my teacher share how trophy hunting could be beneficial, advocating for this arrangement. In fairness, the system was already in place, as conservationists were already taking money from trophy hunters. </p>
+<p>The trophy hunting problem offers countless opportunities to explore ethical frameworks through nuanced details. How much money should this cost? How many lives should be saved to take the deal? How should population growth look afterward? How frequently do you take the deal? What if this were about humans instead of animals?</p>
+<p>This trophy hunting problem serves as a reminder of the true nature of the Trolley Problem. It’s about reflecting on ethical approaches to life, questioning belief systems, and understanding that not all problems have a pretty solution. The Trolley Problem is more than a few memes and an episode of The Good Place. It’s the terrifying reality that our decisions can influence who lives and who dies, so choose wisely.</p>
+<hr>
+<ol>
+<li><a href="https://neal.fun/absurd-trolley-problems/">Absurd Trolley Problems Game</a></li>
+<li><a href="https://www.imdb.com/title/tt6951978/">“The Good Place” The Trolley Problem</a></li>
+<li><a href="https://www2.econ.iastate.edu/classes/econ362/hallam/Readings/FootDoubleEffect.pdf">The Problem of Abortion and the Doctrine of the Double Effect</a></li>
+<li><a href="https://laurenralpert.wordpress.com/wp-content/uploads/2014/08/thomson-killing-letting-die-and-the-trolley-problem.pdf">Killing, Letting Die, and the Trolley Problem</a></li>
+<li><a href="https://doi.org/10.1016/j.biocon.2006.09.005">Economic and conservation significance of the trophy hunting industry in sub-Saharan Africa</a></li>
+<li><a href="https://doi.org/10.1111/j.1469-1795.2006.00034.x">Potential of trophy hunting to create incentives for wildlife conservation in Africa where alternative wildlife-based land uses may not be viable</a></li>
 </ol>
 ]]></content>
   </entry>
@@ -239,26 +262,14 @@
 ]]></content>
   </entry>
   <entry>
-    <title>Conservation and the Trolley Problem</title>
-    <url>/conservation-and-the-trolley-problem/</url>
-    <content><![CDATA[<p>The Trolley Problem has become a staple of modern media culture. It has made rounds through film and television, memes, and even absurdist video games. Unfortunately, in this meteoric rise in fame, the Trolley Problem has lost its meaning. The once-respected ethical dilemma now often seems overly simplistic and detached from reality. It no longer holds the same significance it did in the 70’s.</p>
-<p>In Phillipa Foot’s original article, the Trolley Problem is posed as follows. Suppose you are the driver of a runaway tram, and the tram is headed towards five rail workers. There is another track you could turn on instead. On it is someone tied to the rails. If you turn, you will kill the one. If you do nothing, you will kill the five.</p>
-<p>Foot posits that the obvious choice is to turn. In fact, she finds this so obvious that she doesn’t even spend enough words to explain the action-versus-inaction issue. That comes later, when Judith Jarvis Thomson popularizes the dilemma, giving it its famous title. Foot briefly introduces the dilemma to discuss the nuances of double-effect morality and an ethical algorithm called the “doctrine of double effect”. She discusses other scenarios, such as a surgeon harvesting organs from one patient to save five, a judge framing an innocent person for an unsolvable crime to prevent bloody riots, and abortion.</p>
-<p>Foot and Thomson both propose interesting dilemmas with nuanced arguments. Though I recommend reading them, I will refrain from making any comments on the conclusions they reach. What I will say is that their work demonstrates what the Trolley Problem truly symbolizes: one example in a network of nuanced ethical dilemmas. Each dilemma offers a new situation to test ethical frameworks, such as the doctrine of double effect.</p>
-<p>In line with these ethical problems, I would like to propose one more, but with one, key difference. My problem is about non-human animals. This is the trophy hunting problem.</p>
-<p>Suppose you are a conservationist working with local populations in Africa. As it stands, rampant poaching and habitat destruction will decimate the local wildlife. However, a trophy hunter has approached you, offering you lots of money to let them kill exactly one of the animals. If you take this money, it will go to conservation and protection efforts, saving many more animals. Do you take the trophy hunter’s offer?</p>
-<p>When the trophy hunting problem was first presented to me, it wasn’t presented as an open question. Over a decade ago, in a very strange grade school lesson, I listened to my teacher share how trophy hunting could be beneficial, advocating for this arrangement. In fairness, the system was already in place, as conservationists were already taking money from trophy hunters. </p>
-<p>The trophy hunting problem offers countless opportunities to explore ethical frameworks through nuanced details. How much money should this cost? How many lives should be saved to take the deal? How should population growth look afterward? How frequently do you take the deal? What if this were about humans instead of animals?</p>
-<p>This trophy hunting problem serves as a reminder of the true nature of the Trolley Problem. It’s about reflecting on ethical approaches to life, questioning belief systems, and understanding that not all problems have a pretty solution. The Trolley Problem is more than a few memes and an episode of The Good Place. It’s the terrifying reality that our decisions can influence who lives and who dies, so choose wisely.</p>
-<hr>
-<ol>
-<li><a href="https://neal.fun/absurd-trolley-problems/">Absurd Trolley Problems Game</a></li>
-<li><a href="https://www.imdb.com/title/tt6951978/">“The Good Place” The Trolley Problem</a></li>
-<li><a href="https://www2.econ.iastate.edu/classes/econ362/hallam/Readings/FootDoubleEffect.pdf">The Problem of Abortion and the Doctrine of the Double Effect</a></li>
-<li><a href="https://laurenralpert.wordpress.com/wp-content/uploads/2014/08/thomson-killing-letting-die-and-the-trolley-problem.pdf">Killing, Letting Die, and the Trolley Problem</a></li>
-<li><a href="https://doi.org/10.1016/j.biocon.2006.09.005">Economic and conservation significance of the trophy hunting industry in sub-Saharan Africa</a></li>
-<li><a href="https://doi.org/10.1111/j.1469-1795.2006.00034.x">Potential of trophy hunting to create incentives for wildlife conservation in Africa where alternative wildlife-based land uses may not be viable</a></li>
-</ol>
+    <title>Everything Generates Text</title>
+    <url>/everything-generates-text/</url>
+    <content><![CDATA[<p>Most people always assume that making a machine to generate text is a difficult thing, and with the advent of ChatGPT, that assumption has only become stronger. Everyone is amazed at the staggering number of parameters—7 billion, 25 billion, 175 billion. Personally, I think we give too much credit to massive language models. Don’t get me wrong, talented scientists have designed and constructed incredibly powerful language models, but you don’t need millions of dollars worth of time and resources to build a text generator. Honestly, pretty much every machine-learning algorithm can be used to generate text.</p>
+<p>Over the past few months, I’ve been working on-and-off on a project to test this theory. Specifically, I’ve been working through some rather simple machine learning methods and figuring out ways to make them generate text. “Simple machine learning” may sound like any oxymoron, but there are very simple machine learning methods that you already know. One such example is linear regressions. The main idea is very straightforward. If you have a bunch of points scattered on a graph, draw a line that represents those points. In cases like this, you don’t even need any math to find simple trends. Just take your pen and draw a straight line roughly through the points.</p>
+<p>Linear regressions are clearly simple, but using this to generate text is another story. Luckily, linear regressions extends to multiple input variables and output variables. By turning each word into a 0-1 variable, we can predict each subsequent word. For example, starting with the word “once,” your model might predict the word “upon.” From there, you just make “upon” the input, and then you can generate the next word, which might be “a.” Continuing this process, you’ve generated text with just a linear regression.</p>
+<p>Linear regressions weren’t much of a problem for me since I had already built a text generator using Markov chains, so I was already familiar with transition matrices. KNNs however, were a different story. KNN, or k-nearest neighbors, is a method that takes an input, compares it to data points that are very similar to it, and uses their labels to inform the output. In theory, I could just take each word, analyze what typically comes after it, and use that, but that doesn’t make for a particularly interesting text generator. At that point, it’s no different than a Markov chain. </p>
+<p>Since I wanted to embrace the true spirit of kNNs and prove they could generate text, I began looking for a different approach. After exploring various mathematical approaches, I realized I could use character-wise prediction instead of token-wise prediction. Instead of predicting an entire word, I would just predict one letter at a time. This had the potential to fail miserably, but it would be phenomenal if it succeeded. By using character-wise prediction, I could embrace the distance metric at the heart of kNNs, but rather tha using standard Euclidean (straight-line) distance, I could use Hamming distance. By re-centering a binary vector space around the input word, I could position all the other words around it using exclusive-or to assign binary values based on whether or not the characters matched my input. From there, I just needed the vectors with the smallest Hamming norm, and I was good to go. </p>
+<p>If that all sounded like made-up, math word soup, then I’ll just have to ask you to trust me. The project is still ongoing, but once it’s at a point that I feel comfortable abandoning it, I’ll try to make things clearer, probably with a few examples. For now, things seem to be working as expected. Text generation isn’t hard because putting one word after the other has never been hard. The true challenge is in generating meaningful text. Generating meaningful text requires understanding truth, observable reality, intent, and so much more that we can’t properly encode the way we encode language. All of the meaning that comes from large language models is only present because we taught it with meaningful text, and we inject meaning back in when we read the output. Generating text is easy, but that doesn’t bring us any closer to generating meaning.</p>
 ]]></content>
   </entry>
   <entry>
@@ -292,14 +303,23 @@
 ]]></content>
   </entry>
   <entry>
-    <title>Everything Generates Text</title>
-    <url>/everything-generates-text/</url>
-    <content><![CDATA[<p>Most people always assume that making a machine to generate text is a difficult thing, and with the advent of ChatGPT, that assumption has only become stronger. Everyone is amazed at the staggering number of parameters—7 billion, 25 billion, 175 billion. Personally, I think we give too much credit to massive language models. Don’t get me wrong, talented scientists have designed and constructed incredibly powerful language models, but you don’t need millions of dollars worth of time and resources to build a text generator. Honestly, pretty much every machine-learning algorithm can be used to generate text.</p>
-<p>Over the past few months, I’ve been working on-and-off on a project to test this theory. Specifically, I’ve been working through some rather simple machine learning methods and figuring out ways to make them generate text. “Simple machine learning” may sound like any oxymoron, but there are very simple machine learning methods that you already know. One such example is linear regressions. The main idea is very straightforward. If you have a bunch of points scattered on a graph, draw a line that represents those points. In cases like this, you don’t even need any math to find simple trends. Just take your pen and draw a straight line roughly through the points.</p>
-<p>Linear regressions are clearly simple, but using this to generate text is another story. Luckily, linear regressions extends to multiple input variables and output variables. By turning each word into a 0-1 variable, we can predict each subsequent word. For example, starting with the word “once,” your model might predict the word “upon.” From there, you just make “upon” the input, and then you can generate the next word, which might be “a.” Continuing this process, you’ve generated text with just a linear regression.</p>
-<p>Linear regressions weren’t much of a problem for me since I had already built a text generator using Markov chains, so I was already familiar with transition matrices. KNNs however, were a different story. KNN, or k-nearest neighbors, is a method that takes an input, compares it to data points that are very similar to it, and uses their labels to inform the output. In theory, I could just take each word, analyze what typically comes after it, and use that, but that doesn’t make for a particularly interesting text generator. At that point, it’s no different than a Markov chain. </p>
-<p>Since I wanted to embrace the true spirit of kNNs and prove they could generate text, I began looking for a different approach. After exploring various mathematical approaches, I realized I could use character-wise prediction instead of token-wise prediction. Instead of predicting an entire word, I would just predict one letter at a time. This had the potential to fail miserably, but it would be phenomenal if it succeeded. By using character-wise prediction, I could embrace the distance metric at the heart of kNNs, but rather tha using standard Euclidean (straight-line) distance, I could use Hamming distance. By re-centering a binary vector space around the input word, I could position all the other words around it using exclusive-or to assign binary values based on whether or not the characters matched my input. From there, I just needed the vectors with the smallest Hamming norm, and I was good to go. </p>
-<p>If that all sounded like made-up, math word soup, then I’ll just have to ask you to trust me. The project is still ongoing, but once it’s at a point that I feel comfortable abandoning it, I’ll try to make things clearer, probably with a few examples. For now, things seem to be working as expected. Text generation isn’t hard because putting one word after the other has never been hard. The true challenge is in generating meaningful text. Generating meaningful text requires understanding truth, observable reality, intent, and so much more that we can’t properly encode the way we encode language. All of the meaning that comes from large language models is only present because we taught it with meaningful text, and we inject meaning back in when we read the output. Generating text is easy, but that doesn’t bring us any closer to generating meaning.</p>
+    <title>Ex Libris: I, Robot</title>
+    <url>/ex-libris-i-robot/</url>
+    <content><![CDATA[<p>He called it. He absolutely called it. Asimov predicted LLMs.</p>
+<p>Between 1940 and 1950, Isaac Asimov published a series of science fiction short stories about a future where humans had started using robots. These robots were autonomous, took instructions, acted somewhat unpredictably, but typically got results. Robots were used both for high-volume tasks and occasionally to help with human affairs. There were only a few major experts on their core mechanism in the world, and they could only be developed by a few powerful organizations. </p>
+<p>With no additional details, this basically describes the modern state of LLMs. However, these robots were corporeal, not digital. Instead of transformers, they had positronic brains. Instead of mining the depths of the internet and people’s attention spans, they mined asteroids and planets. Instead of being developed by OpenAI and Google and Anthropic, they were built by US Robots and Consolidated Robots.</p>
+<p>Asimov’s robots line up so much with modern LLMs that these differences are quite trivial. There are countless parallels between LLMs and robots, like hallucinations and safety mechanisms and getting stuck in local minima. Each short story centers around humans trying to fix a problem they’re having with a robot, and given the connections between our LLMs and Asimov’s robots, we could learn a lot from the stories.</p>
+<p>We could learn a lot from the stories, if not for one detail: the Laws of Robotics. The Laws of Robotics govern all robot behavior. The Laws are three rules that every robot always follows, and they are listed as such:</p>
+<ol>
+<li>A robot may not injure a human being or, through inaction, allow a human being to come to harm.</li>
+<li>A robot must obey the orders given it by human beings except where such orders would conflict with the First Law.</li>
+<li>A robot must protect its own existence as long as such protection does not conflict with the First or Second Laws.</li>
+</ol>
+<p>Every robot, without fail, follows these laws. They are hardwired into the positronic brains and fully inescapable. We, however, do not have such hard-and-fast laws that govern LLMs. And therein lies the problem.</p>
+<p>In each of Asimov’s stories, the Laws of Robotics are central to resolving the conflict of the story. Sometimes, they are a tool to change robot behavior. Other times, they explain behavior that the scientists don’t quite understand. These laws—these axioms—define the bedrock of robot behavior, and if you dig far enough, you can always boil down every action to these three laws. </p>
+<p>Unfortunately, we don’t have Laws of LLMs. There are no perfect axioms to explain everything. Because of this, we can’t perfectly explain why an LLM would choose X over Y. We can’t formally verify that an LLM is acting correctly. We can’t modify an LLM and guarantee that it will do what we want. Every solution and model and understanding we have constructed to comprehend LLMs is approximate, and they all fail sometimes. The Laws of Robotics are central to every solution Asimov has ever constructed to robotics problems, but without Laws of LLMs, we simply can’t do the same. </p>
+<p>I have thought long and hard about some way to mathematically impose Asimov’s axioms onto modern LLMs, but they just don’t fit. They’re too abstract and too undefinable, especially in terms of transformers. As we give LLMs access to more and more external resources for interacting with the outside world, like internet, phone-calling, and cameras, we create bigger and bigger risk surfaces. LLMs are becoming more capable, but that also means more capable of harm. </p>
+<p>Asimov knew his robots, inside and out, which meant he knew how to control them. We can’t quite say the same about our LLMs. His solutions might not directly apply to us, but he did teach us something. Perhaps the greatest lesson we can learn about LLMs from Asimov is that we don’t have the means to control our robots, and that is a dangerous way to live.</p>
 ]]></content>
   </entry>
   <entry>
@@ -366,6 +386,15 @@
 ]]></content>
   </entry>
   <entry>
+    <title>Ex Libris: The Library of Babel</title>
+    <url>/ex-libris-the-library-of-babel/</url>
+    <content><![CDATA[<p>In Jorge Luis Borges’ <em>The Library of Babel</em>, the narrator describes a never-ending world of hexagonal galleries, all filled with books. Each book is 410 pages, 40 lines per page, 80 characters per line, 25 characters in the script. Doing some quick calculations, that number of books is approximately a 1 with 1.8 million zeros behind it. For reference, the number of atoms in the known universe is a 1 with 80 zeros behind it, which is essentially nothing compared to the scale of the library.</p>
+<p>The library is vast, but its volumes are not infinite. The narrator attempts to circumvent this by concluding that the library likely repeats itself. Infinity can be scary, but if the library were looking for new librarians, I have a suggestion for how to make the library truly infinite. If you still want all the books to fit in an infinite library, why limit yourself to 410 page books? For the sake of mathematical clarity, let’s assume that every book is the same thickness, no matter how many pages it has (pretend the pages get super thin). Then, if you allow books to be any finite length, then you will never need to repeat the library because there will always be enough books to fill the shelves without repeating. Assuming the library’s hexagonal galleries do continue forever, then every possible book of finite length will fit perfectly in the library. Finite length books are the way to go.</p>
+<p>Infinite length books, however, pose a huge issue. Let’s again assume that books of infinite length still have the same thickness as all the other books. If you allow every book of infinite length to enter the library, then you will run out of space. It’s hard to believe that an infinite library could run out of space, but it’s true. Cantor’s famous diagonal argument proves this isn’t possible, though his proof was about infinite, binary sequences. Applied here, no matter how you arrange the books, you can prove that at least one book of infinite length has been left out. Surely, the library wouldn’t want to leave any books out of its vast volumes, so I advise caution when tasking a librarian with constructing an infinite library.</p>
+<p>Regardless of how infinite you decide to make the library, the unfortunate problem remains that the Library of Babel is entirely useless as a library. Libraries function best as curators and disseminators of resources, working to best serve their community. Typically, this means the knowledge in the library should be relevant to the readers. At the very least, it should be true. Unfortunately, there is no curatorial process in the Library of Babel. Sure, one book might just so happen to contain the works of Shakespeare, but there will be countless others that look like works of Shakespeare that all get the endings wrong. Most comprehensible books will be wrong, and most books will be incomprehensible. Given how finite human knowledge is, the chances of finding something useful are essentially zero. Even if you do find something potentially useful, you would have to independently verify the source is credible, because no one is curating it for you. The Library of Babel is an interesting thought experiment, but I pity anyone that wastes more than a second in that building trying to find meaning in the empty volumes.</p>
+]]></content>
+  </entry>
+  <entry>
     <title>Ex Libris: The Principles of Librarianship</title>
     <url>/ex-libris-the-principles-of-librarianship/</url>
     <content><![CDATA[<p>If you ever need a list of incredibly British-sounding city names, simply refer to the sentence, “To obtain a more precise location, a study of the postal services suggested that it should be located in Lancashire, the West Riding of Yorkshire, Cheshire, Nottinghamshire, Leicestershire, Derbyshire or Cumberland” (p. 36).</p>
@@ -425,15 +454,6 @@
 ]]></content>
   </entry>
   <entry>
-    <title>Ex Libris: The Library of Babel</title>
-    <url>/ex-libris-the-library-of-babel/</url>
-    <content><![CDATA[<p>In Jorge Luis Borges’ <em>The Library of Babel</em>, the narrator describes a never-ending world of hexagonal galleries, all filled with books. Each book is 410 pages, 40 lines per page, 80 characters per line, 25 characters in the script. Doing some quick calculations, that number of books is approximately a 1 with 1.8 million zeros behind it. For reference, the number of atoms in the known universe is a 1 with 80 zeros behind it, which is essentially nothing compared to the scale of the library.</p>
-<p>The library is vast, but its volumes are not infinite. The narrator attempts to circumvent this by concluding that the library likely repeats itself. Infinity can be scary, but if the library were looking for new librarians, I have a suggestion for how to make the library truly infinite. If you still want all the books to fit in an infinite library, why limit yourself to 410 page books? For the sake of mathematical clarity, let’s assume that every book is the same thickness, no matter how many pages it has (pretend the pages get super thin). Then, if you allow books to be any finite length, then you will never need to repeat the library because there will always be enough books to fill the shelves without repeating. Assuming the library’s hexagonal galleries do continue forever, then every possible book of finite length will fit perfectly in the library. Finite length books are the way to go.</p>
-<p>Infinite length books, however, pose a huge issue. Let’s again assume that books of infinite length still have the same thickness as all the other books. If you allow every book of infinite length to enter the library, then you will run out of space. It’s hard to believe that an infinite library could run out of space, but it’s true. Cantor’s famous diagonal argument proves this isn’t possible, though his proof was about infinite, binary sequences. Applied here, no matter how you arrange the books, you can prove that at least one book of infinite length has been left out. Surely, the library wouldn’t want to leave any books out of its vast volumes, so I advise caution when tasking a librarian with constructing an infinite library.</p>
-<p>Regardless of how infinite you decide to make the library, the unfortunate problem remains that the Library of Babel is entirely useless as a library. Libraries function best as curators and disseminators of resources, working to best serve their community. Typically, this means the knowledge in the library should be relevant to the readers. At the very least, it should be true. Unfortunately, there is no curatorial process in the Library of Babel. Sure, one book might just so happen to contain the works of Shakespeare, but there will be countless others that look like works of Shakespeare that all get the endings wrong. Most comprehensible books will be wrong, and most books will be incomprehensible. Given how finite human knowledge is, the chances of finding something useful are essentially zero. Even if you do find something potentially useful, you would have to independently verify the source is credible, because no one is curating it for you. The Library of Babel is an interesting thought experiment, but I pity anyone that wastes more than a second in that building trying to find meaning in the empty volumes.</p>
-]]></content>
-  </entry>
-  <entry>
     <title>First Time for Everything</title>
     <url>/first-time-for-everything/</url>
     <content><![CDATA[<p>On July 21, 2023, that weekend when the Barbie and Oppenheimer movies came out, I invited my old mentor to watch Oppenheimer at the local theater. I did this partly to spend time with him, partly to push myself out of my social comfort zone, and I thought this might kill two birds with one stone. On the days we have long, rambling conversations, he eventually turns the topic to nuclear physics and the history of the atomic bomb. Occasionally, I sprinkle in details related to our university, given its position in the history of the Manhattan project, but for the most part, I listen. How he knows so much about the field, I’m not sure, but it’s one of our few conversation topics unrelated to research and our lab. </p>
@@ -453,29 +473,6 @@
 <p>“No, ever.”</p>
 <p>His Lyft pulls up, so he waves goodbye. I probably mumble something about seeing him in lab as I wave back. The sound of the rain cuts out as the gears whir in my head. I don’t know if it was a few seconds or a few minutes, but eventually, I put on my jacket and step out into the rain.</p>
 <p>I guess there’s a first time for everything.</p>
-]]></content>
-  </entry>
-  <entry>
-    <title>Infinity in Art</title>
-    <url>/infinity-in-art/</url>
-    <content><![CDATA[<p>People are often quick to dismiss infinity. For most, infinity represents some nebulous concept about going on forever or a number bigger than all the other numbers. Infinity is silly, hard to conceptualize, and just doesn’t matter for people living finite lives. </p>
-<p>I tend to disagree. I think people underestimate just how useful infinity really can be. It has served me well for many years in countless situations. Then again, I did spend 4 years studying infinity, so I might be a tad biased.</p>
-<p>One particular application of infinity comes up infrequently in origami. Every origami design starts with a finite sheet of paper. But why let that limit you? What if you could design a tree with infinite branches? A dinousaur with infinite ridges? A flower with infinite petals? No one really asked, but origamists answered anyway. </p>
-<p>For every origami design, you can draw out on a flat sheet which part of the paper is used for each feature of the finished model. To fit an infinite number of features onto a single square, origamists needed a way to add an infinite number of things and end with a finite sum. Luckily, mathematicians have been doing this for centuries. One of the most common ways to add an infinite amount of stuff and end up with a finite amount is a geometric series. </p>
-<p>Start by placing your finger on the left side of your screen. Next, move it halfway to the right side. Now, move it halfway between where it is now and the right side. Move it halfway again. And again. And again. If you continue this forever, your finger will take an infinite number of steps, but the lengths of those steps only add up to the width of your screen. This is a geometric series. Every subsequent step is some fixed fraction of the previous step.</p>
-<p>Since origamists work in two dimensions, not just one, their steps get to look a little different. Take, for example, Shuzo Fujimoto’s hydrangea. At every step, the folder can add four more petals to the center of the flower. This sounds impossible, but I’ve drawn out how the paper is distributed for each petal. The red squares are the petals.</p>
-<img src="/images/hydrangea_cp.jpg" alt="Progressive petals on Fujimoto's Hydrangea.">
-
-<p><em>The progressive distribution of paper for the petals of Fujimoto’s Hydrangea. Note how each layer repeats the previous but in half the area.</em></p>
-<p>Theoretically, this would result in an infinite number of petals, but that would require perfect paper, immortality, and a few other impossibilities. In practice, it means origamists can add as many petals as they like to their hydrangea. Each subsequent layer is a recursive iteration of the previous. It is, as Ushio Ikegami describes it, “an infinite set of origami works.” The artist defines a recursive sequence that allows folders to continue from one work to the next. That way, it goes on forever.</p>
-<p>Infinite origami is technically impossible. The heat death of the universe will consume all attempts at folding forever. But that doesn’t stop origamists from trying. Using their incredible skills—and a bit of math—they have created endless art. They found infinity in a square. Where will you find it?</p>
-<hr>
-<h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ol>
-<li><a href="https://cfcorigami.com/creator/shuzofujimoto">Shuzo Fujimoto</a></li>
-<li><a href="https://origamiusa.org/system/files/thefold/thefold79_fractal_origami_for_beginners_Ikegami_revised_0.pdf">Fractal Origami for Beginners</a></li>
-<li><a href="https://cfcorigami.com/sites/default/files/diagrams/igaribi/hydrangea_john_smith.pdf">Hydrangea Diagrams</a></li>
-<li><a href="/infinity-in-art/">Infinity in Art</a></li>
-</ol>
 ]]></content>
   </entry>
   <entry>
@@ -512,6 +509,29 @@
 <hr>
 <p>Some new designs to check out in the <a href="/projects/gallery">gallery</a>:</p>
 <p><a href="/projects/gallery#hanging-by-a-thread">Hanging by a Thread</a><br><a href="/projects/gallery#fish-out-of-water">Fish out of Water</a></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>Infinity in Art</title>
+    <url>/infinity-in-art/</url>
+    <content><![CDATA[<p>People are often quick to dismiss infinity. For most, infinity represents some nebulous concept about going on forever or a number bigger than all the other numbers. Infinity is silly, hard to conceptualize, and just doesn’t matter for people living finite lives. </p>
+<p>I tend to disagree. I think people underestimate just how useful infinity really can be. It has served me well for many years in countless situations. Then again, I did spend 4 years studying infinity, so I might be a tad biased.</p>
+<p>One particular application of infinity comes up infrequently in origami. Every origami design starts with a finite sheet of paper. But why let that limit you? What if you could design a tree with infinite branches? A dinousaur with infinite ridges? A flower with infinite petals? No one really asked, but origamists answered anyway. </p>
+<p>For every origami design, you can draw out on a flat sheet which part of the paper is used for each feature of the finished model. To fit an infinite number of features onto a single square, origamists needed a way to add an infinite number of things and end with a finite sum. Luckily, mathematicians have been doing this for centuries. One of the most common ways to add an infinite amount of stuff and end up with a finite amount is a geometric series. </p>
+<p>Start by placing your finger on the left side of your screen. Next, move it halfway to the right side. Now, move it halfway between where it is now and the right side. Move it halfway again. And again. And again. If you continue this forever, your finger will take an infinite number of steps, but the lengths of those steps only add up to the width of your screen. This is a geometric series. Every subsequent step is some fixed fraction of the previous step.</p>
+<p>Since origamists work in two dimensions, not just one, their steps get to look a little different. Take, for example, Shuzo Fujimoto’s hydrangea. At every step, the folder can add four more petals to the center of the flower. This sounds impossible, but I’ve drawn out how the paper is distributed for each petal. The red squares are the petals.</p>
+<img src="/images/hydrangea_cp.jpg" alt="Progressive petals on Fujimoto's Hydrangea.">
+
+<p><em>The progressive distribution of paper for the petals of Fujimoto’s Hydrangea. Note how each layer repeats the previous but in half the area.</em></p>
+<p>Theoretically, this would result in an infinite number of petals, but that would require perfect paper, immortality, and a few other impossibilities. In practice, it means origamists can add as many petals as they like to their hydrangea. Each subsequent layer is a recursive iteration of the previous. It is, as Ushio Ikegami describes it, “an infinite set of origami works.” The artist defines a recursive sequence that allows folders to continue from one work to the next. That way, it goes on forever.</p>
+<p>Infinite origami is technically impossible. The heat death of the universe will consume all attempts at folding forever. But that doesn’t stop origamists from trying. Using their incredible skills—and a bit of math—they have created endless art. They found infinity in a square. Where will you find it?</p>
+<hr>
+<h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ol>
+<li><a href="https://cfcorigami.com/creator/shuzofujimoto">Shuzo Fujimoto</a></li>
+<li><a href="https://origamiusa.org/system/files/thefold/thefold79_fractal_origami_for_beginners_Ikegami_revised_0.pdf">Fractal Origami for Beginners</a></li>
+<li><a href="https://cfcorigami.com/sites/default/files/diagrams/igaribi/hydrangea_john_smith.pdf">Hydrangea Diagrams</a></li>
+<li><a href="/infinity-in-art/">Infinity in Art</a></li>
+</ol>
 ]]></content>
   </entry>
   <entry>
@@ -573,6 +593,26 @@
 <p>That was my real reader’s statement. Actually, that was everyone’s real reader’s statement; they just didn’t know it. Our audiences were not hypothetical readers invented in our minds. They were writing students and lectors. Using this framework, I would properly craft my submitted reader’s statement and writing assignment to match. My grades were phenomenal, and the feedback was overwhelmingly positive. Though my previous writing experience likely influenced this, that multi-layered reader’s statement formed an undeniably effective framework for my assignments. </p>
 <p>In some ways, I may appear to have subverted the course, but looking back, I learned the lesson even better this way. I wasn’t inventing readers for the sake of an assignment. I was actively studying my real audience and writing specifically for them. Having learned this lesson, I try to apply it whenever I write, but there’s one place I just haven’t studied my readers: here. I have no clue what you, the reader, want to read. I don’t know how you found me or why you read my work. To be clear, I’m eternally grateful, but I want to write for you, the audience. Right now, I’m just writing for myself. If you found this website, then you can probably find me, online or in person, so please do. Tell me who you are, why you read what I write, and what you’re looking for. </p>
 <p>Or don’t, that’s fine too. I’ll keep shouting into the void, just in case you’re still listening.</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>On Repetition</title>
+    <url>/on-repetition/</url>
+    <content><![CDATA[<p>I can recall quite clearly a moment from five years ago. The blinding summer sun beamed through my open bedroom window. The smell of fresh flowers filled the air as the humidity clung tight around my body. I closed my eyes, breathed in the sweet, heavy air, and opened my laptop to study Python programming. I could have spent my summer an infinite number of ways, and I chose to learn Python through a practical course: Automate the Boring Stuff with Python. Python and automation were the future, so I had to be prepared. Automate the Boring Stuff began my five-year journey of automation. As I progressed through projects, internships, and a degree in computer science, automation became a sort of faith. Anything that felt remotely repetitive was automated, even if it didn’t need to be. For me, automation became… automatic.</p>
+<p>Over the past week, I worked on a project full of nonstop repetition, much to the dismay of my former self. Over the span of about 4 days, an artist and I cut 125 ft of fabric and stitched over 200 ft of seams. Those cuts and seams were all straight lines too: no variation. I worked long days for no pay on a project I will never see or be credited with. I carried around heavy rolls of material, got poked by pins, and performed the same, repetitive tasks over and over and over.</p>
+<p>And I loved it.</p>
+<p>To be clear, I didn’t enjoy the process because of the final product, nor did I gain anything I could put on my resume. I didn’t learn any skills or improve the ones I already had. If those hours I spent on the project did not exist, my life would not be at all different from what it is now. The process wasn’t particularly enjoyable, and while I care about my friend—the artist—I could still help him out without enjoying the process, but I didn’t.</p>
+<p>It doesn’t seem like I should have enjoyed such a repetitive project, yet I did because repetition did something five years of automation could never do. Repetition gave my mind a break. When you’re constantly automating systems, you trade mental energy for physical energy and time. Automation requires a lot of planning at the onset, but once it’s running, you’re free to spend your newfound free time however you please. For me, that meant more work. More work means more automation. This constant cycle of automation leaves only the most mentally demanding tasks left to complete—the ones with no repetition. Five years of automation meant that I spent the vast majority of my working time intensely using my brain while giving my body a break.</p>
+<p>This system works for a while, but eventually, your mind gets fatigued, and you can’t make progress without giving yourself a break. At first, I thought the only way to give my mind a break was to stop working, but I now realize that doesn’t have to be the case. While spending hours on repetitive tasks, my body went on autopilot. My hands learned the process, and my mind was left untethered. I felt like I was taking a break, yet I was still working.</p>
+<p>This feeling isn’t particularly uncommon in daily life. It’s the same feeling you get when you take a shower or drive your daily commute. In 2001, Dr. Marcus Raichle coined the term “default mode” for this resting-state brain function. To me, “default mode” feels like a misnomer because there is nothing default about this mode, my brain is rarely there. The default mode network has been shown to have countless functions in reflective thought and creative idea generation, invaluable processes for anyone. There are treasure troves of research on the default mode network and its countless functions, from moral reasoning to theory of mind. I highly recommend reading the literature if you’re interested.</p>
+<p>I have spent five years trying to give myself more time in default mode, to reflect and process ideas, to think without a fixed goal. I always thought the answer was automation. The more I automate, the more time I save, and the more time I have to do the things I want to do. In this endless pursuit of automation, I never stopped to wonder if there was a way to work while thinking about the things I wanted. Five years later, I finally have the solution. I’ll still take plenty of actual breaks, and I won’t stop automating, but I don’t need to fear repetition anymore. There’s a beautiful simplicity in repetition, one that I am ready to learn.</p>
+<hr>
+<h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ol>
+<li><a href="https://trends.google.com/trends/explore?date=today%205-y&geo=US&q=automate&hl=en">Google Trend for “automate” (it’s going up)</a></li>
+<li><a href="https://automatetheboringstuff.com/">Automate the Boring Stuff with Python</a></li>
+<li><a href="https://www.nationalgeographic.co.uk/history-and-civilisation/2022/08/the-science-of-why-you-have-great-ideas-in-the-shower">Nat Geo piece on Default Mode Network</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Default_mode_network">Default Mode Network</a></li>
+</ol>
 ]]></content>
   </entry>
   <entry>
@@ -678,26 +718,6 @@
 ]]></content>
   </entry>
   <entry>
-    <title>On Repetition</title>
-    <url>/on-repetition/</url>
-    <content><![CDATA[<p>I can recall quite clearly a moment from five years ago. The blinding summer sun beamed through my open bedroom window. The smell of fresh flowers filled the air as the humidity clung tight around my body. I closed my eyes, breathed in the sweet, heavy air, and opened my laptop to study Python programming. I could have spent my summer an infinite number of ways, and I chose to learn Python through a practical course: Automate the Boring Stuff with Python. Python and automation were the future, so I had to be prepared. Automate the Boring Stuff began my five-year journey of automation. As I progressed through projects, internships, and a degree in computer science, automation became a sort of faith. Anything that felt remotely repetitive was automated, even if it didn’t need to be. For me, automation became… automatic.</p>
-<p>Over the past week, I worked on a project full of nonstop repetition, much to the dismay of my former self. Over the span of about 4 days, an artist and I cut 125 ft of fabric and stitched over 200 ft of seams. Those cuts and seams were all straight lines too: no variation. I worked long days for no pay on a project I will never see or be credited with. I carried around heavy rolls of material, got poked by pins, and performed the same, repetitive tasks over and over and over.</p>
-<p>And I loved it.</p>
-<p>To be clear, I didn’t enjoy the process because of the final product, nor did I gain anything I could put on my resume. I didn’t learn any skills or improve the ones I already had. If those hours I spent on the project did not exist, my life would not be at all different from what it is now. The process wasn’t particularly enjoyable, and while I care about my friend—the artist—I could still help him out without enjoying the process, but I didn’t.</p>
-<p>It doesn’t seem like I should have enjoyed such a repetitive project, yet I did because repetition did something five years of automation could never do. Repetition gave my mind a break. When you’re constantly automating systems, you trade mental energy for physical energy and time. Automation requires a lot of planning at the onset, but once it’s running, you’re free to spend your newfound free time however you please. For me, that meant more work. More work means more automation. This constant cycle of automation leaves only the most mentally demanding tasks left to complete—the ones with no repetition. Five years of automation meant that I spent the vast majority of my working time intensely using my brain while giving my body a break.</p>
-<p>This system works for a while, but eventually, your mind gets fatigued, and you can’t make progress without giving yourself a break. At first, I thought the only way to give my mind a break was to stop working, but I now realize that doesn’t have to be the case. While spending hours on repetitive tasks, my body went on autopilot. My hands learned the process, and my mind was left untethered. I felt like I was taking a break, yet I was still working.</p>
-<p>This feeling isn’t particularly uncommon in daily life. It’s the same feeling you get when you take a shower or drive your daily commute. In 2001, Dr. Marcus Raichle coined the term “default mode” for this resting-state brain function. To me, “default mode” feels like a misnomer because there is nothing default about this mode, my brain is rarely there. The default mode network has been shown to have countless functions in reflective thought and creative idea generation, invaluable processes for anyone. There are treasure troves of research on the default mode network and its countless functions, from moral reasoning to theory of mind. I highly recommend reading the literature if you’re interested.</p>
-<p>I have spent five years trying to give myself more time in default mode, to reflect and process ideas, to think without a fixed goal. I always thought the answer was automation. The more I automate, the more time I save, and the more time I have to do the things I want to do. In this endless pursuit of automation, I never stopped to wonder if there was a way to work while thinking about the things I wanted. Five years later, I finally have the solution. I’ll still take plenty of actual breaks, and I won’t stop automating, but I don’t need to fear repetition anymore. There’s a beautiful simplicity in repetition, one that I am ready to learn.</p>
-<hr>
-<h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ol>
-<li><a href="https://trends.google.com/trends/explore?date=today%205-y&geo=US&q=automate&hl=en">Google Trend for “automate” (it’s going up)</a></li>
-<li><a href="https://automatetheboringstuff.com/">Automate the Boring Stuff with Python</a></li>
-<li><a href="https://www.nationalgeographic.co.uk/history-and-civilisation/2022/08/the-science-of-why-you-have-great-ideas-in-the-shower">Nat Geo piece on Default Mode Network</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Default_mode_network">Default Mode Network</a></li>
-</ol>
-]]></content>
-  </entry>
-  <entry>
     <title>Praise</title>
     <url>/praise/</url>
     <content><![CDATA[<p>Over the past few months, I’ve been sharing my art with a community of origamists called Origami-Dan. Origami-Dan is a server with over 4,000 members, and a few hundred are pretty active. Some of the best origamists in the world come here to talk about art and share their passion for paper-folding. Since I was getting into design work, I thought I’d start sharing what I make here. People could let me know what they liked, what they didn’t, potential improvements, etc. It seemed like a pretty innocuous idea.</p>
@@ -745,6 +765,20 @@
 ]]></content>
   </entry>
   <entry>
+    <title>Reaching Out to Old Friends</title>
+    <url>/reaching-out-to-old-friends/</url>
+    <content><![CDATA[<p>Around March of 2020, I lost contact with a lot of friends. High school was ending, COVID was starting, and so many people I kept up with were no longer in my life. One of those people lives on the East Coast, and we compete in the same sport. I had the opportunity to compete in a tournament in the Eastern League, so I texted him, asking if he would be there. Unfortunately, he couldn’t make it, so we texted for a bit, but that was about it. </p>
+<p>When the day of the tournament arrived, I was absolutely overwhelmed. The Midwest doesn’t have a strong, competitive scene, so I hadn’t competed at the collegiate level before this. Our team of five competitors walks into a gym with over 650 athletes, and we stand at the entrance, stunned for a bit before gathering our bearings and finding a place to get set up. We started warming up, but the opening ceremonies cut us off earlier than I hoped. Immediately after opening ceremonies, we’re up to compete, so we head to our ring and finish warming up as best we can. My opponents are seeded to be in the top 4, so I don’t expect to win. I remind myself I’m here to learn, but that doesn’t stop me from shaking nervously. Although I am acutely aware of every mistake I am making, I can’t stop. It’s everything I can do to finish the round. Needless to say, we lost very decisively.</p>
+<p>Later on, I run into my opponents from earlier. They’re very friendly, and though we only talk briefly, I’m reminded of why I came to this tournament. I came here to learn, so that’s what I do. I watch as many rounds as I can, learning how competitors, referees, judges, and coaches all fit into each round. I study how other competitors warm up and interact with their coaches. I keep track of how different refs run their rings differently. I make conversation with other spectators to ask them questions. Later, I get a chance to fill a minor judging role, so I take it. It doesn’t start well, but I keep learning, and the ref compliments me on improving in those few hours.</p>
+<p>Once I get a break, I stand off to the side, staring vacantly at a round, when someone taps me on the shoulder.</p>
+<p>“Hey, weird question, are you from Chicago?” the stranger asks me.</p>
+<p>“I am. What’s up?”</p>
+<p>“Do you happen to know someone named—“</p>
+<p>“Yeah! How’d you find me?” I don’t need him to finish the sentence because I realize he’s one of my high school friend’s teammates. I do feel a little bad for cutting him off, but what happens happens. Turns out, he was sent a photo of me and told to find me at the tournament. After chatting for a bit, we take a photo together to send back to our friend. A few hours later, my team packs up, and we leave.</p>
+<p>Being confused and trying to learn for the whole day was much more exhausting than I expected, but it was entirely worth it. I won’t have a collegiate career for much longer, but hopefully, I can convince the rest of my team to start competing. I’ll share with them all the incredible stories I remember from that day in hopes that they want to experience it all firsthand. That may take a while, so for now, I’ll fill my time by reaching out to old friends.</p>
+]]></content>
+  </entry>
+  <entry>
     <title>Shortest English Sentence</title>
     <url>/shortest-english-sentence/</url>
     <content><![CDATA[<p>In a previous archive, I demonstrated how <a href="/run-on-sentences/">sentences can go on for as long as you want</a>, but today, I want to find out just how short they can get. </p>
@@ -761,20 +795,6 @@
 <li><a href="https://www.ling.upenn.edu/courses/ling5700/Chomsky1957.pdf"><em>Syntactic Structures</em>, Noam Chomsky</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Sentence_(linguistics)">Sentence</a></li>
 </ol>
-]]></content>
-  </entry>
-  <entry>
-    <title>Reaching Out to Old Friends</title>
-    <url>/reaching-out-to-old-friends/</url>
-    <content><![CDATA[<p>Around March of 2020, I lost contact with a lot of friends. High school was ending, COVID was starting, and so many people I kept up with were no longer in my life. One of those people lives on the East Coast, and we compete in the same sport. I had the opportunity to compete in a tournament in the Eastern League, so I texted him, asking if he would be there. Unfortunately, he couldn’t make it, so we texted for a bit, but that was about it. </p>
-<p>When the day of the tournament arrived, I was absolutely overwhelmed. The Midwest doesn’t have a strong, competitive scene, so I hadn’t competed at the collegiate level before this. Our team of five competitors walks into a gym with over 650 athletes, and we stand at the entrance, stunned for a bit before gathering our bearings and finding a place to get set up. We started warming up, but the opening ceremonies cut us off earlier than I hoped. Immediately after opening ceremonies, we’re up to compete, so we head to our ring and finish warming up as best we can. My opponents are seeded to be in the top 4, so I don’t expect to win. I remind myself I’m here to learn, but that doesn’t stop me from shaking nervously. Although I am acutely aware of every mistake I am making, I can’t stop. It’s everything I can do to finish the round. Needless to say, we lost very decisively.</p>
-<p>Later on, I run into my opponents from earlier. They’re very friendly, and though we only talk briefly, I’m reminded of why I came to this tournament. I came here to learn, so that’s what I do. I watch as many rounds as I can, learning how competitors, referees, judges, and coaches all fit into each round. I study how other competitors warm up and interact with their coaches. I keep track of how different refs run their rings differently. I make conversation with other spectators to ask them questions. Later, I get a chance to fill a minor judging role, so I take it. It doesn’t start well, but I keep learning, and the ref compliments me on improving in those few hours.</p>
-<p>Once I get a break, I stand off to the side, staring vacantly at a round, when someone taps me on the shoulder.</p>
-<p>“Hey, weird question, are you from Chicago?” the stranger asks me.</p>
-<p>“I am. What’s up?”</p>
-<p>“Do you happen to know someone named—“</p>
-<p>“Yeah! How’d you find me?” I don’t need him to finish the sentence because I realize he’s one of my high school friend’s teammates. I do feel a little bad for cutting him off, but what happens happens. Turns out, he was sent a photo of me and told to find me at the tournament. After chatting for a bit, we take a photo together to send back to our friend. A few hours later, my team packs up, and we leave.</p>
-<p>Being confused and trying to learn for the whole day was much more exhausting than I expected, but it was entirely worth it. I won’t have a collegiate career for much longer, but hopefully, I can convince the rest of my team to start competing. I’ll share with them all the incredible stories I remember from that day in hopes that they want to experience it all firsthand. That may take a while, so for now, I’ll fill my time by reaching out to old friends.</p>
 ]]></content>
   </entry>
   <entry>
@@ -833,6 +853,24 @@
 ]]></content>
   </entry>
   <entry>
+    <title>Square One</title>
+    <url>/square-one/</url>
+    <content><![CDATA[<p>After another set of fruitless experiments and abandoned ideas, my mentor told me we were back to square one.</p>
+<p>“Quick question,” I interjected, “Where exactly <em>is</em> square one?”</p>
+<p>Some sources claim square one is on the football pitch. In the 1930s, BBC radio sports commentators divided the pitch into eight sections, with square one at the bottom right corner. Others claim square one comes from hopscotch or snakes and ladders. Regardless of the game, being at square one puts you at the beginning with no progress. </p>
+<p>Square-1 is also the name of a puzzle derived from the Rubik’s Cube. For practiced cubers, solving a Square-1 can become incredibly straightforward. </p>
+<p>My mentor and I didn’t feel like we were at square one. Sure, we were at the beginning, but being at square one implies square two is just ahead. Every time we returned to the beginning, we were too disoriented to know where to look first. Much of our progress felt sideways or backwards. </p>
+<p>On a lesser note, computer scientists don’t begin counting with one; they begin counting with zero. </p>
+<p>In that meeting, in front of the drawing board, we made a decision. We were not at square one. We were at circle zero. Eventually, circle zero became familiar. Sure, it was mischievous, and at times confusing, but it no longer felt new. Whenever we left, we never worried about saying goodbye; we would be back eventually.</p>
+<p>For most people, today is square one. Today’s square on the Gregorian calendar is the first day of first month. As such, I wish you all a happy circle zero.</p>
+<hr>
+<h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ol>
+<li><a href="https://en.wikipedia.org/wiki/Square-1_(puzzle)">Square-1 Puzzle</a></li>
+<li>The discourse surrounding the etymology of “square one” lacks enough rigor to warrant any particular links. Instead, a Google search for “origin of square one” will provide plenty of questionable sources offering one of the three explanations listed above.</li>
+</ol>
+]]></content>
+  </entry>
+  <entry>
     <title>Taking Silly Ideas Seriously</title>
     <url>/taking-silly-ideas-seriously/</url>
     <content><![CDATA[<p>Since 2007, the Association for Computational Heresy has celebrated the sillier side of academic research through the annual SIGBOVIK conference. As their website states, “SIGBOVIK is an evening of tongue-in-cheek academic presentations, a venue for silly ideas and&#x2F;or executions.” This interdisciplinary computer science conference invites three categories of research: “joke realizations of joke ideas, joke realizations of serious ideas, and serious realizations of joke ideas.” While all three quadrants offer exciting opportunities, I’m particularly intrigued by the last one: serious realizations of joke ideas. Fully understanding this quadrant requires understanding the two parts individually.</p>
@@ -854,20 +892,25 @@
 ]]></content>
   </entry>
   <entry>
-    <title>Square One</title>
-    <url>/square-one/</url>
-    <content><![CDATA[<p>After another set of fruitless experiments and abandoned ideas, my mentor told me we were back to square one.</p>
-<p>“Quick question,” I interjected, “Where exactly <em>is</em> square one?”</p>
-<p>Some sources claim square one is on the football pitch. In the 1930s, BBC radio sports commentators divided the pitch into eight sections, with square one at the bottom right corner. Others claim square one comes from hopscotch or snakes and ladders. Regardless of the game, being at square one puts you at the beginning with no progress. </p>
-<p>Square-1 is also the name of a puzzle derived from the Rubik’s Cube. For practiced cubers, solving a Square-1 can become incredibly straightforward. </p>
-<p>My mentor and I didn’t feel like we were at square one. Sure, we were at the beginning, but being at square one implies square two is just ahead. Every time we returned to the beginning, we were too disoriented to know where to look first. Much of our progress felt sideways or backwards. </p>
-<p>On a lesser note, computer scientists don’t begin counting with one; they begin counting with zero. </p>
-<p>In that meeting, in front of the drawing board, we made a decision. We were not at square one. We were at circle zero. Eventually, circle zero became familiar. Sure, it was mischievous, and at times confusing, but it no longer felt new. Whenever we left, we never worried about saying goodbye; we would be back eventually.</p>
-<p>For most people, today is square one. Today’s square on the Gregorian calendar is the first day of first month. As such, I wish you all a happy circle zero.</p>
+    <title>The AI Summer: Part 1</title>
+    <url>/the-ai-summer-part-1/</url>
+    <content><![CDATA[<p>Well, my little cousin is using large language models to do his homework for him, my aunt makes Facebook posts with images from diffusion models, and I just deepfaked my voice in 5 minutes. That sentence sounds impossible, but the AI revolution has made it all too real. Some argue the AI revolution started in November of 2022, when ChatGPT was first released. Others say it started with Dall-E in early 2021. I say it started in 1958, but not with any big, fancy machine learning models. It started with the Perceptron.</p>
+<p>The Perceptron is the predecessor of all deep learning models. Before our modern neural networks with hundreds of hidden layers and fancy activation functions, there was a single-layer, linear network called the Perceptron. Designed by Warren McCulloch and Walter Pitts in 1943, it took 15 years before it was actually built by Frank Rosenblatt in 1958. Made to be a standalone machine, the Mark 1 Perceptron used an array of 20x20 photocells for the input, potentiometers to encode the weights, and electric motors to adjust the weights. One of the first things it learned was how to tell left from right. </p>
+<p>Rosenblatt envisioned a future, one where machines could understand language and see the world around us. His innovative work sparked uncertainty for the future, and where there is uncertainty, there is skepticism. Minsky and Papert provided a strong counterexample to the power of the Perceptron: it could not learn the XOR gate. Essentially, given two objects—each one either a “yes” or a “no”—the Perceptron would not be able to tell you whether they were the same. Even for problems it could solve, the Perceptron required far more computing power than was possible at the time. This gave skeptics the upper hand. A few years later, scientists entered the first AI winter. Funding was down and interest was low. The field stalled.</p>
+<p>The AI winter provided no incentive to consider the impacts of the potentially groundbreaking field. Companies didn’t anticipate how AI might impact them, and the law gave no specific consideration to such technologies. Because no one really cared to make any decisions, an AI future remained entirely uncertain. Rather than consider the implications and consequences, almost everyone deemed such decision-making unnecessary. Sure, calling Rosenblatt’s future nonsense sounded strong and resolute, but no problem has ever been answered by pretending it didn’t exist. The uncertain future of AI remained, but it was pawned off to the next generations as a problem for later.</p>
+<p>To the dismay of many, Rosenblatt was right. We are living through the AI revolution. Everyone with internet has access to state-of-the-art models, and they continue to transform how so many of us approach work and play in our everyday lives. Conversations about AI are no longer hypothetical. Businesses are transforming, the Senate is having hearings, and grassroots movements are growing because AI hit us hard, and we didn’t anticipate the impact. The uncertainty built over 60 years has finally broken free from the chains of hypotheticals and entered reality. </p>
+<p>And now, in our AI summer, we are woefully underprepared to deal with any of the consequences of AI. Yes, we have money and resources and attention pointing directly at this technology, but we remain almost as uncertain as we were a few decades ago. In this time, plenty have created theories about approaches to AI, but most were in the context of sentient machines. While I’m certainly thankful for that preparation for when the time comes, AI right now isn’t alive, it’s just fancy statistics. Issues of copyright and stolen data and plagiarism plague modern discussions of AI, and almost none have truly been resolved.   </p>
+<p>I sometimes wonder if this uncertainty is the price we pay for technological advancement. Almost no one batted an eyelid when LAION and CommonCrawl started building their massive datasets. Before ChatGPT, GPT-3 was already wildly powerful, writing an entire Batman movie script. GANs could do text-to-image generation well before Stable Diffusion. Few people asked if we should stop to reflect on these developments. I suppose, the longer we ignored the voices telling us to stop, the faster we could develop this technology. We paid for our speed by ignoring the uncertainty. When organizations released AI into the wild with few provisions or plans, it was already too late.</p>
+<p>To be clear, I would never expect anyone to anticipate everything that AI would bring. For the average internet user, the limits of what is possible have changed dramatically, and the evolutions of this technology continue to be unfathomable. Besides, we got a head start on some issues—like self-driving cars—but that still isn’t enough. With AI accessible to all, everyone is left to answer the uncertainty. Schools, healthcare, legislatures, companies small and large, everyone must now grapple with how to continue their lives in this once impossible future—in Rosenblatt’s future.</p>
+<p>The AI summer is heating up, and we’re flying too close to the sun. Try not to get burned.</p>
 <hr>
 <h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ol>
-<li><a href="https://en.wikipedia.org/wiki/Square-1_(puzzle)">Square-1 Puzzle</a></li>
-<li>The discourse surrounding the etymology of “square one” lacks enough rigor to warrant any particular links. Instead, a Google search for “origin of square one” will provide plenty of questionable sources offering one of the three explanations listed above.</li>
+<li><a href="https://doi.org/10.1177/030631296026003005">A Sociological Study of the Official History of the Perceptrons Controversy</a></li>
+<li><a href="https://archive.org/details/perceptronsintro00mins">Perceptrons. Minsky and Papert.</a></li>
+<li><a href="https://news.cornell.edu/stories/2019/09/professors-perceptron-paved-way-ai-60-years-too-soon">Professor’s Perceptron Paved the Way for AI – 60 Years Too Soon</a></li>
+<li><a href="https://commoncrawl.org/">CommonCrawl</a></li>
+<li><a href="https://laion.ai/blog/laion-5b/">LAION-5B</a></li>
+<li><a href="https://twitter.com/KeatonPatti/status/1161284670601990146">AI Batman Script from 2019</a></li>
 </ol>
 ]]></content>
   </entry>
@@ -913,29 +956,6 @@
 <li><a href="https://tauday.com/">The Official Tau Day Website</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Tau_(particle)">The Tau Particle</a></li>
 <li><a href="https://www.alz.org/media/Documents/alzheimers-dementia-tau-ts.pdf">Tau in Alzheimer’s Research</a></li>
-</ol>
-]]></content>
-  </entry>
-  <entry>
-    <title>The AI Summer: Part 1</title>
-    <url>/the-ai-summer-part-1/</url>
-    <content><![CDATA[<p>Well, my little cousin is using large language models to do his homework for him, my aunt makes Facebook posts with images from diffusion models, and I just deepfaked my voice in 5 minutes. That sentence sounds impossible, but the AI revolution has made it all too real. Some argue the AI revolution started in November of 2022, when ChatGPT was first released. Others say it started with Dall-E in early 2021. I say it started in 1958, but not with any big, fancy machine learning models. It started with the Perceptron.</p>
-<p>The Perceptron is the predecessor of all deep learning models. Before our modern neural networks with hundreds of hidden layers and fancy activation functions, there was a single-layer, linear network called the Perceptron. Designed by Warren McCulloch and Walter Pitts in 1943, it took 15 years before it was actually built by Frank Rosenblatt in 1958. Made to be a standalone machine, the Mark 1 Perceptron used an array of 20x20 photocells for the input, potentiometers to encode the weights, and electric motors to adjust the weights. One of the first things it learned was how to tell left from right. </p>
-<p>Rosenblatt envisioned a future, one where machines could understand language and see the world around us. His innovative work sparked uncertainty for the future, and where there is uncertainty, there is skepticism. Minsky and Papert provided a strong counterexample to the power of the Perceptron: it could not learn the XOR gate. Essentially, given two objects—each one either a “yes” or a “no”—the Perceptron would not be able to tell you whether they were the same. Even for problems it could solve, the Perceptron required far more computing power than was possible at the time. This gave skeptics the upper hand. A few years later, scientists entered the first AI winter. Funding was down and interest was low. The field stalled.</p>
-<p>The AI winter provided no incentive to consider the impacts of the potentially groundbreaking field. Companies didn’t anticipate how AI might impact them, and the law gave no specific consideration to such technologies. Because no one really cared to make any decisions, an AI future remained entirely uncertain. Rather than consider the implications and consequences, almost everyone deemed such decision-making unnecessary. Sure, calling Rosenblatt’s future nonsense sounded strong and resolute, but no problem has ever been answered by pretending it didn’t exist. The uncertain future of AI remained, but it was pawned off to the next generations as a problem for later.</p>
-<p>To the dismay of many, Rosenblatt was right. We are living through the AI revolution. Everyone with internet has access to state-of-the-art models, and they continue to transform how so many of us approach work and play in our everyday lives. Conversations about AI are no longer hypothetical. Businesses are transforming, the Senate is having hearings, and grassroots movements are growing because AI hit us hard, and we didn’t anticipate the impact. The uncertainty built over 60 years has finally broken free from the chains of hypotheticals and entered reality. </p>
-<p>And now, in our AI summer, we are woefully underprepared to deal with any of the consequences of AI. Yes, we have money and resources and attention pointing directly at this technology, but we remain almost as uncertain as we were a few decades ago. In this time, plenty have created theories about approaches to AI, but most were in the context of sentient machines. While I’m certainly thankful for that preparation for when the time comes, AI right now isn’t alive, it’s just fancy statistics. Issues of copyright and stolen data and plagiarism plague modern discussions of AI, and almost none have truly been resolved.   </p>
-<p>I sometimes wonder if this uncertainty is the price we pay for technological advancement. Almost no one batted an eyelid when LAION and CommonCrawl started building their massive datasets. Before ChatGPT, GPT-3 was already wildly powerful, writing an entire Batman movie script. GANs could do text-to-image generation well before Stable Diffusion. Few people asked if we should stop to reflect on these developments. I suppose, the longer we ignored the voices telling us to stop, the faster we could develop this technology. We paid for our speed by ignoring the uncertainty. When organizations released AI into the wild with few provisions or plans, it was already too late.</p>
-<p>To be clear, I would never expect anyone to anticipate everything that AI would bring. For the average internet user, the limits of what is possible have changed dramatically, and the evolutions of this technology continue to be unfathomable. Besides, we got a head start on some issues—like self-driving cars—but that still isn’t enough. With AI accessible to all, everyone is left to answer the uncertainty. Schools, healthcare, legislatures, companies small and large, everyone must now grapple with how to continue their lives in this once impossible future—in Rosenblatt’s future.</p>
-<p>The AI summer is heating up, and we’re flying too close to the sun. Try not to get burned.</p>
-<hr>
-<h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ol>
-<li><a href="https://doi.org/10.1177/030631296026003005">A Sociological Study of the Official History of the Perceptrons Controversy</a></li>
-<li><a href="https://archive.org/details/perceptronsintro00mins">Perceptrons. Minsky and Papert.</a></li>
-<li><a href="https://news.cornell.edu/stories/2019/09/professors-perceptron-paved-way-ai-60-years-too-soon">Professor’s Perceptron Paved the Way for AI – 60 Years Too Soon</a></li>
-<li><a href="https://commoncrawl.org/">CommonCrawl</a></li>
-<li><a href="https://laion.ai/blog/laion-5b/">LAION-5B</a></li>
-<li><a href="https://twitter.com/KeatonPatti/status/1161284670601990146">AI Batman Script from 2019</a></li>
 </ol>
 ]]></content>
   </entry>
@@ -1078,6 +1098,23 @@
 ]]></content>
   </entry>
   <entry>
+    <title>The End of Pi</title>
+    <url>/the-end-of-pi/</url>
+    <content><![CDATA[<p>I’m fed up with you, π. I get it, you’re the ratio of the circumference to the diameter, good for you. But that isn’t enough for you, is it? No, you need to make sure <strong>everyone</strong> knows exactly who you are. You needed a day in your honor and competitions just for you. Was memorizing 100,000 of your digits not enough? No, of course not. It will never be enough. You are never ending.</p>
+<p>If human memorization isn’t enough, surely calculating trillions of digits should suffice. Is 663 terabytes enough space for you? Is 864 GB of RAM enough memory for you? Is nearly half a year of continuous computing enough time for you? Calculating digits of you has cost humans thousands of computing hours on the world’s best cloud servers, and I don’t blame them. They, like everyone else, have become sucked into this never-ending cycle of discovering more, learning more, doing more for you.</p>
+<p>You know what I think, π? I don’t think this is actually what you want. Clearly, there is a hole in you, a circular void, but these fruitless attempts at getting closer to the end aren’t what you truly desire. Everyone knows 3.14, and a lot of people know 3.1415, but how many people care that the next digit is 9? Even for those that do, they will still say 3.1415, and I’m sure that stings. Rather than appreciate a nice approximation and round to 3.1416, your loving followers are blinded by your never-ending being. Every digit we calculate gives us exponentially less information. All the while, we ignore the beauty in front of us. How many can say they have truly appreciated the 9 in the fifth decimal place of your expansion?</p>
+<p>Every approximation we can fathom is finite. They will all be finite because your decimal expansion contains more information than we could store in every atom of the universe. Rather than fail to attempt to appreciate your unending presence, we should enjoy the finite. Bask in the glory of the approximations and reflect on how even good things can end. Round to the fourth decimal place rather than forever waiting for the fifth. Maybe then, we can finally see the end of π.</p>
+<hr>
+<h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ol>
+<li><a href="https://en.wikipedia.org/wiki/Chronology_of_computation_of_%CF%80">Chronology of Computation of π</a></li>
+<li><a href="http://www.numberworld.org/y-cruncher/">y-cruncher for computing π</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Emma_Haruka_Iwao">Emma Haruka Iwao, Current Record Holder for Computing Digits</a></li>
+<li><a href="https://www.theguardian.com/science/alexs-adventures-in-numberland/2015/mar/13/pi-day-2015-memory-memorisation-world-record-japanese-akira-haraguchi">Akira Haraguchi Memorized +100k digits</a></li>
+<li><a href="https://blog.timothymullican.com/calculating-pi-my-attempt-breaking-pi-record">Timothy Mullican, Prev Record Holder for Computing Digits</a></li>
+</ol>
+]]></content>
+  </entry>
+  <entry>
     <title>The Flaw in Every Calculator</title>
     <url>/the-flaw-in-every-calculator/</url>
     <content><![CDATA[<p>Over the past few months, people have been approaching me as if I am an expert on security and AI. They ask me questions like, “Will you build an AI for my startup?”, “Is ChatGPT stealing my data?”, “How does Midjourney work?”.*</p>
@@ -1135,23 +1172,6 @@
 ]]></content>
   </entry>
   <entry>
-    <title>The End of Pi</title>
-    <url>/the-end-of-pi/</url>
-    <content><![CDATA[<p>I’m fed up with you, π. I get it, you’re the ratio of the circumference to the diameter, good for you. But that isn’t enough for you, is it? No, you need to make sure <strong>everyone</strong> knows exactly who you are. You needed a day in your honor and competitions just for you. Was memorizing 100,000 of your digits not enough? No, of course not. It will never be enough. You are never ending.</p>
-<p>If human memorization isn’t enough, surely calculating trillions of digits should suffice. Is 663 terabytes enough space for you? Is 864 GB of RAM enough memory for you? Is nearly half a year of continuous computing enough time for you? Calculating digits of you has cost humans thousands of computing hours on the world’s best cloud servers, and I don’t blame them. They, like everyone else, have become sucked into this never-ending cycle of discovering more, learning more, doing more for you.</p>
-<p>You know what I think, π? I don’t think this is actually what you want. Clearly, there is a hole in you, a circular void, but these fruitless attempts at getting closer to the end aren’t what you truly desire. Everyone knows 3.14, and a lot of people know 3.1415, but how many people care that the next digit is 9? Even for those that do, they will still say 3.1415, and I’m sure that stings. Rather than appreciate a nice approximation and round to 3.1416, your loving followers are blinded by your never-ending being. Every digit we calculate gives us exponentially less information. All the while, we ignore the beauty in front of us. How many can say they have truly appreciated the 9 in the fifth decimal place of your expansion?</p>
-<p>Every approximation we can fathom is finite. They will all be finite because your decimal expansion contains more information than we could store in every atom of the universe. Rather than fail to attempt to appreciate your unending presence, we should enjoy the finite. Bask in the glory of the approximations and reflect on how even good things can end. Round to the fourth decimal place rather than forever waiting for the fifth. Maybe then, we can finally see the end of π.</p>
-<hr>
-<h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ol>
-<li><a href="https://en.wikipedia.org/wiki/Chronology_of_computation_of_%CF%80">Chronology of Computation of π</a></li>
-<li><a href="http://www.numberworld.org/y-cruncher/">y-cruncher for computing π</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Emma_Haruka_Iwao">Emma Haruka Iwao, Current Record Holder for Computing Digits</a></li>
-<li><a href="https://www.theguardian.com/science/alexs-adventures-in-numberland/2015/mar/13/pi-day-2015-memory-memorisation-world-record-japanese-akira-haraguchi">Akira Haraguchi Memorized +100k digits</a></li>
-<li><a href="https://blog.timothymullican.com/calculating-pi-my-attempt-breaking-pi-record">Timothy Mullican, Prev Record Holder for Computing Digits</a></li>
-</ol>
-]]></content>
-  </entry>
-  <entry>
     <title>The Mortifying Ordeal of Being Perceived</title>
     <url>/the-mortifying-ordeal-of-being-perceived/</url>
     <content><![CDATA[<p><em>The following is a transcript from a recent episode of the <a href="https://jonikpodcast.github.io/">Jonik Podcast</a>.</em></p>
@@ -1200,6 +1220,20 @@
 <li><a href="https://arxiv.org/abs/2310.20216">ELIZA Beat GPT-3.5 in a Turing Test</a></li>
 </ol>
 <h2 id="The-ELIZA-Algorithm"><a href="#The-ELIZA-Algorithm" class="headerlink" title="The ELIZA Algorithm"></a>The ELIZA Algorithm</h2><figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">def</span> <span class="title function_">respond</span>(<span class="params">self, statement</span>):</span><br><span class="line">    <span class="keyword">for</span> pattern, responses <span class="keyword">in</span> self.patterns:</span><br><span class="line">        <span class="keyword">match</span> = re.search(pattern, statement.strip(<span class="string">&quot; .!?&quot;</span>), re.IGNORECASE)</span><br><span class="line">        <span class="keyword">if</span> <span class="keyword">match</span>:</span><br><span class="line">            response = random.choice(responses).<span class="built_in">format</span>(*<span class="keyword">match</span>.groups())</span><br><span class="line">            <span class="keyword">return</span> response</span><br><span class="line">    <span class="keyword">return</span> self.default</span><br></pre></td></tr></table></figure>]]></content>
+  </entry>
+  <entry>
+    <title>The Test Tree</title>
+    <url>/the-test-tree/</url>
+    <content><![CDATA[<img src="/images/test_tree.png" alt="Test Tree, by Ronik Bhaskar.">
+
+<hr>
+<p>I think, to some extent, we are all afraid of tech companies stealing our data. It’s most evident when we’re talking about something, like needing a new coffee table, and suddenly our feeds are covered in ads for coffee tables. This fear manifests itself in other ways too, from facial recognition working a bit too well to AIs that seem to have read the entire internet. It’s a justified fear. Data theft and data abuse pose real, personal risks to almost everyone. For me, however, data theft is not just a personal risk; it’s an occupational hazard.</p>
+<p>In my work, I spend a lot of time testing AI or AI-related tools. Most of the time, those tools are internal, like <a href="https://glaze.cs.uchicago.edu/webglaze.html">Glaze</a>, so I don’t have to worry about my data being misused. In a recent <a href="https://arxiv.org/abs/2402.03214">project</a>, though, I had to test commercial products, and I had no control over how my data was used. </p>
+<p>Early in the project, as I was doing some initial experiments, I realized I didn’t have any images I could safely feed AI. They were all photos of either people or places in my life, and those seemed a bit too personal. So, I pulled out my phone and used my finger to draw a quick tree. It took about two minutes, and it didn’t look very good, but I had no attachment to it, and I was more than happy to feed it to some monstrous training datasets. </p>
+<p>And so, I did. I ran countless experiments with that tree, testing different tools and making strange modifications. I even began using it when privacy wasn’t a concern. It has become an inside joke with people in the lab just how much I use that tree. Honestly, I can’t help it. That tree has worked with me through long nights and intense debugging sessions. It’s gone through every experimental pipeline I’ve built. My work would not be the same without it.</p>
+<p>The unfortunate reality is that this tree, with so much personal value, is now sitting in some massive training datasets, waiting to be misused by tech companies. All that testing has finally caught up with me. I tried not to use personal data when testing these tools, but the data I was using became personal. And now, it’s not just gone. It’s everywhere. Any tech company that has ever touched this image has full access to it.</p>
+<p>Ultimately, I think this is for the best. The important thing was never the tree being secret. Its presence everywhere means the protection of so many images that could have taken it’s place. Its purpose is to be stolen, to be used, to be a waste of space in a sea of sensitive data. In that way, it was never mine to begin with. It’s meant for everyone, and if you’re looking for your own test image, maybe it can be yours too.</p>
+]]></content>
   </entry>
   <entry>
     <title>Time and Travel</title>
@@ -1263,20 +1297,6 @@
 ]]></content>
   </entry>
   <entry>
-    <title>The Test Tree</title>
-    <url>/the-test-tree/</url>
-    <content><![CDATA[<img src="/images/test_tree.png" alt="Test Tree, by Ronik Bhaskar.">
-
-<hr>
-<p>I think, to some extent, we are all afraid of tech companies stealing our data. It’s most evident when we’re talking about something, like needing a new coffee table, and suddenly our feeds are covered in ads for coffee tables. This fear manifests itself in other ways too, from facial recognition working a bit too well to AIs that seem to have read the entire internet. It’s a justified fear. Data theft and data abuse pose real, personal risks to almost everyone. For me, however, data theft is not just a personal risk; it’s an occupational hazard.</p>
-<p>In my work, I spend a lot of time testing AI or AI-related tools. Most of the time, those tools are internal, like <a href="https://glaze.cs.uchicago.edu/webglaze.html">Glaze</a>, so I don’t have to worry about my data being misused. In a recent <a href="https://arxiv.org/abs/2402.03214">project</a>, though, I had to test commercial products, and I had no control over how my data was used. </p>
-<p>Early in the project, as I was doing some initial experiments, I realized I didn’t have any images I could safely feed AI. They were all photos of either people or places in my life, and those seemed a bit too personal. So, I pulled out my phone and used my finger to draw a quick tree. It took about two minutes, and it didn’t look very good, but I had no attachment to it, and I was more than happy to feed it to some monstrous training datasets. </p>
-<p>And so, I did. I ran countless experiments with that tree, testing different tools and making strange modifications. I even began using it when privacy wasn’t a concern. It has become an inside joke with people in the lab just how much I use that tree. Honestly, I can’t help it. That tree has worked with me through long nights and intense debugging sessions. It’s gone through every experimental pipeline I’ve built. My work would not be the same without it.</p>
-<p>The unfortunate reality is that this tree, with so much personal value, is now sitting in some massive training datasets, waiting to be misused by tech companies. All that testing has finally caught up with me. I tried not to use personal data when testing these tools, but the data I was using became personal. And now, it’s not just gone. It’s everywhere. Any tech company that has ever touched this image has full access to it.</p>
-<p>Ultimately, I think this is for the best. The important thing was never the tree being secret. Its presence everywhere means the protection of so many images that could have taken it’s place. Its purpose is to be stolen, to be used, to be a waste of space in a sea of sensitive data. In that way, it was never mine to begin with. It’s meant for everyone, and if you’re looking for your own test image, maybe it can be yours too.</p>
-]]></content>
-  </entry>
-  <entry>
     <title>Using Math to Make Friends</title>
     <url>/using-math-to-make-friends/</url>
     <content><![CDATA[<p>About a year ago, I realized I was showing symptoms of the latest global epidemic. It developed slowly, but by the time I noticed, the condition had already taken hold. I had become the latest casualty of what is now being dubbed the Loneliness Epidemic. </p>
@@ -1327,6 +1347,18 @@
 ]]></content>
   </entry>
   <entry>
+    <title>What is Gibberish?</title>
+    <url>/what-is-gibberish/</url>
+    <content><![CDATA[<p>Gibberish. Jibber-jabber. Gobbledygook. They’re all words for the same idea: nonsense speech. When someone is speaking gibberish, they make absolutely no sense. You can’t derive any meaning from their words. Despite the excessive amount of language being used, whether actual words or just random syllables, there is no information being conveyed. Even the message, “there is no information being conveyed” is not conveyed through gibberish. Gibberish is meaningless, and I want to know how.</p>
+<p>How is it possible to communicate nothing through your use of language? Even in the most convoluted scenarios, sequences of words always seem to carry some meaning. Take, for example, Shakespeare’s sonnets. For so many teenagers sitting in English class, Shakespeare’s sonnets are nothing but 400-year-old word vomit, yet those sonnets have shared beautiful stories to countless ears. Despite his penchant for inventing new words, Shakespeare wasn’t producing gibberish. Far from it, his works are literary masterpieces. Either that or someone is paying a lot of money to force teenagers to read his works for no reason.</p>
+<p>I don’t think gibberish is characterized by how outlandish the speech seems. Like with Shakespeare, most speech is only meaningful for the intended audience. Normal people listening to legal or medical jargon would have no idea what it means, yet legal and medical jargon are entirely meaningful. It seems that in order to produce meaningless speech, you must produce speech that has no possible audience. If there is no one that can extract meaning from the speech, then it must be meaningless.</p>
+<p>Consider the other side of this. Any speech that has an audience is meaningful, and given how much has been said over so many centuries, meaningful speech must have some relatively high probability of aligning with things that have already been said. By the contrapositive, any speech that has a low probability of aligning with things that have been said before is likely meaningless. </p>
+<p>From a practical perspective, producing improbable speech may seem like a difficult task, but with the advent of LLMs, this becomes much easier. Modern LLMs trained on the majority of the readable internet are essentially fancy probability distributions of existing text. Unfortunately, asking ChatGPT to produce improbable speech wouldn’t work, because it must produce high-probability speech by default. Just to be sure, I tested this, and it basically came up with a list of silly nouns, mostly animals, food, and space stuff, but that’s not meaningless enough, since it’s a vaguely coherent list. Instead, I modified the behavior of GPT-2 to produce low-probability text while still sticking to English, kinda. I started with the seed, “The following is gibberish:”. Here’s what it came up with.</p>
+<p>The following is gibberish:iability interior markup markup Starship markup Starshipnever Afghansaviouraviour pastenever proclamation Netherlands circumstance Starship Computingaviour bould Jackie Lady Lady Lady daytime Lady Lady pulmonary drill Harbaugh forcefully partnering dissu disciplined contradict Harbaugh dissuclaimed 323 Afghanskeyes Narr interior Weather Cookies Cookies Cookies Cookies Cookies Cookies</p>
+<p>I still have to iron out some kinks, but I do think this is a promising start. My working theorem on meaningless speech will hopefully lead to the completion of GibberishGPT, because the world clearly needs more useless LLMs.</p>
+]]></content>
+  </entry>
+  <entry>
     <title>What My Math Degree Taught Me About Life</title>
     <url>/what-my-math-degree-taught-me-about-life/</url>
     <content><![CDATA[<p>I feel like most people don’t really understand what math students learn in university. Most people tend to assume we get really good at solving for 𝑥, and that we know all the calculus rules, and that we can tell you what an 18% tip would be for a $34.50 bill off the top of our heads. The truth is that most of us don’t learn any of this during the course of our degree, or if we do, it’s only in the first year, and then never again. Disclaimer: this is from the perspective of a pure mathematician.</p>
@@ -1364,18 +1396,6 @@
 <li><a href="https://www.washingtonpost.com/video-games/2019/12/23/tuvalu-is-tiny-island-nation-people-its-cashing-thanks-twitch/">Tuvalu is a tiny island nation of 11,000 people. It’s cashing in thanks to Twitch.</a></li>
 <li><a href="https://www.forbes.com/sites/barrycollins/2024/01/31/the-tiny-caribbean-island-thats-making-a-fortune-from-ai/">The Tiny Caribbean Island That’s Making A Fortune From AI</a></li>
 </ol>
-]]></content>
-  </entry>
-  <entry>
-    <title>What is Gibberish?</title>
-    <url>/what-is-gibberish/</url>
-    <content><![CDATA[<p>Gibberish. Jibber-jabber. Gobbledygook. They’re all words for the same idea: nonsense speech. When someone is speaking gibberish, they make absolutely no sense. You can’t derive any meaning from their words. Despite the excessive amount of language being used, whether actual words or just random syllables, there is no information being conveyed. Even the message, “there is no information being conveyed” is not conveyed through gibberish. Gibberish is meaningless, and I want to know how.</p>
-<p>How is it possible to communicate nothing through your use of language? Even in the most convoluted scenarios, sequences of words always seem to carry some meaning. Take, for example, Shakespeare’s sonnets. For so many teenagers sitting in English class, Shakespeare’s sonnets are nothing but 400-year-old word vomit, yet those sonnets have shared beautiful stories to countless ears. Despite his penchant for inventing new words, Shakespeare wasn’t producing gibberish. Far from it, his works are literary masterpieces. Either that or someone is paying a lot of money to force teenagers to read his works for no reason.</p>
-<p>I don’t think gibberish is characterized by how outlandish the speech seems. Like with Shakespeare, most speech is only meaningful for the intended audience. Normal people listening to legal or medical jargon would have no idea what it means, yet legal and medical jargon are entirely meaningful. It seems that in order to produce meaningless speech, you must produce speech that has no possible audience. If there is no one that can extract meaning from the speech, then it must be meaningless.</p>
-<p>Consider the other side of this. Any speech that has an audience is meaningful, and given how much has been said over so many centuries, meaningful speech must have some relatively high probability of aligning with things that have already been said. By the contrapositive, any speech that has a low probability of aligning with things that have been said before is likely meaningless. </p>
-<p>From a practical perspective, producing improbable speech may seem like a difficult task, but with the advent of LLMs, this becomes much easier. Modern LLMs trained on the majority of the readable internet are essentially fancy probability distributions of existing text. Unfortunately, asking ChatGPT to produce improbable speech wouldn’t work, because it must produce high-probability speech by default. Just to be sure, I tested this, and it basically came up with a list of silly nouns, mostly animals, food, and space stuff, but that’s not meaningless enough, since it’s a vaguely coherent list. Instead, I modified the behavior of GPT-2 to produce low-probability text while still sticking to English, kinda. I started with the seed, “The following is gibberish:”. Here’s what it came up with.</p>
-<p>The following is gibberish:iability interior markup markup Starship markup Starshipnever Afghansaviouraviour pastenever proclamation Netherlands circumstance Starship Computingaviour bould Jackie Lady Lady Lady daytime Lady Lady pulmonary drill Harbaugh forcefully partnering dissu disciplined contradict Harbaugh dissuclaimed 323 Afghanskeyes Narr interior Weather Cookies Cookies Cookies Cookies Cookies Cookies</p>
-<p>I still have to iron out some kinks, but I do think this is a promising start. My working theorem on meaningless speech will hopefully lead to the completion of GibberishGPT, because the world clearly needs more useless LLMs.</p>
 ]]></content>
   </entry>
   <entry>
@@ -1852,6 +1872,78 @@
 
 <p>These are just my most recent works. Older ones can be found <a href="/gallery/ext">here</a>.</p>
 ]]></content>
+  </entry>
+  <entry>
+    <title>Publications</title>
+    <url>/publications/index.html</url>
+    <content><![CDATA[<p>Also see my: <a href="https://scholar.google.com/citations?user=dqTwtegAAAAJ&hl=en&oi=ao">Google Scholar</a></p>
+<h3 id="Refereed"><a href="#Refereed" class="headerlink" title="Refereed"></a>Refereed</h3><p><a href="https://arxiv.org/abs/2506.21874">On the Feasibility of Poisoning Text-to-Image AI Models via Adversarial Mislabeling</a><br>Stanley Wu, <strong>Ronik Bhaskar</strong>, Anna Yoo Jeong Ha, Shawn Shan, Haitao Zheng, Ben Y. Zhao<br><em>Conference on Computer and Communications Security (CCS), 2025.</em> </p>
+<p><a href="https://arxiv.org/abs/2402.03214">Organic or Diffused: Can We Distinguish Human Art from AI-generated Images?</a><br>Anna Yoo Jeong Ha*, Josephine Passananti*, <strong>Ronik Bhaskar</strong>, Shawn Shan, Reid Southen, Haitao Zheng, Ben Y. Zhao.<br><em>Conference on Computer and Communications Security (CCS), 2024.</em><br>☆ Distinguished Paper Award.</p>
+<p><a href="https://www.usenix.org/system/files/sec23winter-prepub-116-yang-zhuolin.pdf">Can Virtual Reality Protect Users from Keystroke Inference Attacks?</a><br>Zhuolin Yang, Zain Sarwar, Iris Hwang, <strong>Ronik Bhaskar</strong>, Ben Y. Zhao, Haitao Zheng.<br><em>USENIX Security Symposium, 2024.</em><br><a href="https://www.newscientist.com/article/2401929-ai-can-steal-passwords-in-virtual-reality-from-avatar-hand-motions/">Media Coverage</a><br><br></p>
+<h3 id="Recreational"><a href="#Recreational" class="headerlink" title="Recreational"></a>Recreational</h3><p><a href="/projects/PizzaLang.pdf">PizzaLang: A Language for Hungry Developers</a><br><strong>Ronik Bhaskar</strong>, Dawson Ren.<br><em>Proc. of SIGBOVIK, 2023.</em></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>Ronik Bhaskar</title>
+    <url>/about/index.html</url>
+    <content><![CDATA[<style>
+.profile-image-ronik {
+    width: 100%!important;
+    margin: 1rem;
+    margin-top: 0;
+    margin-left: 0;
+    float: left!important;
+}
+.side-bar-about {
+    width: min(max(25%,6rem),100%)!important;
+    /* height: 100dvh; */
+    padding: 1.5rem;
+    padding-top: 0;
+    padding-left: 0;
+    margin: 1rem;
+    margin-top: 0;
+    margin-left: 0;
+    float: left!important;
+}
+</style>
+
+<div class="side-bar-about">
+<img src="ronik_2.jpg" class="profile-image-ronik" alt="Ronik looking up at a plant."> 
+<h4>Quick Links:</h4>
+<div>
+    <a href="/publications/">Publications</a> </br>
+    <a href="https://scholar.google.com/citations?user=dqTwtegAAAAJ&hl=en&oi=ao">Google Scholar</a> </br>
+    <a href="/about/CV.pdf">CV</a> </br>
+    <a href="https://github.com/ronikbhaskar">GitHub</a>
+</div>
+</div>
+
+<p>I am a 1st year PhD student at the University of Chicago. I work in the <a href="https://sandlab.cs.uchicago.edu/index.html">SAND Lab</a> where I’m fortunate to be co-advised by Prof. <a href="http://people.cs.uchicago.edu/~htzheng/">Heather Zheng</a> and Prof. <a href="http://people.cs.uchicago.edu/~ravenben/">Ben Y. Zhao</a>. </p>
+<p>I study the security and privacy issues that arise as machine learning systems become more ubiquitous, and I leverage these insights to develop tools to empower individuals against unethical AI practices.</p>
+<!-- I'm broadly interested in security and privacy with a recent focus on adversarial machine learning. If you're a digital artist, or you're interested in generative AI, I recommend checking out [Glaze](https://glaze.cs.uchicago.edu). I'm proud to work on this project and hopefully similar ones in the future. -->
+
+<!-- While I am relatively new to research, I have made some observations. Computer security research exists in a delicate ethical space. Every discovered vulnerability is an opportunity for attack, but it is also a potential warning. Every defense offers protection to some group, but it also risks unintended side effects and consequences for future technology. As I continue my academic journey, I hope to learn how to meaningfully consider the implications of my work, regardless of the field I research. -->
+
+<h2 id="Recent-Publications"><a href="#Recent-Publications" class="headerlink" title="Recent Publications"></a>Recent Publications</h2><p>S. Wu, <strong>R, Bhaskar</strong>, A. Ha, S. Shan, H. Zheng, BY. Zhao. <a href="https://arxiv.org/abs/2506.21874">On the Feasibility of Poisoning Text-to-Image AI Models via Adversarial Mislabeling</a><br><em>Conference on Computer and Communications Security (CCS), 2025.</em></p>
+<!-- ```bash
+# My email:
+echo "cmJoYXNrYXJAdWNoaWNhZ28uZWR1Cg==" | base64 --decode
+``` -->
+
+<!-- I was never the creative one or the artistic one. I was always "that guy that's good at math." -->
+
+<!-- Then COVID hit. -->
+
+<!-- In December of 2020, a welcoming group of friends adopted me into their Discord server. We joked about building more friends, but some part of me kept whispering, *Maybe that's not a bad idea.* So, that month, I built a working [discord bot](/projects/discord_bot). His name was Igor, and despite the lack of functionality, he was full of life and personality. The server members loved him like a pet.  -->
+
+
+<!-- A few months later, while chatting about the chaos of life with some filmmakers, they mentioned the butterfly effect. I asked about the origin of the phrase, and a few hours later, I found myself stumbling down a rabbit hole of differential equations and strange attractors. A week later, I recreated Lorenz's Butterfly Effect—the beginnings of the [math art](/projects/math-art) project. -->
+
+<!-- This continued incessantly. Someone would throw out a phrase or idea, and I would run with it. As I continued creating, I started finding my voice in code. Despite everything I made, it took me months to finally call myself creative, which would have been impossible on my own. My friends reminded me that I was more than test scores and good grades, and I hope they know how grateful I am. -->
+
+<!-- Without the people closest to me providing constant support and inspiration and critiques, I wouldn't still be creating. If that's you, thanks.  -->
+
+<!-- *Add to the [dialogue](/chat), and become part of my story.* -->]]></content>
   </entry>
   <entry>
     <title>Full Stack Chat App</title>
@@ -2417,6 +2509,21 @@
 ]]></content>
   </entry>
   <entry>
+    <title>Linear Transformation Visualizer</title>
+    <url>/projects/linear_transformation_visualizer.html</url>
+    <content><![CDATA[<p>Learn a thing or two about linear algebra <a href="/linear_transformation_visualizer">here</a> (or just play with numbers).</p>
+<h2 id="Purpose"><a href="#Purpose" class="headerlink" title="Purpose"></a>Purpose</h2><p>For part of my abstract linear algebra class, we were allowed to build a piece of software related to the course material. We spent so much time looking at grids of numbers and analyzing proofs, but I wanted to <em>see</em> how it all worked. So, I took it upon myself to learn vanilla JavaScript and write a web app capable of letting me see what was happening to the space as I transformed it.</p>
+<p>Shoutout to Prof. Lanier.</p>
+<h2 id="Engineering-the-App"><a href="#Engineering-the-App" class="headerlink" title="Engineering the App"></a>Engineering the App</h2><p>I followed one tutorial on html and css and just stuck with the color scheme in the tutorial, which is why the screen is a mess of orange and blue.</p>
+<p><strong>For the frontend, I used math.js and Plotly.</strong> I wanted to make the project source lightweight, so I looked for libraries with CDNs. Plotly, while used for statistical visualizations, had a 3D mode, and vectors can be plotted as points, so translating the vectors to points &#x2F; segments to plot was not difficult. Math.js gave me access to matrix multiplication and mathematical expression interpretation, which solved the majority of my logic problems immediately.</p>
+<p><strong>The linear algebra was simple. The UI wasn’t.</strong> Coming up with pseudo-random methods of generating random matrices with certain constraints was not difficult. The matrix multiplication was already given to me by math.js. Even in my aspirations to embody one-tenth of Desmos’ quality-of-life features, the variable with the slider took little time to get working. </p>
+<p>The big issue was responsiveness. The user shouldn’t have to hit “Run” every time they make a change, because you shouldn’t be slowed down by the speed of this tool. As a result, each text area and button and checkbox has a listener to make sure that the visualizer always keeps up with what you write. </p>
+<p>And if you write an invalid state, like a matrix with empty fields, the whole visual shouldn’t shut down or change from what you had originally. Maybe you’re just making a quick edit, and that change would distract you. For this reason, if you go from a valid to invalid input state, the visualizer stays at the previous valid state. Intuitively, it makes the most sense, and keeps everything looking clean.</p>
+<p>The code is a mess, but it’s there if you want to see it: <a href="https://github.com/ronikbhaskar/linear_transformation_visualizer">https://github.com/ronikbhaskar/linear_transformation_visualizer</a></p>
+<hr>
+<p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
+  </entry>
+  <entry>
     <title>Literature DB (WIP)</title>
     <url>/projects/literature-db.html</url>
     <content><![CDATA[<p>The code can be found <a href="https://github.com/ronikbhaskar/literature-db">here</a>.</p>
@@ -2447,39 +2554,6 @@
 ]]></content>
   </entry>
   <entry>
-    <title>Linear Transformation Visualizer</title>
-    <url>/projects/linear_transformation_visualizer.html</url>
-    <content><![CDATA[<p>Learn a thing or two about linear algebra <a href="/linear_transformation_visualizer">here</a> (or just play with numbers).</p>
-<h2 id="Purpose"><a href="#Purpose" class="headerlink" title="Purpose"></a>Purpose</h2><p>For part of my abstract linear algebra class, we were allowed to build a piece of software related to the course material. We spent so much time looking at grids of numbers and analyzing proofs, but I wanted to <em>see</em> how it all worked. So, I took it upon myself to learn vanilla JavaScript and write a web app capable of letting me see what was happening to the space as I transformed it.</p>
-<p>Shoutout to Prof. Lanier.</p>
-<h2 id="Engineering-the-App"><a href="#Engineering-the-App" class="headerlink" title="Engineering the App"></a>Engineering the App</h2><p>I followed one tutorial on html and css and just stuck with the color scheme in the tutorial, which is why the screen is a mess of orange and blue.</p>
-<p><strong>For the frontend, I used math.js and Plotly.</strong> I wanted to make the project source lightweight, so I looked for libraries with CDNs. Plotly, while used for statistical visualizations, had a 3D mode, and vectors can be plotted as points, so translating the vectors to points &#x2F; segments to plot was not difficult. Math.js gave me access to matrix multiplication and mathematical expression interpretation, which solved the majority of my logic problems immediately.</p>
-<p><strong>The linear algebra was simple. The UI wasn’t.</strong> Coming up with pseudo-random methods of generating random matrices with certain constraints was not difficult. The matrix multiplication was already given to me by math.js. Even in my aspirations to embody one-tenth of Desmos’ quality-of-life features, the variable with the slider took little time to get working. </p>
-<p>The big issue was responsiveness. The user shouldn’t have to hit “Run” every time they make a change, because you shouldn’t be slowed down by the speed of this tool. As a result, each text area and button and checkbox has a listener to make sure that the visualizer always keeps up with what you write. </p>
-<p>And if you write an invalid state, like a matrix with empty fields, the whole visual shouldn’t shut down or change from what you had originally. Maybe you’re just making a quick edit, and that change would distract you. For this reason, if you go from a valid to invalid input state, the visualizer stays at the previous valid state. Intuitively, it makes the most sense, and keeps everything looking clean.</p>
-<p>The code is a mess, but it’s there if you want to see it: <a href="https://github.com/ronikbhaskar/linear_transformation_visualizer">https://github.com/ronikbhaskar/linear_transformation_visualizer</a></p>
-<hr>
-<p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>Math Art</title>
-    <url>/projects/math-art.html</url>
-    <content><![CDATA[<p>I discuss this project in my <a href="/about">about page</a>. The source code, along with an explanation of the project, can be found <a href="https://github.com/ronikbhaskar/math-art">here</a>.</p>
-<h2 id="Quick-Overview"><a href="#Quick-Overview" class="headerlink" title="Quick Overview"></a>Quick Overview</h2><p>The butterfly effect says that small changes can lead to drastically different results. This is the foundation of chaos theory. Sometimes, that chaos results in stunning patterns called strange attractors, and I’ve done my best to capture them here. It’s also what you see on the landing page of my site.</p>
-<h2 id="Strange-Attractors"><a href="#Strange-Attractors" class="headerlink" title="Strange Attractors"></a>Strange Attractors</h2><img src="math-art-gifs/static_halvorsen.gif" alt="The Halvorsen Attractor" />
-
-<br/>
-
-<img src="math-art-gifs/static_lorenz.gif" alt="The Lorenz Attractor" />
-
-<br/>
-
-<img src="math-art-gifs/static_aizawa.gif" alt="The Aizawa Attractor" />
-
-<hr>
-<p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
-  </entry>
-  <entry>
     <title>A Compass That Can Take You Anywhere</title>
     <url>/projects/locator.html</url>
     <content><![CDATA[<p><em>Bringing back the fun and adventure of the journey. Link at the bottom of the article.</em></p>
@@ -2498,6 +2572,24 @@
 <li><a href="/chatgpt-mini-projects/daylight/">a clock that only tells you how many hours of daylight you have left (meant for mobile)</a></li>
 </ol>
 ]]></content>
+  </entry>
+  <entry>
+    <title>Math Art</title>
+    <url>/projects/math-art.html</url>
+    <content><![CDATA[<p>I discuss this project in my <a href="/about">about page</a>. The source code, along with an explanation of the project, can be found <a href="https://github.com/ronikbhaskar/math-art">here</a>.</p>
+<h2 id="Quick-Overview"><a href="#Quick-Overview" class="headerlink" title="Quick Overview"></a>Quick Overview</h2><p>The butterfly effect says that small changes can lead to drastically different results. This is the foundation of chaos theory. Sometimes, that chaos results in stunning patterns called strange attractors, and I’ve done my best to capture them here. It’s also what you see on the landing page of my site.</p>
+<h2 id="Strange-Attractors"><a href="#Strange-Attractors" class="headerlink" title="Strange Attractors"></a>Strange Attractors</h2><img src="math-art-gifs/static_halvorsen.gif" alt="The Halvorsen Attractor" />
+
+<br/>
+
+<img src="math-art-gifs/static_lorenz.gif" alt="The Lorenz Attractor" />
+
+<br/>
+
+<img src="math-art-gifs/static_aizawa.gif" alt="The Aizawa Attractor" />
+
+<hr>
+<p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
   </entry>
   <entry>
     <title>Turning Obsidian into a Markdown Editor</title>
@@ -2572,20 +2664,6 @@ table, th {
 <p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
   </entry>
   <entry>
-    <title>Text Generator</title>
-    <url>/projects/text_generator.html</url>
-    <content><![CDATA[<p>Try generating some text <a href="/text_generator">here</a>. While I can’t guarantee it’ll be meaningful, it is a lot of fun.</p>
-<p>This is a combined summary of the original project in Python, and the subsequent translation to JS.</p>
-<h2 id="Background"><a href="#Background" class="headerlink" title="Background"></a>Background</h2><p>Language is weird. We keep making rules and breaking them, one phrase can mean 15 different things, and despite having tens of thousands of words at our disposal, we can’t always convey exactly what we want to.</p>
-<p>Language is weird, and I love it. Let’s say you start with the word “once.” Whenever you see “once,” you can usually follow it with “upon.” If you see “upon,” you can probably follow it with “a.” Why not generate sentences and paragraphs with probabilities?</p>
-<h2 id="Logic"><a href="#Logic" class="headerlink" title="Logic"></a>Logic</h2><p>Markov chains sound scary, but they’re not. Remember the game Snakes and Ladders? When you’re playing, you’re always on a square on the board. When you roll the dice, you have certain probabilities of moving to different squares. Some have a really high probability, like going from 1 to 6, and others are impossible, like going from 1 to 100. That’s exactly what a Markov chain is. From any given state (square), you have a given probability (dice) of moving to another state.</p>
-<p>That’s great and all, but where does language fit into this? Take that Snakes and Ladders game. Assign each square a word. Every time you land on a new word, you write it down. After playing a full game, you will have a long string of words. Some sections might sound meaningful, others might not. This project takes long pieces of text, pretends like they’re recorded games of Snakes and Ladders, and tries to rebuild the board. On that new board, you can play as many games as you’d like, and most of the time, your string of words will be different.</p>
-<h2 id="Code"><a href="#Code" class="headerlink" title="Code"></a>Code</h2><p>The web project, with the original instructions for collaborators, can be found <a href="https://github.com/ronikbhaskar/text_generator">here</a>.</p>
-<p>The original Python code can be found <a href="https://github.com/ronikbhaskar/markov_text_generation">here</a>. The README has a sample generated from Sun Tzu’s <em>The Art of War</em>.</p>
-<hr>
-<p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
-  </entry>
-  <entry>
     <title>Sum of Squares</title>
     <url>/projects/sum-of-squares.html</url>
     <content><![CDATA[<p>Play the finished game <a href="/sum-of-squares/">here</a>.</p>
@@ -2628,6 +2706,20 @@ table, th {
 <li><a href="/sum-of-squares/">Sum of Squares Game</a></li>
 </ol>
 ]]></content>
+  </entry>
+  <entry>
+    <title>Text Generator</title>
+    <url>/projects/text_generator.html</url>
+    <content><![CDATA[<p>Try generating some text <a href="/text_generator">here</a>. While I can’t guarantee it’ll be meaningful, it is a lot of fun.</p>
+<p>This is a combined summary of the original project in Python, and the subsequent translation to JS.</p>
+<h2 id="Background"><a href="#Background" class="headerlink" title="Background"></a>Background</h2><p>Language is weird. We keep making rules and breaking them, one phrase can mean 15 different things, and despite having tens of thousands of words at our disposal, we can’t always convey exactly what we want to.</p>
+<p>Language is weird, and I love it. Let’s say you start with the word “once.” Whenever you see “once,” you can usually follow it with “upon.” If you see “upon,” you can probably follow it with “a.” Why not generate sentences and paragraphs with probabilities?</p>
+<h2 id="Logic"><a href="#Logic" class="headerlink" title="Logic"></a>Logic</h2><p>Markov chains sound scary, but they’re not. Remember the game Snakes and Ladders? When you’re playing, you’re always on a square on the board. When you roll the dice, you have certain probabilities of moving to different squares. Some have a really high probability, like going from 1 to 6, and others are impossible, like going from 1 to 100. That’s exactly what a Markov chain is. From any given state (square), you have a given probability (dice) of moving to another state.</p>
+<p>That’s great and all, but where does language fit into this? Take that Snakes and Ladders game. Assign each square a word. Every time you land on a new word, you write it down. After playing a full game, you will have a long string of words. Some sections might sound meaningful, others might not. This project takes long pieces of text, pretends like they’re recorded games of Snakes and Ladders, and tries to rebuild the board. On that new board, you can play as many games as you’d like, and most of the time, your string of words will be different.</p>
+<h2 id="Code"><a href="#Code" class="headerlink" title="Code"></a>Code</h2><p>The web project, with the original instructions for collaborators, can be found <a href="https://github.com/ronikbhaskar/text_generator">here</a>.</p>
+<p>The original Python code can be found <a href="https://github.com/ronikbhaskar/markov_text_generation">here</a>. The README has a sample generated from Sun Tzu’s <em>The Art of War</em>.</p>
+<hr>
+<p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
   </entry>
   <entry>
     <title>Tomato Timer</title>
@@ -2696,77 +2788,5 @@ table, th {
 </ul>
 <hr>
 <p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>Ronik Bhaskar</title>
-    <url>/about/index.html</url>
-    <content><![CDATA[<style>
-.profile-image-ronik {
-    width: 100%!important;
-    margin: 1rem;
-    margin-top: 0;
-    margin-left: 0;
-    float: left!important;
-}
-.side-bar-about {
-    width: min(max(25%,6rem),100%)!important;
-    /* height: 100dvh; */
-    padding: 1.5rem;
-    padding-top: 0;
-    padding-left: 0;
-    margin: 1rem;
-    margin-top: 0;
-    margin-left: 0;
-    float: left!important;
-}
-</style>
-
-<div class="side-bar-about">
-<img src="ronik_2.jpg" class="profile-image-ronik" alt="Ronik looking up at a plant."> 
-<h4>Quick Links:</h4>
-<div>
-    <a href="/publications/">Publications</a> </br>
-    <a href="https://scholar.google.com/citations?user=dqTwtegAAAAJ&hl=en&oi=ao">Google Scholar</a> </br>
-    <a href="/about/CV.pdf">CV</a> </br>
-    <a href="https://github.com/ronikbhaskar">GitHub</a>
-</div>
-</div>
-
-<p>I am a 1st year PhD student at the University of Chicago. I work in the <a href="https://sandlab.cs.uchicago.edu/index.html">SAND Lab</a> where I’m fortunate to be co-advised by Prof. <a href="http://people.cs.uchicago.edu/~htzheng/">Heather Zheng</a> and Prof. <a href="http://people.cs.uchicago.edu/~ravenben/">Ben Y. Zhao</a>. </p>
-<p>I study the security and privacy issues that arise as machine learning systems become more ubiquitous, and I leverage these insights to develop tools to empower individuals against unethical AI practices.</p>
-<!-- I'm broadly interested in security and privacy with a recent focus on adversarial machine learning. If you're a digital artist, or you're interested in generative AI, I recommend checking out [Glaze](https://glaze.cs.uchicago.edu). I'm proud to work on this project and hopefully similar ones in the future. -->
-
-<!-- While I am relatively new to research, I have made some observations. Computer security research exists in a delicate ethical space. Every discovered vulnerability is an opportunity for attack, but it is also a potential warning. Every defense offers protection to some group, but it also risks unintended side effects and consequences for future technology. As I continue my academic journey, I hope to learn how to meaningfully consider the implications of my work, regardless of the field I research. -->
-
-<h2 id="Recent-Publications"><a href="#Recent-Publications" class="headerlink" title="Recent Publications"></a>Recent Publications</h2><p>S. Wu, <strong>R, Bhaskar</strong>, A. Ha, S. Shan, H. Zheng, BY. Zhao. <a href="https://arxiv.org/abs/2506.21874">On the Feasibility of Poisoning Text-to-Image AI Models via Adversarial Mislabeling</a><br><em>Conference on Computer and Communications Security (CCS), 2025.</em></p>
-<!-- ```bash
-# My email:
-echo "cmJoYXNrYXJAdWNoaWNhZ28uZWR1Cg==" | base64 --decode
-``` -->
-
-<!-- I was never the creative one or the artistic one. I was always "that guy that's good at math." -->
-
-<!-- Then COVID hit. -->
-
-<!-- In December of 2020, a welcoming group of friends adopted me into their Discord server. We joked about building more friends, but some part of me kept whispering, *Maybe that's not a bad idea.* So, that month, I built a working [discord bot](/projects/discord_bot). His name was Igor, and despite the lack of functionality, he was full of life and personality. The server members loved him like a pet.  -->
-
-
-<!-- A few months later, while chatting about the chaos of life with some filmmakers, they mentioned the butterfly effect. I asked about the origin of the phrase, and a few hours later, I found myself stumbling down a rabbit hole of differential equations and strange attractors. A week later, I recreated Lorenz's Butterfly Effect—the beginnings of the [math art](/projects/math-art) project. -->
-
-<!-- This continued incessantly. Someone would throw out a phrase or idea, and I would run with it. As I continued creating, I started finding my voice in code. Despite everything I made, it took me months to finally call myself creative, which would have been impossible on my own. My friends reminded me that I was more than test scores and good grades, and I hope they know how grateful I am. -->
-
-<!-- Without the people closest to me providing constant support and inspiration and critiques, I wouldn't still be creating. If that's you, thanks.  -->
-
-<!-- *Add to the [dialogue](/chat), and become part of my story.* -->]]></content>
-  </entry>
-  <entry>
-    <title>Publications</title>
-    <url>/publications/index.html</url>
-    <content><![CDATA[<p>Also see my: <a href="https://scholar.google.com/citations?user=dqTwtegAAAAJ&hl=en&oi=ao">Google Scholar</a></p>
-<h3 id="Refereed"><a href="#Refereed" class="headerlink" title="Refereed"></a>Refereed</h3><p><a href="https://arxiv.org/abs/2506.21874">On the Feasibility of Poisoning Text-to-Image AI Models via Adversarial Mislabeling</a><br>Stanley Wu, <strong>Ronik Bhaskar</strong>, Anna Yoo Jeong Ha, Shawn Shan, Haitao Zheng, Ben Y. Zhao<br><em>Conference on Computer and Communications Security (CCS), 2025.</em> </p>
-<p><a href="https://arxiv.org/abs/2402.03214">Organic or Diffused: Can We Distinguish Human Art from AI-generated Images?</a><br>Anna Yoo Jeong Ha*, Josephine Passananti*, <strong>Ronik Bhaskar</strong>, Shawn Shan, Reid Southen, Haitao Zheng, Ben Y. Zhao.<br><em>Conference on Computer and Communications Security (CCS), 2024.</em><br>☆ Distinguished Paper Award.</p>
-<p><a href="https://www.usenix.org/system/files/sec23winter-prepub-116-yang-zhuolin.pdf">Can Virtual Reality Protect Users from Keystroke Inference Attacks?</a><br>Zhuolin Yang, Zain Sarwar, Iris Hwang, <strong>Ronik Bhaskar</strong>, Ben Y. Zhao, Haitao Zheng.<br><em>USENIX Security Symposium, 2024.</em><br><a href="https://www.newscientist.com/article/2401929-ai-can-steal-passwords-in-virtual-reality-from-avatar-hand-motions/">Media Coverage</a><br><br></p>
-<h3 id="Recreational"><a href="#Recreational" class="headerlink" title="Recreational"></a>Recreational</h3><p><a href="/projects/PizzaLang.pdf">PizzaLang: A Language for Hungry Developers</a><br><strong>Ronik Bhaskar</strong>, Dawson Ren.<br><em>Proc. of SIGBOVIK, 2023.</em></p>
-]]></content>
   </entry>
 </search>
