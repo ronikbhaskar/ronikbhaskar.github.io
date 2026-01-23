@@ -1,0 +1,292 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <link rel="icon" href="favicon.ico"> 
+    <meta charset="UTF-8">
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0, maximum-scale=5.0, minimum-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+<link rel="icon" href="favicon.ico"> 
+<!-- I just can't get this favicon to load -->
+
+    <meta name="author" content="Ronik Bhaskar">
+
+
+    <meta name="subtitle" content="Maker & Student of Life">
+
+
+    <meta name="description" content="Binary and exponential search are powerful tools that can do more than just search lists. They allow us to conquer infinity, use impossibly large sources of knowledge, and most importantly, they can be used in the real world. Even the problem of finding joy in life can be tackled by using this simple algorithm.">
+
+
+    <meta name="keywords" content="binary search, fast searching, searching for joy, finding joy, algorithms in real life, searching algorithm, ronik bhaskar, ronik, bhaskar">
+
+
+
+
+<title>The Algorithm That Lets Us Find Anything, Even Joy | Ronik Bhaskar</title>
+
+
+
+    <link rel="icon" href="/base_logo_black_white_circle.ico">
+    <!-- <link rel="icon" href="favicon.ico?" type="image/x-icon"> -->
+
+
+
+<style>
+    @import url('https://fonts.googleapis.com/css2?family=Libre+Caslon+Text&display=swap');
+    @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Noto+Sans+SC:wght@300;400;500;700&family=Roboto+Mono&display=swap');
+</style>
+
+
+
+    <!-- stylesheets list from _config.yml -->
+    
+    <link rel="stylesheet" href="/css/style.css">
+    
+
+
+
+
+
+
+
+    <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+    <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+
+
+
+
+
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-YG0RQTX7GQ"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-YG0RQTX7GQ');
+</script>
+<!-- End Google Analytics -->
+
+
+
+
+  <meta name="generator" content="Hexo 6.3.0"></head>
+  <body>
+    <div class="mask-border">
+    </div>
+
+    <div class="wrapper">
+
+      <div class="header">
+  <div class="flex-container">
+    <div class="header-inner">
+      <div class="site-brand-container">
+        <a href="/">
+          
+            <img class="logo-img" src="/base_logo_black.png" alt="logo_image">
+          
+        </a>
+      </div>
+      <div id="menu-btn" class="menu-btn" onclick="toggleMenu()">
+        <script>
+            function toggleMenu() {
+                var menuList = document.getElementsByClassName("menu-list")[0];
+                var menuButton = document.getElementById("menu-btn");  
+                if(menuList.classList.contains("active")){
+                  menuList.classList.remove("active");
+                  menuButton.innerHTML = "MENU";
+                }else{
+                  menuList.classList.add("active");
+                  menuButton.innerHTML = "<div class=\"icon arrow-up\"> </div>";
+                }
+            }
+        </script>
+        Menu
+      </div>
+      <nav class="site-nav">
+        <ul class="menu-list">
+          
+            
+              <li class="menu-item">
+                <a href="/">Home</a>
+              </li> 
+                   
+          
+            
+              <li class="menu-item">
+                <a href="/publications/">Publications</a>
+              </li> 
+                   
+          
+            
+              <li class="menu-item">
+                <a href="/projects/">Projects</a>
+              </li> 
+                   
+          
+            
+              <li class="menu-item">
+                <a href="/about/CV.pdf">CV</a>
+              </li> 
+                   
+          
+          
+            <li class="menu-item search-btn">
+              <a href="#">Search</a>
+            </li>
+          
+        </ul>
+      </nav>
+    </div>
+  </div>
+</div>
+
+
+      <div class="main">
+        <div class="flex-container">
+          <article id="post">
+
+  
+    <div class="post-head">
+    <div class="post-info">
+        <div class="tag-list">
+            
+        </div>
+        <div class="post-title">
+            
+            
+                The Algorithm That Lets Us Find Anything, Even Joy
+            
+            
+        </div>
+        <span class="post-date">
+            January 22nd, 2026
+        </span>
+    </div>
+    <div class="post-img">
+        
+            <div class="h-line-primary"></div>
+              
+    </div>
+</div>
+    <div class="post-content">
+    <p>Imagine, for a moment, that you have misplaced your phone somewhere in your home. You might retrace your steps, looking in the most common areas, before resorting to a full sweep of the home. You look under beds, behind drawers, and between couch cushions, and after an hour of searching, you find it in the literal last place you would look: the fridge. </p>
+<p>Now, imagine that same scenario, except before beginning your search, your friend calls your phone, and you follow the sound directly to the fridge in under a minute.</p>
+<p>Why was it faster when your friend called your phone? Either way, you still didn’t know where your phone was until you found it. However, when your friend called your phone, you suddenly knew which direction to search in. Simply knowing which direction to search turned an impossible task into something manageable. As it turns out, this principle expands far beyond just searching for your phone.</p>
+<p>In <a href="/finding-joy-is-a-mathematically-difficult-problem">a previous archive</a>, I made some loose statements about why joy might not be hard to find because you are <em>you</em>, and you know what you like. Despite how heartwarming the sentiment might have been, I understand if you were skeptical—I would be too. Today, I hope to remedy that skepticism by explaining how to actually find things quickly, according to math.</p>
+<h2 id="The-Basic-Idea"><a href="#The-Basic-Idea" class="headerlink" title="The Basic Idea"></a>The Basic Idea</h2><p>Before we search for the hard things, like joy, let’s search for something easier, like a word in a dictionary. Say we want to find the word “joy” in the dictionary. Merriam-Webster’s mass-market dictionary has 75,000 definitions. If you started at the beginning of the dictionary and checked two definitions per second until you reached “joy”, it would take you roughly 4 hours to find “joy” in the dictionary.</p>
+<p>Spending 4 hours to find a word in a dictionary is, of course, absurd. Dictionaries wouldn’t have stuck around for centuries if they were this hard to use. Instead, people find words in less than 30 seconds using one simple fact: the dictionary is in alphabetical order. Because of this, the general strategy for finding words is to open to a random page, check whether you’re too high or too low in the alphabet, and adjust accordingly. Repeat this a few times, and you have your word. </p>
+<p>In many ways, the dictionary’s alphabetical order is the same as calling your phone to find it. In both cases, you are told which direction to search in. Then, you guess where it is, and if you’re wrong, you use the direction information and prior guesses to know where to move next. This process is so universal that mathematicians made an entire algorithm around it: binary search.</p>
+<h2 id="The-Algorithm"><a href="#The-Algorithm" class="headerlink" title="The Algorithm"></a>The Algorithm</h2><p>Binary search works like this: start with a list of things in order, like words in a dictionary. Next, guess that your thing is in the middle. You’re probably wrong, but this guess tells you whether to search higher or lower in the list. If you need to go lower, delete the first half of the list and start your search again in the middle of the new list. Otherwise, delete the second half of the list and start your search again in the middle of the new list. Repeat this process until you’ve found your thing.</p>
+<p>This probably seems simple, and in a lot of ways it is, but it’s also unreasonably effective. If you had a list of a million things to search through, binary search would only need 20 steps to find it. That’s 50,000x faster than going one-by-one, and as the number of things to search increases, the speedup also increases. Searching through a <em><strong>billion</strong></em> things would only take 30 steps, which is 33,000,000x faster than going one-by-one.</p>
+<h2 id="Searching-Through-Infinity"><a href="#Searching-Through-Infinity" class="headerlink" title="Searching Through Infinity"></a>Searching Through Infinity</h2><p>Even if the list is infinite, you can still search it quickly. This may seem paradoxical, because there’s literally an infinite amount of stuff to search through, so how do you search at all? To do this, we have to take an extra step before binary search called exponential search. Start at the beginning of the list. Next, take bigger and bigger jumps down the list until you’ve passed the thing you’re searching for. You’ll know you’ve passed it because the direction you need to search changes. Cut off the list there, and now it’s finite. Now that the list is finite, you can just use binary search.</p>
+<p>There is one caveat to this, and that’s the type of infinity you are searching through. For our purposes, there are two kinds of infinity to search through. The first kind is countable infinity. That’s the same infinity as the numbers 1, 2, 3, … because you can count each one without missing any. If you’re dealing with that kind of infinity, then you’re fine. You can find exactly what you’re looking for with no problems.</p>
+<p>The second kind of infinity is uncountable infinity. That’s like all the numbers between 0 and 1, because you can’t order then one at a time. Where would you even start? 0.1? But then there’s also 0.11, and 0.111, and 0.1111, and so on, and you can’t stop because 0.1111… repeating is a completely real number (it’s 1&#x2F;9). And you have to include all the irrational numbers, like π&#x2F;6 and √0.5. Counting all of them just isn’t possible without missing at least one (<a target="_blank" rel="noopener" href="https://en.wikipedia.org/wiki/Cantor%27s_diagonal_argument#Real_numbers">proof</a>). If this is the kind of infinity you’re dealing with, then you’ll have to settle for “good enough”. Before you start on your search, set a “good enough” threshold for how close you need to be, such as within 0.01. Then, when you search, you’ll just stop once your answer is good enough. It’s one of the unfortunate problems of finite existence, but at least you get to pick your own threshold for “good enough”.</p>
+<h2 id="Back-to-Finding-Joy"><a href="#Back-to-Finding-Joy" class="headerlink" title="Back to Finding Joy"></a>Back to Finding Joy</h2><p>Finding joy is still a difficult problem, but it’s a bit easier to solve now. As a starting point, I hope you actually searched “joy” in the dictionary during that thought experiment, but in case you didn’t, it’s “a source or cause of delight”. I’m not trying to solve for happiness or the meaning of life, just everyday delight. </p>
+<p>Now that we know what we’re looking for, all we need to do is use binary search. Every time we come across something that we hoped would bring joy but didn’t, we simply need to check the direction we should go in. Was it too outdoors or too indoors? Was it too social or too isolated? Was it too active or too sedentary? Just some basic information is enough to make the search exponentially faster. The best part is that you don’t need to ask any special machine which way to go, because <em><strong>you</strong></em> are your best algorithm for finding joy, just like I mentioned at the end of <a href="/finding-joy-is-a-mathematically-difficult-problem">a previous archive</a>.</p>
+<p>The hardest part of this process is the first step: guessing. You are almost guaranteed to be wrong here, which makes it so scary to start. It’s even worse knowing that throughout the entire search, you will be doing things that don’t bring you joy, because as soon as you delight in what you do, your search is done. Telling anyone to try this sounds emotionally irresponsible. And yet, that is always the case when one searches for joy in their life. The process is painful, regardless of the algorithm you use. The best you can do is keep going and hope you finally find what you’re looking for.</p>
+<hr>
+<h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ol>
+<li><a target="_blank" rel="noopener" href="https://en.wikipedia.org/wiki/Binary_search">Binary Search</a></li>
+<li><a target="_blank" rel="noopener" href="https://en.wikipedia.org/wiki/Exponential_search">Exponential Search</a></li>
+<li><a target="_blank" rel="noopener" href="https://shop.merriam-webster.com/products/the-merriam-webster-dictionary-mass-market">Merriam-Webster Mass-Market Dictionary</a></li>
+<li><a target="_blank" rel="noopener" href="https://extra.shu.ac.uk/emls/iemls/work/etexts/caw1604w_removed.htm">First Alphabetical English Dictionary (probably)</a></li>
+<li><a target="_blank" rel="noopener" href="https://www.merriam-webster.com/dictionary/joy">Definition of Joy</a></li>
+</ol>
+<hr>
+<h2 id="Literal-Algorithm-for-Searching-through-Infinity"><a href="#Literal-Algorithm-for-Searching-through-Infinity" class="headerlink" title="Literal Algorithm for Searching through Infinity"></a>Literal Algorithm for Searching through Infinity</h2><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br><span class="line">35</span><br><span class="line">36</span><br><span class="line">37</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">def</span> <span class="title function_">search</span>(<span class="params">x, eps</span>):</span><br><span class="line">    <span class="string">&quot;&quot;&quot;</span></span><br><span class="line"><span class="string">    An algorithm to search for any number x</span></span><br><span class="line"><span class="string">    within some tolerance eps.</span></span><br><span class="line"><span class="string">    &quot;&quot;&quot;</span></span><br><span class="line">    guess = <span class="number">0</span> <span class="comment"># start by guessing 0</span></span><br><span class="line"></span><br><span class="line">    <span class="keyword">if</span> <span class="built_in">abs</span>(guess - x) &lt; eps:</span><br><span class="line">        <span class="keyword">return</span> guess</span><br><span class="line">    </span><br><span class="line">    ub = <span class="number">1</span> <span class="keyword">if</span> guess &lt; x <span class="keyword">else</span> -<span class="number">1</span></span><br><span class="line">    lb = <span class="number">0</span></span><br><span class="line"></span><br><span class="line">    <span class="comment"># grow exponentially</span></span><br><span class="line">    <span class="keyword">while</span> <span class="number">1</span>:</span><br><span class="line">        <span class="keyword">if</span> <span class="built_in">abs</span>(ub - x) &lt; eps:</span><br><span class="line">            <span class="keyword">return</span> ub</span><br><span class="line">        </span><br><span class="line">        <span class="comment"># check if we have a finite range that contains x</span></span><br><span class="line">        <span class="keyword">if</span> (ub &lt; x) != (lb &lt; x):</span><br><span class="line">            <span class="keyword">break</span></span><br><span class="line"></span><br><span class="line">        lb = ub</span><br><span class="line">        ub *= <span class="number">2</span></span><br><span class="line"></span><br><span class="line">    ub, lb = <span class="built_in">max</span>(ub, lb), <span class="built_in">min</span>(ub, lb)</span><br><span class="line"></span><br><span class="line">    <span class="comment"># binary search</span></span><br><span class="line">    <span class="keyword">while</span> <span class="number">1</span>:</span><br><span class="line">        guess = (lb + ub) / <span class="number">2</span></span><br><span class="line"></span><br><span class="line">        <span class="keyword">if</span> <span class="built_in">abs</span>(guess - x) &lt; eps:</span><br><span class="line">            <span class="keyword">return</span> guess</span><br><span class="line">        <span class="keyword">elif</span> x &lt; guess:</span><br><span class="line">            ub = guess</span><br><span class="line">        <span class="keyword">else</span>:</span><br><span class="line">            lb = guess</span><br></pre></td></tr></table></figure>
+</div> 
+<link rel="icon" href="favicon.ico">
+<script>
+    try {
+        window.onload = detectors();
+    } catch (error) { // doesn't seem to pose an issue when nothing happens
+        console.log(error);
+    }
+    
+</script>
+    <div class="post-footer">
+    <div class="h-line-primary"></div>
+    <nav class="post-nav">
+        <div class="prev-item">
+           
+        </div>
+        <div class="next-item">
+            
+                <div class="icon arrow-right"></div>
+                <div class="post-link">
+                  <a href="/ex-libris-i-robot/">Next</a>  
+                </div>  
+            
+        </div>
+    </nav>
+</div>
+
+    
+      <div class="post-comment">
+
+     
+
+     
+    
+    
+
+</div>
+     
+  
+</article>
+        </div>
+      </div>
+      
+      <div class="footer">
+    <div class="flex-container">
+        <div class="footer-text">
+            
+            
+                © Ronik Bhaskar, 2022 - 2025  
+            
+                
+        </div>
+    </div>
+</div>
+
+    </div>
+
+    
+      <div class="search-popup">
+    <div class="search-popup-overlay">  
+    </div>
+    <div class="search-popup-window" >
+        <div class="search-header">
+            <div class="search-input-container">
+              <input autocomplete="off" autocapitalize="off" maxlength="80"
+                     placeholder="Search Anything" spellcheck="false"
+                     type="search" class="search-input">
+            </div>
+            <div class="search-close-btn">
+                <div class="icon close-btn"></div>
+            </div>
+        </div>
+        <div class="search-result-container">
+        </div>
+    </div>
+</div>
+
+<script>
+    const searchConfig = {
+        path             : "/search.xml",
+        top_n_per_article: "1",
+        unescape         : "false",
+        trigger: "auto",
+        preload: "false"
+    }
+</script>
+<script src="https://cdn.jsdelivr.net/npm/hexo-generator-searchdb@1.4.0/dist/search.js"></script>
+<script src="/js/search.js"></script>
+    
+    
+
+  </body>
+</html>
