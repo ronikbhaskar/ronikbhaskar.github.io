@@ -148,6 +148,17 @@
 ]]></content>
   </entry>
   <entry>
+    <title>Celestial Navigation, Part 4</title>
+    <url>/celestial-navigation-part-4/</url>
+    <content><![CDATA[<p>Today, I had the pleasure of witnessing the total solar eclipse, a twice-in-a-lifetime opportunity. Yes, I’ve already seen a solar eclipse, and I’ve seen a handful of lunar eclipses, but I had to see this eclipse too. If you’ve met me, you know I get excited <a href="/celestial-navigation-part-3">when the sun aligns with some buildings</a>, so of course I was going to drive 200 miles to see the sun align with the moon. It was spectacular, but plenty of people will share their life-changing experiences with the eclipse. Instead, here are a few things I learned about eclipses while observing this one.</p>
+<p>You can safely observe a partial eclipse with just your hand and a flat surface. Curl your index finger so as to make a tiny hole, and let sunlight pass through it onto the flat surface. Congrats! You just projected an image of the sun, and with any luck, you’ll see a crescent-shaped sliver of sun instead of the normal circle. This hand projection uses the same principle as a pinhole camera. I was going to make a pinhole camera, but I forgot to bring the materials with me, so I opted for this instead.</p>
+<p>Outdoor lens flares from the sun during an eclipse will be crescents instead of circles. Lens flares are just images of the light source caused by lens imperfections. Turns out, they don’t always have to be circles. Typically, the lens flare is the shape of the light source. Since the light source—the sun—will appear as a crescent, your lens flares will be crescents too.</p>
+<p>Speaking of crescents, a solar crescent from an eclipse will never match the shape of a real crescent moon in the night sky. This is because of how the crescents are formed. For a crescent moon, we’re looking at a half-lit sphere, which is similar to looking at a moon-sized circle partially covered by a larger black circle. Constructing the shape requires two different-sized circles. For a solar crescent, we can use another two circle construction, except the black circle is the same size as the sun, not bigger, so the shape is different. There are more nuances to the full argument, which you can prove mathematically by comparing the distances between the corners of the crescents. Ultimately, solar crescents and crescent moons cannot look the same if the sun and moon are the same size in the sky.</p>
+<p>During a total solar eclipse, you can see celestial bodies you would only see at night. For example, I saw Jupiter and Venus during totality today. Since I’m so used to thinking about when they’ll be above the horizon at night, I really wasn’t expecting to see them during the day. Even in the dark twilight of totality, with no time for my eyes to adjust, the two planets were very easily visible. I should have brought my telescope.</p>
+<p>Typically in Celestial Navigation, I’ll discuss some ways in which we can use the stars to find directions and calculate locations, but so much of that relies on the parallel rays assumption. Light from space hits Earth in the same direction for everyone, no matter where you are. Today, however, that assumption breaks down. Total solar eclipses are focused on small areas. They take advantage of the fact that you are a single observer, looking out, so the rays are radial, not parallel, and you are at the focus. You aren’t meant to find anything during the eclipse. Instead, it’s a brief moment when the sun and the moon find you.</p>
+]]></content>
+  </entry>
+  <entry>
     <title>Celestial Navigation, Part 3</title>
     <url>/celestial-navigation-part-3/</url>
     <content><![CDATA[<p>In the spirit of April Fools’ Day, I’d like to tell a story of trickery and deceit. This is a story of how I was fooled, or rather, how I will be fooled.</p>
@@ -157,17 +168,6 @@
 <p>And therein lies the problem. I use math to check my senses and my intuition, but I have no system to disprove math when math fails. I trust formal logic entirely, but blind faith is a dangerous game, no matter how rational. Even the philosophy of mathematics cautions against finding complete truth in a fixed set of axioms. Gödel’s incompleteness theorems highlight the existence of mathematical statements that can never be proven true or false, so finding absolute truth in mathematics is impossible.</p>
 <p>Any source of “absolute” truth has its risks. While I’ve decided to place considerable trust in mathematics, any system of truth can deceive you. Your senses fall victim to illusions, and your intuition won’t always be right. No finite number of observations will ever be complete, and no gut feeling can guarantee correctness. Even when you’re doing something as simple as watching the sun rise over your city, you might be fooled, and that’s alright. The truth was never guaranteed anyway.</p>
 <p>$$(4 \cdot 1)! &#x3D; 24$$</p>
-]]></content>
-  </entry>
-  <entry>
-    <title>Celestial Navigation, Part 4</title>
-    <url>/celestial-navigation-part-4/</url>
-    <content><![CDATA[<p>Today, I had the pleasure of witnessing the total solar eclipse, a twice-in-a-lifetime opportunity. Yes, I’ve already seen a solar eclipse, and I’ve seen a handful of lunar eclipses, but I had to see this eclipse too. If you’ve met me, you know I get excited <a href="/celestial-navigation-part-3">when the sun aligns with some buildings</a>, so of course I was going to drive 200 miles to see the sun align with the moon. It was spectacular, but plenty of people will share their life-changing experiences with the eclipse. Instead, here are a few things I learned about eclipses while observing this one.</p>
-<p>You can safely observe a partial eclipse with just your hand and a flat surface. Curl your index finger so as to make a tiny hole, and let sunlight pass through it onto the flat surface. Congrats! You just projected an image of the sun, and with any luck, you’ll see a crescent-shaped sliver of sun instead of the normal circle. This hand projection uses the same principle as a pinhole camera. I was going to make a pinhole camera, but I forgot to bring the materials with me, so I opted for this instead.</p>
-<p>Outdoor lens flares from the sun during an eclipse will be crescents instead of circles. Lens flares are just images of the light source caused by lens imperfections. Turns out, they don’t always have to be circles. Typically, the lens flare is the shape of the light source. Since the light source—the sun—will appear as a crescent, your lens flares will be crescents too.</p>
-<p>Speaking of crescents, a solar crescent from an eclipse will never match the shape of a real crescent moon in the night sky. This is because of how the crescents are formed. For a crescent moon, we’re looking at a half-lit sphere, which is similar to looking at a moon-sized circle partially covered by a larger black circle. Constructing the shape requires two different-sized circles. For a solar crescent, we can use another two circle construction, except the black circle is the same size as the sun, not bigger, so the shape is different. There are more nuances to the full argument, which you can prove mathematically by comparing the distances between the corners of the crescents. Ultimately, solar crescents and crescent moons cannot look the same if the sun and moon are the same size in the sky.</p>
-<p>During a total solar eclipse, you can see celestial bodies you would only see at night. For example, I saw Jupiter and Venus during totality today. Since I’m so used to thinking about when they’ll be above the horizon at night, I really wasn’t expecting to see them during the day. Even in the dark twilight of totality, with no time for my eyes to adjust, the two planets were very easily visible. I should have brought my telescope.</p>
-<p>Typically in Celestial Navigation, I’ll discuss some ways in which we can use the stars to find directions and calculate locations, but so much of that relies on the parallel rays assumption. Light from space hits Earth in the same direction for everyone, no matter where you are. Today, however, that assumption breaks down. Total solar eclipses are focused on small areas. They take advantage of the fact that you are a single observer, looking out, so the rays are radial, not parallel, and you are at the focus. You aren’t meant to find anything during the eclipse. Instead, it’s a brief moment when the sun and the moon find you.</p>
 ]]></content>
   </entry>
   <entry>
@@ -199,6 +199,29 @@
 <li><a href="https://chicagomaroon.com/49019/news/netflix-film-saturn-return-shoots-on-uchicago-campus/">Filming on Campus</a></li>
 <li><a href="https://web.archive.org/web/20151222074912/http://astrology.about.com/od/advancedastrology/p/SaturnReturn.htm">Saturn Return Astrology</a></li>
 <li><a href="https://www.loc.gov/collections/finding-our-place-in-the-cosmos-with-carl-sagan/articles-and-essays/modeling-the-cosmos/ancient-greek-astronomy-and-cosmology">Ancient Greek Astronomy</a></li>
+</ol>
+]]></content>
+  </entry>
+  <entry>
+    <title>Conservation and the Trolley Problem</title>
+    <url>/conservation-and-the-trolley-problem/</url>
+    <content><![CDATA[<p>The Trolley Problem has become a staple of modern media culture. It has made rounds through film and television, memes, and even absurdist video games. Unfortunately, in this meteoric rise in fame, the Trolley Problem has lost its meaning. The once-respected ethical dilemma now often seems overly simplistic and detached from reality. It no longer holds the same significance it did in the 70’s.</p>
+<p>In Phillipa Foot’s original article, the Trolley Problem is posed as follows. Suppose you are the driver of a runaway tram, and the tram is headed towards five rail workers. There is another track you could turn on instead. On it is someone tied to the rails. If you turn, you will kill the one. If you do nothing, you will kill the five.</p>
+<p>Foot posits that the obvious choice is to turn. In fact, she finds this so obvious that she doesn’t even spend enough words to explain the action-versus-inaction issue. That comes later, when Judith Jarvis Thomson popularizes the dilemma, giving it its famous title. Foot briefly introduces the dilemma to discuss the nuances of double-effect morality and an ethical algorithm called the “doctrine of double effect”. She discusses other scenarios, such as a surgeon harvesting organs from one patient to save five, a judge framing an innocent person for an unsolvable crime to prevent bloody riots, and abortion.</p>
+<p>Foot and Thomson both propose interesting dilemmas with nuanced arguments. Though I recommend reading them, I will refrain from making any comments on the conclusions they reach. What I will say is that their work demonstrates what the Trolley Problem truly symbolizes: one example in a network of nuanced ethical dilemmas. Each dilemma offers a new situation to test ethical frameworks, such as the doctrine of double effect.</p>
+<p>In line with these ethical problems, I would like to propose one more, but with one, key difference. My problem is about non-human animals. This is the trophy hunting problem.</p>
+<p>Suppose you are a conservationist working with local populations in Africa. As it stands, rampant poaching and habitat destruction will decimate the local wildlife. However, a trophy hunter has approached you, offering you lots of money to let them kill exactly one of the animals. If you take this money, it will go to conservation and protection efforts, saving many more animals. Do you take the trophy hunter’s offer?</p>
+<p>When the trophy hunting problem was first presented to me, it wasn’t presented as an open question. Over a decade ago, in a very strange grade school lesson, I listened to my teacher share how trophy hunting could be beneficial, advocating for this arrangement. In fairness, the system was already in place, as conservationists were already taking money from trophy hunters. </p>
+<p>The trophy hunting problem offers countless opportunities to explore ethical frameworks through nuanced details. How much money should this cost? How many lives should be saved to take the deal? How should population growth look afterward? How frequently do you take the deal? What if this were about humans instead of animals?</p>
+<p>This trophy hunting problem serves as a reminder of the true nature of the Trolley Problem. It’s about reflecting on ethical approaches to life, questioning belief systems, and understanding that not all problems have a pretty solution. The Trolley Problem is more than a few memes and an episode of The Good Place. It’s the terrifying reality that our decisions can influence who lives and who dies, so choose wisely.</p>
+<hr>
+<ol>
+<li><a href="https://neal.fun/absurd-trolley-problems/">Absurd Trolley Problems Game</a></li>
+<li><a href="https://www.imdb.com/title/tt6951978/">“The Good Place” The Trolley Problem</a></li>
+<li><a href="https://www2.econ.iastate.edu/classes/econ362/hallam/Readings/FootDoubleEffect.pdf">The Problem of Abortion and the Doctrine of the Double Effect</a></li>
+<li><a href="https://laurenralpert.wordpress.com/wp-content/uploads/2014/08/thomson-killing-letting-die-and-the-trolley-problem.pdf">Killing, Letting Die, and the Trolley Problem</a></li>
+<li><a href="https://doi.org/10.1016/j.biocon.2006.09.005">Economic and conservation significance of the trophy hunting industry in sub-Saharan Africa</a></li>
+<li><a href="https://doi.org/10.1111/j.1469-1795.2006.00034.x">Potential of trophy hunting to create incentives for wildlife conservation in Africa where alternative wildlife-based land uses may not be viable</a></li>
 </ol>
 ]]></content>
   </entry>
@@ -247,29 +270,6 @@
 <p>Linear regressions weren’t much of a problem for me since I had already built a text generator using Markov chains, so I was already familiar with transition matrices. KNNs however, were a different story. KNN, or k-nearest neighbors, is a method that takes an input, compares it to data points that are very similar to it, and uses their labels to inform the output. In theory, I could just take each word, analyze what typically comes after it, and use that, but that doesn’t make for a particularly interesting text generator. At that point, it’s no different than a Markov chain. </p>
 <p>Since I wanted to embrace the true spirit of kNNs and prove they could generate text, I began looking for a different approach. After exploring various mathematical approaches, I realized I could use character-wise prediction instead of token-wise prediction. Instead of predicting an entire word, I would just predict one letter at a time. This had the potential to fail miserably, but it would be phenomenal if it succeeded. By using character-wise prediction, I could embrace the distance metric at the heart of kNNs, but rather tha using standard Euclidean (straight-line) distance, I could use Hamming distance. By re-centering a binary vector space around the input word, I could position all the other words around it using exclusive-or to assign binary values based on whether or not the characters matched my input. From there, I just needed the vectors with the smallest Hamming norm, and I was good to go. </p>
 <p>If that all sounded like made-up, math word soup, then I’ll just have to ask you to trust me. The project is still ongoing, but once it’s at a point that I feel comfortable abandoning it, I’ll try to make things clearer, probably with a few examples. For now, things seem to be working as expected. Text generation isn’t hard because putting one word after the other has never been hard. The true challenge is in generating meaningful text. Generating meaningful text requires understanding truth, observable reality, intent, and so much more that we can’t properly encode the way we encode language. All of the meaning that comes from large language models is only present because we taught it with meaningful text, and we inject meaning back in when we read the output. Generating text is easy, but that doesn’t bring us any closer to generating meaning.</p>
-]]></content>
-  </entry>
-  <entry>
-    <title>Conservation and the Trolley Problem</title>
-    <url>/conservation-and-the-trolley-problem/</url>
-    <content><![CDATA[<p>The Trolley Problem has become a staple of modern media culture. It has made rounds through film and television, memes, and even absurdist video games. Unfortunately, in this meteoric rise in fame, the Trolley Problem has lost its meaning. The once-respected ethical dilemma now often seems overly simplistic and detached from reality. It no longer holds the same significance it did in the 70’s.</p>
-<p>In Phillipa Foot’s original article, the Trolley Problem is posed as follows. Suppose you are the driver of a runaway tram, and the tram is headed towards five rail workers. There is another track you could turn on instead. On it is someone tied to the rails. If you turn, you will kill the one. If you do nothing, you will kill the five.</p>
-<p>Foot posits that the obvious choice is to turn. In fact, she finds this so obvious that she doesn’t even spend enough words to explain the action-versus-inaction issue. That comes later, when Judith Jarvis Thomson popularizes the dilemma, giving it its famous title. Foot briefly introduces the dilemma to discuss the nuances of double-effect morality and an ethical algorithm called the “doctrine of double effect”. She discusses other scenarios, such as a surgeon harvesting organs from one patient to save five, a judge framing an innocent person for an unsolvable crime to prevent bloody riots, and abortion.</p>
-<p>Foot and Thomson both propose interesting dilemmas with nuanced arguments. Though I recommend reading them, I will refrain from making any comments on the conclusions they reach. What I will say is that their work demonstrates what the Trolley Problem truly symbolizes: one example in a network of nuanced ethical dilemmas. Each dilemma offers a new situation to test ethical frameworks, such as the doctrine of double effect.</p>
-<p>In line with these ethical problems, I would like to propose one more, but with one, key difference. My problem is about non-human animals. This is the trophy hunting problem.</p>
-<p>Suppose you are a conservationist working with local populations in Africa. As it stands, rampant poaching and habitat destruction will decimate the local wildlife. However, a trophy hunter has approached you, offering you lots of money to let them kill exactly one of the animals. If you take this money, it will go to conservation and protection efforts, saving many more animals. Do you take the trophy hunter’s offer?</p>
-<p>When the trophy hunting problem was first presented to me, it wasn’t presented as an open question. Over a decade ago, in a very strange grade school lesson, I listened to my teacher share how trophy hunting could be beneficial, advocating for this arrangement. In fairness, the system was already in place, as conservationists were already taking money from trophy hunters. </p>
-<p>The trophy hunting problem offers countless opportunities to explore ethical frameworks through nuanced details. How much money should this cost? How many lives should be saved to take the deal? How should population growth look afterward? How frequently do you take the deal? What if this were about humans instead of animals?</p>
-<p>This trophy hunting problem serves as a reminder of the true nature of the Trolley Problem. It’s about reflecting on ethical approaches to life, questioning belief systems, and understanding that not all problems have a pretty solution. The Trolley Problem is more than a few memes and an episode of The Good Place. It’s the terrifying reality that our decisions can influence who lives and who dies, so choose wisely.</p>
-<hr>
-<ol>
-<li><a href="https://neal.fun/absurd-trolley-problems/">Absurd Trolley Problems Game</a></li>
-<li><a href="https://www.imdb.com/title/tt6951978/">“The Good Place” The Trolley Problem</a></li>
-<li><a href="https://www2.econ.iastate.edu/classes/econ362/hallam/Readings/FootDoubleEffect.pdf">The Problem of Abortion and the Doctrine of the Double Effect</a></li>
-<li><a href="https://laurenralpert.wordpress.com/wp-content/uploads/2014/08/thomson-killing-letting-die-and-the-trolley-problem.pdf">Killing, Letting Die, and the Trolley Problem</a></li>
-<li><a href="https://doi.org/10.1016/j.biocon.2006.09.005">Economic and conservation significance of the trophy hunting industry in sub-Saharan Africa</a></li>
-<li><a href="https://doi.org/10.1111/j.1469-1795.2006.00034.x">Potential of trophy hunting to create incentives for wildlife conservation in Africa where alternative wildlife-based land uses may not be viable</a></li>
-</ol>
 ]]></content>
   </entry>
   <entry>
@@ -594,15 +594,6 @@
 ]]></content>
   </entry>
   <entry>
-    <title>New Beginnings</title>
-    <url>/new-beginnings/</url>
-    <content><![CDATA[<p>Back when I was starting university, the institution made a huge fuss about orientation. There were days of programming filled with events and activities, each one an opportunity to make friends and memories. Being away from home, I was nervous and excited and nervous for the days ahead. That anticipation built until commencement day, on which all first-years would make their inaugural march through the university gates. As the clock reached 9, I opened my laptop, clicked the broadcast link, and watched as a lone bagpipe player walked around the university quad playing “Scotland the Brave.” There were a few speeches after, I think. I’m not too sure; I stopped watching pretty quickly. </p>
-<p>As I embark on a new beginning myself, I am reminded of the new beginnings gone past, particularly starting college in the middle of a global pandemic. That first year of college in particular was so strange. My orientation was virtual, my classes were virtual, and almost every conversation I had was virtual. Whenever someone would ask me how I was enjoying higher education, I would tell them that I had never been inside any of the academic buildings, but I knew what they all looked like on the outside.</p>
-<p>Eventually, things changed, and I attended in-person classes, sat next to people in dining halls, and high-fived someone for the first time in over a year. Still, those of us from the COVID era never were quite the same as our older or younger peers. We skipped out on traditions, ignored famous events, and fell in love with forgotten parts of the university. It didn’t matter that we were finally given a chance at a “normal” college experience. By that point, it was too late, and we had already developed our own expectations for what college meant to us.</p>
-<p>The beginning of our journey strongly controlled the trajectory of our college experience, and knowing that now, I realize these next few months will define so much of my PhD. I may already know the people and the place, but my purpose here is quite different from what it was four years ago. My purpose four years ago was to make it to today, and today, my purpose is to build the foundation of my academic career. There will be similarities between then and now, but I know one thing for sure. When commencement begins, I won’t just be watching on a live broadcast. I’ll be walking through those gates, ready to take on a new beginning.</p>
-]]></content>
-  </entry>
-  <entry>
     <title>Knowing Your Audience</title>
     <url>/knowing-your-audience/</url>
     <content><![CDATA[<p>A while back, I took an academic and professional writing class. It’s called Little Red Schoolhouse, and it’s one of the most famous classes at the university. Every week, we would submit a writing assignment based on a new prompt. Within that prompt, we could write about whatever field we wanted, but there was a catch. Before every assignment, we had to submit a reader’s statement. The reader’s statement was a paragraph summarizing the knowledge, background, and goals of the reader. Ideally, our submission would match the kind of writing best suited for our expected reader. Every decision we made about our writing, from jargon to pacing to structure, had to be made to the benefit of the reader described in the statement.</p>
@@ -614,6 +605,15 @@
 <p>That was my real reader’s statement. Actually, that was everyone’s real reader’s statement; they just didn’t know it. Our audiences were not hypothetical readers invented in our minds. They were writing students and lectors. Using this framework, I would properly craft my submitted reader’s statement and writing assignment to match. My grades were phenomenal, and the feedback was overwhelmingly positive. Though my previous writing experience likely influenced this, that multi-layered reader’s statement formed an undeniably effective framework for my assignments. </p>
 <p>In some ways, I may appear to have subverted the course, but looking back, I learned the lesson even better this way. I wasn’t inventing readers for the sake of an assignment. I was actively studying my real audience and writing specifically for them. Having learned this lesson, I try to apply it whenever I write, but there’s one place I just haven’t studied my readers: here. I have no clue what you, the reader, want to read. I don’t know how you found me or why you read my work. To be clear, I’m eternally grateful, but I want to write for you, the audience. Right now, I’m just writing for myself. If you found this website, then you can probably find me, online or in person, so please do. Tell me who you are, why you read what I write, and what you’re looking for. </p>
 <p>Or don’t, that’s fine too. I’ll keep shouting into the void, just in case you’re still listening.</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>New Beginnings</title>
+    <url>/new-beginnings/</url>
+    <content><![CDATA[<p>Back when I was starting university, the institution made a huge fuss about orientation. There were days of programming filled with events and activities, each one an opportunity to make friends and memories. Being away from home, I was nervous and excited and nervous for the days ahead. That anticipation built until commencement day, on which all first-years would make their inaugural march through the university gates. As the clock reached 9, I opened my laptop, clicked the broadcast link, and watched as a lone bagpipe player walked around the university quad playing “Scotland the Brave.” There were a few speeches after, I think. I’m not too sure; I stopped watching pretty quickly. </p>
+<p>As I embark on a new beginning myself, I am reminded of the new beginnings gone past, particularly starting college in the middle of a global pandemic. That first year of college in particular was so strange. My orientation was virtual, my classes were virtual, and almost every conversation I had was virtual. Whenever someone would ask me how I was enjoying higher education, I would tell them that I had never been inside any of the academic buildings, but I knew what they all looked like on the outside.</p>
+<p>Eventually, things changed, and I attended in-person classes, sat next to people in dining halls, and high-fived someone for the first time in over a year. Still, those of us from the COVID era never were quite the same as our older or younger peers. We skipped out on traditions, ignored famous events, and fell in love with forgotten parts of the university. It didn’t matter that we were finally given a chance at a “normal” college experience. By that point, it was too late, and we had already developed our own expectations for what college meant to us.</p>
+<p>The beginning of our journey strongly controlled the trajectory of our college experience, and knowing that now, I realize these next few months will define so much of my PhD. I may already know the people and the place, but my purpose here is quite different from what it was four years ago. My purpose four years ago was to make it to today, and today, my purpose is to build the foundation of my academic career. There will be similarities between then and now, but I know one thing for sure. When commencement begins, I won’t just be watching on a live broadcast. I’ll be walking through those gates, ready to take on a new beginning.</p>
 ]]></content>
   </entry>
   <entry>
@@ -1222,25 +1222,6 @@
 ]]></content>
   </entry>
   <entry>
-    <title>The Mortifying Ordeal of Being Perceived</title>
-    <url>/the-mortifying-ordeal-of-being-perceived/</url>
-    <content><![CDATA[<p><em>The following is a transcript from a recent episode of the <a href="https://jonikpodcast.github.io/">Jonik Podcast</a>.</em></p>
-<p>Good morning, Jon. At the time of this recording, you are summiting the Half Dome, but given that you just took the MCAT, I’m sure this won’t be much of a challenge for you. In this episode, it’s just me. Like your Jonik episode back in April, I’ll be covering a more recent phrase, one that has its roots in meme culture and attempts to comment on the state of internet culture as a whole. As the title suggests, today, we will discuss the etymology of “being perceived.” </p>
-<p>After co-hosting this podcast for over six months now, my biggest concern isn’t that it’ll go down or that the hosting platform will lose our recordings. I’m not afraid of people breaking the things we’ve built or stealing it for themselves. What truly terrifies me is knowing that people actually listen to what we have to say.</p>
-<p>In 2013, Tim Kreider wrote “I Know What You Think of Me,” an opinion piece on the dread of hearing other people’s uncensored opinions about you. Kreider, who had recently bought a herd of goats, received an email that wasn’t meant for him that included some snyde remarks about his reckless spending. Personally, I can’t think of a better investment, but to each their own. The essay continues to comment on how the Internet Age makes it incredibly easy to overhear conversations you were never meant to know about. Ultimately, Kreider leaves the reader with this incredibly powerful line: “if we want the rewards of being loved, we have to submit to the mortifying ordeal of being known.”</p>
-<p>I never realized how easy it was to hear those uncensored opinions about you until I tried existing online for the first time. About a year ago, I created a website showcasing my projects and a few stories I wanted to share. I had a little visit counter on the page, and I was very proud of my 100 page visits. My sister, being the wonderful person she is, absolutely loved the website and decided more people should see my work. To spread the word, she went to what is historically the warmest, kindest internet platform there is: Reddit. After hitting up a few subreddits promoting my stuff, the comments started rolling in. Hate comment after hate comment, internet troll after internet troll, she just watched in horror. Mind you, I didn’t know any of this was happening. All I saw was in the span of about 15 minutes, my website had 200—300—400 hits. Eventually, the posts were deleted, and her account was banned for self-promotion. She later called me and sent me screenshots of some of the comments, explaining what happened. Reading through the ones she saved, I truly couldn’t fathom how people formed such intense judgements about me so quickly. To the one commenter that said I seemed thoughtful, thanks. I still have that screenshot saved.</p>
-<p>Kreider’s “mortifying ordeal of being known” quickly exploded onto meme pages across platforms. Plenty of the memes took the message seriously, including the duality of the rewards of being loved along with the mortifying ordeal of being known. Others focused solely on the mortification. A brief aside, “mortification” comes from the Latin word that means “death,” and I suppose it’s telling that we use it to describe great embarrassment, because on some level, that shame feels like a form of death. In late 2019, the next iteration of the “mortifying ordeal of being known” took over the Internet: being perceived. While “being perceived” is not a direct predecessor of the mortifying ordeal, they share a similar space in terms of meaning. Both comment on others being aware of you, but they differ in response. Heavily shaped by the mass quarantines at the beginning of the pandemic, “being perceived” led to a re-imagining of the self, one where in order to exist socially, you needed an online presence. That online presence took the form of Zoom meetings, Instagram stories, Tweets about toilet paper shortages, and plenty more. Suddenly, the mortifying ordeal of being known was no longer just the price you paid to enjoy the rewards of being loved, it was prerequisite to not living in total isolation. </p>
-<p>Jon, around the same time in 2019 that the “being perceived” meme became popular, you and I performed an Evolution of Music medley at our school benefit concert. We wore matching blue suits, and our band poster—along with saying Jonik—had a painting of a duck wearing a tuxedo. I remember grabbing dinner right before, I remember doing a practice run in the debate room, and I remember not being able to see during the performance. Just before we performed, we were off to the side of the stage when the MC announced us to the audience. I grabbed a chair for you to sit in because, well, cellists need chairs. As we reached the center of the stage, I handed you the chair, and I looked out at the audience. By that point, we’d stood before plenty of audiences, but that night, I felt seen in a way I hadn’t felt before. My brain decided, <em>Hey, I’m not really a fan of this. I don’t want to know that I’m being seen</em>, so I stopped. My eyes glazed over, and for the entire performance, I could not see a single thing. I couldn’t see you, I couldn’t see the audience, I could barely see my own hands. There was no real fear or embarrassment associated with performing, I just didn’t want to be perceived. I think we played well.</p>
-<p>The memes surrounding “being perceived” characterize it as something that just happens. You have no real control, you just have to be perceived, and that’s how it is. In my experience, that’s not how it actually works. Just like “the mortifying ordeal of being known” is the price you pay for “the rewards of being loved,” “being perceived” is in some ways transactional. Sure, my eyes may have been glazed over, but that night, the Jonik band was still perceived, and in exchange, we had an attentive audience right in front of us. I may have received some hateful comments about my website, but plenty of people actually stopped to read the things I wrote. Even today, as our podcast audience grows, every listener takes time out of their day to listen to what we have to say. Yes, our audience is perceiving us, but more importantly, the people perceiving us have become our audience. Were we never perceived, we wouldn’t have an audience. If you, wonderful listener, didn’t perceive us, this would just be Jonik speaking into the void. </p>
-<p>In an age where attention is the most valuable commodity, “being perceived” is the price you pay for an audience. That audience might be a random coworker or an actual auditorium full of people. Either way, make the most of that opportunity. Play some cool music, explain some interesting etymologies, just share something worth sharing. Sure, it’s terrifying, but most good things are at first. In the end, you’ll be grateful that they stopped to listen. I know I am. </p>
-<p>Jon, congrats on taking the MCAT. I’ll see you when I see you.</p>
-<hr>
-<h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ol>
-<li><a href="https://archive.nytimes.com/opinionator.blogs.nytimes.com/2013/06/15/i-know-what-you-think-of-me/?smid=pl-share">I Know What You Think of Me by Tim Kreider</a></li>
-</ol>
-]]></content>
-  </entry>
-  <entry>
     <title>The Pencil (Ex Libris: Works of Nikolai Gogol)</title>
     <url>/the-pencil-ex-libris-works-of-nikolai-gogol/</url>
     <content><![CDATA[<p><em>A true narrative inspired by my recent reading of the works of Nikolai Gogol. It’s not overtly Gogolian, but I tried to incorporate some elements of his style.</em></p>
@@ -1270,6 +1251,25 @@
 <li><a href="https://arxiv.org/abs/2310.20216">ELIZA Beat GPT-3.5 in a Turing Test</a></li>
 </ol>
 <h2 id="The-ELIZA-Algorithm"><a href="#The-ELIZA-Algorithm" class="headerlink" title="The ELIZA Algorithm"></a>The ELIZA Algorithm</h2><figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">def</span> <span class="title function_">respond</span>(<span class="params">self, statement</span>):</span><br><span class="line">    <span class="keyword">for</span> pattern, responses <span class="keyword">in</span> self.patterns:</span><br><span class="line">        <span class="keyword">match</span> = re.search(pattern, statement.strip(<span class="string">&quot; .!?&quot;</span>), re.IGNORECASE)</span><br><span class="line">        <span class="keyword">if</span> <span class="keyword">match</span>:</span><br><span class="line">            response = random.choice(responses).<span class="built_in">format</span>(*<span class="keyword">match</span>.groups())</span><br><span class="line">            <span class="keyword">return</span> response</span><br><span class="line">    <span class="keyword">return</span> self.default</span><br></pre></td></tr></table></figure>]]></content>
+  </entry>
+  <entry>
+    <title>The Mortifying Ordeal of Being Perceived</title>
+    <url>/the-mortifying-ordeal-of-being-perceived/</url>
+    <content><![CDATA[<p><em>The following is a transcript from a recent episode of the <a href="https://jonikpodcast.github.io/">Jonik Podcast</a>.</em></p>
+<p>Good morning, Jon. At the time of this recording, you are summiting the Half Dome, but given that you just took the MCAT, I’m sure this won’t be much of a challenge for you. In this episode, it’s just me. Like your Jonik episode back in April, I’ll be covering a more recent phrase, one that has its roots in meme culture and attempts to comment on the state of internet culture as a whole. As the title suggests, today, we will discuss the etymology of “being perceived.” </p>
+<p>After co-hosting this podcast for over six months now, my biggest concern isn’t that it’ll go down or that the hosting platform will lose our recordings. I’m not afraid of people breaking the things we’ve built or stealing it for themselves. What truly terrifies me is knowing that people actually listen to what we have to say.</p>
+<p>In 2013, Tim Kreider wrote “I Know What You Think of Me,” an opinion piece on the dread of hearing other people’s uncensored opinions about you. Kreider, who had recently bought a herd of goats, received an email that wasn’t meant for him that included some snyde remarks about his reckless spending. Personally, I can’t think of a better investment, but to each their own. The essay continues to comment on how the Internet Age makes it incredibly easy to overhear conversations you were never meant to know about. Ultimately, Kreider leaves the reader with this incredibly powerful line: “if we want the rewards of being loved, we have to submit to the mortifying ordeal of being known.”</p>
+<p>I never realized how easy it was to hear those uncensored opinions about you until I tried existing online for the first time. About a year ago, I created a website showcasing my projects and a few stories I wanted to share. I had a little visit counter on the page, and I was very proud of my 100 page visits. My sister, being the wonderful person she is, absolutely loved the website and decided more people should see my work. To spread the word, she went to what is historically the warmest, kindest internet platform there is: Reddit. After hitting up a few subreddits promoting my stuff, the comments started rolling in. Hate comment after hate comment, internet troll after internet troll, she just watched in horror. Mind you, I didn’t know any of this was happening. All I saw was in the span of about 15 minutes, my website had 200—300—400 hits. Eventually, the posts were deleted, and her account was banned for self-promotion. She later called me and sent me screenshots of some of the comments, explaining what happened. Reading through the ones she saved, I truly couldn’t fathom how people formed such intense judgements about me so quickly. To the one commenter that said I seemed thoughtful, thanks. I still have that screenshot saved.</p>
+<p>Kreider’s “mortifying ordeal of being known” quickly exploded onto meme pages across platforms. Plenty of the memes took the message seriously, including the duality of the rewards of being loved along with the mortifying ordeal of being known. Others focused solely on the mortification. A brief aside, “mortification” comes from the Latin word that means “death,” and I suppose it’s telling that we use it to describe great embarrassment, because on some level, that shame feels like a form of death. In late 2019, the next iteration of the “mortifying ordeal of being known” took over the Internet: being perceived. While “being perceived” is not a direct predecessor of the mortifying ordeal, they share a similar space in terms of meaning. Both comment on others being aware of you, but they differ in response. Heavily shaped by the mass quarantines at the beginning of the pandemic, “being perceived” led to a re-imagining of the self, one where in order to exist socially, you needed an online presence. That online presence took the form of Zoom meetings, Instagram stories, Tweets about toilet paper shortages, and plenty more. Suddenly, the mortifying ordeal of being known was no longer just the price you paid to enjoy the rewards of being loved, it was prerequisite to not living in total isolation. </p>
+<p>Jon, around the same time in 2019 that the “being perceived” meme became popular, you and I performed an Evolution of Music medley at our school benefit concert. We wore matching blue suits, and our band poster—along with saying Jonik—had a painting of a duck wearing a tuxedo. I remember grabbing dinner right before, I remember doing a practice run in the debate room, and I remember not being able to see during the performance. Just before we performed, we were off to the side of the stage when the MC announced us to the audience. I grabbed a chair for you to sit in because, well, cellists need chairs. As we reached the center of the stage, I handed you the chair, and I looked out at the audience. By that point, we’d stood before plenty of audiences, but that night, I felt seen in a way I hadn’t felt before. My brain decided, <em>Hey, I’m not really a fan of this. I don’t want to know that I’m being seen</em>, so I stopped. My eyes glazed over, and for the entire performance, I could not see a single thing. I couldn’t see you, I couldn’t see the audience, I could barely see my own hands. There was no real fear or embarrassment associated with performing, I just didn’t want to be perceived. I think we played well.</p>
+<p>The memes surrounding “being perceived” characterize it as something that just happens. You have no real control, you just have to be perceived, and that’s how it is. In my experience, that’s not how it actually works. Just like “the mortifying ordeal of being known” is the price you pay for “the rewards of being loved,” “being perceived” is in some ways transactional. Sure, my eyes may have been glazed over, but that night, the Jonik band was still perceived, and in exchange, we had an attentive audience right in front of us. I may have received some hateful comments about my website, but plenty of people actually stopped to read the things I wrote. Even today, as our podcast audience grows, every listener takes time out of their day to listen to what we have to say. Yes, our audience is perceiving us, but more importantly, the people perceiving us have become our audience. Were we never perceived, we wouldn’t have an audience. If you, wonderful listener, didn’t perceive us, this would just be Jonik speaking into the void. </p>
+<p>In an age where attention is the most valuable commodity, “being perceived” is the price you pay for an audience. That audience might be a random coworker or an actual auditorium full of people. Either way, make the most of that opportunity. Play some cool music, explain some interesting etymologies, just share something worth sharing. Sure, it’s terrifying, but most good things are at first. In the end, you’ll be grateful that they stopped to listen. I know I am. </p>
+<p>Jon, congrats on taking the MCAT. I’ll see you when I see you.</p>
+<hr>
+<h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ol>
+<li><a href="https://archive.nytimes.com/opinionator.blogs.nytimes.com/2013/06/15/i-know-what-you-think-of-me/?smid=pl-share">I Know What You Think of Me by Tim Kreider</a></li>
+</ol>
+]]></content>
   </entry>
   <entry>
     <title>The Test Tree</title>
@@ -1347,6 +1347,18 @@
 ]]></content>
   </entry>
   <entry>
+    <title>What is Gibberish?</title>
+    <url>/what-is-gibberish/</url>
+    <content><![CDATA[<p>Gibberish. Jibber-jabber. Gobbledygook. They’re all words for the same idea: nonsense speech. When someone is speaking gibberish, they make absolutely no sense. You can’t derive any meaning from their words. Despite the excessive amount of language being used, whether actual words or just random syllables, there is no information being conveyed. Even the message, “there is no information being conveyed” is not conveyed through gibberish. Gibberish is meaningless, and I want to know how.</p>
+<p>How is it possible to communicate nothing through your use of language? Even in the most convoluted scenarios, sequences of words always seem to carry some meaning. Take, for example, Shakespeare’s sonnets. For so many teenagers sitting in English class, Shakespeare’s sonnets are nothing but 400-year-old word vomit, yet those sonnets have shared beautiful stories to countless ears. Despite his penchant for inventing new words, Shakespeare wasn’t producing gibberish. Far from it, his works are literary masterpieces. Either that or someone is paying a lot of money to force teenagers to read his works for no reason.</p>
+<p>I don’t think gibberish is characterized by how outlandish the speech seems. Like with Shakespeare, most speech is only meaningful for the intended audience. Normal people listening to legal or medical jargon would have no idea what it means, yet legal and medical jargon are entirely meaningful. It seems that in order to produce meaningless speech, you must produce speech that has no possible audience. If there is no one that can extract meaning from the speech, then it must be meaningless.</p>
+<p>Consider the other side of this. Any speech that has an audience is meaningful, and given how much has been said over so many centuries, meaningful speech must have some relatively high probability of aligning with things that have already been said. By the contrapositive, any speech that has a low probability of aligning with things that have been said before is likely meaningless. </p>
+<p>From a practical perspective, producing improbable speech may seem like a difficult task, but with the advent of LLMs, this becomes much easier. Modern LLMs trained on the majority of the readable internet are essentially fancy probability distributions of existing text. Unfortunately, asking ChatGPT to produce improbable speech wouldn’t work, because it must produce high-probability speech by default. Just to be sure, I tested this, and it basically came up with a list of silly nouns, mostly animals, food, and space stuff, but that’s not meaningless enough, since it’s a vaguely coherent list. Instead, I modified the behavior of GPT-2 to produce low-probability text while still sticking to English, kinda. I started with the seed, “The following is gibberish:”. Here’s what it came up with.</p>
+<p>The following is gibberish:iability interior markup markup Starship markup Starshipnever Afghansaviouraviour pastenever proclamation Netherlands circumstance Starship Computingaviour bould Jackie Lady Lady Lady daytime Lady Lady pulmonary drill Harbaugh forcefully partnering dissu disciplined contradict Harbaugh dissuclaimed 323 Afghanskeyes Narr interior Weather Cookies Cookies Cookies Cookies Cookies Cookies</p>
+<p>I still have to iron out some kinks, but I do think this is a promising start. My working theorem on meaningless speech will hopefully lead to the completion of GibberishGPT, because the world clearly needs more useless LLMs.</p>
+]]></content>
+  </entry>
+  <entry>
     <title>Using Math to Make Friends</title>
     <url>/using-math-to-make-friends/</url>
     <content><![CDATA[<p>About a year ago, I realized I was showing symptoms of the latest global epidemic. It developed slowly, but by the time I noticed, the condition had already taken hold. I had become the latest casualty of what is now being dubbed the Loneliness Epidemic. </p>
@@ -1394,18 +1406,6 @@
 <li><a href="https://en.wikipedia.org/wiki/Triadic_closure">Triadic Closure</a></li>
 <li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10772224/">The Loneliness Epidemic</a></li>
 </ol>
-]]></content>
-  </entry>
-  <entry>
-    <title>What is Gibberish?</title>
-    <url>/what-is-gibberish/</url>
-    <content><![CDATA[<p>Gibberish. Jibber-jabber. Gobbledygook. They’re all words for the same idea: nonsense speech. When someone is speaking gibberish, they make absolutely no sense. You can’t derive any meaning from their words. Despite the excessive amount of language being used, whether actual words or just random syllables, there is no information being conveyed. Even the message, “there is no information being conveyed” is not conveyed through gibberish. Gibberish is meaningless, and I want to know how.</p>
-<p>How is it possible to communicate nothing through your use of language? Even in the most convoluted scenarios, sequences of words always seem to carry some meaning. Take, for example, Shakespeare’s sonnets. For so many teenagers sitting in English class, Shakespeare’s sonnets are nothing but 400-year-old word vomit, yet those sonnets have shared beautiful stories to countless ears. Despite his penchant for inventing new words, Shakespeare wasn’t producing gibberish. Far from it, his works are literary masterpieces. Either that or someone is paying a lot of money to force teenagers to read his works for no reason.</p>
-<p>I don’t think gibberish is characterized by how outlandish the speech seems. Like with Shakespeare, most speech is only meaningful for the intended audience. Normal people listening to legal or medical jargon would have no idea what it means, yet legal and medical jargon are entirely meaningful. It seems that in order to produce meaningless speech, you must produce speech that has no possible audience. If there is no one that can extract meaning from the speech, then it must be meaningless.</p>
-<p>Consider the other side of this. Any speech that has an audience is meaningful, and given how much has been said over so many centuries, meaningful speech must have some relatively high probability of aligning with things that have already been said. By the contrapositive, any speech that has a low probability of aligning with things that have been said before is likely meaningless. </p>
-<p>From a practical perspective, producing improbable speech may seem like a difficult task, but with the advent of LLMs, this becomes much easier. Modern LLMs trained on the majority of the readable internet are essentially fancy probability distributions of existing text. Unfortunately, asking ChatGPT to produce improbable speech wouldn’t work, because it must produce high-probability speech by default. Just to be sure, I tested this, and it basically came up with a list of silly nouns, mostly animals, food, and space stuff, but that’s not meaningless enough, since it’s a vaguely coherent list. Instead, I modified the behavior of GPT-2 to produce low-probability text while still sticking to English, kinda. I started with the seed, “The following is gibberish:”. Here’s what it came up with.</p>
-<p>The following is gibberish:iability interior markup markup Starship markup Starshipnever Afghansaviouraviour pastenever proclamation Netherlands circumstance Starship Computingaviour bould Jackie Lady Lady Lady daytime Lady Lady pulmonary drill Harbaugh forcefully partnering dissu disciplined contradict Harbaugh dissuclaimed 323 Afghanskeyes Narr interior Weather Cookies Cookies Cookies Cookies Cookies Cookies</p>
-<p>I still have to iron out some kinks, but I do think this is a promising start. My working theorem on meaningless speech will hopefully lead to the completion of GibberishGPT, because the world clearly needs more useless LLMs.</p>
 ]]></content>
   </entry>
   <entry>
@@ -1491,7 +1491,33 @@
 </style>
 
 <p>An extended gallery of my original origami designs. They are in chronological order by the date designed. Please contact me before distributing or teaching these models.</p>
-<h2 id="Index"><a href="#Index" class="headerlink" title="Index"></a>Index</h2><p><a href="#phishing">Phishing - 32x32 Grid</a><br><a href="#walking-red-flag">Walking Red Flag - 18x18 Grid</a><br><a href="#hanging-up-the-mask">Hanging up the Mask - 10x10 Grid</a><br><a href="#ship-in-a-bottle">Ship in a Bottle - 18x18 Grid</a><br><a href="#ermine">Ermine - 14x14 Grid</a><br><a href="#skys-the-limit">Sky’s the Limit - 18x18 Grid</a><br><a href="#sinking-feeling">Sinking Feeling - 18x18 Grid</a><br><a href="#stargazing">Stargazing - 16x16 Grid</a><br><a href="#whitetail-fawn">Whitetail Fawn - 22.5</a><br><a href="#fish-out-of-water">Fish out of Water - 14x14 Grid (Partial 28ths)</a><br><a href="#hanging-by-a-thread">Hanging by a Thread - 20x20 Grid</a><br><a href="#even-littler-dragon">Even Littler Dragon - 6x6 Grid</a><br><a href="#mandrake">Mandrake - 16x16 Grid</a><br><a href="#sea-serpent">Sea Serpent - Grafted Fish Base</a><br><a href="#mermaid">Mermaid - 16x16 Grid</a><br><a href="#phoenix">Phoenix - Grafted Bird Base</a><br><a href="#trophy-hunting">Trophy Hunting - Fish Base</a><br><a href="#fairy">Fairy - 16x16 Grid</a><br><a href="#wss">Wikipedia Sword and Shield - 16x16 Grid</a></p>
+<h2 id="Index"><a href="#Index" class="headerlink" title="Index"></a>Index</h2><p><a href="#waiting-i">Waiting, Act I - 24x24 Grid</a><br><a href="#waiting-ii">Waiting, Act II - 24x24 Grid</a><br><a href="#phishing">Phishing - 32x32 Grid</a><br><a href="#walking-red-flag">Walking Red Flag - 18x18 Grid</a><br><a href="#hanging-up-the-mask">Hanging up the Mask - 10x10 Grid</a><br><a href="#ship-in-a-bottle">Ship in a Bottle - 18x18 Grid</a><br><a href="#ermine">Ermine - 14x14 Grid</a><br><a href="#skys-the-limit">Sky’s the Limit - 18x18 Grid</a><br><a href="#sinking-feeling">Sinking Feeling - 18x18 Grid</a><br><a href="#stargazing">Stargazing - 16x16 Grid</a><br><a href="#whitetail-fawn">Whitetail Fawn - 22.5</a><br><a href="#fish-out-of-water">Fish out of Water - 14x14 Grid (Partial 28ths)</a><br><a href="#hanging-by-a-thread">Hanging by a Thread - 20x20 Grid</a><br><a href="#even-littler-dragon">Even Littler Dragon - 6x6 Grid</a><br><a href="#mandrake">Mandrake - 16x16 Grid</a><br><a href="#sea-serpent">Sea Serpent - Grafted Fish Base</a><br><a href="#mermaid">Mermaid - 16x16 Grid</a><br><a href="#phoenix">Phoenix - Grafted Bird Base</a><br><a href="#trophy-hunting">Trophy Hunting - Fish Base</a><br><a href="#fairy">Fairy - 16x16 Grid</a><br><a href="#wss">Wikipedia Sword and Shield - 16x16 Grid</a></p>
+<div class="simple-wrapper">
+  <div class="text-wrapper">
+    <a id="waiting-i"></a>
+    <h1>Waiting, Act I</h1>
+    <p>Telling a story in two designs. This is the first.</p>
+    <p>Designed: 02/15/26</p>
+  </div>
+  <div class="image-container">
+  <img src="gallery/waiting-act-i.jpg" alt="Origami."> 
+  <img src="gallery/waiting-act-i-cp.png" alt="Crease pattern."> 
+  </div>
+</div>
+
+<div class="simple-wrapper">
+  <div class="text-wrapper">
+    <a id="waiting-ii"></a>
+    <h1>Waiting, Act II</h1>
+    <p>Telling a story in two designs. This is the second.</p>
+    <p>Designed: 02/15/26</p>
+  </div>
+  <div class="image-container">
+  <img src="gallery/waiting-act-ii.jpg" alt="Origami."> 
+  <img src="gallery/waiting-act-ii-cp.png" alt="Crease pattern."> 
+  </div>
+</div>
+
 <div class="simple-wrapper">
   <div class="text-wrapper">
     <a id="phishing"></a>
@@ -1739,7 +1765,7 @@
   </div>
 </div>
 
-<p>Gallery layout credit to <a href="https://www.obb.design/c">Boice Wong</a>.</p>
+<p>A filtered portfolio can be found <a href="/gallery/">here</a>.</p>
 ]]></content>
   </entry>
   <entry>
@@ -1789,7 +1815,33 @@
 
 <p>I am a Chicago based origami artist. I create figurative models, often incorporating multiple subjects into a single piece. Everything here is from a single sheet of paper, no cuts.</p>
 <p>Please contact me before distributing or teaching any of my works.</p>
-<h2 id="Index"><a href="#Index" class="headerlink" title="Index"></a>Index</h2><p><a href="#phishing">Phishing</a><br><a href="#walking-red-flag">Walking Red Flag</a><br><a href="#hanging-up-the-mask">Hanging up the Mask</a><br><a href="#ship-in-a-bottle">Ship in a Bottle</a><br><a href="#skys-the-limit">Sky’s the Limit</a><br><a href="#sinking-feeling">Sinking Feeling</a><br><a href="#stargazing">Stargazing</a><br><a href="#whitetail-fawn">Whitetail Fawn</a><br><a href="#fish-out-of-water">Fish out of Water</a><br><a href="#hanging-by-a-thread">Hanging by a Thread</a></p>
+<h2 id="Index"><a href="#Index" class="headerlink" title="Index"></a>Index</h2><p><a href="#waiting-i">Waiting, Act I</a><br><a href="#waiting-ii">Waiting, Act II</a><br><a href="#phishing">Phishing</a><br><a href="#walking-red-flag">Walking Red Flag</a><br><a href="#hanging-up-the-mask">Hanging up the Mask</a><br><a href="#ship-in-a-bottle">Ship in a Bottle</a><br><a href="#skys-the-limit">Sky’s the Limit</a><br><a href="#sinking-feeling">Sinking Feeling</a><br><a href="#stargazing">Stargazing</a><br><a href="#whitetail-fawn">Whitetail Fawn</a><br><a href="#fish-out-of-water">Fish out of Water</a><br><a href="#hanging-by-a-thread">Hanging by a Thread</a></p>
+<div class="simple-wrapper">
+  <div class="text-wrapper">
+    <a id="waiting-i"></a>
+    <h1>Waiting, Act I</h1>
+    <p>Telling a story in two designs. This is the first.</p>
+    <p>Designed: 02/15/26</p>
+  </div>
+  <div class="image-container">
+  <img src="gallery/waiting-act-i.jpg" alt="Origami."> 
+  <img src="gallery/waiting-act-i-cp.png" alt="Crease pattern."> 
+  </div>
+</div>
+
+<div class="simple-wrapper">
+  <div class="text-wrapper">
+    <a id="waiting-ii"></a>
+    <h1>Waiting, Act II</h1>
+    <p>Telling a story in two designs. This is the second.</p>
+    <p>Designed: 02/15/26</p>
+  </div>
+  <div class="image-container">
+  <img src="gallery/waiting-act-ii.jpg" alt="Origami."> 
+  <img src="gallery/waiting-act-ii-cp.png" alt="Crease pattern."> 
+  </div>
+</div>
+
 <div class="simple-wrapper">
   <div class="text-wrapper">
     <a id="phishing"></a>
@@ -1924,6 +1976,78 @@
 ]]></content>
   </entry>
   <entry>
+    <title>Ronik Bhaskar</title>
+    <url>/about/index.html</url>
+    <content><![CDATA[<style>
+.profile-image-ronik {
+    width: 100%!important;
+    margin: 1rem;
+    margin-top: 0;
+    margin-left: 0;
+    float: left!important;
+}
+.side-bar-about {
+    width: min(max(25%,6rem),100%)!important;
+    /* height: 100dvh; */
+    padding: 1.5rem;
+    padding-top: 0;
+    padding-left: 0;
+    margin: 1rem;
+    margin-top: 0;
+    margin-left: 0;
+    float: left!important;
+}
+</style>
+
+<div class="side-bar-about">
+<img src="ronik_2.jpg" class="profile-image-ronik" alt="Ronik looking up at a plant."> 
+<h4>Quick Links:</h4>
+<div>
+    <a href="/publications/">Publications</a> </br>
+    <a href="https://scholar.google.com/citations?user=dqTwtegAAAAJ&hl=en&oi=ao">Google Scholar</a> </br>
+    <a href="/about/CV.pdf">CV</a> </br>
+    <a href="https://github.com/ronikbhaskar">GitHub</a>
+</div>
+</div>
+
+<p>I am a 1st year PhD student at the University of Chicago. I work in the <a href="https://sandlab.cs.uchicago.edu/index.html">SAND Lab</a> where I’m fortunate to be co-advised by Prof. <a href="http://people.cs.uchicago.edu/~htzheng/">Heather Zheng</a> and Prof. <a href="http://people.cs.uchicago.edu/~ravenben/">Ben Y. Zhao</a>. </p>
+<p>I study the security and privacy issues that arise as machine learning systems become more ubiquitous, and I leverage these insights to develop tools to empower individuals against unethical AI practices.</p>
+<!-- I'm broadly interested in security and privacy with a recent focus on adversarial machine learning. If you're a digital artist, or you're interested in generative AI, I recommend checking out [Glaze](https://glaze.cs.uchicago.edu). I'm proud to work on this project and hopefully similar ones in the future. -->
+
+<!-- While I am relatively new to research, I have made some observations. Computer security research exists in a delicate ethical space. Every discovered vulnerability is an opportunity for attack, but it is also a potential warning. Every defense offers protection to some group, but it also risks unintended side effects and consequences for future technology. As I continue my academic journey, I hope to learn how to meaningfully consider the implications of my work, regardless of the field I research. -->
+
+<h2 id="Recent-Publications"><a href="#Recent-Publications" class="headerlink" title="Recent Publications"></a>Recent Publications</h2><p>S. Wu, <strong>R, Bhaskar</strong>, A. Ha, S. Shan, H. Zheng, BY. Zhao. <a href="https://arxiv.org/abs/2506.21874">On the Feasibility of Poisoning Text-to-Image AI Models via Adversarial Mislabeling</a><br><em>Conference on Computer and Communications Security (CCS), 2025.</em></p>
+<!-- ```bash
+# My email:
+echo "cmJoYXNrYXJAdWNoaWNhZ28uZWR1Cg==" | base64 --decode
+``` -->
+
+<!-- I was never the creative one or the artistic one. I was always "that guy that's good at math." -->
+
+<!-- Then COVID hit. -->
+
+<!-- In December of 2020, a welcoming group of friends adopted me into their Discord server. We joked about building more friends, but some part of me kept whispering, *Maybe that's not a bad idea.* So, that month, I built a working [discord bot](/projects/discord_bot). His name was Igor, and despite the lack of functionality, he was full of life and personality. The server members loved him like a pet.  -->
+
+
+<!-- A few months later, while chatting about the chaos of life with some filmmakers, they mentioned the butterfly effect. I asked about the origin of the phrase, and a few hours later, I found myself stumbling down a rabbit hole of differential equations and strange attractors. A week later, I recreated Lorenz's Butterfly Effect—the beginnings of the [math art](/projects/math-art) project. -->
+
+<!-- This continued incessantly. Someone would throw out a phrase or idea, and I would run with it. As I continued creating, I started finding my voice in code. Despite everything I made, it took me months to finally call myself creative, which would have been impossible on my own. My friends reminded me that I was more than test scores and good grades, and I hope they know how grateful I am. -->
+
+<!-- Without the people closest to me providing constant support and inspiration and critiques, I wouldn't still be creating. If that's you, thanks.  -->
+
+<!-- *Add to the [dialogue](/chat), and become part of my story.* -->]]></content>
+  </entry>
+  <entry>
+    <title>Publications</title>
+    <url>/publications/index.html</url>
+    <content><![CDATA[<p>Also see my: <a href="https://scholar.google.com/citations?user=dqTwtegAAAAJ&hl=en&oi=ao">Google Scholar</a></p>
+<h3 id="Refereed"><a href="#Refereed" class="headerlink" title="Refereed"></a>Refereed</h3><p><a href="https://arxiv.org/abs/2506.21874">On the Feasibility of Poisoning Text-to-Image AI Models via Adversarial Mislabeling</a><br>Stanley Wu, <strong>Ronik Bhaskar</strong>, Anna Yoo Jeong Ha, Shawn Shan, Haitao Zheng, Ben Y. Zhao<br><em>Conference on Computer and Communications Security (CCS), 2025.</em> </p>
+<p><a href="https://arxiv.org/abs/2402.03214">Organic or Diffused: Can We Distinguish Human Art from AI-generated Images?</a><br>Anna Yoo Jeong Ha*, Josephine Passananti*, <strong>Ronik Bhaskar</strong>, Shawn Shan, Reid Southen, Haitao Zheng, Ben Y. Zhao.<br><em>Conference on Computer and Communications Security (CCS), 2024.</em><br>☆ Distinguished Paper Award.</p>
+<p><a href="https://www.usenix.org/system/files/sec23winter-prepub-116-yang-zhuolin.pdf">Can Virtual Reality Protect Users from Keystroke Inference Attacks?</a><br>Zhuolin Yang, Zain Sarwar, Iris Hwang, <strong>Ronik Bhaskar</strong>, Ben Y. Zhao, Haitao Zheng.<br><em>USENIX Security Symposium, 2024.</em><br><a href="https://www.newscientist.com/article/2401929-ai-can-steal-passwords-in-virtual-reality-from-avatar-hand-motions/">Media Coverage</a><br><br></p>
+<h3 id="Recreational"><a href="#Recreational" class="headerlink" title="Recreational"></a>Recreational</h3><p><a href="/projects/PizzaLang.pdf">PizzaLang: A Language for Hungry Developers</a><br><strong>Ronik Bhaskar</strong>, Dawson Ren.<br><em>Proc. of SIGBOVIK, 2023.</em></p>
+]]></content>
+  </entry>
+  <entry>
     <title>Anti-ELIZA</title>
     <url>/projects/anti-eliza.html</url>
     <content><![CDATA[<p><em>Conditioning away the human level of trust imparted to AI systems. Inspired by ELIZA. <a href="/anti-eliza/">Test it out.</a></em></p>
@@ -1941,6 +2065,31 @@
 <li><a href="https://arxiv.org/abs/2310.20216">ELIZA Beat GPT-3.5 in a Turing Test</a></li>
 </ol>
 <h2 id="The-ELIZA-Algorithm"><a href="#The-ELIZA-Algorithm" class="headerlink" title="The ELIZA Algorithm"></a>The ELIZA Algorithm</h2><figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">def</span> <span class="title function_">respond</span>(<span class="params">self, statement</span>):</span><br><span class="line">    <span class="keyword">for</span> pattern, responses <span class="keyword">in</span> self.patterns:</span><br><span class="line">        <span class="keyword">match</span> = re.search(pattern, statement.strip(<span class="string">&quot; .!?&quot;</span>), re.IGNORECASE)</span><br><span class="line">        <span class="keyword">if</span> <span class="keyword">match</span>:</span><br><span class="line">            response = random.choice(responses).<span class="built_in">format</span>(*<span class="keyword">match</span>.groups())</span><br><span class="line">            <span class="keyword">return</span> response</span><br><span class="line">    <span class="keyword">return</span> self.default</span><br></pre></td></tr></table></figure>]]></content>
+  </entry>
+  <entry>
+    <title>Full Stack Chat App</title>
+    <url>/projects/chat.html</url>
+    <content><![CDATA[<p>UPDATE: This project is very broken. It was fun while it lasted.</p>
+<p>Chat with me <a href="/chat">here</a>. (You’ll know it’s me because my name is <strong>bold</strong>.)</p>
+<h2 id="Designing-the-UI"><a href="#Designing-the-UI" class="headerlink" title="Designing the UI"></a>Designing the UI</h2><p>I don’t create in a vacuum. The people around me drastically influence my creations. Our conversations feel like dialogue in a script. There’s a purpose to everything being said. It’s driving the plot somewhere, and I would never reach the end without their help. </p>
+<p>My chat app doesn’t look like Messages or WhatsApp or Slack or Discord because I don’t see it as a chat app. It’s a continuation of the dialogue happening all around me, which is why <strong>I built the chat app to look like a movie script.</strong> The header has an act number, the location is specified, we get a general description, and the rest that follows is the dialogue.</p>
+<h2 id="Engineering-the-App"><a href="#Engineering-the-App" class="headerlink" title="Engineering the App"></a>Engineering the App</h2><p>I’m incredibly grateful for the power and flexibility of GitHub pages (as you can tell by the URL). That being said, the documentation says they only support static sites, or so they claim. Depending on how much functionality you want from the site, you can do user authentication and even have hooks checking for database updates, updating the UI in real-time. </p>
+<p><strong>For the backend, I used Google Firebase.</strong> Their free tier, the Spark plan, is incredibly powerful, and if you’re getting enough traffic to exceed its limits, you have the demand to monetize your product. I don’t expect heavy traffic, so the Spark plan is enough for me.</p>
+<p>Firebase allows for for Google Authentication, along with plenty of other auth providers. This makes it mildly more difficult to spam the site with fake accounts, and the authentication redirect keeps auth traffic away from GitHub. It’s a win-win.</p>
+<p><strong>For the frontend, I used React.</strong> This isn’t an incredibly intense, so vanilla JS was an option, but React’s libraries wrapping Firebase query snapshots made development much easier. </p>
+<p>There are tutorials and articles out there for building apps with React and Firebase, but relevant ones used Firebase v8 instead of v9, which transitions away from the namespacing. Luckily, Firebase’s documentation covers translating v8 into v9.</p>
+<hr>
+<p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>Discord Scraper</title>
+    <url>/projects/discord_scraper.html</url>
+    <content><![CDATA[<p>Access the source files <a href="https://github.com/ronikbhaskar/discord_scraper">here</a>. </p>
+<h2 id="Disclaimer"><a href="#Disclaimer" class="headerlink" title="Disclaimer"></a>Disclaimer</h2><p>Botting your Discord account violates their Terms of Service. I do not use this scraper, nor will I, and I recommend you never use it either. This is solely for educational purposes.</p>
+<h2 id="Theoretical-Use-Cases"><a href="#Theoretical-Use-Cases" class="headerlink" title="Theoretical Use Cases"></a>Theoretical Use Cases</h2><p>Hypothetically speaking, wouldn’t it be cool to go through your server’s chat history, run the text through a Markov Chain generator, and spit out some nonsense for you all to laugh at? Just a thought. It would be tedious, copying every message by hand, but it’s definitely doable, so that’s how you should do it. By hand.</p>
+<h2 id="Getting-your-Access-Token"><a href="#Getting-your-Access-Token" class="headerlink" title="Getting your Access Token"></a>Getting your Access Token</h2><p>Now, having access to the Discord API requires an Access Token, and no one would know how to get their access token. I mean, who is going to open Discord in Chrome, open the inspector, switch to mobile&#x2F;tablet display, go to the Application tab, find the sidebar section labeled Storage, select <a href="https://discord.com/">https://discord.com</a> from the Local Storage dropdown, search token, and copy the value from the Key-Value pair? That’s a ridiculous number of hoops to jump through, and I can’t imagine anyone figuring that out on their own. </p>
+<hr>
+<p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
   </entry>
   <entry>
     <title>Discord Bot</title>
@@ -1973,27 +2122,25 @@
 <p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
   </entry>
   <entry>
-    <title>Full Stack Chat App</title>
-    <url>/projects/chat.html</url>
-    <content><![CDATA[<p>UPDATE: This project is very broken. It was fun while it lasted.</p>
-<p>Chat with me <a href="/chat">here</a>. (You’ll know it’s me because my name is <strong>bold</strong>.)</p>
-<h2 id="Designing-the-UI"><a href="#Designing-the-UI" class="headerlink" title="Designing the UI"></a>Designing the UI</h2><p>I don’t create in a vacuum. The people around me drastically influence my creations. Our conversations feel like dialogue in a script. There’s a purpose to everything being said. It’s driving the plot somewhere, and I would never reach the end without their help. </p>
-<p>My chat app doesn’t look like Messages or WhatsApp or Slack or Discord because I don’t see it as a chat app. It’s a continuation of the dialogue happening all around me, which is why <strong>I built the chat app to look like a movie script.</strong> The header has an act number, the location is specified, we get a general description, and the rest that follows is the dialogue.</p>
-<h2 id="Engineering-the-App"><a href="#Engineering-the-App" class="headerlink" title="Engineering the App"></a>Engineering the App</h2><p>I’m incredibly grateful for the power and flexibility of GitHub pages (as you can tell by the URL). That being said, the documentation says they only support static sites, or so they claim. Depending on how much functionality you want from the site, you can do user authentication and even have hooks checking for database updates, updating the UI in real-time. </p>
-<p><strong>For the backend, I used Google Firebase.</strong> Their free tier, the Spark plan, is incredibly powerful, and if you’re getting enough traffic to exceed its limits, you have the demand to monetize your product. I don’t expect heavy traffic, so the Spark plan is enough for me.</p>
-<p>Firebase allows for for Google Authentication, along with plenty of other auth providers. This makes it mildly more difficult to spam the site with fake accounts, and the authentication redirect keeps auth traffic away from GitHub. It’s a win-win.</p>
-<p><strong>For the frontend, I used React.</strong> This isn’t an incredibly intense, so vanilla JS was an option, but React’s libraries wrapping Firebase query snapshots made development much easier. </p>
-<p>There are tutorials and articles out there for building apps with React and Firebase, but relevant ones used Firebase v8 instead of v9, which transitions away from the namespacing. Luckily, Firebase’s documentation covers translating v8 into v9.</p>
-<hr>
-<p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>Discord Scraper</title>
-    <url>/projects/discord_scraper.html</url>
-    <content><![CDATA[<p>Access the source files <a href="https://github.com/ronikbhaskar/discord_scraper">here</a>. </p>
-<h2 id="Disclaimer"><a href="#Disclaimer" class="headerlink" title="Disclaimer"></a>Disclaimer</h2><p>Botting your Discord account violates their Terms of Service. I do not use this scraper, nor will I, and I recommend you never use it either. This is solely for educational purposes.</p>
-<h2 id="Theoretical-Use-Cases"><a href="#Theoretical-Use-Cases" class="headerlink" title="Theoretical Use Cases"></a>Theoretical Use Cases</h2><p>Hypothetically speaking, wouldn’t it be cool to go through your server’s chat history, run the text through a Markov Chain generator, and spit out some nonsense for you all to laugh at? Just a thought. It would be tedious, copying every message by hand, but it’s definitely doable, so that’s how you should do it. By hand.</p>
-<h2 id="Getting-your-Access-Token"><a href="#Getting-your-Access-Token" class="headerlink" title="Getting your Access Token"></a>Getting your Access Token</h2><p>Now, having access to the Discord API requires an Access Token, and no one would know how to get their access token. I mean, who is going to open Discord in Chrome, open the inspector, switch to mobile&#x2F;tablet display, go to the Application tab, find the sidebar section labeled Storage, select <a href="https://discord.com/">https://discord.com</a> from the Local Storage dropdown, search token, and copy the value from the Key-Value pair? That’s a ridiculous number of hoops to jump through, and I can’t imagine anyone figuring that out on their own. </p>
+    <title>Inventing a Game, Then Building a Bot to Play It Perfectly</title>
+    <url>/projects/forest-algorithm.html</url>
+    <content><![CDATA[<p>It’s easier to learn how the game works by playing it, so I’ll create a playable version soon (hopefully).</p>
+<h2 id="Introduction-to-Forest"><a href="#Introduction-to-Forest" class="headerlink" title="Introduction to Forest"></a>Introduction to Forest</h2><p>I can’t remember the last time I played tic-tac-toe, probably because it ended in a draw. Hoping to bring back the excitement and strategy of the game, I created a variation I call “Forest.” The name comes from “four-by-four torus tic-tac-toe” being reduced to “fourus t.” which sounds like “forest” when you say it out loud. The game is tic-tac-toe played on a 4x4 grid, but rather than playing on a flat plane, the game is played on the surface of a donut—a torus—which offers some interesting opportunities for win cases. It’s a blast to play, much more fun than tic-tac-toe, but now I have a new problem. I don’t have a good strategy. There are a finite set of board states, so theoretically, we could map out every game and create a perfect strategy.</p>
+<p>Theoretically.</p>
+<h2 id="Turning-Theory-into-Practice-My-Strategy"><a href="#Turning-Theory-into-Practice-My-Strategy" class="headerlink" title="Turning Theory into Practice (My Strategy)"></a>Turning Theory into Practice (My Strategy)</h2><p>If you were to map out every possible decision on a Forest board, you would have roughly 30 trillion decisions. Once we map out this decision tree once, it’ll be done, and we won’t have to do it again. The problem arises when you want to map out the tree once. It’s just too big to do in any reasonable amount of time. I won’t settle for anything less than perfect, so I will create the tree, but I’ll have to figure out how to do it faster.</p>
+<p>In my view, there are two ways to optimize a procedure. Either you do the same procedure, but faster, or you get clever with your work. With the first option, it’s like walking a lap versus sprinting. You use efficient encodings, reuse similar chunks of memory, and perform faster operations, but if you were to describe how the algorithm works at a high level, it would sound the same before and after the optimization, “I go all the way around the track.” With the second option, it’s like walking a lap versus walking halfway then cutting across the field directly back to the start. You fundamentally change how you approach the problem, whether translating the problem, taking advantage of certain assumptions, or just doing less work.</p>
+<p>Given my previous experiences with decision trees, I started with trying to do less work. While the decision tree has 30 trillion branches, the total number of possible board states is less than 4.3 million, which is still a lot, but a substantial reduction. This means the decision tree is repeating states, which makes sense. As an example, consider these two games of tic-tac-toe (not Forest):</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">  |  |        X |  |        X |  |        X |  | X</span><br><span class="line">--------      --------      --------      --------</span><br><span class="line">  |  |    --&gt;   |  |    --&gt;   |O |    --&gt;   |O |  </span><br><span class="line">--------      --------      --------      --------</span><br><span class="line">  |  |          |  |          |  |          |  |   </span><br></pre></td></tr></table></figure>
+
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">  |  |          |  | X        |  | X      X |  | X</span><br><span class="line">--------      --------      --------      --------</span><br><span class="line">  |  |    --&gt;   |  |    --&gt;   |O |    --&gt;   |O |  </span><br><span class="line">--------      --------      --------      --------</span><br><span class="line">  |  |          |  |          |  |          |  |   </span><br></pre></td></tr></table></figure>
+
+<p>In both, they reach the same state by the end of the third move, but they start with different decisions, which means they represent separate branches on the decision tree. We could reduce the work we need to do by reusing this state in multiple places on the decision tree. By reusing every repeated state, we can go from the tens of trillions of states to a few million, but we can do less.</p>
+<p>After taking nearly a dozen math classes, I think I will forever have equivalence relations drilled into my head. Essentially, equivalence relations are a generalized method for defining equality. They allow you to group together equal elements into fancy buckets called equivalence classes. Since Forest is played on a torus, we can rotate, twist, and mirror the torus, all while preserving the game. As such, transforming the torus in different ways creates equivalent states, and we can let this be our definition of equivalence. To actually generate these equivalent states, I used algebraic representations of the ways you can manipulate a 4x4 torus and generated 128 transformations. With this, we need to check even fewer states, only around 77 thousand. </p>
+<p>After all this optimization, I started the program and waited to see some progress. For some reason, my program was only calculating a few optimal moves per second. I know my laptop isn’t necessarily state-of-the-art, but it should be faster than this. I couldn’t reduce the number of states I was checking, so it was time to try the other part of optimization. Just do it faster.</p>
+<p>This project was created in Python, as most of my projects are, since it’s the language in which I can think the fastest. Translating my thoughts to Python is second nature at this point, but that doesn’t mean translating Python to machine instructions is particularly efficient. Fortunately, I have a few years of lower-level programming experience, so I started going through my program, trying to consider what operations would be slow or where I might be allocating too much memory, and I found one very clear bottleneck. My lookup table, with its fancy equivalence relation, turned the board into a lookup key, and then the key back into a board. When turning the key into a new board, it created a new board, which meant I was doing dozens of memory allocations just to use a single state for a few operations. To fix this, I reused an old board and overwrote the memory there. </p>
+<p>I made a few similar changes, removing redundant data structures and fancy sorting and simplifying to basic arithmetic operations. All of a sudden, my basic minimax implementation was flying, and the program generated a table with all of the optimal moves in 22 seconds.</p>
+<h2 id="Reinforcement-Learning-Dawson’s-Strategy"><a href="#Reinforcement-Learning-Dawson’s-Strategy" class="headerlink" title="Reinforcement Learning (Dawson’s Strategy)"></a>Reinforcement Learning (Dawson’s Strategy)</h2><p>While I was working on this, Dawson took a different approach. Rather than using massive lookup space reductions, he turned to Reinforcement Learning with Monte-Carlo Tree Search. I’ll leave him to give an explanation of his process and how he approached this problem.</p>
+<h2 id="Two-Will-Enter-Only-One-Will-Leave"><a href="#Two-Will-Enter-Only-One-Will-Leave" class="headerlink" title="Two Will Enter, Only One Will Leave"></a>Two Will Enter, Only One Will Leave</h2><p>Now that we have our working Forest bots, we need to pit them against each other and see how they compare.</p>
 <hr>
 <p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
   </entry>
@@ -2049,29 +2196,6 @@
 <h3 id="Authors"><a href="#Authors" class="headerlink" title="Authors"></a>Authors</h3><p>Jon Ma and Ronik Bhaskar</p>
 <h3 id="Notes"><a href="#Notes" class="headerlink" title="Notes"></a>Notes</h3><p>*technically, they predict the next token, not word, but for our purposes, they are functionally the same.</p>
 ]]></content>
-  </entry>
-  <entry>
-    <title>Inventing a Game, Then Building a Bot to Play It Perfectly</title>
-    <url>/projects/forest-algorithm.html</url>
-    <content><![CDATA[<p>It’s easier to learn how the game works by playing it, so I’ll create a playable version soon (hopefully).</p>
-<h2 id="Introduction-to-Forest"><a href="#Introduction-to-Forest" class="headerlink" title="Introduction to Forest"></a>Introduction to Forest</h2><p>I can’t remember the last time I played tic-tac-toe, probably because it ended in a draw. Hoping to bring back the excitement and strategy of the game, I created a variation I call “Forest.” The name comes from “four-by-four torus tic-tac-toe” being reduced to “fourus t.” which sounds like “forest” when you say it out loud. The game is tic-tac-toe played on a 4x4 grid, but rather than playing on a flat plane, the game is played on the surface of a donut—a torus—which offers some interesting opportunities for win cases. It’s a blast to play, much more fun than tic-tac-toe, but now I have a new problem. I don’t have a good strategy. There are a finite set of board states, so theoretically, we could map out every game and create a perfect strategy.</p>
-<p>Theoretically.</p>
-<h2 id="Turning-Theory-into-Practice-My-Strategy"><a href="#Turning-Theory-into-Practice-My-Strategy" class="headerlink" title="Turning Theory into Practice (My Strategy)"></a>Turning Theory into Practice (My Strategy)</h2><p>If you were to map out every possible decision on a Forest board, you would have roughly 30 trillion decisions. Once we map out this decision tree once, it’ll be done, and we won’t have to do it again. The problem arises when you want to map out the tree once. It’s just too big to do in any reasonable amount of time. I won’t settle for anything less than perfect, so I will create the tree, but I’ll have to figure out how to do it faster.</p>
-<p>In my view, there are two ways to optimize a procedure. Either you do the same procedure, but faster, or you get clever with your work. With the first option, it’s like walking a lap versus sprinting. You use efficient encodings, reuse similar chunks of memory, and perform faster operations, but if you were to describe how the algorithm works at a high level, it would sound the same before and after the optimization, “I go all the way around the track.” With the second option, it’s like walking a lap versus walking halfway then cutting across the field directly back to the start. You fundamentally change how you approach the problem, whether translating the problem, taking advantage of certain assumptions, or just doing less work.</p>
-<p>Given my previous experiences with decision trees, I started with trying to do less work. While the decision tree has 30 trillion branches, the total number of possible board states is less than 4.3 million, which is still a lot, but a substantial reduction. This means the decision tree is repeating states, which makes sense. As an example, consider these two games of tic-tac-toe (not Forest):</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">  |  |        X |  |        X |  |        X |  | X</span><br><span class="line">--------      --------      --------      --------</span><br><span class="line">  |  |    --&gt;   |  |    --&gt;   |O |    --&gt;   |O |  </span><br><span class="line">--------      --------      --------      --------</span><br><span class="line">  |  |          |  |          |  |          |  |   </span><br></pre></td></tr></table></figure>
-
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">  |  |          |  | X        |  | X      X |  | X</span><br><span class="line">--------      --------      --------      --------</span><br><span class="line">  |  |    --&gt;   |  |    --&gt;   |O |    --&gt;   |O |  </span><br><span class="line">--------      --------      --------      --------</span><br><span class="line">  |  |          |  |          |  |          |  |   </span><br></pre></td></tr></table></figure>
-
-<p>In both, they reach the same state by the end of the third move, but they start with different decisions, which means they represent separate branches on the decision tree. We could reduce the work we need to do by reusing this state in multiple places on the decision tree. By reusing every repeated state, we can go from the tens of trillions of states to a few million, but we can do less.</p>
-<p>After taking nearly a dozen math classes, I think I will forever have equivalence relations drilled into my head. Essentially, equivalence relations are a generalized method for defining equality. They allow you to group together equal elements into fancy buckets called equivalence classes. Since Forest is played on a torus, we can rotate, twist, and mirror the torus, all while preserving the game. As such, transforming the torus in different ways creates equivalent states, and we can let this be our definition of equivalence. To actually generate these equivalent states, I used algebraic representations of the ways you can manipulate a 4x4 torus and generated 128 transformations. With this, we need to check even fewer states, only around 77 thousand. </p>
-<p>After all this optimization, I started the program and waited to see some progress. For some reason, my program was only calculating a few optimal moves per second. I know my laptop isn’t necessarily state-of-the-art, but it should be faster than this. I couldn’t reduce the number of states I was checking, so it was time to try the other part of optimization. Just do it faster.</p>
-<p>This project was created in Python, as most of my projects are, since it’s the language in which I can think the fastest. Translating my thoughts to Python is second nature at this point, but that doesn’t mean translating Python to machine instructions is particularly efficient. Fortunately, I have a few years of lower-level programming experience, so I started going through my program, trying to consider what operations would be slow or where I might be allocating too much memory, and I found one very clear bottleneck. My lookup table, with its fancy equivalence relation, turned the board into a lookup key, and then the key back into a board. When turning the key into a new board, it created a new board, which meant I was doing dozens of memory allocations just to use a single state for a few operations. To fix this, I reused an old board and overwrote the memory there. </p>
-<p>I made a few similar changes, removing redundant data structures and fancy sorting and simplifying to basic arithmetic operations. All of a sudden, my basic minimax implementation was flying, and the program generated a table with all of the optimal moves in 22 seconds.</p>
-<h2 id="Reinforcement-Learning-Dawson’s-Strategy"><a href="#Reinforcement-Learning-Dawson’s-Strategy" class="headerlink" title="Reinforcement Learning (Dawson’s Strategy)"></a>Reinforcement Learning (Dawson’s Strategy)</h2><p>While I was working on this, Dawson took a different approach. Rather than using massive lookup space reductions, he turned to Reinforcement Learning with Monte-Carlo Tree Search. I’ll leave him to give an explanation of his process and how he approached this problem.</p>
-<h2 id="Two-Will-Enter-Only-One-Will-Leave"><a href="#Two-Will-Enter-Only-One-Will-Leave" class="headerlink" title="Two Will Enter, Only One Will Leave"></a>Two Will Enter, Only One Will Leave</h2><p>Now that we have our working Forest bots, we need to pit them against each other and see how they compare.</p>
-<hr>
-<p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
   </entry>
   <entry>
     <title>Projects</title>
@@ -2532,24 +2656,6 @@
 ]]></content>
   </entry>
   <entry>
-    <title>Math Art</title>
-    <url>/projects/math-art.html</url>
-    <content><![CDATA[<p>I discuss this project in my <a href="/about">about page</a>. The source code, along with an explanation of the project, can be found <a href="https://github.com/ronikbhaskar/math-art">here</a>.</p>
-<h2 id="Quick-Overview"><a href="#Quick-Overview" class="headerlink" title="Quick Overview"></a>Quick Overview</h2><p>The butterfly effect says that small changes can lead to drastically different results. This is the foundation of chaos theory. Sometimes, that chaos results in stunning patterns called strange attractors, and I’ve done my best to capture them here. It’s also what you see on the landing page of my site.</p>
-<h2 id="Strange-Attractors"><a href="#Strange-Attractors" class="headerlink" title="Strange Attractors"></a>Strange Attractors</h2><img src="math-art-gifs/static_halvorsen.gif" alt="The Halvorsen Attractor" />
-
-<br/>
-
-<img src="math-art-gifs/static_lorenz.gif" alt="The Lorenz Attractor" />
-
-<br/>
-
-<img src="math-art-gifs/static_aizawa.gif" alt="The Aizawa Attractor" />
-
-<hr>
-<p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
-  </entry>
-  <entry>
     <title>A Compass That Can Take You Anywhere</title>
     <url>/projects/locator.html</url>
     <content><![CDATA[<p><em>Bringing back the fun and adventure of the journey. Link at the bottom of the article.</em></p>
@@ -2604,6 +2710,24 @@
 <li><p>I didn’t playtest the final version of the game enough.</p>
 </li>
 </ol>
+<hr>
+<p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>Math Art</title>
+    <url>/projects/math-art.html</url>
+    <content><![CDATA[<p>I discuss this project in my <a href="/about">about page</a>. The source code, along with an explanation of the project, can be found <a href="https://github.com/ronikbhaskar/math-art">here</a>.</p>
+<h2 id="Quick-Overview"><a href="#Quick-Overview" class="headerlink" title="Quick Overview"></a>Quick Overview</h2><p>The butterfly effect says that small changes can lead to drastically different results. This is the foundation of chaos theory. Sometimes, that chaos results in stunning patterns called strange attractors, and I’ve done my best to capture them here. It’s also what you see on the landing page of my site.</p>
+<h2 id="Strange-Attractors"><a href="#Strange-Attractors" class="headerlink" title="Strange Attractors"></a>Strange Attractors</h2><img src="math-art-gifs/static_halvorsen.gif" alt="The Halvorsen Attractor" />
+
+<br/>
+
+<img src="math-art-gifs/static_lorenz.gif" alt="The Lorenz Attractor" />
+
+<br/>
+
+<img src="math-art-gifs/static_aizawa.gif" alt="The Aizawa Attractor" />
+
 <hr>
 <p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
   </entry>
@@ -2766,77 +2890,5 @@ table, th {
 </ul>
 <hr>
 <p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>Publications</title>
-    <url>/publications/index.html</url>
-    <content><![CDATA[<p>Also see my: <a href="https://scholar.google.com/citations?user=dqTwtegAAAAJ&hl=en&oi=ao">Google Scholar</a></p>
-<h3 id="Refereed"><a href="#Refereed" class="headerlink" title="Refereed"></a>Refereed</h3><p><a href="https://arxiv.org/abs/2506.21874">On the Feasibility of Poisoning Text-to-Image AI Models via Adversarial Mislabeling</a><br>Stanley Wu, <strong>Ronik Bhaskar</strong>, Anna Yoo Jeong Ha, Shawn Shan, Haitao Zheng, Ben Y. Zhao<br><em>Conference on Computer and Communications Security (CCS), 2025.</em> </p>
-<p><a href="https://arxiv.org/abs/2402.03214">Organic or Diffused: Can We Distinguish Human Art from AI-generated Images?</a><br>Anna Yoo Jeong Ha*, Josephine Passananti*, <strong>Ronik Bhaskar</strong>, Shawn Shan, Reid Southen, Haitao Zheng, Ben Y. Zhao.<br><em>Conference on Computer and Communications Security (CCS), 2024.</em><br>☆ Distinguished Paper Award.</p>
-<p><a href="https://www.usenix.org/system/files/sec23winter-prepub-116-yang-zhuolin.pdf">Can Virtual Reality Protect Users from Keystroke Inference Attacks?</a><br>Zhuolin Yang, Zain Sarwar, Iris Hwang, <strong>Ronik Bhaskar</strong>, Ben Y. Zhao, Haitao Zheng.<br><em>USENIX Security Symposium, 2024.</em><br><a href="https://www.newscientist.com/article/2401929-ai-can-steal-passwords-in-virtual-reality-from-avatar-hand-motions/">Media Coverage</a><br><br></p>
-<h3 id="Recreational"><a href="#Recreational" class="headerlink" title="Recreational"></a>Recreational</h3><p><a href="/projects/PizzaLang.pdf">PizzaLang: A Language for Hungry Developers</a><br><strong>Ronik Bhaskar</strong>, Dawson Ren.<br><em>Proc. of SIGBOVIK, 2023.</em></p>
-]]></content>
-  </entry>
-  <entry>
-    <title>Ronik Bhaskar</title>
-    <url>/about/index.html</url>
-    <content><![CDATA[<style>
-.profile-image-ronik {
-    width: 100%!important;
-    margin: 1rem;
-    margin-top: 0;
-    margin-left: 0;
-    float: left!important;
-}
-.side-bar-about {
-    width: min(max(25%,6rem),100%)!important;
-    /* height: 100dvh; */
-    padding: 1.5rem;
-    padding-top: 0;
-    padding-left: 0;
-    margin: 1rem;
-    margin-top: 0;
-    margin-left: 0;
-    float: left!important;
-}
-</style>
-
-<div class="side-bar-about">
-<img src="ronik_2.jpg" class="profile-image-ronik" alt="Ronik looking up at a plant."> 
-<h4>Quick Links:</h4>
-<div>
-    <a href="/publications/">Publications</a> </br>
-    <a href="https://scholar.google.com/citations?user=dqTwtegAAAAJ&hl=en&oi=ao">Google Scholar</a> </br>
-    <a href="/about/CV.pdf">CV</a> </br>
-    <a href="https://github.com/ronikbhaskar">GitHub</a>
-</div>
-</div>
-
-<p>I am a 1st year PhD student at the University of Chicago. I work in the <a href="https://sandlab.cs.uchicago.edu/index.html">SAND Lab</a> where I’m fortunate to be co-advised by Prof. <a href="http://people.cs.uchicago.edu/~htzheng/">Heather Zheng</a> and Prof. <a href="http://people.cs.uchicago.edu/~ravenben/">Ben Y. Zhao</a>. </p>
-<p>I study the security and privacy issues that arise as machine learning systems become more ubiquitous, and I leverage these insights to develop tools to empower individuals against unethical AI practices.</p>
-<!-- I'm broadly interested in security and privacy with a recent focus on adversarial machine learning. If you're a digital artist, or you're interested in generative AI, I recommend checking out [Glaze](https://glaze.cs.uchicago.edu). I'm proud to work on this project and hopefully similar ones in the future. -->
-
-<!-- While I am relatively new to research, I have made some observations. Computer security research exists in a delicate ethical space. Every discovered vulnerability is an opportunity for attack, but it is also a potential warning. Every defense offers protection to some group, but it also risks unintended side effects and consequences for future technology. As I continue my academic journey, I hope to learn how to meaningfully consider the implications of my work, regardless of the field I research. -->
-
-<h2 id="Recent-Publications"><a href="#Recent-Publications" class="headerlink" title="Recent Publications"></a>Recent Publications</h2><p>S. Wu, <strong>R, Bhaskar</strong>, A. Ha, S. Shan, H. Zheng, BY. Zhao. <a href="https://arxiv.org/abs/2506.21874">On the Feasibility of Poisoning Text-to-Image AI Models via Adversarial Mislabeling</a><br><em>Conference on Computer and Communications Security (CCS), 2025.</em></p>
-<!-- ```bash
-# My email:
-echo "cmJoYXNrYXJAdWNoaWNhZ28uZWR1Cg==" | base64 --decode
-``` -->
-
-<!-- I was never the creative one or the artistic one. I was always "that guy that's good at math." -->
-
-<!-- Then COVID hit. -->
-
-<!-- In December of 2020, a welcoming group of friends adopted me into their Discord server. We joked about building more friends, but some part of me kept whispering, *Maybe that's not a bad idea.* So, that month, I built a working [discord bot](/projects/discord_bot). His name was Igor, and despite the lack of functionality, he was full of life and personality. The server members loved him like a pet.  -->
-
-
-<!-- A few months later, while chatting about the chaos of life with some filmmakers, they mentioned the butterfly effect. I asked about the origin of the phrase, and a few hours later, I found myself stumbling down a rabbit hole of differential equations and strange attractors. A week later, I recreated Lorenz's Butterfly Effect—the beginnings of the [math art](/projects/math-art) project. -->
-
-<!-- This continued incessantly. Someone would throw out a phrase or idea, and I would run with it. As I continued creating, I started finding my voice in code. Despite everything I made, it took me months to finally call myself creative, which would have been impossible on my own. My friends reminded me that I was more than test scores and good grades, and I hope they know how grateful I am. -->
-
-<!-- Without the people closest to me providing constant support and inspiration and critiques, I wouldn't still be creating. If that's you, thanks.  -->
-
-<!-- *Add to the [dialogue](/chat), and become part of my story.* -->]]></content>
   </entry>
 </search>

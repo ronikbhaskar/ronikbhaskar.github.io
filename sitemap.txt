@@ -1,3 +1,5 @@
+https://ronikbhaskar.github.io/gallery/ext
+https://ronikbhaskar.github.io/gallery/
 https://ronikbhaskar.github.io/ex-libris-colour-index/
 https://ronikbhaskar.github.io/the-algorithm-that-lets-us-find-anything-even-joy/
 https://ronikbhaskar.github.io/ex-libris-i-robot/
@@ -25,8 +27,6 @@ https://ronikbhaskar.github.io/projects/discord_scraper
 https://ronikbhaskar.github.io/projects/discord_bot
 https://ronikbhaskar.github.io/projects/chat
 https://ronikbhaskar.github.io/projects/anti-eliza
-https://ronikbhaskar.github.io/gallery/
-https://ronikbhaskar.github.io/gallery/ext
 https://ronikbhaskar.github.io/finding-joy-is-a-mathematically-difficult-problem/
 https://ronikbhaskar.github.io/about/
 https://ronikbhaskar.github.io/publications/
