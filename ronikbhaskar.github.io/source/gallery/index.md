@@ -52,6 +52,8 @@ Please contact me before distributing or teaching any of my works.
 
 ## Index
 
+[Waiting, Act I](#waiting-i)
+[Waiting, Act II](#waiting-ii)
 [Phishing](#phishing)
 [Walking Red Flag](#walking-red-flag)
 [Hanging up the Mask](#hanging-up-the-mask)
@@ -62,6 +64,32 @@ Please contact me before distributing or teaching any of my works.
 [Whitetail Fawn](#whitetail-fawn)
 [Fish out of Water](#fish-out-of-water)
 [Hanging by a Thread](#hanging-by-a-thread)
+
+<div class="simple-wrapper">
+  <div class="text-wrapper">
+    <a id="waiting-i"></a>
+    <h1>Waiting, Act I</h1>
+    <p>Telling a story in two designs. This is the first.</p>
+    <p>Designed: 02/15/26</p>
+  </div>
+  <div class="image-container">
+  <img src="gallery/waiting-act-i.jpg" alt="Origami."> 
+  <img src="gallery/waiting-act-i-cp.png" alt="Crease pattern."> 
+  </div>
+</div>
+
+<div class="simple-wrapper">
+  <div class="text-wrapper">
+    <a id="waiting-ii"></a>
+    <h1>Waiting, Act II</h1>
+    <p>Telling a story in two designs. This is the second.</p>
+    <p>Designed: 02/15/26</p>
+  </div>
+  <div class="image-container">
+  <img src="gallery/waiting-act-ii.jpg" alt="Origami."> 
+  <img src="gallery/waiting-act-ii-cp.png" alt="Crease pattern."> 
+  </div>
+</div>
 
 <div class="simple-wrapper">
   <div class="text-wrapper">

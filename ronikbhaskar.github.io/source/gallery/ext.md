@@ -47,6 +47,8 @@ An extended gallery of my original origami designs. They are in chronological or
 
 ## Index
 
+[Waiting, Act I - 24x24 Grid](#waiting-i)
+[Waiting, Act II - 24x24 Grid](#waiting-ii)
 [Phishing - 32x32 Grid](#phishing)
 [Walking Red Flag - 18x18 Grid](#walking-red-flag)
 [Hanging up the Mask - 10x10 Grid](#hanging-up-the-mask)
@@ -67,6 +69,31 @@ An extended gallery of my original origami designs. They are in chronological or
 [Fairy - 16x16 Grid](#fairy)
 [Wikipedia Sword and Shield - 16x16 Grid](#wss)
 
+<div class="simple-wrapper">
+  <div class="text-wrapper">
+    <a id="waiting-i"></a>
+    <h1>Waiting, Act I</h1>
+    <p>Telling a story in two designs. This is the first.</p>
+    <p>Designed: 02/15/26</p>
+  </div>
+  <div class="image-container">
+  <img src="gallery/waiting-act-i.jpg" alt="Origami."> 
+  <img src="gallery/waiting-act-i-cp.png" alt="Crease pattern."> 
+  </div>
+</div>
+
+<div class="simple-wrapper">
+  <div class="text-wrapper">
+    <a id="waiting-ii"></a>
+    <h1>Waiting, Act II</h1>
+    <p>Telling a story in two designs. This is the second.</p>
+    <p>Designed: 02/15/26</p>
+  </div>
+  <div class="image-container">
+  <img src="gallery/waiting-act-ii.jpg" alt="Origami."> 
+  <img src="gallery/waiting-act-ii-cp.png" alt="Crease pattern."> 
+  </div>
+</div>
 
 <div class="simple-wrapper">
   <div class="text-wrapper">
@@ -315,4 +342,4 @@ An extended gallery of my original origami designs. They are in chronological or
   </div>
 </div>
 
-Gallery layout credit to [Boice Wong](https://www.obb.design/c).
+A filtered portfolio can be found [here](/gallery/).
