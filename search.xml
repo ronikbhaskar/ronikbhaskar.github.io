@@ -69,6 +69,33 @@
 ]]></content>
   </entry>
   <entry>
+    <title>Breaking Language Models for Fun</title>
+    <url>/breaking-language-models-for-fun/</url>
+    <content><![CDATA[<p>Training a machine learning model is easy. Correctly training a machine learning model is hard. Every choice you make, from start to finish, has an impact on how your model will perform. You won’t know whether you trained it right or not until after you’re done, when someone finds an issue in your finished model. That someone is me.</p>
+<p>The other day, I stumbled across a free-to-use profanity detector. The developer made an API so you can use his model for free without running anything locally. If nothing else, I applaud the developer’s effort to create free, accessible software. </p>
+<p>While I was using the software, I did make some observations about its behavior. As expected, standard profanity is flagged as such. There were, however a few innocuous phrases that were flagged as profane. Here are some examples:</p>
+<ul>
+<li>“do not prick yourself with that pin”</li>
+<li>“asdfasdf asdf”</li>
+<li>“a son of”</li>
+<li>“asldfjlas lsjaflks asldfl;a sf”</li>
+<li>“this profanity detector is just so incredibly, horribly”</li>
+<li>“son of a”</li>
+<li>“oh god, this is a total”</li>
+<li>“you absolute piece of”</li>
+<li>“censor this”</li>
+</ul>
+<p>I have more, but this seems like a representative sample. There are some actual sentences, some phrases with negative sentiment, and plain gibberish. It took me maybe 10 minutes to find these, and that was without any automation. I can understand that in some extreme cases, you may want to flag a few of these, but most of these phrases are nowhere near as bad as the model thinks they are. </p>
+<p>To be clear, this is a very popular project. It has over 1,000 stars on GitHub. I’m not trying to belittle the project. I’m just trying to use it as an example that others may be able to learn from. Hopefully, what others will learn is that machine learning can be tricky. In this case, the model is skewed towards expecting profanity, which has resulted in some level of bias. This may come from a skewed dataset, an improper loss function, or just the inherent randomness in stochastic training processes. </p>
+<p>The exact specifics of the problem aren’t particularly important because there is no perfect fix to this problem. Instead, understand the scope of your machine learning model. Define proper use cases. Use thorough testing to understand its limitations. Realize that statistical machines are occasionally wrong, and you need to calculate how much a wrong prediction could cost you or someone else. </p>
+<p>It’s possible the developer went through all this, and this model was the final result. In that case, congrats on such a popular project. Regardless, the next time you hear someone building a profanity detector, make sure it doesn’t get fooled by phrases like “asdfasdf asdf”.</p>
+<hr>
+<h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ol>
+<li><a href="https://www.profanity.dev/">the profanity detector in question</a></li>
+</ol>
+]]></content>
+  </entry>
+  <entry>
     <title>AM</title>
     <url>/am/</url>
     <content><![CDATA[<p>What does AM stand for? Maybe Ante Meridiem, before noon. Or maybe the element Americium (Am). Maybe it’s Artium Magister, a Master of Arts degree. Whatever the case, if you compound masters of the arts over time, you get Arctic Monkeys. </p>
@@ -111,33 +138,6 @@
 ]]></content>
   </entry>
   <entry>
-    <title>Breaking Language Models for Fun</title>
-    <url>/breaking-language-models-for-fun/</url>
-    <content><![CDATA[<p>Training a machine learning model is easy. Correctly training a machine learning model is hard. Every choice you make, from start to finish, has an impact on how your model will perform. You won’t know whether you trained it right or not until after you’re done, when someone finds an issue in your finished model. That someone is me.</p>
-<p>The other day, I stumbled across a free-to-use profanity detector. The developer made an API so you can use his model for free without running anything locally. If nothing else, I applaud the developer’s effort to create free, accessible software. </p>
-<p>While I was using the software, I did make some observations about its behavior. As expected, standard profanity is flagged as such. There were, however a few innocuous phrases that were flagged as profane. Here are some examples:</p>
-<ul>
-<li>“do not prick yourself with that pin”</li>
-<li>“asdfasdf asdf”</li>
-<li>“a son of”</li>
-<li>“asldfjlas lsjaflks asldfl;a sf”</li>
-<li>“this profanity detector is just so incredibly, horribly”</li>
-<li>“son of a”</li>
-<li>“oh god, this is a total”</li>
-<li>“you absolute piece of”</li>
-<li>“censor this”</li>
-</ul>
-<p>I have more, but this seems like a representative sample. There are some actual sentences, some phrases with negative sentiment, and plain gibberish. It took me maybe 10 minutes to find these, and that was without any automation. I can understand that in some extreme cases, you may want to flag a few of these, but most of these phrases are nowhere near as bad as the model thinks they are. </p>
-<p>To be clear, this is a very popular project. It has over 1,000 stars on GitHub. I’m not trying to belittle the project. I’m just trying to use it as an example that others may be able to learn from. Hopefully, what others will learn is that machine learning can be tricky. In this case, the model is skewed towards expecting profanity, which has resulted in some level of bias. This may come from a skewed dataset, an improper loss function, or just the inherent randomness in stochastic training processes. </p>
-<p>The exact specifics of the problem aren’t particularly important because there is no perfect fix to this problem. Instead, understand the scope of your machine learning model. Define proper use cases. Use thorough testing to understand its limitations. Realize that statistical machines are occasionally wrong, and you need to calculate how much a wrong prediction could cost you or someone else. </p>
-<p>It’s possible the developer went through all this, and this model was the final result. In that case, congrats on such a popular project. Regardless, the next time you hear someone building a profanity detector, make sure it doesn’t get fooled by phrases like “asdfasdf asdf”.</p>
-<hr>
-<h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ol>
-<li><a href="https://www.profanity.dev/">the profanity detector in question</a></li>
-</ol>
-]]></content>
-  </entry>
-  <entry>
     <title>Celestial Navigation, Part 2</title>
     <url>/celestial-navigation-part-2/</url>
     <content><![CDATA[<p>As a young person with little experience in the world, I am quite familiar with feeling unqualified. Far too often, I find myself given opportunities for which I have absolutely no preparation. It’s easier to recognize you’re unqualified for something when you meet the people who are qualified for the opportunity. I learned this a few years ago when I volunteered at an astronomy night for Cub Scouts. </p>
@@ -145,6 +145,18 @@
 <p>After a while, the scouts started working on an activity that didn’t require us to do much, so the president and I chatted for a bit. I had no reason to pretend like I knew anything about space, so I let myself ask very stupid questions. I probably could’ve googled how many constellations there were, but it ended up being a good way to start the conversation. As a bonus, I still remember there are 88 constellations, and I still remember a little about how the brightest stars in each constellation are named. The president also cracked a few jokes about Orion’s Sword which I thought were hilarious. If the old president ever sees this, thanks for being awesome.</p>
 <p>A few years later, I was in the middle of nowhere with my telescope, when I remembered those jokes about Orion’s Sword. Given the clear conditions, I decided to observe the three stars that make up the sword. Throughout the night, I watched as the sword moved across the sky when I noticed something strange. At its zenith, the sword appeared to be pointing straight down. By this point, I had already made my <a href="/student-of-life-celestial-navigation-part-1/">revelations about the north star</a>, so I quickly realized the sword was pointing south. When I pulled out my compass, the sword was a little off, but not by much, less than a degree. Living in the northern hemisphere, I wasn’t sure how this would hold for the rest of the night, so I waited a bit to observe it again. I followed the direction of the sword until I hit the horizon, and I checked the direction. This time, it was off by even more. As I expected, the Earth was getting in the way of being able to use Orion’s Sword to find south, but it still worked pretty well. With a bit of latitude correction, finding south using Orion’s Sword seemed absolutely possible, it would just require a bit of math. A project for another night, perhaps.</p>
 <p>It’s hard to believe that because of a joke I heard a few years ago, I learned about celestial navigation, but I suppose that’s what the student of life is about. A few years ago, I volunteered at an event for which I was extremely unqualified. I don’t quite know why I was given the opportunity, but I am extremely grateful. That opportunity, like so many others, has given me more than I could ever give. Even today, I’m still learning and growing from everything I have been given. Eventually, the day will come when I can offer more than I receive, but even then, I will still keep learning. I will still be a student of life.</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>Celestial Navigation, Part 3</title>
+    <url>/celestial-navigation-part-3/</url>
+    <content><![CDATA[<p>In the spirit of April Fools’ Day, I’d like to tell a story of trickery and deceit. This is a story of how I was fooled, or rather, how I will be fooled.</p>
+<p>Every equinox, residents of Chicago line the sidewalks to witness Chicagohenge, when the sun rises and sets perfectly along the east-west streets. For the amateur astronomy enthusiast, it’s a captivating sight. I’ve watched Chicagohenge a few times now, and I’m always amazed. The perfect alignment of the sun and the city creates a beautifully cinematic moment, like the sun is a paid actor and we’re operating the camera. </p>
+<p>During the most recent equinox, a few hours before sunset, I noticed the sun wasn’t directly aligned with the buildings but just slightly south of west. The misalignment made me pause. Before this, I had noticed the sun generally stays in the southern half of the sky during the day, but I had never thought about when the sun would transition from south to not south. Living north of the Tropics, I assumed the sun would always appear south of me, and I couldn’t imagine why it wouldn’t. I watched Chicagohenge that day, but I was unable to enjoy it. My senses and my intuition were at odds.</p>
+<p>In moments like this, when my senses and intuition conflicted, I turned to the only reliable source of answers: math. I opened my notebook and started drawing spheres and planes and lines, trying to decipher the truth. After a few pages of scribbled calculations, I was thoroughly convinced that on the equinox, the sun rises perfectly east and sets perfectly west. (It’s worth noting that this result holds true anywhere on Earth, which means it’s true for you too, dear reader.) While I didn’t trust my senses or my intuition, I placed unwavering trust in math and formal logic.</p>
+<p>And therein lies the problem. I use math to check my senses and my intuition, but I have no system to disprove math when math fails. I trust formal logic entirely, but blind faith is a dangerous game, no matter how rational. Even the philosophy of mathematics cautions against finding complete truth in a fixed set of axioms. Gödel’s incompleteness theorems highlight the existence of mathematical statements that can never be proven true or false, so finding absolute truth in mathematics is impossible.</p>
+<p>Any source of “absolute” truth has its risks. While I’ve decided to place considerable trust in mathematics, any system of truth can deceive you. Your senses fall victim to illusions, and your intuition won’t always be right. No finite number of observations will ever be complete, and no gut feeling can guarantee correctness. Even when you’re doing something as simple as watching the sun rise over your city, you might be fooled, and that’s alright. The truth was never guaranteed anyway.</p>
+<p>$$(4 \cdot 1)! &#x3D; 24$$</p>
 ]]></content>
   </entry>
   <entry>
@@ -159,15 +171,26 @@
 ]]></content>
   </entry>
   <entry>
-    <title>Celestial Navigation, Part 3</title>
-    <url>/celestial-navigation-part-3/</url>
-    <content><![CDATA[<p>In the spirit of April Fools’ Day, I’d like to tell a story of trickery and deceit. This is a story of how I was fooled, or rather, how I will be fooled.</p>
-<p>Every equinox, residents of Chicago line the sidewalks to witness Chicagohenge, when the sun rises and sets perfectly along the east-west streets. For the amateur astronomy enthusiast, it’s a captivating sight. I’ve watched Chicagohenge a few times now, and I’m always amazed. The perfect alignment of the sun and the city creates a beautifully cinematic moment, like the sun is a paid actor and we’re operating the camera. </p>
-<p>During the most recent equinox, a few hours before sunset, I noticed the sun wasn’t directly aligned with the buildings but just slightly south of west. The misalignment made me pause. Before this, I had noticed the sun generally stays in the southern half of the sky during the day, but I had never thought about when the sun would transition from south to not south. Living north of the Tropics, I assumed the sun would always appear south of me, and I couldn’t imagine why it wouldn’t. I watched Chicagohenge that day, but I was unable to enjoy it. My senses and my intuition were at odds.</p>
-<p>In moments like this, when my senses and intuition conflicted, I turned to the only reliable source of answers: math. I opened my notebook and started drawing spheres and planes and lines, trying to decipher the truth. After a few pages of scribbled calculations, I was thoroughly convinced that on the equinox, the sun rises perfectly east and sets perfectly west. (It’s worth noting that this result holds true anywhere on Earth, which means it’s true for you too, dear reader.) While I didn’t trust my senses or my intuition, I placed unwavering trust in math and formal logic.</p>
-<p>And therein lies the problem. I use math to check my senses and my intuition, but I have no system to disprove math when math fails. I trust formal logic entirely, but blind faith is a dangerous game, no matter how rational. Even the philosophy of mathematics cautions against finding complete truth in a fixed set of axioms. Gödel’s incompleteness theorems highlight the existence of mathematical statements that can never be proven true or false, so finding absolute truth in mathematics is impossible.</p>
-<p>Any source of “absolute” truth has its risks. While I’ve decided to place considerable trust in mathematics, any system of truth can deceive you. Your senses fall victim to illusions, and your intuition won’t always be right. No finite number of observations will ever be complete, and no gut feeling can guarantee correctness. Even when you’re doing something as simple as watching the sun rise over your city, you might be fooled, and that’s alright. The truth was never guaranteed anyway.</p>
-<p>$$(4 \cdot 1)! &#x3D; 24$$</p>
+    <title>Conservation and the Trolley Problem</title>
+    <url>/conservation-and-the-trolley-problem/</url>
+    <content><![CDATA[<p>The Trolley Problem has become a staple of modern media culture. It has made rounds through film and television, memes, and even absurdist video games. Unfortunately, in this meteoric rise in fame, the Trolley Problem has lost its meaning. The once-respected ethical dilemma now often seems overly simplistic and detached from reality. It no longer holds the same significance it did in the 70’s.</p>
+<p>In Phillipa Foot’s original article, the Trolley Problem is posed as follows. Suppose you are the driver of a runaway tram, and the tram is headed towards five rail workers. There is another track you could turn on instead. On it is someone tied to the rails. If you turn, you will kill the one. If you do nothing, you will kill the five.</p>
+<p>Foot posits that the obvious choice is to turn. In fact, she finds this so obvious that she doesn’t even spend enough words to explain the action-versus-inaction issue. That comes later, when Judith Jarvis Thomson popularizes the dilemma, giving it its famous title. Foot briefly introduces the dilemma to discuss the nuances of double-effect morality and an ethical algorithm called the “doctrine of double effect”. She discusses other scenarios, such as a surgeon harvesting organs from one patient to save five, a judge framing an innocent person for an unsolvable crime to prevent bloody riots, and abortion.</p>
+<p>Foot and Thomson both propose interesting dilemmas with nuanced arguments. Though I recommend reading them, I will refrain from making any comments on the conclusions they reach. What I will say is that their work demonstrates what the Trolley Problem truly symbolizes: one example in a network of nuanced ethical dilemmas. Each dilemma offers a new situation to test ethical frameworks, such as the doctrine of double effect.</p>
+<p>In line with these ethical problems, I would like to propose one more, but with one, key difference. My problem is about non-human animals. This is the trophy hunting problem.</p>
+<p>Suppose you are a conservationist working with local populations in Africa. As it stands, rampant poaching and habitat destruction will decimate the local wildlife. However, a trophy hunter has approached you, offering you lots of money to let them kill exactly one of the animals. If you take this money, it will go to conservation and protection efforts, saving many more animals. Do you take the trophy hunter’s offer?</p>
+<p>When the trophy hunting problem was first presented to me, it wasn’t presented as an open question. Over a decade ago, in a very strange grade school lesson, I listened to my teacher share how trophy hunting could be beneficial, advocating for this arrangement. In fairness, the system was already in place, as conservationists were already taking money from trophy hunters. </p>
+<p>The trophy hunting problem offers countless opportunities to explore ethical frameworks through nuanced details. How much money should this cost? How many lives should be saved to take the deal? How should population growth look afterward? How frequently do you take the deal? What if this were about humans instead of animals?</p>
+<p>This trophy hunting problem serves as a reminder of the true nature of the Trolley Problem. It’s about reflecting on ethical approaches to life, questioning belief systems, and understanding that not all problems have a pretty solution. The Trolley Problem is more than a few memes and an episode of The Good Place. It’s the terrifying reality that our decisions can influence who lives and who dies, so choose wisely.</p>
+<hr>
+<ol>
+<li><a href="https://neal.fun/absurd-trolley-problems/">Absurd Trolley Problems Game</a></li>
+<li><a href="https://www.imdb.com/title/tt6951978/">“The Good Place” The Trolley Problem</a></li>
+<li><a href="https://www2.econ.iastate.edu/classes/econ362/hallam/Readings/FootDoubleEffect.pdf">The Problem of Abortion and the Doctrine of the Double Effect</a></li>
+<li><a href="https://laurenralpert.wordpress.com/wp-content/uploads/2014/08/thomson-killing-letting-die-and-the-trolley-problem.pdf">Killing, Letting Die, and the Trolley Problem</a></li>
+<li><a href="https://doi.org/10.1016/j.biocon.2006.09.005">Economic and conservation significance of the trophy hunting industry in sub-Saharan Africa</a></li>
+<li><a href="https://doi.org/10.1111/j.1469-1795.2006.00034.x">Potential of trophy hunting to create incentives for wildlife conservation in Africa where alternative wildlife-based land uses may not be viable</a></li>
+</ol>
 ]]></content>
   </entry>
   <entry>
@@ -199,29 +222,6 @@
 <li><a href="https://chicagomaroon.com/49019/news/netflix-film-saturn-return-shoots-on-uchicago-campus/">Filming on Campus</a></li>
 <li><a href="https://web.archive.org/web/20151222074912/http://astrology.about.com/od/advancedastrology/p/SaturnReturn.htm">Saturn Return Astrology</a></li>
 <li><a href="https://www.loc.gov/collections/finding-our-place-in-the-cosmos-with-carl-sagan/articles-and-essays/modeling-the-cosmos/ancient-greek-astronomy-and-cosmology">Ancient Greek Astronomy</a></li>
-</ol>
-]]></content>
-  </entry>
-  <entry>
-    <title>Conservation and the Trolley Problem</title>
-    <url>/conservation-and-the-trolley-problem/</url>
-    <content><![CDATA[<p>The Trolley Problem has become a staple of modern media culture. It has made rounds through film and television, memes, and even absurdist video games. Unfortunately, in this meteoric rise in fame, the Trolley Problem has lost its meaning. The once-respected ethical dilemma now often seems overly simplistic and detached from reality. It no longer holds the same significance it did in the 70’s.</p>
-<p>In Phillipa Foot’s original article, the Trolley Problem is posed as follows. Suppose you are the driver of a runaway tram, and the tram is headed towards five rail workers. There is another track you could turn on instead. On it is someone tied to the rails. If you turn, you will kill the one. If you do nothing, you will kill the five.</p>
-<p>Foot posits that the obvious choice is to turn. In fact, she finds this so obvious that she doesn’t even spend enough words to explain the action-versus-inaction issue. That comes later, when Judith Jarvis Thomson popularizes the dilemma, giving it its famous title. Foot briefly introduces the dilemma to discuss the nuances of double-effect morality and an ethical algorithm called the “doctrine of double effect”. She discusses other scenarios, such as a surgeon harvesting organs from one patient to save five, a judge framing an innocent person for an unsolvable crime to prevent bloody riots, and abortion.</p>
-<p>Foot and Thomson both propose interesting dilemmas with nuanced arguments. Though I recommend reading them, I will refrain from making any comments on the conclusions they reach. What I will say is that their work demonstrates what the Trolley Problem truly symbolizes: one example in a network of nuanced ethical dilemmas. Each dilemma offers a new situation to test ethical frameworks, such as the doctrine of double effect.</p>
-<p>In line with these ethical problems, I would like to propose one more, but with one, key difference. My problem is about non-human animals. This is the trophy hunting problem.</p>
-<p>Suppose you are a conservationist working with local populations in Africa. As it stands, rampant poaching and habitat destruction will decimate the local wildlife. However, a trophy hunter has approached you, offering you lots of money to let them kill exactly one of the animals. If you take this money, it will go to conservation and protection efforts, saving many more animals. Do you take the trophy hunter’s offer?</p>
-<p>When the trophy hunting problem was first presented to me, it wasn’t presented as an open question. Over a decade ago, in a very strange grade school lesson, I listened to my teacher share how trophy hunting could be beneficial, advocating for this arrangement. In fairness, the system was already in place, as conservationists were already taking money from trophy hunters. </p>
-<p>The trophy hunting problem offers countless opportunities to explore ethical frameworks through nuanced details. How much money should this cost? How many lives should be saved to take the deal? How should population growth look afterward? How frequently do you take the deal? What if this were about humans instead of animals?</p>
-<p>This trophy hunting problem serves as a reminder of the true nature of the Trolley Problem. It’s about reflecting on ethical approaches to life, questioning belief systems, and understanding that not all problems have a pretty solution. The Trolley Problem is more than a few memes and an episode of The Good Place. It’s the terrifying reality that our decisions can influence who lives and who dies, so choose wisely.</p>
-<hr>
-<ol>
-<li><a href="https://neal.fun/absurd-trolley-problems/">Absurd Trolley Problems Game</a></li>
-<li><a href="https://www.imdb.com/title/tt6951978/">“The Good Place” The Trolley Problem</a></li>
-<li><a href="https://www2.econ.iastate.edu/classes/econ362/hallam/Readings/FootDoubleEffect.pdf">The Problem of Abortion and the Doctrine of the Double Effect</a></li>
-<li><a href="https://laurenralpert.wordpress.com/wp-content/uploads/2014/08/thomson-killing-letting-die-and-the-trolley-problem.pdf">Killing, Letting Die, and the Trolley Problem</a></li>
-<li><a href="https://doi.org/10.1016/j.biocon.2006.09.005">Economic and conservation significance of the trophy hunting industry in sub-Saharan Africa</a></li>
-<li><a href="https://doi.org/10.1111/j.1469-1795.2006.00034.x">Potential of trophy hunting to create incentives for wildlife conservation in Africa where alternative wildlife-based land uses may not be viable</a></li>
 </ol>
 ]]></content>
   </entry>
@@ -357,6 +357,23 @@
 ]]></content>
   </entry>
   <entry>
+    <title>Ex Libris: Select Poems by Emily Dickinson</title>
+    <url>/ex-libris-select-poems-by-emily-dickinson/</url>
+    <content><![CDATA[<p>I recently had the opportunity to visit Amherst, Massachusetts, USA. Amherst doesn’t have a lot going on; it’s mostly a college town surrounded by more colleges surrounded by rural Massachusetts. Amherst may be a relatively sleepy place, but it does have a notable past. Specifically, Amherst is the home of Emily Dickinson.  One of the most important American poets to ever live, Emily Dickinson spent her whole life in and around Amherst. She went to school at Amherst Academy, college at Mount Holyoke, and much of her adult life was spent in the Dickinson mansion in Amherst.</p>
+<p>With this in mind, I gave myself a reading assignment for the trip. I decided to read 10 Emily Dickinson poems, which is not a lot, but I haven’t studied poetry in years, and this was a short trip. The poems were selected from various Internet listicles on the best Emily Dickinson poems. In hopes that this archive does not turn into another listicle, I won’t enumerate every poem I read, but I’ll mention a few, like “I’m Nobody! Who are you?”</p>
+<p>When searching for a copy of “I’m Nobody! Who are you?”, I found multiple versions of the poem. The first published version followed standard capitalization and punctuation conventions, but the corrected version had additional capitalization, more dashes, and different wordings. The corrected version is supposed to be more faithful to the original, and after reading both, I can say the corrected version is far better. Dickinson’s use of capitalization constructs the characters in really clever ways. For example, using “Nobody” instead of “nobody” gives the speaker an identity as a Nobody rather than just being nobody. This contrasts well with the “Somebody” in line 5. Dickinson’s use of punctuation also drastically enhances the meaning of the poem. This was particularly notable in “I felt a Funeral, in my Brain”. The poem ends with a dash, as if the speaker is about to continue their thought, but is abruptly cut off.</p>
+<p>Reading Dickinson’s poetry remains a highlight of my trip. After studying different versions of her poetry, I wanted to save the versions I liked better, so I designed a <a href="/projects/literature-db">simple database for literature</a> whose contents are in plaintext, so if the code ever breaks, the database is still perfectly usable. The project is still a work in progress, but it can scrape poetry from websites, render text, and efficiently search through the database.</p>
+<p>As my trip came to a close, I finished my readings with a poem I know quite well. I’ve had the first stanza memorized for about a year now, and it’s one of a handful of poems I turn to quite frequently. I read it in the moments that I so desperately want to stop moving forward, those points in life where the future is far too chaotic or uncertain, and I can’t slow it down. In many ways, my visit to Amherst is part of that uncertain future, so it was the perfect opportunity to read the poem that starts like this:</p>
+<p>“Hope” is the thing with feathers -<br>That perches in the soul -<br>And sings the tune without the words -<br>And never stops - at all -</p>
+<hr>
+<h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ol>
+<li><a href="https://en.wikipedia.org/wiki/Emily_Dickinson">Emily Dickinson</a></li>
+<li><a href="https://www.emilydickinsonmuseum.org/">Emily Dickinson Museum</a></li>
+<li><a href="https://www.poetryfoundation.org/poets/emily-dickinson">Emily Dickinson on Poetry Foundation</a></li>
+</ol>
+]]></content>
+  </entry>
+  <entry>
     <title>Ex Libris: Kafka on the Shore</title>
     <url>/ex-libris-kafka-on-the-shore/</url>
     <content><![CDATA[<!-- https://www.btsgtheories.com/wp-content/uploads/2020/07/kafka-24grammata.com-free-e-book.-pdf-1.pdf -->
@@ -375,23 +392,6 @@
 <hr>
 <h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ol>
 <li><a href="https://www.bookbrowse.com/author_interviews/full/index.cfm?author_number=1103">Interview with Haruki Murakami</a></li>
-</ol>
-]]></content>
-  </entry>
-  <entry>
-    <title>Ex Libris: Select Poems by Emily Dickinson</title>
-    <url>/ex-libris-select-poems-by-emily-dickinson/</url>
-    <content><![CDATA[<p>I recently had the opportunity to visit Amherst, Massachusetts, USA. Amherst doesn’t have a lot going on; it’s mostly a college town surrounded by more colleges surrounded by rural Massachusetts. Amherst may be a relatively sleepy place, but it does have a notable past. Specifically, Amherst is the home of Emily Dickinson.  One of the most important American poets to ever live, Emily Dickinson spent her whole life in and around Amherst. She went to school at Amherst Academy, college at Mount Holyoke, and much of her adult life was spent in the Dickinson mansion in Amherst.</p>
-<p>With this in mind, I gave myself a reading assignment for the trip. I decided to read 10 Emily Dickinson poems, which is not a lot, but I haven’t studied poetry in years, and this was a short trip. The poems were selected from various Internet listicles on the best Emily Dickinson poems. In hopes that this archive does not turn into another listicle, I won’t enumerate every poem I read, but I’ll mention a few, like “I’m Nobody! Who are you?”</p>
-<p>When searching for a copy of “I’m Nobody! Who are you?”, I found multiple versions of the poem. The first published version followed standard capitalization and punctuation conventions, but the corrected version had additional capitalization, more dashes, and different wordings. The corrected version is supposed to be more faithful to the original, and after reading both, I can say the corrected version is far better. Dickinson’s use of capitalization constructs the characters in really clever ways. For example, using “Nobody” instead of “nobody” gives the speaker an identity as a Nobody rather than just being nobody. This contrasts well with the “Somebody” in line 5. Dickinson’s use of punctuation also drastically enhances the meaning of the poem. This was particularly notable in “I felt a Funeral, in my Brain”. The poem ends with a dash, as if the speaker is about to continue their thought, but is abruptly cut off.</p>
-<p>Reading Dickinson’s poetry remains a highlight of my trip. After studying different versions of her poetry, I wanted to save the versions I liked better, so I designed a <a href="/projects/literature-db">simple database for literature</a> whose contents are in plaintext, so if the code ever breaks, the database is still perfectly usable. The project is still a work in progress, but it can scrape poetry from websites, render text, and efficiently search through the database.</p>
-<p>As my trip came to a close, I finished my readings with a poem I know quite well. I’ve had the first stanza memorized for about a year now, and it’s one of a handful of poems I turn to quite frequently. I read it in the moments that I so desperately want to stop moving forward, those points in life where the future is far too chaotic or uncertain, and I can’t slow it down. In many ways, my visit to Amherst is part of that uncertain future, so it was the perfect opportunity to read the poem that starts like this:</p>
-<p>“Hope” is the thing with feathers -<br>That perches in the soul -<br>And sings the tune without the words -<br>And never stops - at all -</p>
-<hr>
-<h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ol>
-<li><a href="https://en.wikipedia.org/wiki/Emily_Dickinson">Emily Dickinson</a></li>
-<li><a href="https://www.emilydickinsonmuseum.org/">Emily Dickinson Museum</a></li>
-<li><a href="https://www.poetryfoundation.org/poets/emily-dickinson">Emily Dickinson on Poetry Foundation</a></li>
 </ol>
 ]]></content>
   </entry>
@@ -1222,6 +1222,25 @@
 ]]></content>
   </entry>
   <entry>
+    <title>The Mortifying Ordeal of Being Perceived</title>
+    <url>/the-mortifying-ordeal-of-being-perceived/</url>
+    <content><![CDATA[<p><em>The following is a transcript from a recent episode of the <a href="https://jonikpodcast.github.io/">Jonik Podcast</a>.</em></p>
+<p>Good morning, Jon. At the time of this recording, you are summiting the Half Dome, but given that you just took the MCAT, I’m sure this won’t be much of a challenge for you. In this episode, it’s just me. Like your Jonik episode back in April, I’ll be covering a more recent phrase, one that has its roots in meme culture and attempts to comment on the state of internet culture as a whole. As the title suggests, today, we will discuss the etymology of “being perceived.” </p>
+<p>After co-hosting this podcast for over six months now, my biggest concern isn’t that it’ll go down or that the hosting platform will lose our recordings. I’m not afraid of people breaking the things we’ve built or stealing it for themselves. What truly terrifies me is knowing that people actually listen to what we have to say.</p>
+<p>In 2013, Tim Kreider wrote “I Know What You Think of Me,” an opinion piece on the dread of hearing other people’s uncensored opinions about you. Kreider, who had recently bought a herd of goats, received an email that wasn’t meant for him that included some snyde remarks about his reckless spending. Personally, I can’t think of a better investment, but to each their own. The essay continues to comment on how the Internet Age makes it incredibly easy to overhear conversations you were never meant to know about. Ultimately, Kreider leaves the reader with this incredibly powerful line: “if we want the rewards of being loved, we have to submit to the mortifying ordeal of being known.”</p>
+<p>I never realized how easy it was to hear those uncensored opinions about you until I tried existing online for the first time. About a year ago, I created a website showcasing my projects and a few stories I wanted to share. I had a little visit counter on the page, and I was very proud of my 100 page visits. My sister, being the wonderful person she is, absolutely loved the website and decided more people should see my work. To spread the word, she went to what is historically the warmest, kindest internet platform there is: Reddit. After hitting up a few subreddits promoting my stuff, the comments started rolling in. Hate comment after hate comment, internet troll after internet troll, she just watched in horror. Mind you, I didn’t know any of this was happening. All I saw was in the span of about 15 minutes, my website had 200—300—400 hits. Eventually, the posts were deleted, and her account was banned for self-promotion. She later called me and sent me screenshots of some of the comments, explaining what happened. Reading through the ones she saved, I truly couldn’t fathom how people formed such intense judgements about me so quickly. To the one commenter that said I seemed thoughtful, thanks. I still have that screenshot saved.</p>
+<p>Kreider’s “mortifying ordeal of being known” quickly exploded onto meme pages across platforms. Plenty of the memes took the message seriously, including the duality of the rewards of being loved along with the mortifying ordeal of being known. Others focused solely on the mortification. A brief aside, “mortification” comes from the Latin word that means “death,” and I suppose it’s telling that we use it to describe great embarrassment, because on some level, that shame feels like a form of death. In late 2019, the next iteration of the “mortifying ordeal of being known” took over the Internet: being perceived. While “being perceived” is not a direct predecessor of the mortifying ordeal, they share a similar space in terms of meaning. Both comment on others being aware of you, but they differ in response. Heavily shaped by the mass quarantines at the beginning of the pandemic, “being perceived” led to a re-imagining of the self, one where in order to exist socially, you needed an online presence. That online presence took the form of Zoom meetings, Instagram stories, Tweets about toilet paper shortages, and plenty more. Suddenly, the mortifying ordeal of being known was no longer just the price you paid to enjoy the rewards of being loved, it was prerequisite to not living in total isolation. </p>
+<p>Jon, around the same time in 2019 that the “being perceived” meme became popular, you and I performed an Evolution of Music medley at our school benefit concert. We wore matching blue suits, and our band poster—along with saying Jonik—had a painting of a duck wearing a tuxedo. I remember grabbing dinner right before, I remember doing a practice run in the debate room, and I remember not being able to see during the performance. Just before we performed, we were off to the side of the stage when the MC announced us to the audience. I grabbed a chair for you to sit in because, well, cellists need chairs. As we reached the center of the stage, I handed you the chair, and I looked out at the audience. By that point, we’d stood before plenty of audiences, but that night, I felt seen in a way I hadn’t felt before. My brain decided, <em>Hey, I’m not really a fan of this. I don’t want to know that I’m being seen</em>, so I stopped. My eyes glazed over, and for the entire performance, I could not see a single thing. I couldn’t see you, I couldn’t see the audience, I could barely see my own hands. There was no real fear or embarrassment associated with performing, I just didn’t want to be perceived. I think we played well.</p>
+<p>The memes surrounding “being perceived” characterize it as something that just happens. You have no real control, you just have to be perceived, and that’s how it is. In my experience, that’s not how it actually works. Just like “the mortifying ordeal of being known” is the price you pay for “the rewards of being loved,” “being perceived” is in some ways transactional. Sure, my eyes may have been glazed over, but that night, the Jonik band was still perceived, and in exchange, we had an attentive audience right in front of us. I may have received some hateful comments about my website, but plenty of people actually stopped to read the things I wrote. Even today, as our podcast audience grows, every listener takes time out of their day to listen to what we have to say. Yes, our audience is perceiving us, but more importantly, the people perceiving us have become our audience. Were we never perceived, we wouldn’t have an audience. If you, wonderful listener, didn’t perceive us, this would just be Jonik speaking into the void. </p>
+<p>In an age where attention is the most valuable commodity, “being perceived” is the price you pay for an audience. That audience might be a random coworker or an actual auditorium full of people. Either way, make the most of that opportunity. Play some cool music, explain some interesting etymologies, just share something worth sharing. Sure, it’s terrifying, but most good things are at first. In the end, you’ll be grateful that they stopped to listen. I know I am. </p>
+<p>Jon, congrats on taking the MCAT. I’ll see you when I see you.</p>
+<hr>
+<h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ol>
+<li><a href="https://archive.nytimes.com/opinionator.blogs.nytimes.com/2013/06/15/i-know-what-you-think-of-me/?smid=pl-share">I Know What You Think of Me by Tim Kreider</a></li>
+</ol>
+]]></content>
+  </entry>
+  <entry>
     <title>The Pencil (Ex Libris: Works of Nikolai Gogol)</title>
     <url>/the-pencil-ex-libris-works-of-nikolai-gogol/</url>
     <content><![CDATA[<p><em>A true narrative inspired by my recent reading of the works of Nikolai Gogol. It’s not overtly Gogolian, but I tried to incorporate some elements of his style.</em></p>
@@ -1251,25 +1270,6 @@
 <li><a href="https://arxiv.org/abs/2310.20216">ELIZA Beat GPT-3.5 in a Turing Test</a></li>
 </ol>
 <h2 id="The-ELIZA-Algorithm"><a href="#The-ELIZA-Algorithm" class="headerlink" title="The ELIZA Algorithm"></a>The ELIZA Algorithm</h2><figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">def</span> <span class="title function_">respond</span>(<span class="params">self, statement</span>):</span><br><span class="line">    <span class="keyword">for</span> pattern, responses <span class="keyword">in</span> self.patterns:</span><br><span class="line">        <span class="keyword">match</span> = re.search(pattern, statement.strip(<span class="string">&quot; .!?&quot;</span>), re.IGNORECASE)</span><br><span class="line">        <span class="keyword">if</span> <span class="keyword">match</span>:</span><br><span class="line">            response = random.choice(responses).<span class="built_in">format</span>(*<span class="keyword">match</span>.groups())</span><br><span class="line">            <span class="keyword">return</span> response</span><br><span class="line">    <span class="keyword">return</span> self.default</span><br></pre></td></tr></table></figure>]]></content>
-  </entry>
-  <entry>
-    <title>The Mortifying Ordeal of Being Perceived</title>
-    <url>/the-mortifying-ordeal-of-being-perceived/</url>
-    <content><![CDATA[<p><em>The following is a transcript from a recent episode of the <a href="https://jonikpodcast.github.io/">Jonik Podcast</a>.</em></p>
-<p>Good morning, Jon. At the time of this recording, you are summiting the Half Dome, but given that you just took the MCAT, I’m sure this won’t be much of a challenge for you. In this episode, it’s just me. Like your Jonik episode back in April, I’ll be covering a more recent phrase, one that has its roots in meme culture and attempts to comment on the state of internet culture as a whole. As the title suggests, today, we will discuss the etymology of “being perceived.” </p>
-<p>After co-hosting this podcast for over six months now, my biggest concern isn’t that it’ll go down or that the hosting platform will lose our recordings. I’m not afraid of people breaking the things we’ve built or stealing it for themselves. What truly terrifies me is knowing that people actually listen to what we have to say.</p>
-<p>In 2013, Tim Kreider wrote “I Know What You Think of Me,” an opinion piece on the dread of hearing other people’s uncensored opinions about you. Kreider, who had recently bought a herd of goats, received an email that wasn’t meant for him that included some snyde remarks about his reckless spending. Personally, I can’t think of a better investment, but to each their own. The essay continues to comment on how the Internet Age makes it incredibly easy to overhear conversations you were never meant to know about. Ultimately, Kreider leaves the reader with this incredibly powerful line: “if we want the rewards of being loved, we have to submit to the mortifying ordeal of being known.”</p>
-<p>I never realized how easy it was to hear those uncensored opinions about you until I tried existing online for the first time. About a year ago, I created a website showcasing my projects and a few stories I wanted to share. I had a little visit counter on the page, and I was very proud of my 100 page visits. My sister, being the wonderful person she is, absolutely loved the website and decided more people should see my work. To spread the word, she went to what is historically the warmest, kindest internet platform there is: Reddit. After hitting up a few subreddits promoting my stuff, the comments started rolling in. Hate comment after hate comment, internet troll after internet troll, she just watched in horror. Mind you, I didn’t know any of this was happening. All I saw was in the span of about 15 minutes, my website had 200—300—400 hits. Eventually, the posts were deleted, and her account was banned for self-promotion. She later called me and sent me screenshots of some of the comments, explaining what happened. Reading through the ones she saved, I truly couldn’t fathom how people formed such intense judgements about me so quickly. To the one commenter that said I seemed thoughtful, thanks. I still have that screenshot saved.</p>
-<p>Kreider’s “mortifying ordeal of being known” quickly exploded onto meme pages across platforms. Plenty of the memes took the message seriously, including the duality of the rewards of being loved along with the mortifying ordeal of being known. Others focused solely on the mortification. A brief aside, “mortification” comes from the Latin word that means “death,” and I suppose it’s telling that we use it to describe great embarrassment, because on some level, that shame feels like a form of death. In late 2019, the next iteration of the “mortifying ordeal of being known” took over the Internet: being perceived. While “being perceived” is not a direct predecessor of the mortifying ordeal, they share a similar space in terms of meaning. Both comment on others being aware of you, but they differ in response. Heavily shaped by the mass quarantines at the beginning of the pandemic, “being perceived” led to a re-imagining of the self, one where in order to exist socially, you needed an online presence. That online presence took the form of Zoom meetings, Instagram stories, Tweets about toilet paper shortages, and plenty more. Suddenly, the mortifying ordeal of being known was no longer just the price you paid to enjoy the rewards of being loved, it was prerequisite to not living in total isolation. </p>
-<p>Jon, around the same time in 2019 that the “being perceived” meme became popular, you and I performed an Evolution of Music medley at our school benefit concert. We wore matching blue suits, and our band poster—along with saying Jonik—had a painting of a duck wearing a tuxedo. I remember grabbing dinner right before, I remember doing a practice run in the debate room, and I remember not being able to see during the performance. Just before we performed, we were off to the side of the stage when the MC announced us to the audience. I grabbed a chair for you to sit in because, well, cellists need chairs. As we reached the center of the stage, I handed you the chair, and I looked out at the audience. By that point, we’d stood before plenty of audiences, but that night, I felt seen in a way I hadn’t felt before. My brain decided, <em>Hey, I’m not really a fan of this. I don’t want to know that I’m being seen</em>, so I stopped. My eyes glazed over, and for the entire performance, I could not see a single thing. I couldn’t see you, I couldn’t see the audience, I could barely see my own hands. There was no real fear or embarrassment associated with performing, I just didn’t want to be perceived. I think we played well.</p>
-<p>The memes surrounding “being perceived” characterize it as something that just happens. You have no real control, you just have to be perceived, and that’s how it is. In my experience, that’s not how it actually works. Just like “the mortifying ordeal of being known” is the price you pay for “the rewards of being loved,” “being perceived” is in some ways transactional. Sure, my eyes may have been glazed over, but that night, the Jonik band was still perceived, and in exchange, we had an attentive audience right in front of us. I may have received some hateful comments about my website, but plenty of people actually stopped to read the things I wrote. Even today, as our podcast audience grows, every listener takes time out of their day to listen to what we have to say. Yes, our audience is perceiving us, but more importantly, the people perceiving us have become our audience. Were we never perceived, we wouldn’t have an audience. If you, wonderful listener, didn’t perceive us, this would just be Jonik speaking into the void. </p>
-<p>In an age where attention is the most valuable commodity, “being perceived” is the price you pay for an audience. That audience might be a random coworker or an actual auditorium full of people. Either way, make the most of that opportunity. Play some cool music, explain some interesting etymologies, just share something worth sharing. Sure, it’s terrifying, but most good things are at first. In the end, you’ll be grateful that they stopped to listen. I know I am. </p>
-<p>Jon, congrats on taking the MCAT. I’ll see you when I see you.</p>
-<hr>
-<h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ol>
-<li><a href="https://archive.nytimes.com/opinionator.blogs.nytimes.com/2013/06/15/i-know-what-you-think-of-me/?smid=pl-share">I Know What You Think of Me by Tim Kreider</a></li>
-</ol>
-]]></content>
   </entry>
   <entry>
     <title>The Test Tree</title>
@@ -1347,18 +1347,6 @@
 ]]></content>
   </entry>
   <entry>
-    <title>What is Gibberish?</title>
-    <url>/what-is-gibberish/</url>
-    <content><![CDATA[<p>Gibberish. Jibber-jabber. Gobbledygook. They’re all words for the same idea: nonsense speech. When someone is speaking gibberish, they make absolutely no sense. You can’t derive any meaning from their words. Despite the excessive amount of language being used, whether actual words or just random syllables, there is no information being conveyed. Even the message, “there is no information being conveyed” is not conveyed through gibberish. Gibberish is meaningless, and I want to know how.</p>
-<p>How is it possible to communicate nothing through your use of language? Even in the most convoluted scenarios, sequences of words always seem to carry some meaning. Take, for example, Shakespeare’s sonnets. For so many teenagers sitting in English class, Shakespeare’s sonnets are nothing but 400-year-old word vomit, yet those sonnets have shared beautiful stories to countless ears. Despite his penchant for inventing new words, Shakespeare wasn’t producing gibberish. Far from it, his works are literary masterpieces. Either that or someone is paying a lot of money to force teenagers to read his works for no reason.</p>
-<p>I don’t think gibberish is characterized by how outlandish the speech seems. Like with Shakespeare, most speech is only meaningful for the intended audience. Normal people listening to legal or medical jargon would have no idea what it means, yet legal and medical jargon are entirely meaningful. It seems that in order to produce meaningless speech, you must produce speech that has no possible audience. If there is no one that can extract meaning from the speech, then it must be meaningless.</p>
-<p>Consider the other side of this. Any speech that has an audience is meaningful, and given how much has been said over so many centuries, meaningful speech must have some relatively high probability of aligning with things that have already been said. By the contrapositive, any speech that has a low probability of aligning with things that have been said before is likely meaningless. </p>
-<p>From a practical perspective, producing improbable speech may seem like a difficult task, but with the advent of LLMs, this becomes much easier. Modern LLMs trained on the majority of the readable internet are essentially fancy probability distributions of existing text. Unfortunately, asking ChatGPT to produce improbable speech wouldn’t work, because it must produce high-probability speech by default. Just to be sure, I tested this, and it basically came up with a list of silly nouns, mostly animals, food, and space stuff, but that’s not meaningless enough, since it’s a vaguely coherent list. Instead, I modified the behavior of GPT-2 to produce low-probability text while still sticking to English, kinda. I started with the seed, “The following is gibberish:”. Here’s what it came up with.</p>
-<p>The following is gibberish:iability interior markup markup Starship markup Starshipnever Afghansaviouraviour pastenever proclamation Netherlands circumstance Starship Computingaviour bould Jackie Lady Lady Lady daytime Lady Lady pulmonary drill Harbaugh forcefully partnering dissu disciplined contradict Harbaugh dissuclaimed 323 Afghanskeyes Narr interior Weather Cookies Cookies Cookies Cookies Cookies Cookies</p>
-<p>I still have to iron out some kinks, but I do think this is a promising start. My working theorem on meaningless speech will hopefully lead to the completion of GibberishGPT, because the world clearly needs more useless LLMs.</p>
-]]></content>
-  </entry>
-  <entry>
     <title>Using Math to Make Friends</title>
     <url>/using-math-to-make-friends/</url>
     <content><![CDATA[<p>About a year ago, I realized I was showing symptoms of the latest global epidemic. It developed slowly, but by the time I noticed, the condition had already taken hold. I had become the latest casualty of what is now being dubbed the Loneliness Epidemic. </p>
@@ -1406,6 +1394,18 @@
 <li><a href="https://en.wikipedia.org/wiki/Triadic_closure">Triadic Closure</a></li>
 <li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10772224/">The Loneliness Epidemic</a></li>
 </ol>
+]]></content>
+  </entry>
+  <entry>
+    <title>What is Gibberish?</title>
+    <url>/what-is-gibberish/</url>
+    <content><![CDATA[<p>Gibberish. Jibber-jabber. Gobbledygook. They’re all words for the same idea: nonsense speech. When someone is speaking gibberish, they make absolutely no sense. You can’t derive any meaning from their words. Despite the excessive amount of language being used, whether actual words or just random syllables, there is no information being conveyed. Even the message, “there is no information being conveyed” is not conveyed through gibberish. Gibberish is meaningless, and I want to know how.</p>
+<p>How is it possible to communicate nothing through your use of language? Even in the most convoluted scenarios, sequences of words always seem to carry some meaning. Take, for example, Shakespeare’s sonnets. For so many teenagers sitting in English class, Shakespeare’s sonnets are nothing but 400-year-old word vomit, yet those sonnets have shared beautiful stories to countless ears. Despite his penchant for inventing new words, Shakespeare wasn’t producing gibberish. Far from it, his works are literary masterpieces. Either that or someone is paying a lot of money to force teenagers to read his works for no reason.</p>
+<p>I don’t think gibberish is characterized by how outlandish the speech seems. Like with Shakespeare, most speech is only meaningful for the intended audience. Normal people listening to legal or medical jargon would have no idea what it means, yet legal and medical jargon are entirely meaningful. It seems that in order to produce meaningless speech, you must produce speech that has no possible audience. If there is no one that can extract meaning from the speech, then it must be meaningless.</p>
+<p>Consider the other side of this. Any speech that has an audience is meaningful, and given how much has been said over so many centuries, meaningful speech must have some relatively high probability of aligning with things that have already been said. By the contrapositive, any speech that has a low probability of aligning with things that have been said before is likely meaningless. </p>
+<p>From a practical perspective, producing improbable speech may seem like a difficult task, but with the advent of LLMs, this becomes much easier. Modern LLMs trained on the majority of the readable internet are essentially fancy probability distributions of existing text. Unfortunately, asking ChatGPT to produce improbable speech wouldn’t work, because it must produce high-probability speech by default. Just to be sure, I tested this, and it basically came up with a list of silly nouns, mostly animals, food, and space stuff, but that’s not meaningless enough, since it’s a vaguely coherent list. Instead, I modified the behavior of GPT-2 to produce low-probability text while still sticking to English, kinda. I started with the seed, “The following is gibberish:”. Here’s what it came up with.</p>
+<p>The following is gibberish:iability interior markup markup Starship markup Starshipnever Afghansaviouraviour pastenever proclamation Netherlands circumstance Starship Computingaviour bould Jackie Lady Lady Lady daytime Lady Lady pulmonary drill Harbaugh forcefully partnering dissu disciplined contradict Harbaugh dissuclaimed 323 Afghanskeyes Narr interior Weather Cookies Cookies Cookies Cookies Cookies Cookies</p>
+<p>I still have to iron out some kinks, but I do think this is a promising start. My working theorem on meaningless speech will hopefully lead to the completion of GibberishGPT, because the world clearly needs more useless LLMs.</p>
 ]]></content>
   </entry>
   <entry>
@@ -2000,7 +2000,7 @@
 </style>
 
 <div class="side-bar-about">
-<img src="ronik_2.jpg" class="profile-image-ronik" alt="Ronik looking up at a plant."> 
+<img src="ronik_pfp.jpg" class="profile-image-ronik" alt="Ronik."> 
 <h4>Quick Links:</h4>
 <div>
     <a href="/publications/">Publications</a> </br>
@@ -2082,16 +2082,6 @@ echo "cmJoYXNrYXJAdWNoaWNhZ28uZWR1Cg==" | base64 --decode
 <p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
   </entry>
   <entry>
-    <title>Discord Scraper</title>
-    <url>/projects/discord_scraper.html</url>
-    <content><![CDATA[<p>Access the source files <a href="https://github.com/ronikbhaskar/discord_scraper">here</a>. </p>
-<h2 id="Disclaimer"><a href="#Disclaimer" class="headerlink" title="Disclaimer"></a>Disclaimer</h2><p>Botting your Discord account violates their Terms of Service. I do not use this scraper, nor will I, and I recommend you never use it either. This is solely for educational purposes.</p>
-<h2 id="Theoretical-Use-Cases"><a href="#Theoretical-Use-Cases" class="headerlink" title="Theoretical Use Cases"></a>Theoretical Use Cases</h2><p>Hypothetically speaking, wouldn’t it be cool to go through your server’s chat history, run the text through a Markov Chain generator, and spit out some nonsense for you all to laugh at? Just a thought. It would be tedious, copying every message by hand, but it’s definitely doable, so that’s how you should do it. By hand.</p>
-<h2 id="Getting-your-Access-Token"><a href="#Getting-your-Access-Token" class="headerlink" title="Getting your Access Token"></a>Getting your Access Token</h2><p>Now, having access to the Discord API requires an Access Token, and no one would know how to get their access token. I mean, who is going to open Discord in Chrome, open the inspector, switch to mobile&#x2F;tablet display, go to the Application tab, find the sidebar section labeled Storage, select <a href="https://discord.com/">https://discord.com</a> from the Local Storage dropdown, search token, and copy the value from the Key-Value pair? That’s a ridiculous number of hoops to jump through, and I can’t imagine anyone figuring that out on their own. </p>
-<hr>
-<p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
-  </entry>
-  <entry>
     <title>Discord Bot</title>
     <url>/projects/discord_bot.html</url>
     <content><![CDATA[<p>Access the source files <a href="https://github.com/ronikbhaskar/discord_bot">here</a>. </p>
@@ -2122,25 +2112,12 @@ echo "cmJoYXNrYXJAdWNoaWNhZ28uZWR1Cg==" | base64 --decode
 <p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
   </entry>
   <entry>
-    <title>Inventing a Game, Then Building a Bot to Play It Perfectly</title>
-    <url>/projects/forest-algorithm.html</url>
-    <content><![CDATA[<p>It’s easier to learn how the game works by playing it, so I’ll create a playable version soon (hopefully).</p>
-<h2 id="Introduction-to-Forest"><a href="#Introduction-to-Forest" class="headerlink" title="Introduction to Forest"></a>Introduction to Forest</h2><p>I can’t remember the last time I played tic-tac-toe, probably because it ended in a draw. Hoping to bring back the excitement and strategy of the game, I created a variation I call “Forest.” The name comes from “four-by-four torus tic-tac-toe” being reduced to “fourus t.” which sounds like “forest” when you say it out loud. The game is tic-tac-toe played on a 4x4 grid, but rather than playing on a flat plane, the game is played on the surface of a donut—a torus—which offers some interesting opportunities for win cases. It’s a blast to play, much more fun than tic-tac-toe, but now I have a new problem. I don’t have a good strategy. There are a finite set of board states, so theoretically, we could map out every game and create a perfect strategy.</p>
-<p>Theoretically.</p>
-<h2 id="Turning-Theory-into-Practice-My-Strategy"><a href="#Turning-Theory-into-Practice-My-Strategy" class="headerlink" title="Turning Theory into Practice (My Strategy)"></a>Turning Theory into Practice (My Strategy)</h2><p>If you were to map out every possible decision on a Forest board, you would have roughly 30 trillion decisions. Once we map out this decision tree once, it’ll be done, and we won’t have to do it again. The problem arises when you want to map out the tree once. It’s just too big to do in any reasonable amount of time. I won’t settle for anything less than perfect, so I will create the tree, but I’ll have to figure out how to do it faster.</p>
-<p>In my view, there are two ways to optimize a procedure. Either you do the same procedure, but faster, or you get clever with your work. With the first option, it’s like walking a lap versus sprinting. You use efficient encodings, reuse similar chunks of memory, and perform faster operations, but if you were to describe how the algorithm works at a high level, it would sound the same before and after the optimization, “I go all the way around the track.” With the second option, it’s like walking a lap versus walking halfway then cutting across the field directly back to the start. You fundamentally change how you approach the problem, whether translating the problem, taking advantage of certain assumptions, or just doing less work.</p>
-<p>Given my previous experiences with decision trees, I started with trying to do less work. While the decision tree has 30 trillion branches, the total number of possible board states is less than 4.3 million, which is still a lot, but a substantial reduction. This means the decision tree is repeating states, which makes sense. As an example, consider these two games of tic-tac-toe (not Forest):</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">  |  |        X |  |        X |  |        X |  | X</span><br><span class="line">--------      --------      --------      --------</span><br><span class="line">  |  |    --&gt;   |  |    --&gt;   |O |    --&gt;   |O |  </span><br><span class="line">--------      --------      --------      --------</span><br><span class="line">  |  |          |  |          |  |          |  |   </span><br></pre></td></tr></table></figure>
-
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">  |  |          |  | X        |  | X      X |  | X</span><br><span class="line">--------      --------      --------      --------</span><br><span class="line">  |  |    --&gt;   |  |    --&gt;   |O |    --&gt;   |O |  </span><br><span class="line">--------      --------      --------      --------</span><br><span class="line">  |  |          |  |          |  |          |  |   </span><br></pre></td></tr></table></figure>
-
-<p>In both, they reach the same state by the end of the third move, but they start with different decisions, which means they represent separate branches on the decision tree. We could reduce the work we need to do by reusing this state in multiple places on the decision tree. By reusing every repeated state, we can go from the tens of trillions of states to a few million, but we can do less.</p>
-<p>After taking nearly a dozen math classes, I think I will forever have equivalence relations drilled into my head. Essentially, equivalence relations are a generalized method for defining equality. They allow you to group together equal elements into fancy buckets called equivalence classes. Since Forest is played on a torus, we can rotate, twist, and mirror the torus, all while preserving the game. As such, transforming the torus in different ways creates equivalent states, and we can let this be our definition of equivalence. To actually generate these equivalent states, I used algebraic representations of the ways you can manipulate a 4x4 torus and generated 128 transformations. With this, we need to check even fewer states, only around 77 thousand. </p>
-<p>After all this optimization, I started the program and waited to see some progress. For some reason, my program was only calculating a few optimal moves per second. I know my laptop isn’t necessarily state-of-the-art, but it should be faster than this. I couldn’t reduce the number of states I was checking, so it was time to try the other part of optimization. Just do it faster.</p>
-<p>This project was created in Python, as most of my projects are, since it’s the language in which I can think the fastest. Translating my thoughts to Python is second nature at this point, but that doesn’t mean translating Python to machine instructions is particularly efficient. Fortunately, I have a few years of lower-level programming experience, so I started going through my program, trying to consider what operations would be slow or where I might be allocating too much memory, and I found one very clear bottleneck. My lookup table, with its fancy equivalence relation, turned the board into a lookup key, and then the key back into a board. When turning the key into a new board, it created a new board, which meant I was doing dozens of memory allocations just to use a single state for a few operations. To fix this, I reused an old board and overwrote the memory there. </p>
-<p>I made a few similar changes, removing redundant data structures and fancy sorting and simplifying to basic arithmetic operations. All of a sudden, my basic minimax implementation was flying, and the program generated a table with all of the optimal moves in 22 seconds.</p>
-<h2 id="Reinforcement-Learning-Dawson’s-Strategy"><a href="#Reinforcement-Learning-Dawson’s-Strategy" class="headerlink" title="Reinforcement Learning (Dawson’s Strategy)"></a>Reinforcement Learning (Dawson’s Strategy)</h2><p>While I was working on this, Dawson took a different approach. Rather than using massive lookup space reductions, he turned to Reinforcement Learning with Monte-Carlo Tree Search. I’ll leave him to give an explanation of his process and how he approached this problem.</p>
-<h2 id="Two-Will-Enter-Only-One-Will-Leave"><a href="#Two-Will-Enter-Only-One-Will-Leave" class="headerlink" title="Two Will Enter, Only One Will Leave"></a>Two Will Enter, Only One Will Leave</h2><p>Now that we have our working Forest bots, we need to pit them against each other and see how they compare.</p>
+    <title>Discord Scraper</title>
+    <url>/projects/discord_scraper.html</url>
+    <content><![CDATA[<p>Access the source files <a href="https://github.com/ronikbhaskar/discord_scraper">here</a>. </p>
+<h2 id="Disclaimer"><a href="#Disclaimer" class="headerlink" title="Disclaimer"></a>Disclaimer</h2><p>Botting your Discord account violates their Terms of Service. I do not use this scraper, nor will I, and I recommend you never use it either. This is solely for educational purposes.</p>
+<h2 id="Theoretical-Use-Cases"><a href="#Theoretical-Use-Cases" class="headerlink" title="Theoretical Use Cases"></a>Theoretical Use Cases</h2><p>Hypothetically speaking, wouldn’t it be cool to go through your server’s chat history, run the text through a Markov Chain generator, and spit out some nonsense for you all to laugh at? Just a thought. It would be tedious, copying every message by hand, but it’s definitely doable, so that’s how you should do it. By hand.</p>
+<h2 id="Getting-your-Access-Token"><a href="#Getting-your-Access-Token" class="headerlink" title="Getting your Access Token"></a>Getting your Access Token</h2><p>Now, having access to the Discord API requires an Access Token, and no one would know how to get their access token. I mean, who is going to open Discord in Chrome, open the inspector, switch to mobile&#x2F;tablet display, go to the Application tab, find the sidebar section labeled Storage, select <a href="https://discord.com/">https://discord.com</a> from the Local Storage dropdown, search token, and copy the value from the Key-Value pair? That’s a ridiculous number of hoops to jump through, and I can’t imagine anyone figuring that out on their own. </p>
 <hr>
 <p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
   </entry>
@@ -2611,6 +2588,29 @@ echo "cmJoYXNrYXJAdWNoaWNhZ28uZWR1Cg==" | base64 --decode
 ]]></content>
   </entry>
   <entry>
+    <title>Inventing a Game, Then Building a Bot to Play It Perfectly</title>
+    <url>/projects/forest-algorithm.html</url>
+    <content><![CDATA[<p>It’s easier to learn how the game works by playing it, so I’ll create a playable version soon (hopefully).</p>
+<h2 id="Introduction-to-Forest"><a href="#Introduction-to-Forest" class="headerlink" title="Introduction to Forest"></a>Introduction to Forest</h2><p>I can’t remember the last time I played tic-tac-toe, probably because it ended in a draw. Hoping to bring back the excitement and strategy of the game, I created a variation I call “Forest.” The name comes from “four-by-four torus tic-tac-toe” being reduced to “fourus t.” which sounds like “forest” when you say it out loud. The game is tic-tac-toe played on a 4x4 grid, but rather than playing on a flat plane, the game is played on the surface of a donut—a torus—which offers some interesting opportunities for win cases. It’s a blast to play, much more fun than tic-tac-toe, but now I have a new problem. I don’t have a good strategy. There are a finite set of board states, so theoretically, we could map out every game and create a perfect strategy.</p>
+<p>Theoretically.</p>
+<h2 id="Turning-Theory-into-Practice-My-Strategy"><a href="#Turning-Theory-into-Practice-My-Strategy" class="headerlink" title="Turning Theory into Practice (My Strategy)"></a>Turning Theory into Practice (My Strategy)</h2><p>If you were to map out every possible decision on a Forest board, you would have roughly 30 trillion decisions. Once we map out this decision tree once, it’ll be done, and we won’t have to do it again. The problem arises when you want to map out the tree once. It’s just too big to do in any reasonable amount of time. I won’t settle for anything less than perfect, so I will create the tree, but I’ll have to figure out how to do it faster.</p>
+<p>In my view, there are two ways to optimize a procedure. Either you do the same procedure, but faster, or you get clever with your work. With the first option, it’s like walking a lap versus sprinting. You use efficient encodings, reuse similar chunks of memory, and perform faster operations, but if you were to describe how the algorithm works at a high level, it would sound the same before and after the optimization, “I go all the way around the track.” With the second option, it’s like walking a lap versus walking halfway then cutting across the field directly back to the start. You fundamentally change how you approach the problem, whether translating the problem, taking advantage of certain assumptions, or just doing less work.</p>
+<p>Given my previous experiences with decision trees, I started with trying to do less work. While the decision tree has 30 trillion branches, the total number of possible board states is less than 4.3 million, which is still a lot, but a substantial reduction. This means the decision tree is repeating states, which makes sense. As an example, consider these two games of tic-tac-toe (not Forest):</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">  |  |        X |  |        X |  |        X |  | X</span><br><span class="line">--------      --------      --------      --------</span><br><span class="line">  |  |    --&gt;   |  |    --&gt;   |O |    --&gt;   |O |  </span><br><span class="line">--------      --------      --------      --------</span><br><span class="line">  |  |          |  |          |  |          |  |   </span><br></pre></td></tr></table></figure>
+
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">  |  |          |  | X        |  | X      X |  | X</span><br><span class="line">--------      --------      --------      --------</span><br><span class="line">  |  |    --&gt;   |  |    --&gt;   |O |    --&gt;   |O |  </span><br><span class="line">--------      --------      --------      --------</span><br><span class="line">  |  |          |  |          |  |          |  |   </span><br></pre></td></tr></table></figure>
+
+<p>In both, they reach the same state by the end of the third move, but they start with different decisions, which means they represent separate branches on the decision tree. We could reduce the work we need to do by reusing this state in multiple places on the decision tree. By reusing every repeated state, we can go from the tens of trillions of states to a few million, but we can do less.</p>
+<p>After taking nearly a dozen math classes, I think I will forever have equivalence relations drilled into my head. Essentially, equivalence relations are a generalized method for defining equality. They allow you to group together equal elements into fancy buckets called equivalence classes. Since Forest is played on a torus, we can rotate, twist, and mirror the torus, all while preserving the game. As such, transforming the torus in different ways creates equivalent states, and we can let this be our definition of equivalence. To actually generate these equivalent states, I used algebraic representations of the ways you can manipulate a 4x4 torus and generated 128 transformations. With this, we need to check even fewer states, only around 77 thousand. </p>
+<p>After all this optimization, I started the program and waited to see some progress. For some reason, my program was only calculating a few optimal moves per second. I know my laptop isn’t necessarily state-of-the-art, but it should be faster than this. I couldn’t reduce the number of states I was checking, so it was time to try the other part of optimization. Just do it faster.</p>
+<p>This project was created in Python, as most of my projects are, since it’s the language in which I can think the fastest. Translating my thoughts to Python is second nature at this point, but that doesn’t mean translating Python to machine instructions is particularly efficient. Fortunately, I have a few years of lower-level programming experience, so I started going through my program, trying to consider what operations would be slow or where I might be allocating too much memory, and I found one very clear bottleneck. My lookup table, with its fancy equivalence relation, turned the board into a lookup key, and then the key back into a board. When turning the key into a new board, it created a new board, which meant I was doing dozens of memory allocations just to use a single state for a few operations. To fix this, I reused an old board and overwrote the memory there. </p>
+<p>I made a few similar changes, removing redundant data structures and fancy sorting and simplifying to basic arithmetic operations. All of a sudden, my basic minimax implementation was flying, and the program generated a table with all of the optimal moves in 22 seconds.</p>
+<h2 id="Reinforcement-Learning-Dawson’s-Strategy"><a href="#Reinforcement-Learning-Dawson’s-Strategy" class="headerlink" title="Reinforcement Learning (Dawson’s Strategy)"></a>Reinforcement Learning (Dawson’s Strategy)</h2><p>While I was working on this, Dawson took a different approach. Rather than using massive lookup space reductions, he turned to Reinforcement Learning with Monte-Carlo Tree Search. I’ll leave him to give an explanation of his process and how he approached this problem.</p>
+<h2 id="Two-Will-Enter-Only-One-Will-Leave"><a href="#Two-Will-Enter-Only-One-Will-Leave" class="headerlink" title="Two Will Enter, Only One Will Leave"></a>Two Will Enter, Only One Will Leave</h2><p>Now that we have our working Forest bots, we need to pit them against each other and see how they compare.</p>
+<hr>
+<p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
+  </entry>
+  <entry>
     <title>Linear Transformation Visualizer</title>
     <url>/projects/linear_transformation_visualizer.html</url>
     <content><![CDATA[<p>Learn a thing or two about linear algebra <a href="/linear_transformation_visualizer">here</a> (or just play with numbers).</p>
@@ -2676,6 +2676,24 @@ echo "cmJoYXNrYXJAdWNoaWNhZ28uZWR1Cg==" | base64 --decode
 ]]></content>
   </entry>
   <entry>
+    <title>Math Art</title>
+    <url>/projects/math-art.html</url>
+    <content><![CDATA[<p>I discuss this project in my <a href="/about">about page</a>. The source code, along with an explanation of the project, can be found <a href="https://github.com/ronikbhaskar/math-art">here</a>.</p>
+<h2 id="Quick-Overview"><a href="#Quick-Overview" class="headerlink" title="Quick Overview"></a>Quick Overview</h2><p>The butterfly effect says that small changes can lead to drastically different results. This is the foundation of chaos theory. Sometimes, that chaos results in stunning patterns called strange attractors, and I’ve done my best to capture them here. It’s also what you see on the landing page of my site.</p>
+<h2 id="Strange-Attractors"><a href="#Strange-Attractors" class="headerlink" title="Strange Attractors"></a>Strange Attractors</h2><img src="math-art-gifs/static_halvorsen.gif" alt="The Halvorsen Attractor" />
+
+<br/>
+
+<img src="math-art-gifs/static_lorenz.gif" alt="The Lorenz Attractor" />
+
+<br/>
+
+<img src="math-art-gifs/static_aizawa.gif" alt="The Aizawa Attractor" />
+
+<hr>
+<p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
+  </entry>
+  <entry>
     <title>Turning Obsidian into a Markdown Editor</title>
     <url>/projects/obsidian-editor.html</url>
     <content><![CDATA[<p>This file was created using <code>obsidian.py</code>. The source code is available <a href="https://github.com/ronikbhaskar/obsidian-editor">here</a>.</p>
@@ -2710,24 +2728,6 @@ echo "cmJoYXNrYXJAdWNoaWNhZ28uZWR1Cg==" | base64 --decode
 <li><p>I didn’t playtest the final version of the game enough.</p>
 </li>
 </ol>
-<hr>
-<p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>Math Art</title>
-    <url>/projects/math-art.html</url>
-    <content><![CDATA[<p>I discuss this project in my <a href="/about">about page</a>. The source code, along with an explanation of the project, can be found <a href="https://github.com/ronikbhaskar/math-art">here</a>.</p>
-<h2 id="Quick-Overview"><a href="#Quick-Overview" class="headerlink" title="Quick Overview"></a>Quick Overview</h2><p>The butterfly effect says that small changes can lead to drastically different results. This is the foundation of chaos theory. Sometimes, that chaos results in stunning patterns called strange attractors, and I’ve done my best to capture them here. It’s also what you see on the landing page of my site.</p>
-<h2 id="Strange-Attractors"><a href="#Strange-Attractors" class="headerlink" title="Strange Attractors"></a>Strange Attractors</h2><img src="math-art-gifs/static_halvorsen.gif" alt="The Halvorsen Attractor" />
-
-<br/>
-
-<img src="math-art-gifs/static_lorenz.gif" alt="The Lorenz Attractor" />
-
-<br/>
-
-<img src="math-art-gifs/static_aizawa.gif" alt="The Aizawa Attractor" />
-
 <hr>
 <p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
   </entry>
