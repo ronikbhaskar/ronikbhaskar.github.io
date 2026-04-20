@@ -69,6 +69,32 @@
 ]]></content>
   </entry>
   <entry>
+    <title>AM</title>
+    <url>/am/</url>
+    <content><![CDATA[<p>What does AM stand for? Maybe Ante Meridiem, before noon. Or maybe the element Americium (Am). Maybe it’s Artium Magister, a Master of Arts degree. Whatever the case, if you compound masters of the arts over time, you get Arctic Monkeys. </p>
+<p>In 2013, Arctic Monkeys released their fifth studio album, AM. While the title references the band’s name, the cover art says otherwise. Taking inspiration from Velvet Underground’s cover art of volume units (VU), AM’s cover art is a wave with changing heights—amplitude modulation (AM). </p>
+<p>As a recreational mathematician, I looked around the internet, trying to find a decent recreation of the AM cover as a graph, but none of them were good enough. Most stopped at just modulating a sine wave with a broader sine wave, but this method misses one crucial detail: the AM in the middle. Job Bouwman inserts the AM in the middle, but the heights and widths of the letters don’t quite match the cover.</p>
+<p>The Arctic Monkeys weren’t just monkeying around with amplitude modulation. They figured out a clever way to seamlessly insert their initials into the graph. Mark my words, I will do the same. I will recreate the AM cover.</p>
+<p>Rather than spending lots of time setting up a Jupyter Notebook and writing lots of Python code to establish a working development environment, I’m using Desmos. I believe the initial concept art began with a standard modulation of a sine wave inside a sine wave, so I am starting the same way.</p>
+<p><img src="/images/initial_am.png"></p>
+<p>Aha! See? In the center? There is a segment of the graph that can be used for the AM. I’ll mark it in green. This will require removing that purple part, which I see as a bonus. The A and M in the cover have longer wavelengths than the rest of the graph, so stretching the green segment should recreate this well.</p>
+<p><img src="/images/am_annotated.png"></p>
+<p>After stretching the green segment of the graph, the height of each portion will need to be adjusted. Maybe I’m just throwing a hammer at a screw, but a sigmoid function looks like it will do the trick. A few adjustments later, and we have this:</p>
+<p><img src="/images/am_final.png"></p>
+<p>A few minutes ago, I was perfectly happy with this result, but that is no longer the case. Yes, I completed what I set out to do, but the closer I get, the farther I feel. The M needs to be more rectangular. My approximation isn’t actually a continuous function, much less a differentiable one. Looking at the two side-by-side, I can no longer see their similarities, only their differences. Recreating this cover art was supposed to be about a quick recreational math project, but now I feel obliged to honor this album. If imitation is the sincerest form of flattery, are better imitations more flattering?</p>
+<p>After this project, I suppose not. By acknowledging the distance between my imitation and the original, I can do justice to the beauty it holds. I may have not recreated the cover perfectly, but I can certainly appreciate it much more now than I could when I first saw it. This is no Absent Minded Advanced Math. This is AM. </p>
+<hr>
+<ol>
+<li><p><a href="https://www.nme.com/news/music/arctic-monkeys-178-1266582">Influence of VU on AM</a></p>
+</li>
+<li><p><a href="https://www.quora.com/What-function-is-Arctic-Monkeys-album-cover">Job Bouwman’s approximation</a></p>
+</li>
+<li><p><a href="https://www.desmos.com/calculator/v37m6icmwg">My recreation</a></p>
+</li>
+</ol>
+]]></content>
+  </entry>
+  <entry>
     <title>Breaking Language Models for Fun</title>
     <url>/breaking-language-models-for-fun/</url>
     <content><![CDATA[<p>Training a machine learning model is easy. Correctly training a machine learning model is hard. Every choice you make, from start to finish, has an impact on how your model will perform. You won’t know whether you trained it right or not until after you’re done, when someone finds an issue in your finished model. That someone is me.</p>
@@ -92,32 +118,6 @@
 <hr>
 <h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ol>
 <li><a href="https://www.profanity.dev/">the profanity detector in question</a></li>
-</ol>
-]]></content>
-  </entry>
-  <entry>
-    <title>AM</title>
-    <url>/am/</url>
-    <content><![CDATA[<p>What does AM stand for? Maybe Ante Meridiem, before noon. Or maybe the element Americium (Am). Maybe it’s Artium Magister, a Master of Arts degree. Whatever the case, if you compound masters of the arts over time, you get Arctic Monkeys. </p>
-<p>In 2013, Arctic Monkeys released their fifth studio album, AM. While the title references the band’s name, the cover art says otherwise. Taking inspiration from Velvet Underground’s cover art of volume units (VU), AM’s cover art is a wave with changing heights—amplitude modulation (AM). </p>
-<p>As a recreational mathematician, I looked around the internet, trying to find a decent recreation of the AM cover as a graph, but none of them were good enough. Most stopped at just modulating a sine wave with a broader sine wave, but this method misses one crucial detail: the AM in the middle. Job Bouwman inserts the AM in the middle, but the heights and widths of the letters don’t quite match the cover.</p>
-<p>The Arctic Monkeys weren’t just monkeying around with amplitude modulation. They figured out a clever way to seamlessly insert their initials into the graph. Mark my words, I will do the same. I will recreate the AM cover.</p>
-<p>Rather than spending lots of time setting up a Jupyter Notebook and writing lots of Python code to establish a working development environment, I’m using Desmos. I believe the initial concept art began with a standard modulation of a sine wave inside a sine wave, so I am starting the same way.</p>
-<p><img src="/images/initial_am.png"></p>
-<p>Aha! See? In the center? There is a segment of the graph that can be used for the AM. I’ll mark it in green. This will require removing that purple part, which I see as a bonus. The A and M in the cover have longer wavelengths than the rest of the graph, so stretching the green segment should recreate this well.</p>
-<p><img src="/images/am_annotated.png"></p>
-<p>After stretching the green segment of the graph, the height of each portion will need to be adjusted. Maybe I’m just throwing a hammer at a screw, but a sigmoid function looks like it will do the trick. A few adjustments later, and we have this:</p>
-<p><img src="/images/am_final.png"></p>
-<p>A few minutes ago, I was perfectly happy with this result, but that is no longer the case. Yes, I completed what I set out to do, but the closer I get, the farther I feel. The M needs to be more rectangular. My approximation isn’t actually a continuous function, much less a differentiable one. Looking at the two side-by-side, I can no longer see their similarities, only their differences. Recreating this cover art was supposed to be about a quick recreational math project, but now I feel obliged to honor this album. If imitation is the sincerest form of flattery, are better imitations more flattering?</p>
-<p>After this project, I suppose not. By acknowledging the distance between my imitation and the original, I can do justice to the beauty it holds. I may have not recreated the cover perfectly, but I can certainly appreciate it much more now than I could when I first saw it. This is no Absent Minded Advanced Math. This is AM. </p>
-<hr>
-<ol>
-<li><p><a href="https://www.nme.com/news/music/arctic-monkeys-178-1266582">Influence of VU on AM</a></p>
-</li>
-<li><p><a href="https://www.quora.com/What-function-is-Arctic-Monkeys-album-cover">Job Bouwman’s approximation</a></p>
-</li>
-<li><p><a href="https://www.desmos.com/calculator/v37m6icmwg">My recreation</a></p>
-</li>
 </ol>
 ]]></content>
   </entry>
@@ -148,18 +148,6 @@
 ]]></content>
   </entry>
   <entry>
-    <title>Celestial Navigation, Part 3</title>
-    <url>/celestial-navigation-part-3/</url>
-    <content><![CDATA[<p>In the spirit of April Fools’ Day, I’d like to tell a story of trickery and deceit. This is a story of how I was fooled, or rather, how I will be fooled.</p>
-<p>Every equinox, residents of Chicago line the sidewalks to witness Chicagohenge, when the sun rises and sets perfectly along the east-west streets. For the amateur astronomy enthusiast, it’s a captivating sight. I’ve watched Chicagohenge a few times now, and I’m always amazed. The perfect alignment of the sun and the city creates a beautifully cinematic moment, like the sun is a paid actor and we’re operating the camera. </p>
-<p>During the most recent equinox, a few hours before sunset, I noticed the sun wasn’t directly aligned with the buildings but just slightly south of west. The misalignment made me pause. Before this, I had noticed the sun generally stays in the southern half of the sky during the day, but I had never thought about when the sun would transition from south to not south. Living north of the Tropics, I assumed the sun would always appear south of me, and I couldn’t imagine why it wouldn’t. I watched Chicagohenge that day, but I was unable to enjoy it. My senses and my intuition were at odds.</p>
-<p>In moments like this, when my senses and intuition conflicted, I turned to the only reliable source of answers: math. I opened my notebook and started drawing spheres and planes and lines, trying to decipher the truth. After a few pages of scribbled calculations, I was thoroughly convinced that on the equinox, the sun rises perfectly east and sets perfectly west. (It’s worth noting that this result holds true anywhere on Earth, which means it’s true for you too, dear reader.) While I didn’t trust my senses or my intuition, I placed unwavering trust in math and formal logic.</p>
-<p>And therein lies the problem. I use math to check my senses and my intuition, but I have no system to disprove math when math fails. I trust formal logic entirely, but blind faith is a dangerous game, no matter how rational. Even the philosophy of mathematics cautions against finding complete truth in a fixed set of axioms. Gödel’s incompleteness theorems highlight the existence of mathematical statements that can never be proven true or false, so finding absolute truth in mathematics is impossible.</p>
-<p>Any source of “absolute” truth has its risks. While I’ve decided to place considerable trust in mathematics, any system of truth can deceive you. Your senses fall victim to illusions, and your intuition won’t always be right. No finite number of observations will ever be complete, and no gut feeling can guarantee correctness. Even when you’re doing something as simple as watching the sun rise over your city, you might be fooled, and that’s alright. The truth was never guaranteed anyway.</p>
-<p>$$(4 \cdot 1)! &#x3D; 24$$</p>
-]]></content>
-  </entry>
-  <entry>
     <title>Celestial Navigation, Part 4</title>
     <url>/celestial-navigation-part-4/</url>
     <content><![CDATA[<p>Today, I had the pleasure of witnessing the total solar eclipse, a twice-in-a-lifetime opportunity. Yes, I’ve already seen a solar eclipse, and I’ve seen a handful of lunar eclipses, but I had to see this eclipse too. If you’ve met me, you know I get excited <a href="/celestial-navigation-part-3">when the sun aligns with some buildings</a>, so of course I was going to drive 200 miles to see the sun align with the moon. It was spectacular, but plenty of people will share their life-changing experiences with the eclipse. Instead, here are a few things I learned about eclipses while observing this one.</p>
@@ -171,26 +159,15 @@
 ]]></content>
   </entry>
   <entry>
-    <title>Conservation and the Trolley Problem</title>
-    <url>/conservation-and-the-trolley-problem/</url>
-    <content><![CDATA[<p>The Trolley Problem has become a staple of modern media culture. It has made rounds through film and television, memes, and even absurdist video games. Unfortunately, in this meteoric rise in fame, the Trolley Problem has lost its meaning. The once-respected ethical dilemma now often seems overly simplistic and detached from reality. It no longer holds the same significance it did in the 70’s.</p>
-<p>In Phillipa Foot’s original article, the Trolley Problem is posed as follows. Suppose you are the driver of a runaway tram, and the tram is headed towards five rail workers. There is another track you could turn on instead. On it is someone tied to the rails. If you turn, you will kill the one. If you do nothing, you will kill the five.</p>
-<p>Foot posits that the obvious choice is to turn. In fact, she finds this so obvious that she doesn’t even spend enough words to explain the action-versus-inaction issue. That comes later, when Judith Jarvis Thomson popularizes the dilemma, giving it its famous title. Foot briefly introduces the dilemma to discuss the nuances of double-effect morality and an ethical algorithm called the “doctrine of double effect”. She discusses other scenarios, such as a surgeon harvesting organs from one patient to save five, a judge framing an innocent person for an unsolvable crime to prevent bloody riots, and abortion.</p>
-<p>Foot and Thomson both propose interesting dilemmas with nuanced arguments. Though I recommend reading them, I will refrain from making any comments on the conclusions they reach. What I will say is that their work demonstrates what the Trolley Problem truly symbolizes: one example in a network of nuanced ethical dilemmas. Each dilemma offers a new situation to test ethical frameworks, such as the doctrine of double effect.</p>
-<p>In line with these ethical problems, I would like to propose one more, but with one, key difference. My problem is about non-human animals. This is the trophy hunting problem.</p>
-<p>Suppose you are a conservationist working with local populations in Africa. As it stands, rampant poaching and habitat destruction will decimate the local wildlife. However, a trophy hunter has approached you, offering you lots of money to let them kill exactly one of the animals. If you take this money, it will go to conservation and protection efforts, saving many more animals. Do you take the trophy hunter’s offer?</p>
-<p>When the trophy hunting problem was first presented to me, it wasn’t presented as an open question. Over a decade ago, in a very strange grade school lesson, I listened to my teacher share how trophy hunting could be beneficial, advocating for this arrangement. In fairness, the system was already in place, as conservationists were already taking money from trophy hunters. </p>
-<p>The trophy hunting problem offers countless opportunities to explore ethical frameworks through nuanced details. How much money should this cost? How many lives should be saved to take the deal? How should population growth look afterward? How frequently do you take the deal? What if this were about humans instead of animals?</p>
-<p>This trophy hunting problem serves as a reminder of the true nature of the Trolley Problem. It’s about reflecting on ethical approaches to life, questioning belief systems, and understanding that not all problems have a pretty solution. The Trolley Problem is more than a few memes and an episode of The Good Place. It’s the terrifying reality that our decisions can influence who lives and who dies, so choose wisely.</p>
-<hr>
-<ol>
-<li><a href="https://neal.fun/absurd-trolley-problems/">Absurd Trolley Problems Game</a></li>
-<li><a href="https://www.imdb.com/title/tt6951978/">“The Good Place” The Trolley Problem</a></li>
-<li><a href="https://www2.econ.iastate.edu/classes/econ362/hallam/Readings/FootDoubleEffect.pdf">The Problem of Abortion and the Doctrine of the Double Effect</a></li>
-<li><a href="https://laurenralpert.wordpress.com/wp-content/uploads/2014/08/thomson-killing-letting-die-and-the-trolley-problem.pdf">Killing, Letting Die, and the Trolley Problem</a></li>
-<li><a href="https://doi.org/10.1016/j.biocon.2006.09.005">Economic and conservation significance of the trophy hunting industry in sub-Saharan Africa</a></li>
-<li><a href="https://doi.org/10.1111/j.1469-1795.2006.00034.x">Potential of trophy hunting to create incentives for wildlife conservation in Africa where alternative wildlife-based land uses may not be viable</a></li>
-</ol>
+    <title>Celestial Navigation, Part 3</title>
+    <url>/celestial-navigation-part-3/</url>
+    <content><![CDATA[<p>In the spirit of April Fools’ Day, I’d like to tell a story of trickery and deceit. This is a story of how I was fooled, or rather, how I will be fooled.</p>
+<p>Every equinox, residents of Chicago line the sidewalks to witness Chicagohenge, when the sun rises and sets perfectly along the east-west streets. For the amateur astronomy enthusiast, it’s a captivating sight. I’ve watched Chicagohenge a few times now, and I’m always amazed. The perfect alignment of the sun and the city creates a beautifully cinematic moment, like the sun is a paid actor and we’re operating the camera. </p>
+<p>During the most recent equinox, a few hours before sunset, I noticed the sun wasn’t directly aligned with the buildings but just slightly south of west. The misalignment made me pause. Before this, I had noticed the sun generally stays in the southern half of the sky during the day, but I had never thought about when the sun would transition from south to not south. Living north of the Tropics, I assumed the sun would always appear south of me, and I couldn’t imagine why it wouldn’t. I watched Chicagohenge that day, but I was unable to enjoy it. My senses and my intuition were at odds.</p>
+<p>In moments like this, when my senses and intuition conflicted, I turned to the only reliable source of answers: math. I opened my notebook and started drawing spheres and planes and lines, trying to decipher the truth. After a few pages of scribbled calculations, I was thoroughly convinced that on the equinox, the sun rises perfectly east and sets perfectly west. (It’s worth noting that this result holds true anywhere on Earth, which means it’s true for you too, dear reader.) While I didn’t trust my senses or my intuition, I placed unwavering trust in math and formal logic.</p>
+<p>And therein lies the problem. I use math to check my senses and my intuition, but I have no system to disprove math when math fails. I trust formal logic entirely, but blind faith is a dangerous game, no matter how rational. Even the philosophy of mathematics cautions against finding complete truth in a fixed set of axioms. Gödel’s incompleteness theorems highlight the existence of mathematical statements that can never be proven true or false, so finding absolute truth in mathematics is impossible.</p>
+<p>Any source of “absolute” truth has its risks. While I’ve decided to place considerable trust in mathematics, any system of truth can deceive you. Your senses fall victim to illusions, and your intuition won’t always be right. No finite number of observations will ever be complete, and no gut feeling can guarantee correctness. Even when you’re doing something as simple as watching the sun rise over your city, you might be fooled, and that’s alright. The truth was never guaranteed anyway.</p>
+<p>$$(4 \cdot 1)! &#x3D; 24$$</p>
 ]]></content>
   </entry>
   <entry>
@@ -222,6 +199,29 @@
 <li><a href="https://chicagomaroon.com/49019/news/netflix-film-saturn-return-shoots-on-uchicago-campus/">Filming on Campus</a></li>
 <li><a href="https://web.archive.org/web/20151222074912/http://astrology.about.com/od/advancedastrology/p/SaturnReturn.htm">Saturn Return Astrology</a></li>
 <li><a href="https://www.loc.gov/collections/finding-our-place-in-the-cosmos-with-carl-sagan/articles-and-essays/modeling-the-cosmos/ancient-greek-astronomy-and-cosmology">Ancient Greek Astronomy</a></li>
+</ol>
+]]></content>
+  </entry>
+  <entry>
+    <title>Conservation and the Trolley Problem</title>
+    <url>/conservation-and-the-trolley-problem/</url>
+    <content><![CDATA[<p>The Trolley Problem has become a staple of modern media culture. It has made rounds through film and television, memes, and even absurdist video games. Unfortunately, in this meteoric rise in fame, the Trolley Problem has lost its meaning. The once-respected ethical dilemma now often seems overly simplistic and detached from reality. It no longer holds the same significance it did in the 70’s.</p>
+<p>In Phillipa Foot’s original article, the Trolley Problem is posed as follows. Suppose you are the driver of a runaway tram, and the tram is headed towards five rail workers. There is another track you could turn on instead. On it is someone tied to the rails. If you turn, you will kill the one. If you do nothing, you will kill the five.</p>
+<p>Foot posits that the obvious choice is to turn. In fact, she finds this so obvious that she doesn’t even spend enough words to explain the action-versus-inaction issue. That comes later, when Judith Jarvis Thomson popularizes the dilemma, giving it its famous title. Foot briefly introduces the dilemma to discuss the nuances of double-effect morality and an ethical algorithm called the “doctrine of double effect”. She discusses other scenarios, such as a surgeon harvesting organs from one patient to save five, a judge framing an innocent person for an unsolvable crime to prevent bloody riots, and abortion.</p>
+<p>Foot and Thomson both propose interesting dilemmas with nuanced arguments. Though I recommend reading them, I will refrain from making any comments on the conclusions they reach. What I will say is that their work demonstrates what the Trolley Problem truly symbolizes: one example in a network of nuanced ethical dilemmas. Each dilemma offers a new situation to test ethical frameworks, such as the doctrine of double effect.</p>
+<p>In line with these ethical problems, I would like to propose one more, but with one, key difference. My problem is about non-human animals. This is the trophy hunting problem.</p>
+<p>Suppose you are a conservationist working with local populations in Africa. As it stands, rampant poaching and habitat destruction will decimate the local wildlife. However, a trophy hunter has approached you, offering you lots of money to let them kill exactly one of the animals. If you take this money, it will go to conservation and protection efforts, saving many more animals. Do you take the trophy hunter’s offer?</p>
+<p>When the trophy hunting problem was first presented to me, it wasn’t presented as an open question. Over a decade ago, in a very strange grade school lesson, I listened to my teacher share how trophy hunting could be beneficial, advocating for this arrangement. In fairness, the system was already in place, as conservationists were already taking money from trophy hunters. </p>
+<p>The trophy hunting problem offers countless opportunities to explore ethical frameworks through nuanced details. How much money should this cost? How many lives should be saved to take the deal? How should population growth look afterward? How frequently do you take the deal? What if this were about humans instead of animals?</p>
+<p>This trophy hunting problem serves as a reminder of the true nature of the Trolley Problem. It’s about reflecting on ethical approaches to life, questioning belief systems, and understanding that not all problems have a pretty solution. The Trolley Problem is more than a few memes and an episode of The Good Place. It’s the terrifying reality that our decisions can influence who lives and who dies, so choose wisely.</p>
+<hr>
+<ol>
+<li><a href="https://neal.fun/absurd-trolley-problems/">Absurd Trolley Problems Game</a></li>
+<li><a href="https://www.imdb.com/title/tt6951978/">“The Good Place” The Trolley Problem</a></li>
+<li><a href="https://www2.econ.iastate.edu/classes/econ362/hallam/Readings/FootDoubleEffect.pdf">The Problem of Abortion and the Doctrine of the Double Effect</a></li>
+<li><a href="https://laurenralpert.wordpress.com/wp-content/uploads/2014/08/thomson-killing-letting-die-and-the-trolley-problem.pdf">Killing, Letting Die, and the Trolley Problem</a></li>
+<li><a href="https://doi.org/10.1016/j.biocon.2006.09.005">Economic and conservation significance of the trophy hunting industry in sub-Saharan Africa</a></li>
+<li><a href="https://doi.org/10.1111/j.1469-1795.2006.00034.x">Potential of trophy hunting to create incentives for wildlife conservation in Africa where alternative wildlife-based land uses may not be viable</a></li>
 </ol>
 ]]></content>
   </entry>
@@ -357,23 +357,6 @@
 ]]></content>
   </entry>
   <entry>
-    <title>Ex Libris: Select Poems by Emily Dickinson</title>
-    <url>/ex-libris-select-poems-by-emily-dickinson/</url>
-    <content><![CDATA[<p>I recently had the opportunity to visit Amherst, Massachusetts, USA. Amherst doesn’t have a lot going on; it’s mostly a college town surrounded by more colleges surrounded by rural Massachusetts. Amherst may be a relatively sleepy place, but it does have a notable past. Specifically, Amherst is the home of Emily Dickinson.  One of the most important American poets to ever live, Emily Dickinson spent her whole life in and around Amherst. She went to school at Amherst Academy, college at Mount Holyoke, and much of her adult life was spent in the Dickinson mansion in Amherst.</p>
-<p>With this in mind, I gave myself a reading assignment for the trip. I decided to read 10 Emily Dickinson poems, which is not a lot, but I haven’t studied poetry in years, and this was a short trip. The poems were selected from various Internet listicles on the best Emily Dickinson poems. In hopes that this archive does not turn into another listicle, I won’t enumerate every poem I read, but I’ll mention a few, like “I’m Nobody! Who are you?”</p>
-<p>When searching for a copy of “I’m Nobody! Who are you?”, I found multiple versions of the poem. The first published version followed standard capitalization and punctuation conventions, but the corrected version had additional capitalization, more dashes, and different wordings. The corrected version is supposed to be more faithful to the original, and after reading both, I can say the corrected version is far better. Dickinson’s use of capitalization constructs the characters in really clever ways. For example, using “Nobody” instead of “nobody” gives the speaker an identity as a Nobody rather than just being nobody. This contrasts well with the “Somebody” in line 5. Dickinson’s use of punctuation also drastically enhances the meaning of the poem. This was particularly notable in “I felt a Funeral, in my Brain”. The poem ends with a dash, as if the speaker is about to continue their thought, but is abruptly cut off.</p>
-<p>Reading Dickinson’s poetry remains a highlight of my trip. After studying different versions of her poetry, I wanted to save the versions I liked better, so I designed a <a href="/projects/literature-db">simple database for literature</a> whose contents are in plaintext, so if the code ever breaks, the database is still perfectly usable. The project is still a work in progress, but it can scrape poetry from websites, render text, and efficiently search through the database.</p>
-<p>As my trip came to a close, I finished my readings with a poem I know quite well. I’ve had the first stanza memorized for about a year now, and it’s one of a handful of poems I turn to quite frequently. I read it in the moments that I so desperately want to stop moving forward, those points in life where the future is far too chaotic or uncertain, and I can’t slow it down. In many ways, my visit to Amherst is part of that uncertain future, so it was the perfect opportunity to read the poem that starts like this:</p>
-<p>“Hope” is the thing with feathers -<br>That perches in the soul -<br>And sings the tune without the words -<br>And never stops - at all -</p>
-<hr>
-<h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ol>
-<li><a href="https://en.wikipedia.org/wiki/Emily_Dickinson">Emily Dickinson</a></li>
-<li><a href="https://www.emilydickinsonmuseum.org/">Emily Dickinson Museum</a></li>
-<li><a href="https://www.poetryfoundation.org/poets/emily-dickinson">Emily Dickinson on Poetry Foundation</a></li>
-</ol>
-]]></content>
-  </entry>
-  <entry>
     <title>Ex Libris: Kafka on the Shore</title>
     <url>/ex-libris-kafka-on-the-shore/</url>
     <content><![CDATA[<!-- https://www.btsgtheories.com/wp-content/uploads/2020/07/kafka-24grammata.com-free-e-book.-pdf-1.pdf -->
@@ -392,6 +375,23 @@
 <hr>
 <h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ol>
 <li><a href="https://www.bookbrowse.com/author_interviews/full/index.cfm?author_number=1103">Interview with Haruki Murakami</a></li>
+</ol>
+]]></content>
+  </entry>
+  <entry>
+    <title>Ex Libris: Select Poems by Emily Dickinson</title>
+    <url>/ex-libris-select-poems-by-emily-dickinson/</url>
+    <content><![CDATA[<p>I recently had the opportunity to visit Amherst, Massachusetts, USA. Amherst doesn’t have a lot going on; it’s mostly a college town surrounded by more colleges surrounded by rural Massachusetts. Amherst may be a relatively sleepy place, but it does have a notable past. Specifically, Amherst is the home of Emily Dickinson.  One of the most important American poets to ever live, Emily Dickinson spent her whole life in and around Amherst. She went to school at Amherst Academy, college at Mount Holyoke, and much of her adult life was spent in the Dickinson mansion in Amherst.</p>
+<p>With this in mind, I gave myself a reading assignment for the trip. I decided to read 10 Emily Dickinson poems, which is not a lot, but I haven’t studied poetry in years, and this was a short trip. The poems were selected from various Internet listicles on the best Emily Dickinson poems. In hopes that this archive does not turn into another listicle, I won’t enumerate every poem I read, but I’ll mention a few, like “I’m Nobody! Who are you?”</p>
+<p>When searching for a copy of “I’m Nobody! Who are you?”, I found multiple versions of the poem. The first published version followed standard capitalization and punctuation conventions, but the corrected version had additional capitalization, more dashes, and different wordings. The corrected version is supposed to be more faithful to the original, and after reading both, I can say the corrected version is far better. Dickinson’s use of capitalization constructs the characters in really clever ways. For example, using “Nobody” instead of “nobody” gives the speaker an identity as a Nobody rather than just being nobody. This contrasts well with the “Somebody” in line 5. Dickinson’s use of punctuation also drastically enhances the meaning of the poem. This was particularly notable in “I felt a Funeral, in my Brain”. The poem ends with a dash, as if the speaker is about to continue their thought, but is abruptly cut off.</p>
+<p>Reading Dickinson’s poetry remains a highlight of my trip. After studying different versions of her poetry, I wanted to save the versions I liked better, so I designed a <a href="/projects/literature-db">simple database for literature</a> whose contents are in plaintext, so if the code ever breaks, the database is still perfectly usable. The project is still a work in progress, but it can scrape poetry from websites, render text, and efficiently search through the database.</p>
+<p>As my trip came to a close, I finished my readings with a poem I know quite well. I’ve had the first stanza memorized for about a year now, and it’s one of a handful of poems I turn to quite frequently. I read it in the moments that I so desperately want to stop moving forward, those points in life where the future is far too chaotic or uncertain, and I can’t slow it down. In many ways, my visit to Amherst is part of that uncertain future, so it was the perfect opportunity to read the poem that starts like this:</p>
+<p>“Hope” is the thing with feathers -<br>That perches in the soul -<br>And sings the tune without the words -<br>And never stops - at all -</p>
+<hr>
+<h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ol>
+<li><a href="https://en.wikipedia.org/wiki/Emily_Dickinson">Emily Dickinson</a></li>
+<li><a href="https://www.emilydickinsonmuseum.org/">Emily Dickinson Museum</a></li>
+<li><a href="https://www.poetryfoundation.org/poets/emily-dickinson">Emily Dickinson on Poetry Foundation</a></li>
 </ol>
 ]]></content>
   </entry>
@@ -497,6 +497,20 @@
 ]]></content>
   </entry>
   <entry>
+    <title>Hanging by a Thread | Designs from the Months to Come</title>
+    <url>/hanging-by-a-thread-designs-from-the-months-to-come/</url>
+    <content><![CDATA[<p>Unlike other forms of visual art, many origami artists will never create a piece without following explicit sets of instructions. In fact, you can become an exceptional origamist without ever designing a single piece yourself. In many ways, origami parallels music, in which great musicians don’t need to be composers, but through their technical mastery and musicality, they can create beauty from the notes on the page. Origamists do the same, combining precise control of the paper with tactfully applied sculpting techniques to create art. The ability to design origami is neither necessary nor sufficient to be a great origamist.</p>
+<p>I said that exactly six months ago, just two months into my journey of designing origami. Back then, I compared myself to a composer (not a great composer, just a composer) creating new art for others to interpret. The problem is that, unlike composers, I wasn’t sharing my work in a way that allowed others to replicate it. No one else could fold any of my origami designs because I didn’t share how. In fact, I could barely replicate my own designs because I kept forgetting how I made things. I had no system for notating how I designed my works.</p>
+<p>Extending the musician&#x2F;composer analogy even further, most musicians will likely learn some form of notation, typically in the form of sheet music, which displays pitches and rhythms sequentially, sometimes with notation for dynamics, tempo, and articulation. Composers, being musicians themselves, also learn this notation and write their scores this way, allowing others to replicate it. Origamists also learn a type of sequential notation called Yoshizawa-Randlett diagrams. Yoshizawa-Randlett diagrams display folds sequentially with notation for direction, references, and previous creases. Since designers are also origamists, they should notate their work using diagrams too, right?</p>
+<p>Not necessarily. While most origami can be notated sequentially, designers have another option. While the processes of playing music and folding paper are both sequential, in origami, the final product is not consumed sequentially. Rather than watching the folding process, viewers admire the finished piece as a whole. Since origamists are just trying to reach some end state, in theory, designers only need to notate that end state. You can do this by taking your origami, unfolding it, and then drawing on a separate sheet of paper where all the folds go. Then, if you were to copy all the folds you drew out onto a new piece of paper, you could refold your design. </p>
+<p>These drawing-a-picture-of-every-single-fold notations are called crease patterns. It should be noted that trying to fold origami from crease patterns is incredibly difficult to do, even for the simplest crease patterns. First used by Neal Elias and contemporaries, crease patterns allowed prolific designers to remember all their designs without necessarily recording every fold. Folding your own crease patterns is much easier than folding other people’s crease patterns because you know exactly what you meant to do at every intersection. Eventually, origamists began attempting to fold others’ models from their crease patterns. This became known as “solving” crease patterns because the process is essentially a very complicated origami puzzle. It’s still not extremely common, but in some communities of skilled folders, solving crease patterns is second nature.</p>
+<p>The reason I am sharing all of this with you is that I’ve finally started drawing crease patterns for my origami. I’ve created a digital gallery <a href="/projects/gallery">here</a> with photos and crease patterns for a few of my designs. I have so much respect for artists that diagram every step of their work, but I just can’t be bothered to do all that drawing, but I still want others to be able to fold my work, so this is what I came up with. I likely won’t have any more posts here, since I’ll just be updating the gallery. </p>
+<hr>
+<p>Some new designs to check out in the <a href="/projects/gallery">gallery</a>:</p>
+<p><a href="/projects/gallery#hanging-by-a-thread">Hanging by a Thread</a><br><a href="/projects/gallery#fish-out-of-water">Fish out of Water</a></p>
+]]></content>
+  </entry>
+  <entry>
     <title>FM Radio Frequencies are Lying to You</title>
     <url>/fm-radio-frequencies-are-lying-to-you/</url>
     <content><![CDATA[<p>The other day, I was driving to work when suddenly my radio started playing. I don’t typically listen to the radio, but the music was nice, so I let it keep playing. After the song finished, the radio announcer said, “You’re listening to 98.9* FM radio.”</p>
@@ -519,17 +533,26 @@
 ]]></content>
   </entry>
   <entry>
-    <title>Hanging by a Thread | Designs from the Months to Come</title>
-    <url>/hanging-by-a-thread-designs-from-the-months-to-come/</url>
-    <content><![CDATA[<p>Unlike other forms of visual art, many origami artists will never create a piece without following explicit sets of instructions. In fact, you can become an exceptional origamist without ever designing a single piece yourself. In many ways, origami parallels music, in which great musicians don’t need to be composers, but through their technical mastery and musicality, they can create beauty from the notes on the page. Origamists do the same, combining precise control of the paper with tactfully applied sculpting techniques to create art. The ability to design origami is neither necessary nor sufficient to be a great origamist.</p>
-<p>I said that exactly six months ago, just two months into my journey of designing origami. Back then, I compared myself to a composer (not a great composer, just a composer) creating new art for others to interpret. The problem is that, unlike composers, I wasn’t sharing my work in a way that allowed others to replicate it. No one else could fold any of my origami designs because I didn’t share how. In fact, I could barely replicate my own designs because I kept forgetting how I made things. I had no system for notating how I designed my works.</p>
-<p>Extending the musician&#x2F;composer analogy even further, most musicians will likely learn some form of notation, typically in the form of sheet music, which displays pitches and rhythms sequentially, sometimes with notation for dynamics, tempo, and articulation. Composers, being musicians themselves, also learn this notation and write their scores this way, allowing others to replicate it. Origamists also learn a type of sequential notation called Yoshizawa-Randlett diagrams. Yoshizawa-Randlett diagrams display folds sequentially with notation for direction, references, and previous creases. Since designers are also origamists, they should notate their work using diagrams too, right?</p>
-<p>Not necessarily. While most origami can be notated sequentially, designers have another option. While the processes of playing music and folding paper are both sequential, in origami, the final product is not consumed sequentially. Rather than watching the folding process, viewers admire the finished piece as a whole. Since origamists are just trying to reach some end state, in theory, designers only need to notate that end state. You can do this by taking your origami, unfolding it, and then drawing on a separate sheet of paper where all the folds go. Then, if you were to copy all the folds you drew out onto a new piece of paper, you could refold your design. </p>
-<p>These drawing-a-picture-of-every-single-fold notations are called crease patterns. It should be noted that trying to fold origami from crease patterns is incredibly difficult to do, even for the simplest crease patterns. First used by Neal Elias and contemporaries, crease patterns allowed prolific designers to remember all their designs without necessarily recording every fold. Folding your own crease patterns is much easier than folding other people’s crease patterns because you know exactly what you meant to do at every intersection. Eventually, origamists began attempting to fold others’ models from their crease patterns. This became known as “solving” crease patterns because the process is essentially a very complicated origami puzzle. It’s still not extremely common, but in some communities of skilled folders, solving crease patterns is second nature.</p>
-<p>The reason I am sharing all of this with you is that I’ve finally started drawing crease patterns for my origami. I’ve created a digital gallery <a href="/projects/gallery">here</a> with photos and crease patterns for a few of my designs. I have so much respect for artists that diagram every step of their work, but I just can’t be bothered to do all that drawing, but I still want others to be able to fold my work, so this is what I came up with. I likely won’t have any more posts here, since I’ll just be updating the gallery. </p>
+    <title>Infinity in Art</title>
+    <url>/infinity-in-art/</url>
+    <content><![CDATA[<p>People are often quick to dismiss infinity. For most, infinity represents some nebulous concept about going on forever or a number bigger than all the other numbers. Infinity is silly, hard to conceptualize, and just doesn’t matter for people living finite lives. </p>
+<p>I tend to disagree. I think people underestimate just how useful infinity really can be. It has served me well for many years in countless situations. Then again, I did spend 4 years studying infinity, so I might be a tad biased.</p>
+<p>One particular application of infinity comes up infrequently in origami. Every origami design starts with a finite sheet of paper. But why let that limit you? What if you could design a tree with infinite branches? A dinousaur with infinite ridges? A flower with infinite petals? No one really asked, but origamists answered anyway. </p>
+<p>For every origami design, you can draw out on a flat sheet which part of the paper is used for each feature of the finished model. To fit an infinite number of features onto a single square, origamists needed a way to add an infinite number of things and end with a finite sum. Luckily, mathematicians have been doing this for centuries. One of the most common ways to add an infinite amount of stuff and end up with a finite amount is a geometric series. </p>
+<p>Start by placing your finger on the left side of your screen. Next, move it halfway to the right side. Now, move it halfway between where it is now and the right side. Move it halfway again. And again. And again. If you continue this forever, your finger will take an infinite number of steps, but the lengths of those steps only add up to the width of your screen. This is a geometric series. Every subsequent step is some fixed fraction of the previous step.</p>
+<p>Since origamists work in two dimensions, not just one, their steps get to look a little different. Take, for example, Shuzo Fujimoto’s hydrangea. At every step, the folder can add four more petals to the center of the flower. This sounds impossible, but I’ve drawn out how the paper is distributed for each petal. The red squares are the petals.</p>
+<img src="/images/hydrangea_cp.jpg" alt="Progressive petals on Fujimoto's Hydrangea.">
+
+<p><em>The progressive distribution of paper for the petals of Fujimoto’s Hydrangea. Note how each layer repeats the previous but in half the area.</em></p>
+<p>Theoretically, this would result in an infinite number of petals, but that would require perfect paper, immortality, and a few other impossibilities. In practice, it means origamists can add as many petals as they like to their hydrangea. Each subsequent layer is a recursive iteration of the previous. It is, as Ushio Ikegami describes it, “an infinite set of origami works.” The artist defines a recursive sequence that allows folders to continue from one work to the next. That way, it goes on forever.</p>
+<p>Infinite origami is technically impossible. The heat death of the universe will consume all attempts at folding forever. But that doesn’t stop origamists from trying. Using their incredible skills—and a bit of math—they have created endless art. They found infinity in a square. Where will you find it?</p>
 <hr>
-<p>Some new designs to check out in the <a href="/projects/gallery">gallery</a>:</p>
-<p><a href="/projects/gallery#hanging-by-a-thread">Hanging by a Thread</a><br><a href="/projects/gallery#fish-out-of-water">Fish out of Water</a></p>
+<h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ol>
+<li><a href="https://cfcorigami.com/creator/shuzofujimoto">Shuzo Fujimoto</a></li>
+<li><a href="https://origamiusa.org/system/files/thefold/thefold79_fractal_origami_for_beginners_Ikegami_revised_0.pdf">Fractal Origami for Beginners</a></li>
+<li><a href="https://cfcorigami.com/sites/default/files/diagrams/igaribi/hydrangea_john_smith.pdf">Hydrangea Diagrams</a></li>
+<li><a href="/infinity-in-art/">Infinity in Art</a></li>
+</ol>
 ]]></content>
   </entry>
   <entry>
@@ -557,29 +580,6 @@
 <li><a href="https://www.antarctica.gov.au/about-antarctica/geography-and-geology/">Antarctic Geography and Geology - Australian Antarctic Program</a></li>
 <li><a href="https://www.worldwildlife.org/resources/explainers/six-ways-loss-of-arctic-ice-impacts-everyone/">Arctic Ice Loss - WWF</a></li>
 <li><a href="https://www.youtube.com/watch?v=IQWUKWM2JrQ">2024 AI Coca-Cola Ad (the first year it happened)</a></li>
-</ol>
-]]></content>
-  </entry>
-  <entry>
-    <title>Infinity in Art</title>
-    <url>/infinity-in-art/</url>
-    <content><![CDATA[<p>People are often quick to dismiss infinity. For most, infinity represents some nebulous concept about going on forever or a number bigger than all the other numbers. Infinity is silly, hard to conceptualize, and just doesn’t matter for people living finite lives. </p>
-<p>I tend to disagree. I think people underestimate just how useful infinity really can be. It has served me well for many years in countless situations. Then again, I did spend 4 years studying infinity, so I might be a tad biased.</p>
-<p>One particular application of infinity comes up infrequently in origami. Every origami design starts with a finite sheet of paper. But why let that limit you? What if you could design a tree with infinite branches? A dinousaur with infinite ridges? A flower with infinite petals? No one really asked, but origamists answered anyway. </p>
-<p>For every origami design, you can draw out on a flat sheet which part of the paper is used for each feature of the finished model. To fit an infinite number of features onto a single square, origamists needed a way to add an infinite number of things and end with a finite sum. Luckily, mathematicians have been doing this for centuries. One of the most common ways to add an infinite amount of stuff and end up with a finite amount is a geometric series. </p>
-<p>Start by placing your finger on the left side of your screen. Next, move it halfway to the right side. Now, move it halfway between where it is now and the right side. Move it halfway again. And again. And again. If you continue this forever, your finger will take an infinite number of steps, but the lengths of those steps only add up to the width of your screen. This is a geometric series. Every subsequent step is some fixed fraction of the previous step.</p>
-<p>Since origamists work in two dimensions, not just one, their steps get to look a little different. Take, for example, Shuzo Fujimoto’s hydrangea. At every step, the folder can add four more petals to the center of the flower. This sounds impossible, but I’ve drawn out how the paper is distributed for each petal. The red squares are the petals.</p>
-<img src="/images/hydrangea_cp.jpg" alt="Progressive petals on Fujimoto's Hydrangea.">
-
-<p><em>The progressive distribution of paper for the petals of Fujimoto’s Hydrangea. Note how each layer repeats the previous but in half the area.</em></p>
-<p>Theoretically, this would result in an infinite number of petals, but that would require perfect paper, immortality, and a few other impossibilities. In practice, it means origamists can add as many petals as they like to their hydrangea. Each subsequent layer is a recursive iteration of the previous. It is, as Ushio Ikegami describes it, “an infinite set of origami works.” The artist defines a recursive sequence that allows folders to continue from one work to the next. That way, it goes on forever.</p>
-<p>Infinite origami is technically impossible. The heat death of the universe will consume all attempts at folding forever. But that doesn’t stop origamists from trying. Using their incredible skills—and a bit of math—they have created endless art. They found infinity in a square. Where will you find it?</p>
-<hr>
-<h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ol>
-<li><a href="https://cfcorigami.com/creator/shuzofujimoto">Shuzo Fujimoto</a></li>
-<li><a href="https://origamiusa.org/system/files/thefold/thefold79_fractal_origami_for_beginners_Ikegami_revised_0.pdf">Fractal Origami for Beginners</a></li>
-<li><a href="https://cfcorigami.com/sites/default/files/diagrams/igaribi/hydrangea_john_smith.pdf">Hydrangea Diagrams</a></li>
-<li><a href="/infinity-in-art/">Infinity in Art</a></li>
 </ol>
 ]]></content>
   </entry>
@@ -957,6 +957,30 @@
 ]]></content>
   </entry>
   <entry>
+    <title>The Beginning of Tau</title>
+    <url>/the-beginning-of-tau/</url>
+    <content><![CDATA[<p>Happy Tau Day, the day when you’re supposed to eat two pies. As an avid Pi Day enthusiast, June 28th provides the perfect opportunity to celebrate twice! All the major festivities you see on Pi Day, from memorizing digits to making music to baking fruit manifolds with crust boundaries, it’s all there on Tau Day. Ultimate Tau Day (6&#x2F;28&#x2F;31) is only eight years away, so start preparing before it’s too late.</p>
+<p>Part of the beauty of Tau (τ) is that it has a life outside of being the ratio of a circle’s circumference to its radius. π has been featured in too many blockbuster equations and gets recognized everywhere. While τ is a lesser known celebrity, it can explore other fields, like particle physics and neuroscience and programming languages.</p>
+<p>Pi and Tau day are wonderful, but they’re not alone. Mathematically wonderful dates are everywhere. Other than just being Tau Day, the numbers in today’s date (6&#x2F;28&#x2F;23) provide a beautiful equation—</p>
+<p>$$\Gamma(6) &#x3D; (28 - 23)!$$</p>
+<p>—with ! denoting factorial, but also excitement because this is exciting. Tomorrow gives us an even simpler equation:</p>
+<p>$$6 &#x3D; 29 - 23$$</p>
+<p>And yesterday worked out quite nicely as well:</p>
+<p>$$6 &#x3D; \Gamma(27 - 23)$$</p>
+<p>For years, I’ve played this little game with the date, trying to insert non-digit symbols around and between the numbers, creating a valid equation while preserving their order from left to right. I recommend you try it too, it’s a nice way to spend a few minutes. Today, I built a toy programming language (thanks τ) whose programs are valid date equations. Then I wrote a script that searched through a finite space of potential programs to find valid ones for the given date. It generated the solutions for the dates I just listed.</p>
+<p>After playing this game for years, I’ve realized that finding an equation for the date is always possible. In fact, there are universal solutions, though they’re not always very exciting. For example, by taking advantage of properties of the sine function:</p>
+<p>$$ \forall m, d, y \in \mathbb{N}, \sin((m + d)\tau) &#x3D; \sin(y\tau) $$</p>
+<p>Strangely, celebrating τ allows us to celebrate other days of the year rather mathematically. Yes, τ is a superstar, but it allows us to celebrate others through its mere presence. </p>
+<p>The Tau Manifesto was written in 2010, spreading the voices of those who carried τ on their backs for years in relative silence. While the Tau Day community has certainly come a far way since then, τ is far from the spotlight it deserves. Until that moment, celebrate each day mathematically. This is just the beginning.</p>
+<hr>
+<h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ol>
+<li><a href="https://tauday.com/">The Official Tau Day Website</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Tau_(particle)">The Tau Particle</a></li>
+<li><a href="https://www.alz.org/media/Documents/alzheimers-dementia-tau-ts.pdf">Tau in Alzheimer’s Research</a></li>
+</ol>
+]]></content>
+  </entry>
+  <entry>
     <title>The Algorithm That Lets Us Find Anything, Even Joy</title>
     <url>/the-algorithm-that-lets-us-find-anything-even-joy/</url>
     <content><![CDATA[<p>Imagine, for a moment, that you have misplaced your phone somewhere in your home. You might retrace your steps, looking in the most common areas, before resorting to a full sweep of the home. You look under beds, behind drawers, and between couch cushions, and after an hour of searching, you find it in the literal last place you would look: the fridge. </p>
@@ -986,30 +1010,6 @@
 <h2 id="Literal-Algorithm-for-Searching-through-Infinity"><a href="#Literal-Algorithm-for-Searching-through-Infinity" class="headerlink" title="Literal Algorithm for Searching through Infinity"></a>Literal Algorithm for Searching through Infinity</h2><figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">def</span> <span class="title function_">search</span>(<span class="params">x, eps</span>):</span><br><span class="line">    <span class="string">&quot;&quot;&quot;</span></span><br><span class="line"><span class="string">    An algorithm to search for any number x</span></span><br><span class="line"><span class="string">    within some tolerance eps.</span></span><br><span class="line"><span class="string">    &quot;&quot;&quot;</span></span><br><span class="line">    guess = <span class="number">0</span> <span class="comment"># start by guessing 0</span></span><br><span class="line"></span><br><span class="line">    <span class="keyword">if</span> <span class="built_in">abs</span>(guess - x) &lt; eps:</span><br><span class="line">        <span class="keyword">return</span> guess</span><br><span class="line">    </span><br><span class="line">    ub = <span class="number">1</span> <span class="keyword">if</span> guess &lt; x <span class="keyword">else</span> -<span class="number">1</span></span><br><span class="line">    lb = <span class="number">0</span></span><br><span class="line"></span><br><span class="line">    <span class="comment"># grow exponentially</span></span><br><span class="line">    <span class="keyword">while</span> <span class="number">1</span>:</span><br><span class="line">        <span class="keyword">if</span> <span class="built_in">abs</span>(ub - x) &lt; eps:</span><br><span class="line">            <span class="keyword">return</span> ub</span><br><span class="line">        </span><br><span class="line">        <span class="comment"># check if we have a finite range that contains x</span></span><br><span class="line">        <span class="keyword">if</span> (ub &lt; x) != (lb &lt; x):</span><br><span class="line">            <span class="keyword">break</span></span><br><span class="line"></span><br><span class="line">        lb = ub</span><br><span class="line">        ub *= <span class="number">2</span></span><br><span class="line"></span><br><span class="line">    ub, lb = <span class="built_in">max</span>(ub, lb), <span class="built_in">min</span>(ub, lb)</span><br><span class="line"></span><br><span class="line">    <span class="comment"># binary search</span></span><br><span class="line">    <span class="keyword">while</span> <span class="number">1</span>:</span><br><span class="line">        guess = (lb + ub) / <span class="number">2</span></span><br><span class="line"></span><br><span class="line">        <span class="keyword">if</span> <span class="built_in">abs</span>(guess - x) &lt; eps:</span><br><span class="line">            <span class="keyword">return</span> guess</span><br><span class="line">        <span class="keyword">elif</span> x &lt; guess:</span><br><span class="line">            ub = guess</span><br><span class="line">        <span class="keyword">else</span>:</span><br><span class="line">            lb = guess</span><br></pre></td></tr></table></figure>]]></content>
   </entry>
   <entry>
-    <title>The Beginning of Tau</title>
-    <url>/the-beginning-of-tau/</url>
-    <content><![CDATA[<p>Happy Tau Day, the day when you’re supposed to eat two pies. As an avid Pi Day enthusiast, June 28th provides the perfect opportunity to celebrate twice! All the major festivities you see on Pi Day, from memorizing digits to making music to baking fruit manifolds with crust boundaries, it’s all there on Tau Day. Ultimate Tau Day (6&#x2F;28&#x2F;31) is only eight years away, so start preparing before it’s too late.</p>
-<p>Part of the beauty of Tau (τ) is that it has a life outside of being the ratio of a circle’s circumference to its radius. π has been featured in too many blockbuster equations and gets recognized everywhere. While τ is a lesser known celebrity, it can explore other fields, like particle physics and neuroscience and programming languages.</p>
-<p>Pi and Tau day are wonderful, but they’re not alone. Mathematically wonderful dates are everywhere. Other than just being Tau Day, the numbers in today’s date (6&#x2F;28&#x2F;23) provide a beautiful equation—</p>
-<p>$$\Gamma(6) &#x3D; (28 - 23)!$$</p>
-<p>—with ! denoting factorial, but also excitement because this is exciting. Tomorrow gives us an even simpler equation:</p>
-<p>$$6 &#x3D; 29 - 23$$</p>
-<p>And yesterday worked out quite nicely as well:</p>
-<p>$$6 &#x3D; \Gamma(27 - 23)$$</p>
-<p>For years, I’ve played this little game with the date, trying to insert non-digit symbols around and between the numbers, creating a valid equation while preserving their order from left to right. I recommend you try it too, it’s a nice way to spend a few minutes. Today, I built a toy programming language (thanks τ) whose programs are valid date equations. Then I wrote a script that searched through a finite space of potential programs to find valid ones for the given date. It generated the solutions for the dates I just listed.</p>
-<p>After playing this game for years, I’ve realized that finding an equation for the date is always possible. In fact, there are universal solutions, though they’re not always very exciting. For example, by taking advantage of properties of the sine function:</p>
-<p>$$ \forall m, d, y \in \mathbb{N}, \sin((m + d)\tau) &#x3D; \sin(y\tau) $$</p>
-<p>Strangely, celebrating τ allows us to celebrate other days of the year rather mathematically. Yes, τ is a superstar, but it allows us to celebrate others through its mere presence. </p>
-<p>The Tau Manifesto was written in 2010, spreading the voices of those who carried τ on their backs for years in relative silence. While the Tau Day community has certainly come a far way since then, τ is far from the spotlight it deserves. Until that moment, celebrate each day mathematically. This is just the beginning.</p>
-<hr>
-<h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ol>
-<li><a href="https://tauday.com/">The Official Tau Day Website</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Tau_(particle)">The Tau Particle</a></li>
-<li><a href="https://www.alz.org/media/Documents/alzheimers-dementia-tau-ts.pdf">Tau in Alzheimer’s Research</a></li>
-</ol>
-]]></content>
-  </entry>
-  <entry>
     <title>The Connoisseur of Random: Before Computers</title>
     <url>/the-connoisseur-of-random-before-computers/</url>
     <content><![CDATA[<p>As we discussed last time, computers aren’t great at generating truly random numbers. Can you do any better? You have plenty of practice generating random numbers, I can promise you that, as long as you’ve played a few board games.</p>
@@ -1026,23 +1026,6 @@
 <li><a href="https://www.rand.org/content/dam/rand/pubs/papers/2008/P113.pdf">RAND Corporation’s History of Random Digits</a></li>
 <li><a href="https://www.amazon.com/Million-Random-Digits-Normal-Deviates/dp/0833030477">Book of A Million Random Digits</a></li>
 <li><a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjwx8Pt08D6AhU2lIkEHf8jAqcQFnoECAgQAQ&url=https://www.mdpi.com/2079-9292/10/13/1517/pdf&usg=AOvVaw1PiU7pbgXdIviYWLFI4TgC">Random Number Circuit Using Frequencies</a></li>
-</ol>
-]]></content>
-  </entry>
-  <entry>
-    <title>The Connoisseur of Random: Lava Lamps are Protecting your Data</title>
-    <url>/the-connoisseur-of-random-lava-lamps-are-protecting-your-data/</url>
-    <content><![CDATA[<p>Have you ever used the Canva website? How about Etsy, Walmart, or even Best Buy? If so, congrats! Your data is being protected by lava lamps.</p>
-<p>Cloudflare is one of the largest global networks, securely providing you access to many of your favorite websites. In an attempt to generate more secure encryption keys, they turned to lava lamps. More specifically, they take pictures of a massive wall of lava lamps, and the sequence of pixels in the image is used as a random number. While lava lamps are deterministic—they follow an exact set of rules in a particular order—they are mathematically chaotic, meaning that approximate initial conditions won’t tell you the final outcome. If you are even slightly off when trying to simulate a lava lamp, your results will be almost entirely inaccurate.</p>
-<p>Additionally, Cloudflare uses a double pendulum and uranium decay to generate chaos, but that’s beyond the scope of this archive.</p>
-<p>Using lava lamps to generate random numbers isn’t a new idea. Back in 1996, Lavarand began using lava lamps to generate random numbers. They took the data from images of lava lamp arrays, and used them as seeds for pseudorandom number generators. Naturally, the use of a pseudorandom number generator makes the process a bit less safe, but it’s nice to see they were taking precautions.</p>
-<p>Pseudorandom number generation is too well understood to be used in cryptography, so Cloudflare imposes two additional rules on their random number generation to keep your data secure. First, their numbers should pass statistical tests that prove unpredictability. If you can find patterns in your data, it’s hard to call it random (I have another archive on the way about this topic). Second, if someone knows how part—not all—of the program works, they still shouldn’t be able to predict the random numbers. </p>
-<p>So, the next time you’re shopping on Etsy or Walmart.com, remember that you’re safe. You have lava lamps protecting you. </p>
-<p><em>Disclaimer: I am not affiliated with Cloudflare in any way, and these statements are entirely my own.</em></p>
-<hr>
-<h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ol>
-<li><a href="https://www.cloudflare.com/learning/ssl/lava-lamp-encryption/">Cloudflare Uses Lava Lamps</a></li>
-<li><a href="https://web.archive.org/web/19971210213248/http://lavarand.sgi.com/">Lavarand Web Archive</a></li>
 </ol>
 ]]></content>
   </entry>
@@ -1098,6 +1081,23 @@
 <li><a href="https://www.youtube.com/watch?v=rwvIGNXY21Y">Landing Heads 10 Times in a Row (Video of Dr. James Grime)</a></li>
 <li><a href="https://www.youtube.com/watch?v=-h_rj2-HP2E">Predicting Random Numbers</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Random_number_generator_attack">Attacking Random Number Generators</a></li>
+</ol>
+]]></content>
+  </entry>
+  <entry>
+    <title>The Connoisseur of Random: Lava Lamps are Protecting your Data</title>
+    <url>/the-connoisseur-of-random-lava-lamps-are-protecting-your-data/</url>
+    <content><![CDATA[<p>Have you ever used the Canva website? How about Etsy, Walmart, or even Best Buy? If so, congrats! Your data is being protected by lava lamps.</p>
+<p>Cloudflare is one of the largest global networks, securely providing you access to many of your favorite websites. In an attempt to generate more secure encryption keys, they turned to lava lamps. More specifically, they take pictures of a massive wall of lava lamps, and the sequence of pixels in the image is used as a random number. While lava lamps are deterministic—they follow an exact set of rules in a particular order—they are mathematically chaotic, meaning that approximate initial conditions won’t tell you the final outcome. If you are even slightly off when trying to simulate a lava lamp, your results will be almost entirely inaccurate.</p>
+<p>Additionally, Cloudflare uses a double pendulum and uranium decay to generate chaos, but that’s beyond the scope of this archive.</p>
+<p>Using lava lamps to generate random numbers isn’t a new idea. Back in 1996, Lavarand began using lava lamps to generate random numbers. They took the data from images of lava lamp arrays, and used them as seeds for pseudorandom number generators. Naturally, the use of a pseudorandom number generator makes the process a bit less safe, but it’s nice to see they were taking precautions.</p>
+<p>Pseudorandom number generation is too well understood to be used in cryptography, so Cloudflare imposes two additional rules on their random number generation to keep your data secure. First, their numbers should pass statistical tests that prove unpredictability. If you can find patterns in your data, it’s hard to call it random (I have another archive on the way about this topic). Second, if someone knows how part—not all—of the program works, they still shouldn’t be able to predict the random numbers. </p>
+<p>So, the next time you’re shopping on Etsy or Walmart.com, remember that you’re safe. You have lava lamps protecting you. </p>
+<p><em>Disclaimer: I am not affiliated with Cloudflare in any way, and these statements are entirely my own.</em></p>
+<hr>
+<h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ol>
+<li><a href="https://www.cloudflare.com/learning/ssl/lava-lamp-encryption/">Cloudflare Uses Lava Lamps</a></li>
+<li><a href="https://web.archive.org/web/19971210213248/http://lavarand.sgi.com/">Lavarand Web Archive</a></li>
 </ol>
 ]]></content>
   </entry>
@@ -1988,7 +1988,7 @@
 }
 .side-bar-about {
     width: min(max(25%,6rem),100%)!important;
-    /* height: 100dvh; */
+    height: 75dvh;
     padding: 1.5rem;
     padding-top: 0;
     padding-left: 0;
@@ -2010,13 +2010,15 @@
 </div>
 </div>
 
-<p>I am a 1st year PhD student at the University of Chicago. I work in the <a href="https://sandlab.cs.uchicago.edu/index.html">SAND Lab</a> where I’m fortunate to be co-advised by Prof. <a href="http://people.cs.uchicago.edu/~htzheng/">Heather Zheng</a> and Prof. <a href="http://people.cs.uchicago.edu/~ravenben/">Ben Y. Zhao</a>. </p>
+<p>I am a PhD student at the University of Chicago. I work in the <a href="https://sandlab.cs.uchicago.edu/index.html">SAND Lab</a> where I’m fortunate to be co-advised by Prof. <a href="http://people.cs.uchicago.edu/~htzheng/">Heather Zheng</a> and Prof. <a href="http://people.cs.uchicago.edu/~ravenben/">Ben Y. Zhao</a>. </p>
 <p>I study the security and privacy issues that arise as machine learning systems become more ubiquitous, and I leverage these insights to develop tools to empower individuals against unethical AI practices.</p>
 <!-- I'm broadly interested in security and privacy with a recent focus on adversarial machine learning. If you're a digital artist, or you're interested in generative AI, I recommend checking out [Glaze](https://glaze.cs.uchicago.edu). I'm proud to work on this project and hopefully similar ones in the future. -->
 
 <!-- While I am relatively new to research, I have made some observations. Computer security research exists in a delicate ethical space. Every discovered vulnerability is an opportunity for attack, but it is also a potential warning. Every defense offers protection to some group, but it also risks unintended side effects and consequences for future technology. As I continue my academic journey, I hope to learn how to meaningfully consider the implications of my work, regardless of the field I research. -->
 
+
 <h2 id="Recent-Publications"><a href="#Recent-Publications" class="headerlink" title="Recent Publications"></a>Recent Publications</h2><p>S. Wu, <strong>R, Bhaskar</strong>, A. Ha, S. Shan, H. Zheng, BY. Zhao. <a href="https://arxiv.org/abs/2506.21874">On the Feasibility of Poisoning Text-to-Image AI Models via Adversarial Mislabeling</a><br><em>Conference on Computer and Communications Security (CCS), 2025.</em></p>
+<h2 id="Contact"><a href="#Contact" class="headerlink" title="Contact"></a>Contact</h2><p>rbhaskar {at} uchicago {dot} edu</p>
 <!-- ```bash
 # My email:
 echo "cmJoYXNrYXJAdWNoaWNhZ28uZWR1Cg==" | base64 --decode
@@ -2067,6 +2069,16 @@ echo "cmJoYXNrYXJAdWNoaWNhZ28uZWR1Cg==" | base64 --decode
 <h2 id="The-ELIZA-Algorithm"><a href="#The-ELIZA-Algorithm" class="headerlink" title="The ELIZA Algorithm"></a>The ELIZA Algorithm</h2><figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">def</span> <span class="title function_">respond</span>(<span class="params">self, statement</span>):</span><br><span class="line">    <span class="keyword">for</span> pattern, responses <span class="keyword">in</span> self.patterns:</span><br><span class="line">        <span class="keyword">match</span> = re.search(pattern, statement.strip(<span class="string">&quot; .!?&quot;</span>), re.IGNORECASE)</span><br><span class="line">        <span class="keyword">if</span> <span class="keyword">match</span>:</span><br><span class="line">            response = random.choice(responses).<span class="built_in">format</span>(*<span class="keyword">match</span>.groups())</span><br><span class="line">            <span class="keyword">return</span> response</span><br><span class="line">    <span class="keyword">return</span> self.default</span><br></pre></td></tr></table></figure>]]></content>
   </entry>
   <entry>
+    <title>Discord Scraper</title>
+    <url>/projects/discord_scraper.html</url>
+    <content><![CDATA[<p>Access the source files <a href="https://github.com/ronikbhaskar/discord_scraper">here</a>. </p>
+<h2 id="Disclaimer"><a href="#Disclaimer" class="headerlink" title="Disclaimer"></a>Disclaimer</h2><p>Botting your Discord account violates their Terms of Service. I do not use this scraper, nor will I, and I recommend you never use it either. This is solely for educational purposes.</p>
+<h2 id="Theoretical-Use-Cases"><a href="#Theoretical-Use-Cases" class="headerlink" title="Theoretical Use Cases"></a>Theoretical Use Cases</h2><p>Hypothetically speaking, wouldn’t it be cool to go through your server’s chat history, run the text through a Markov Chain generator, and spit out some nonsense for you all to laugh at? Just a thought. It would be tedious, copying every message by hand, but it’s definitely doable, so that’s how you should do it. By hand.</p>
+<h2 id="Getting-your-Access-Token"><a href="#Getting-your-Access-Token" class="headerlink" title="Getting your Access Token"></a>Getting your Access Token</h2><p>Now, having access to the Discord API requires an Access Token, and no one would know how to get their access token. I mean, who is going to open Discord in Chrome, open the inspector, switch to mobile&#x2F;tablet display, go to the Application tab, find the sidebar section labeled Storage, select <a href="https://discord.com/">https://discord.com</a> from the Local Storage dropdown, search token, and copy the value from the Key-Value pair? That’s a ridiculous number of hoops to jump through, and I can’t imagine anyone figuring that out on their own. </p>
+<hr>
+<p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
+  </entry>
+  <entry>
     <title>Full Stack Chat App</title>
     <url>/projects/chat.html</url>
     <content><![CDATA[<p>UPDATE: This project is very broken. It was fun while it lasted.</p>
@@ -2078,46 +2090,6 @@ echo "cmJoYXNrYXJAdWNoaWNhZ28uZWR1Cg==" | base64 --decode
 <p>Firebase allows for for Google Authentication, along with plenty of other auth providers. This makes it mildly more difficult to spam the site with fake accounts, and the authentication redirect keeps auth traffic away from GitHub. It’s a win-win.</p>
 <p><strong>For the frontend, I used React.</strong> This isn’t an incredibly intense, so vanilla JS was an option, but React’s libraries wrapping Firebase query snapshots made development much easier. </p>
 <p>There are tutorials and articles out there for building apps with React and Firebase, but relevant ones used Firebase v8 instead of v9, which transitions away from the namespacing. Luckily, Firebase’s documentation covers translating v8 into v9.</p>
-<hr>
-<p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>Discord Bot</title>
-    <url>/projects/discord_bot.html</url>
-    <content><![CDATA[<p>Access the source files <a href="https://github.com/ronikbhaskar/discord_bot">here</a>. </p>
-<h2 id="Background"><a href="#Background" class="headerlink" title="Background"></a>Background</h2><p>This project was pivotal to my journey as a maker. I discuss it in my <a href="/about">about page</a>.</p>
-<h2 id="Hosting"><a href="#Hosting" class="headerlink" title="Hosting"></a>Hosting</h2><p>Currently, the discord bot is being hosted on Heroku, which has been working really well so far. You get 550 free dyno hours per month without providing any payment information, which is plenty for a single project you can just have running during the day.</p>
-<h2 id="Features"><a href="#Features" class="headerlink" title="Features"></a>Features</h2><h3 id="Hangman-🔤"><a href="#Hangman-🔤" class="headerlink" title="Hangman 🔤"></a>Hangman 🔤</h3><p>Igor can play one game, and that is Hangman. Here are the commands you can use to play:</p>
-<ul>
-<li><code>hangman</code> or <code>play hangman</code></li>
-<li><code>guess _</code> (ex. <code>/guess a</code>)</li>
-<li><code>quit</code> or <code>quit game</code></li>
-</ul>
-<h3 id="Astronomy-🔭"><a href="#Astronomy-🔭" class="headerlink" title="Astronomy 🔭"></a>Astronomy 🔭</h3><p>Igor seems to have become interested in astronomy. Here are a few things Igor knows:</p>
-<ul>
-<li><code>iss</code>, <code>location of iss</code>, <code>locate iss</code>, etc.</li>
-<li><code>moon phase</code>, <code>phase of moon</code>, etc.</li>
-<li><code>picture of the day</code>, <code>astro pic</code>, <code>photo of the day</code>, etc.</li>
-</ul>
-<h3 id="Dictionary-📚"><a href="#Dictionary-📚" class="headerlink" title="Dictionary 📚"></a>Dictionary 📚</h3><p>In an effort to expand the server’s vocabulary, Igor has access to some dictionaries:</p>
-<ul>
-<li><code>define _____</code> for dictionary.com</li>
-<li><code>udefine _____</code> for urban dictionary</li>
-</ul>
-<h3 id="Chat-💬"><a href="#Chat-💬" class="headerlink" title="Chat 💬"></a>Chat 💬</h3><p>Igor doesn’t know how to say much. That’s it, no caveat.</p>
-<ul>
-<li>just @ mention Igor in your message and maybe you’ll get a response</li>
-</ul>
-<hr>
-<p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>Discord Scraper</title>
-    <url>/projects/discord_scraper.html</url>
-    <content><![CDATA[<p>Access the source files <a href="https://github.com/ronikbhaskar/discord_scraper">here</a>. </p>
-<h2 id="Disclaimer"><a href="#Disclaimer" class="headerlink" title="Disclaimer"></a>Disclaimer</h2><p>Botting your Discord account violates their Terms of Service. I do not use this scraper, nor will I, and I recommend you never use it either. This is solely for educational purposes.</p>
-<h2 id="Theoretical-Use-Cases"><a href="#Theoretical-Use-Cases" class="headerlink" title="Theoretical Use Cases"></a>Theoretical Use Cases</h2><p>Hypothetically speaking, wouldn’t it be cool to go through your server’s chat history, run the text through a Markov Chain generator, and spit out some nonsense for you all to laugh at? Just a thought. It would be tedious, copying every message by hand, but it’s definitely doable, so that’s how you should do it. By hand.</p>
-<h2 id="Getting-your-Access-Token"><a href="#Getting-your-Access-Token" class="headerlink" title="Getting your Access Token"></a>Getting your Access Token</h2><p>Now, having access to the Discord API requires an Access Token, and no one would know how to get their access token. I mean, who is going to open Discord in Chrome, open the inspector, switch to mobile&#x2F;tablet display, go to the Application tab, find the sidebar section labeled Storage, select <a href="https://discord.com/">https://discord.com</a> from the Local Storage dropdown, search token, and copy the value from the Key-Value pair? That’s a ridiculous number of hoops to jump through, and I can’t imagine anyone figuring that out on their own. </p>
 <hr>
 <p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
   </entry>
@@ -2173,6 +2145,29 @@ echo "cmJoYXNrYXJAdWNoaWNhZ28uZWR1Cg==" | base64 --decode
 <h3 id="Authors"><a href="#Authors" class="headerlink" title="Authors"></a>Authors</h3><p>Jon Ma and Ronik Bhaskar</p>
 <h3 id="Notes"><a href="#Notes" class="headerlink" title="Notes"></a>Notes</h3><p>*technically, they predict the next token, not word, but for our purposes, they are functionally the same.</p>
 ]]></content>
+  </entry>
+  <entry>
+    <title>Inventing a Game, Then Building a Bot to Play It Perfectly</title>
+    <url>/projects/forest-algorithm.html</url>
+    <content><![CDATA[<p>It’s easier to learn how the game works by playing it, so I’ll create a playable version soon (hopefully).</p>
+<h2 id="Introduction-to-Forest"><a href="#Introduction-to-Forest" class="headerlink" title="Introduction to Forest"></a>Introduction to Forest</h2><p>I can’t remember the last time I played tic-tac-toe, probably because it ended in a draw. Hoping to bring back the excitement and strategy of the game, I created a variation I call “Forest.” The name comes from “four-by-four torus tic-tac-toe” being reduced to “fourus t.” which sounds like “forest” when you say it out loud. The game is tic-tac-toe played on a 4x4 grid, but rather than playing on a flat plane, the game is played on the surface of a donut—a torus—which offers some interesting opportunities for win cases. It’s a blast to play, much more fun than tic-tac-toe, but now I have a new problem. I don’t have a good strategy. There are a finite set of board states, so theoretically, we could map out every game and create a perfect strategy.</p>
+<p>Theoretically.</p>
+<h2 id="Turning-Theory-into-Practice-My-Strategy"><a href="#Turning-Theory-into-Practice-My-Strategy" class="headerlink" title="Turning Theory into Practice (My Strategy)"></a>Turning Theory into Practice (My Strategy)</h2><p>If you were to map out every possible decision on a Forest board, you would have roughly 30 trillion decisions. Once we map out this decision tree once, it’ll be done, and we won’t have to do it again. The problem arises when you want to map out the tree once. It’s just too big to do in any reasonable amount of time. I won’t settle for anything less than perfect, so I will create the tree, but I’ll have to figure out how to do it faster.</p>
+<p>In my view, there are two ways to optimize a procedure. Either you do the same procedure, but faster, or you get clever with your work. With the first option, it’s like walking a lap versus sprinting. You use efficient encodings, reuse similar chunks of memory, and perform faster operations, but if you were to describe how the algorithm works at a high level, it would sound the same before and after the optimization, “I go all the way around the track.” With the second option, it’s like walking a lap versus walking halfway then cutting across the field directly back to the start. You fundamentally change how you approach the problem, whether translating the problem, taking advantage of certain assumptions, or just doing less work.</p>
+<p>Given my previous experiences with decision trees, I started with trying to do less work. While the decision tree has 30 trillion branches, the total number of possible board states is less than 4.3 million, which is still a lot, but a substantial reduction. This means the decision tree is repeating states, which makes sense. As an example, consider these two games of tic-tac-toe (not Forest):</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">  |  |        X |  |        X |  |        X |  | X</span><br><span class="line">--------      --------      --------      --------</span><br><span class="line">  |  |    --&gt;   |  |    --&gt;   |O |    --&gt;   |O |  </span><br><span class="line">--------      --------      --------      --------</span><br><span class="line">  |  |          |  |          |  |          |  |   </span><br></pre></td></tr></table></figure>
+
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">  |  |          |  | X        |  | X      X |  | X</span><br><span class="line">--------      --------      --------      --------</span><br><span class="line">  |  |    --&gt;   |  |    --&gt;   |O |    --&gt;   |O |  </span><br><span class="line">--------      --------      --------      --------</span><br><span class="line">  |  |          |  |          |  |          |  |   </span><br></pre></td></tr></table></figure>
+
+<p>In both, they reach the same state by the end of the third move, but they start with different decisions, which means they represent separate branches on the decision tree. We could reduce the work we need to do by reusing this state in multiple places on the decision tree. By reusing every repeated state, we can go from the tens of trillions of states to a few million, but we can do less.</p>
+<p>After taking nearly a dozen math classes, I think I will forever have equivalence relations drilled into my head. Essentially, equivalence relations are a generalized method for defining equality. They allow you to group together equal elements into fancy buckets called equivalence classes. Since Forest is played on a torus, we can rotate, twist, and mirror the torus, all while preserving the game. As such, transforming the torus in different ways creates equivalent states, and we can let this be our definition of equivalence. To actually generate these equivalent states, I used algebraic representations of the ways you can manipulate a 4x4 torus and generated 128 transformations. With this, we need to check even fewer states, only around 77 thousand. </p>
+<p>After all this optimization, I started the program and waited to see some progress. For some reason, my program was only calculating a few optimal moves per second. I know my laptop isn’t necessarily state-of-the-art, but it should be faster than this. I couldn’t reduce the number of states I was checking, so it was time to try the other part of optimization. Just do it faster.</p>
+<p>This project was created in Python, as most of my projects are, since it’s the language in which I can think the fastest. Translating my thoughts to Python is second nature at this point, but that doesn’t mean translating Python to machine instructions is particularly efficient. Fortunately, I have a few years of lower-level programming experience, so I started going through my program, trying to consider what operations would be slow or where I might be allocating too much memory, and I found one very clear bottleneck. My lookup table, with its fancy equivalence relation, turned the board into a lookup key, and then the key back into a board. When turning the key into a new board, it created a new board, which meant I was doing dozens of memory allocations just to use a single state for a few operations. To fix this, I reused an old board and overwrote the memory there. </p>
+<p>I made a few similar changes, removing redundant data structures and fancy sorting and simplifying to basic arithmetic operations. All of a sudden, my basic minimax implementation was flying, and the program generated a table with all of the optimal moves in 22 seconds.</p>
+<h2 id="Reinforcement-Learning-Dawson’s-Strategy"><a href="#Reinforcement-Learning-Dawson’s-Strategy" class="headerlink" title="Reinforcement Learning (Dawson’s Strategy)"></a>Reinforcement Learning (Dawson’s Strategy)</h2><p>While I was working on this, Dawson took a different approach. Rather than using massive lookup space reductions, he turned to Reinforcement Learning with Monte-Carlo Tree Search. I’ll leave him to give an explanation of his process and how he approached this problem.</p>
+<h2 id="Two-Will-Enter-Only-One-Will-Leave"><a href="#Two-Will-Enter-Only-One-Will-Leave" class="headerlink" title="Two Will Enter, Only One Will Leave"></a>Two Will Enter, Only One Will Leave</h2><p>Now that we have our working Forest bots, we need to pit them against each other and see how they compare.</p>
+<hr>
+<p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
   </entry>
   <entry>
     <title>Projects</title>
@@ -2588,29 +2583,6 @@ echo "cmJoYXNrYXJAdWNoaWNhZ28uZWR1Cg==" | base64 --decode
 ]]></content>
   </entry>
   <entry>
-    <title>Inventing a Game, Then Building a Bot to Play It Perfectly</title>
-    <url>/projects/forest-algorithm.html</url>
-    <content><![CDATA[<p>It’s easier to learn how the game works by playing it, so I’ll create a playable version soon (hopefully).</p>
-<h2 id="Introduction-to-Forest"><a href="#Introduction-to-Forest" class="headerlink" title="Introduction to Forest"></a>Introduction to Forest</h2><p>I can’t remember the last time I played tic-tac-toe, probably because it ended in a draw. Hoping to bring back the excitement and strategy of the game, I created a variation I call “Forest.” The name comes from “four-by-four torus tic-tac-toe” being reduced to “fourus t.” which sounds like “forest” when you say it out loud. The game is tic-tac-toe played on a 4x4 grid, but rather than playing on a flat plane, the game is played on the surface of a donut—a torus—which offers some interesting opportunities for win cases. It’s a blast to play, much more fun than tic-tac-toe, but now I have a new problem. I don’t have a good strategy. There are a finite set of board states, so theoretically, we could map out every game and create a perfect strategy.</p>
-<p>Theoretically.</p>
-<h2 id="Turning-Theory-into-Practice-My-Strategy"><a href="#Turning-Theory-into-Practice-My-Strategy" class="headerlink" title="Turning Theory into Practice (My Strategy)"></a>Turning Theory into Practice (My Strategy)</h2><p>If you were to map out every possible decision on a Forest board, you would have roughly 30 trillion decisions. Once we map out this decision tree once, it’ll be done, and we won’t have to do it again. The problem arises when you want to map out the tree once. It’s just too big to do in any reasonable amount of time. I won’t settle for anything less than perfect, so I will create the tree, but I’ll have to figure out how to do it faster.</p>
-<p>In my view, there are two ways to optimize a procedure. Either you do the same procedure, but faster, or you get clever with your work. With the first option, it’s like walking a lap versus sprinting. You use efficient encodings, reuse similar chunks of memory, and perform faster operations, but if you were to describe how the algorithm works at a high level, it would sound the same before and after the optimization, “I go all the way around the track.” With the second option, it’s like walking a lap versus walking halfway then cutting across the field directly back to the start. You fundamentally change how you approach the problem, whether translating the problem, taking advantage of certain assumptions, or just doing less work.</p>
-<p>Given my previous experiences with decision trees, I started with trying to do less work. While the decision tree has 30 trillion branches, the total number of possible board states is less than 4.3 million, which is still a lot, but a substantial reduction. This means the decision tree is repeating states, which makes sense. As an example, consider these two games of tic-tac-toe (not Forest):</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">  |  |        X |  |        X |  |        X |  | X</span><br><span class="line">--------      --------      --------      --------</span><br><span class="line">  |  |    --&gt;   |  |    --&gt;   |O |    --&gt;   |O |  </span><br><span class="line">--------      --------      --------      --------</span><br><span class="line">  |  |          |  |          |  |          |  |   </span><br></pre></td></tr></table></figure>
-
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">  |  |          |  | X        |  | X      X |  | X</span><br><span class="line">--------      --------      --------      --------</span><br><span class="line">  |  |    --&gt;   |  |    --&gt;   |O |    --&gt;   |O |  </span><br><span class="line">--------      --------      --------      --------</span><br><span class="line">  |  |          |  |          |  |          |  |   </span><br></pre></td></tr></table></figure>
-
-<p>In both, they reach the same state by the end of the third move, but they start with different decisions, which means they represent separate branches on the decision tree. We could reduce the work we need to do by reusing this state in multiple places on the decision tree. By reusing every repeated state, we can go from the tens of trillions of states to a few million, but we can do less.</p>
-<p>After taking nearly a dozen math classes, I think I will forever have equivalence relations drilled into my head. Essentially, equivalence relations are a generalized method for defining equality. They allow you to group together equal elements into fancy buckets called equivalence classes. Since Forest is played on a torus, we can rotate, twist, and mirror the torus, all while preserving the game. As such, transforming the torus in different ways creates equivalent states, and we can let this be our definition of equivalence. To actually generate these equivalent states, I used algebraic representations of the ways you can manipulate a 4x4 torus and generated 128 transformations. With this, we need to check even fewer states, only around 77 thousand. </p>
-<p>After all this optimization, I started the program and waited to see some progress. For some reason, my program was only calculating a few optimal moves per second. I know my laptop isn’t necessarily state-of-the-art, but it should be faster than this. I couldn’t reduce the number of states I was checking, so it was time to try the other part of optimization. Just do it faster.</p>
-<p>This project was created in Python, as most of my projects are, since it’s the language in which I can think the fastest. Translating my thoughts to Python is second nature at this point, but that doesn’t mean translating Python to machine instructions is particularly efficient. Fortunately, I have a few years of lower-level programming experience, so I started going through my program, trying to consider what operations would be slow or where I might be allocating too much memory, and I found one very clear bottleneck. My lookup table, with its fancy equivalence relation, turned the board into a lookup key, and then the key back into a board. When turning the key into a new board, it created a new board, which meant I was doing dozens of memory allocations just to use a single state for a few operations. To fix this, I reused an old board and overwrote the memory there. </p>
-<p>I made a few similar changes, removing redundant data structures and fancy sorting and simplifying to basic arithmetic operations. All of a sudden, my basic minimax implementation was flying, and the program generated a table with all of the optimal moves in 22 seconds.</p>
-<h2 id="Reinforcement-Learning-Dawson’s-Strategy"><a href="#Reinforcement-Learning-Dawson’s-Strategy" class="headerlink" title="Reinforcement Learning (Dawson’s Strategy)"></a>Reinforcement Learning (Dawson’s Strategy)</h2><p>While I was working on this, Dawson took a different approach. Rather than using massive lookup space reductions, he turned to Reinforcement Learning with Monte-Carlo Tree Search. I’ll leave him to give an explanation of his process and how he approached this problem.</p>
-<h2 id="Two-Will-Enter-Only-One-Will-Leave"><a href="#Two-Will-Enter-Only-One-Will-Leave" class="headerlink" title="Two Will Enter, Only One Will Leave"></a>Two Will Enter, Only One Will Leave</h2><p>Now that we have our working Forest bots, we need to pit them against each other and see how they compare.</p>
-<hr>
-<p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
-  </entry>
-  <entry>
     <title>Linear Transformation Visualizer</title>
     <url>/projects/linear_transformation_visualizer.html</url>
     <content><![CDATA[<p>Learn a thing or two about linear algebra <a href="/linear_transformation_visualizer">here</a> (or just play with numbers).</p>
@@ -2654,6 +2626,36 @@ echo "cmJoYXNrYXJAdWNoaWNhZ28uZWR1Cg==" | base64 --decode
 
 <p>The function will print the location of the saved <code>index.html</code>, though it can also be found in the <code>litdb</code> directory.</p>
 ]]></content>
+  </entry>
+  <entry>
+    <title>Discord Bot</title>
+    <url>/projects/discord_bot.html</url>
+    <content><![CDATA[<p>Access the source files <a href="https://github.com/ronikbhaskar/discord_bot">here</a>. </p>
+<h2 id="Background"><a href="#Background" class="headerlink" title="Background"></a>Background</h2><p>This project was pivotal to my journey as a maker. I discuss it in my <a href="/about">about page</a>.</p>
+<h2 id="Hosting"><a href="#Hosting" class="headerlink" title="Hosting"></a>Hosting</h2><p>Currently, the discord bot is being hosted on Heroku, which has been working really well so far. You get 550 free dyno hours per month without providing any payment information, which is plenty for a single project you can just have running during the day.</p>
+<h2 id="Features"><a href="#Features" class="headerlink" title="Features"></a>Features</h2><h3 id="Hangman-🔤"><a href="#Hangman-🔤" class="headerlink" title="Hangman 🔤"></a>Hangman 🔤</h3><p>Igor can play one game, and that is Hangman. Here are the commands you can use to play:</p>
+<ul>
+<li><code>hangman</code> or <code>play hangman</code></li>
+<li><code>guess _</code> (ex. <code>/guess a</code>)</li>
+<li><code>quit</code> or <code>quit game</code></li>
+</ul>
+<h3 id="Astronomy-🔭"><a href="#Astronomy-🔭" class="headerlink" title="Astronomy 🔭"></a>Astronomy 🔭</h3><p>Igor seems to have become interested in astronomy. Here are a few things Igor knows:</p>
+<ul>
+<li><code>iss</code>, <code>location of iss</code>, <code>locate iss</code>, etc.</li>
+<li><code>moon phase</code>, <code>phase of moon</code>, etc.</li>
+<li><code>picture of the day</code>, <code>astro pic</code>, <code>photo of the day</code>, etc.</li>
+</ul>
+<h3 id="Dictionary-📚"><a href="#Dictionary-📚" class="headerlink" title="Dictionary 📚"></a>Dictionary 📚</h3><p>In an effort to expand the server’s vocabulary, Igor has access to some dictionaries:</p>
+<ul>
+<li><code>define _____</code> for dictionary.com</li>
+<li><code>udefine _____</code> for urban dictionary</li>
+</ul>
+<h3 id="Chat-💬"><a href="#Chat-💬" class="headerlink" title="Chat 💬"></a>Chat 💬</h3><p>Igor doesn’t know how to say much. That’s it, no caveat.</p>
+<ul>
+<li>just @ mention Igor in your message and maybe you’ll get a response</li>
+</ul>
+<hr>
+<p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
   </entry>
   <entry>
     <title>A Compass That Can Take You Anywhere</title>
@@ -2710,28 +2712,6 @@ echo "cmJoYXNrYXJAdWNoaWNhZ28uZWR1Cg==" | base64 --decode
 <p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
   </entry>
   <entry>
-    <title>The Oracle Society</title>
-    <url>/projects/oracle_society.html</url>
-    <content><![CDATA[<p>CW: violence, kidnapping, murder.</p>
-<p>Play the game <a href="/oracle_society/">here</a>.</p>
-<h2 id="Background"><a href="#Background" class="headerlink" title="Background"></a>Background</h2><p>Our final project for introductory quantum computing had us create an educational artifact to teach a quantum concept. I chose oracles, which I had the pleasure of studying in complexity theory. Oracles function as a sort of answer machine. They know things that you want to know, but you don’t know how they know them. By asking well-formed questions, you can extract relevant information from an oracle. In general, you want to use as few questions as possible. </p>
-<h2 id="Gameplay"><a href="#Gameplay" class="headerlink" title="Gameplay"></a>Gameplay</h2><p>Please note that I constructed this narrative very late at night during finals week. It is not cohesive.</p>
-<p>You are a detective&#x2F;hostage negotiator that has discovered a method of communication to a serial kidnapper. Your job is to free the hostages, but doing so requires you to play a twisted game devised by the kidnapper. There are a select number of questions you can use to play the game, and each one will be answered truthfully. Beat the kidnapper’s riddle, and they will release the hostages. If your guessing strategy isn’t efficient enough, hostages will start dying. Try not to let too many die. Good luck!</p>
-<h2 id="Issues"><a href="#Issues" class="headerlink" title="Issues"></a>Issues</h2><p>Note: I will not resolve these issues, but keep them in mind if you decide to play.</p>
-<ol>
-<li><p>This game is not mobile compatible.</p>
-</li>
-<li><p>Skipping text too fast can cause buttons to appear before they should.</p>
-</li>
-<li><p>The transitions between deaths don’t allow you to pause the text.</p>
-</li>
-<li><p>I didn’t playtest the final version of the game enough.</p>
-</li>
-</ol>
-<hr>
-<p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
-  </entry>
-  <entry>
     <title>Steganography</title>
     <url>/projects/steganography.html</url>
     <content><![CDATA[<h2 id="Find-the-difference-between-these-two-images"><a href="#Find-the-difference-between-these-two-images" class="headerlink" title="Find the difference between these two images"></a>Find the difference between these two images</h2><style>
@@ -2762,6 +2742,28 @@ table, th {
 
 <p>For this code, you will have to redirect the output to a file using the <code>&gt;</code> operator.</p>
 <p>Happy sleuthing!</p>
+<hr>
+<p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>The Oracle Society</title>
+    <url>/projects/oracle_society.html</url>
+    <content><![CDATA[<p>CW: violence, kidnapping, murder.</p>
+<p>Play the game <a href="/oracle_society/">here</a>.</p>
+<h2 id="Background"><a href="#Background" class="headerlink" title="Background"></a>Background</h2><p>Our final project for introductory quantum computing had us create an educational artifact to teach a quantum concept. I chose oracles, which I had the pleasure of studying in complexity theory. Oracles function as a sort of answer machine. They know things that you want to know, but you don’t know how they know them. By asking well-formed questions, you can extract relevant information from an oracle. In general, you want to use as few questions as possible. </p>
+<h2 id="Gameplay"><a href="#Gameplay" class="headerlink" title="Gameplay"></a>Gameplay</h2><p>Please note that I constructed this narrative very late at night during finals week. It is not cohesive.</p>
+<p>You are a detective&#x2F;hostage negotiator that has discovered a method of communication to a serial kidnapper. Your job is to free the hostages, but doing so requires you to play a twisted game devised by the kidnapper. There are a select number of questions you can use to play the game, and each one will be answered truthfully. Beat the kidnapper’s riddle, and they will release the hostages. If your guessing strategy isn’t efficient enough, hostages will start dying. Try not to let too many die. Good luck!</p>
+<h2 id="Issues"><a href="#Issues" class="headerlink" title="Issues"></a>Issues</h2><p>Note: I will not resolve these issues, but keep them in mind if you decide to play.</p>
+<ol>
+<li><p>This game is not mobile compatible.</p>
+</li>
+<li><p>Skipping text too fast can cause buttons to appear before they should.</p>
+</li>
+<li><p>The transitions between deaths don’t allow you to pause the text.</p>
+</li>
+<li><p>I didn’t playtest the final version of the game enough.</p>
+</li>
+</ol>
 <hr>
 <p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
   </entry>
@@ -2824,6 +2826,37 @@ table, th {
 <p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
   </entry>
   <entry>
+    <title>Ultimate Tic Tac Toe</title>
+    <url>/projects/ultimate_tic_tac_toe.html</url>
+    <content><![CDATA[<p>Play the game <a href="/ultimate_tic_tac_toe">here</a>. Grab a friend (or enemy) because this game requires two people.</p>
+<img src="misc_images/ultimate_tic_tac_toe_game.png" class="display-image" alt="A game of ultimate tic tac toe."> 
+
+<h2 id="Background"><a href="#Background" class="headerlink" title="Background"></a>Background</h2><p>Tic Tac Toe is incredibly boring. For most people, the game is synonymous with “draw” or “tie” or “cat’s game.” At some point in middle school, I was introduced to Ultimate Tic Tac Toe, a game of Tic Tac Toe with nine smaller games of Tic Tac Toe happening inside of it. </p>
+<p>I didn’t play it much because keeping track of the last moves and legal actions was a bit tedious, but it was a really fun way to pass the time. Rather than manage all the boring stuff on my own, I decided to let a computer do it for me.</p>
+<h2 id="Rules"><a href="#Rules" class="headerlink" title="Rules"></a>Rules</h2><p>I explain the rules on the README for the project, but I’ve also included them below. You can access the source for the project <a href="https://github.com/ronikbhaskar/ultimate_tic_tac_toe">here</a>.</p>
+<h4 id="x-goes-first…"><a href="#x-goes-first…" class="headerlink" title="x goes first…"></a><strong>x goes first…</strong></h4><ul>
+<li>On the first move, <strong>x</strong> can play anywhere on the board.</li>
+</ul>
+<h4 id="o-goes-second…"><a href="#o-goes-second…" class="headerlink" title="o goes second…"></a><strong>o goes second…</strong></h4><ul>
+<li><strong>o</strong> can only play in the section of the global board that corresponds to where <strong>x</strong> played in the local board.<ul>
+<li>ex. If <strong>x</strong> plays in the center of the top left board, then <strong>o</strong> can play anywhere in the center board.</li>
+</ul>
+</li>
+</ul>
+<h4 id="the-game-repeats…"><a href="#the-game-repeats…" class="headerlink" title="the game repeats…"></a><strong>the game repeats…</strong></h4><ul>
+<li>Now <strong>x</strong> is restricted to the section that corresponds to <strong>o</strong>‘s last move.</li>
+<li>If the corresponding section has been won (more on that later), or it is full, the player can play anywhere.</li>
+</ul>
+<h4 id="until-someone-wins"><a href="#until-someone-wins" class="headerlink" title="until someone wins."></a><strong>until someone wins.</strong></h4><ul>
+<li>If you get 3 in a row in a local board, you win that board.</li>
+<li>If the local board is a draw, no one gets it.</li>
+<li>Three local boards in a row, and you win the game.</li>
+<li>If the game finishes without anyone getting 3 local boards in a row, it’s a draw.</li>
+</ul>
+<hr>
+<p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
+  </entry>
+  <entry>
     <title>Tomato Timer</title>
     <url>/projects/tomato_timer.html</url>
     <content><![CDATA[<style>
@@ -2857,37 +2890,6 @@ table, th {
 <p>My other comment is on the fact that they were called “golden.” Why? Tomatoes are red, aren’t they? Well, they didn’t always have that distinct red. Fifteen hundred years ago, it was much less common to find deep red tomatoes. Instead, many were yellow when ripe. This was around the time that tomatoes were being brought back to Europe, thus giving rise to the name “pomodoro.”</p>
 <h2 id="Resources"><a href="#Resources" class="headerlink" title="Resources"></a>Resources</h2><p><a href="https://developer.chrome.com/docs/extensions/mv3/getstarted/">Google’s Getting Started Guide and Documentation</a></p>
 <p><a href="https://iconduck.com/emojis/96851/tomato">Logo Source (not my own design)</a></p>
-<hr>
-<p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>Ultimate Tic Tac Toe</title>
-    <url>/projects/ultimate_tic_tac_toe.html</url>
-    <content><![CDATA[<p>Play the game <a href="/ultimate_tic_tac_toe">here</a>. Grab a friend (or enemy) because this game requires two people.</p>
-<img src="misc_images/ultimate_tic_tac_toe_game.png" class="display-image" alt="A game of ultimate tic tac toe."> 
-
-<h2 id="Background"><a href="#Background" class="headerlink" title="Background"></a>Background</h2><p>Tic Tac Toe is incredibly boring. For most people, the game is synonymous with “draw” or “tie” or “cat’s game.” At some point in middle school, I was introduced to Ultimate Tic Tac Toe, a game of Tic Tac Toe with nine smaller games of Tic Tac Toe happening inside of it. </p>
-<p>I didn’t play it much because keeping track of the last moves and legal actions was a bit tedious, but it was a really fun way to pass the time. Rather than manage all the boring stuff on my own, I decided to let a computer do it for me.</p>
-<h2 id="Rules"><a href="#Rules" class="headerlink" title="Rules"></a>Rules</h2><p>I explain the rules on the README for the project, but I’ve also included them below. You can access the source for the project <a href="https://github.com/ronikbhaskar/ultimate_tic_tac_toe">here</a>.</p>
-<h4 id="x-goes-first…"><a href="#x-goes-first…" class="headerlink" title="x goes first…"></a><strong>x goes first…</strong></h4><ul>
-<li>On the first move, <strong>x</strong> can play anywhere on the board.</li>
-</ul>
-<h4 id="o-goes-second…"><a href="#o-goes-second…" class="headerlink" title="o goes second…"></a><strong>o goes second…</strong></h4><ul>
-<li><strong>o</strong> can only play in the section of the global board that corresponds to where <strong>x</strong> played in the local board.<ul>
-<li>ex. If <strong>x</strong> plays in the center of the top left board, then <strong>o</strong> can play anywhere in the center board.</li>
-</ul>
-</li>
-</ul>
-<h4 id="the-game-repeats…"><a href="#the-game-repeats…" class="headerlink" title="the game repeats…"></a><strong>the game repeats…</strong></h4><ul>
-<li>Now <strong>x</strong> is restricted to the section that corresponds to <strong>o</strong>‘s last move.</li>
-<li>If the corresponding section has been won (more on that later), or it is full, the player can play anywhere.</li>
-</ul>
-<h4 id="until-someone-wins"><a href="#until-someone-wins" class="headerlink" title="until someone wins."></a><strong>until someone wins.</strong></h4><ul>
-<li>If you get 3 in a row in a local board, you win that board.</li>
-<li>If the local board is a draw, no one gets it.</li>
-<li>Three local boards in a row, and you win the game.</li>
-<li>If the game finishes without anyone getting 3 local boards in a row, it’s a draw.</li>
-</ul>
 <hr>
 <p align="right"><a href="/projects/">Back to Projects →</a></p>]]></content>
   </entry>
