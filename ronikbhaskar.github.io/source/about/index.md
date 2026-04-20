@@ -1,7 +1,7 @@
 ---
 title: Ronik Bhaskar
 description: >-
-    I am a 1st year PhD student at the University of Chicago. I work in the SAND Lab where I'm fortunate to be co-advised by Prof. Heather Zheng and Prof. Ben Y. Zhao.
+    I am a PhD student at the University of Chicago. I work in the SAND Lab where I'm fortunate to be co-advised by Prof. Heather Zheng and Prof. Ben Y. Zhao.
 ---
 
 <style>
@@ -14,7 +14,7 @@ description: >-
 }
 .side-bar-about {
     width: min(max(25%,6rem),100%)!important;
-    /* height: 100dvh; */
+    height: 75dvh;
     padding: 1.5rem;
     padding-top: 0;
     padding-left: 0;
@@ -36,7 +36,7 @@ description: >-
 </div>
 </div>
 
-I am a 1st year PhD student at the University of Chicago. I work in the [SAND Lab](https://sandlab.cs.uchicago.edu/index.html) where I'm fortunate to be co-advised by Prof. [Heather Zheng](http://people.cs.uchicago.edu/~htzheng/) and Prof. [Ben Y. Zhao](http://people.cs.uchicago.edu/~ravenben/). 
+I am a PhD student at the University of Chicago. I work in the [SAND Lab](https://sandlab.cs.uchicago.edu/index.html) where I'm fortunate to be co-advised by Prof. [Heather Zheng](http://people.cs.uchicago.edu/~htzheng/) and Prof. [Ben Y. Zhao](http://people.cs.uchicago.edu/~ravenben/). 
 
 I study the security and privacy issues that arise as machine learning systems become more ubiquitous, and I leverage these insights to develop tools to empower individuals against unethical AI practices.
 
@@ -44,10 +44,16 @@ I study the security and privacy issues that arise as machine learning systems b
 
 <!-- While I am relatively new to research, I have made some observations. Computer security research exists in a delicate ethical space. Every discovered vulnerability is an opportunity for attack, but it is also a potential warning. Every defense offers protection to some group, but it also risks unintended side effects and consequences for future technology. As I continue my academic journey, I hope to learn how to meaningfully consider the implications of my work, regardless of the field I research. -->
 
+
 ## Recent Publications
 
 S. Wu, **R, Bhaskar**, A. Ha, S. Shan, H. Zheng, BY. Zhao. [On the Feasibility of Poisoning Text-to-Image AI Models via Adversarial Mislabeling](https://arxiv.org/abs/2506.21874) 
 *Conference on Computer and Communications Security (CCS), 2025.*
+
+## Contact
+
+rbhaskar {at} uchicago {dot} edu
+
 <!-- ```bash
 # My email:
 echo "cmJoYXNrYXJAdWNoaWNhZ28uZWR1Cg==" | base64 --decode
